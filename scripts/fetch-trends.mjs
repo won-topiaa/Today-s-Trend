@@ -45,20 +45,9 @@ function decodeXml(s) {
 }
 
 async function fetchGoogleTrends() {
-  // 신·구 두 주소를 순서대로 시도합니다 (구글이 주소를 바꾼 적이 있음).
-  const urls = [
-    'https://trends.google.com/trending/rss?geo=KR',
-    'https://trends.google.com/trends/trendingsearches/daily/rss?geo=KR',
-  ];
-  let xml = null;
-  let lastErr = null;
-  for (const url of urls) {
-    try {
-      xml = await fetchText(url, 'application/rss+xml, application/xml, text/xml');
-      break;
-    } catch (e) { lastErr = e; }
-  }
-  if (!xml) throw lastErr || new Error('구글 트렌드 RSS를 가져오지 못했습니다');
+  // 비공식 피드라 예고 없이 바뀔 수 있습니다. 형식 오류가 나면 Actions 로그에서 바로 보이도록 명확히 실패시킵니다.
+  const url = 'https://trends.google.com/trending/rss?geo=KR';
+  const xml = await fetchText(url, 'application/rss+xml, application/xml, text/xml');
 
   const items = [];
   const itemBlocks = xml.match(/<item>[\s\S]*?<\/item>/g) || [];
@@ -81,37 +70,58 @@ async function fetchGoogleTrends() {
 /* ---------- 2. 애플뮤직 인기곡 차트 ---------- */
 
 async function fetchAppleMusic() {
-  const url = 'https://rss.applemarketingtools.com/api/v2/kr/music/most-played/10/songs.json';
-  const data = JSON.parse(await fetchText(url, 'application/json'));
-  const results = data && data.feed && data.feed.results;
-  if (!Array.isArray(results) || !results.length) throw new Error('애플뮤직 피드 형식이 예상과 다릅니다');
-  return results.slice(0, 10).map((s) => ({ title: s.name, artist: s.artistName }));
+  // 애플이 신규 호스트(marketingtools.apple.com)를 운영 중이라 신주소 → 구주소 순으로 시도합니다.
+  const urls = [
+    'https://rss.marketingtools.apple.com/api/v2/kr/music/most-played/10/songs.json',
+    'https://rss.applemarketingtools.com/api/v2/kr/music/most-played/10/songs.json',
+  ];
+  let lastErr = null;
+  for (const url of urls) {
+    try {
+      const data = JSON.parse(await fetchText(url, 'application/json'));
+      const results = data && data.feed && data.feed.results;
+      if (!Array.isArray(results) || !results.length) throw new Error('애플뮤직 피드 형식이 예상과 다릅니다');
+      return results.slice(0, 10).map((s) => ({ title: s.name, artist: s.artistName }));
+    } catch (e) { lastErr = e; }
+  }
+  throw lastErr;
 }
 
 /* ---------- 3. 한국어 위키백과 많이 본 문서 ---------- */
 
-const WIKI_SKIP = /^(대문|특수:|위키백과:|분류:|파일:|틀:|포털:|도움말:|사용자:|토론:|목록$)/;
+const WIKI_SKIP_PREFIX = /^(대문|특수:|위키백과:|분류:|파일:|틀:|포털:|도움말:|사용자:|토론:)/;
 
-function kstYesterday() {
-  // 위키미디어 통계는 하루 늦게 집계되므로 어제(한국 시간) 날짜를 사용합니다.
-  const kstNow = new Date(Date.now() + 9 * 3600 * 1000);
-  kstNow.setUTCDate(kstNow.getUTCDate() - 1);
-  const y = kstNow.getUTCFullYear();
-  const m = String(kstNow.getUTCMonth() + 1).padStart(2, '0');
-  const d = String(kstNow.getUTCDate()).padStart(2, '0');
+function wikiSkip(title) {
+  return WIKI_SKIP_PREFIX.test(title) || /목록$/.test(title);
+}
+
+function utcDayBefore(hoursAgo) {
+  // 위키미디어 통계의 하루 단위는 UTC이며, 하루치 집계에 최대 24시간 이상 걸립니다.
+  // 넉넉히 hoursAgo 시간 전의 UTC 날짜를 사용합니다.
+  const t = new Date(Date.now() - hoursAgo * 3600 * 1000);
+  const y = t.getUTCFullYear();
+  const m = String(t.getUTCMonth() + 1).padStart(2, '0');
+  const d = String(t.getUTCDate()).padStart(2, '0');
   return { y, m, d };
 }
 
 async function fetchWikipedia() {
-  const { y, m, d } = kstYesterday();
-  const url = `https://wikimedia.org/api/rest_v1/metrics/pageviews/top/ko.wikipedia/all-access/${y}/${m}/${d}`;
-  const data = JSON.parse(await fetchText(url, 'application/json'));
-  const articles = data && data.items && data.items[0] && data.items[0].articles;
-  if (!Array.isArray(articles) || !articles.length) throw new Error('위키백과 통계 형식이 예상과 다릅니다');
-  return articles
-    .map((a) => ({ title: a.article.replace(/_/g, ' '), views: a.views }))
-    .filter((a) => !WIKI_SKIP.test(a.title))
-    .slice(0, 10);
+  // 아직 집계가 안 끝났으면 하루 더 이전 날짜로 재시도합니다.
+  let lastErr = null;
+  for (const hoursAgo of [36, 60]) {
+    const { y, m, d } = utcDayBefore(hoursAgo);
+    const url = `https://wikimedia.org/api/rest_v1/metrics/pageviews/top/ko.wikipedia/all-access/${y}/${m}/${d}`;
+    try {
+      const data = JSON.parse(await fetchText(url, 'application/json'));
+      const articles = data && data.items && data.items[0] && data.items[0].articles;
+      if (!Array.isArray(articles) || !articles.length) throw new Error('위키백과 통계 형식이 예상과 다릅니다');
+      return articles
+        .map((a) => ({ title: a.article.replace(/_/g, ' '), views: a.views }))
+        .filter((a) => !wikiSkip(a.title))
+        .slice(0, 10);
+    } catch (e) { lastErr = e; }
+  }
+  throw lastErr;
 }
 
 /* ---------- 수집 및 저장 ---------- */
@@ -152,6 +162,22 @@ for (const src of SOURCES) {
 if (!okCount && !previous) {
   console.error('모든 피드 수집에 실패했고 이전 데이터도 없습니다.');
   process.exit(1);
+}
+
+// 아무 소스도 성공하지 못했으면 전부 이전 데이터 그대로이므로,
+// updated 시각만 바꾼 무의미한 커밋을 만들지 않도록 저장을 건너뜁니다.
+if (!okCount) {
+  console.error('새로 수집된 데이터가 없어 파일을 갱신하지 않습니다.');
+  process.exit(0);
+}
+
+// 실제 목록 내용이 이전과 완전히 같다면 (fetched 시각만 바뀜) 저장을 건너뜁니다.
+const itemsOf = (obj) => JSON.stringify(
+  Object.fromEntries(Object.entries(obj?.sources || {}).map(([k, v]) => [k, v.items || []]))
+);
+if (previous && itemsOf(previous) === itemsOf(out)) {
+  console.log('목록 내용에 변화가 없어 파일을 갱신하지 않습니다.');
+  process.exit(0);
 }
 
 mkdirSync(dirname(OUT_FILE), { recursive: true });

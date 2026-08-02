@@ -53,8 +53,8 @@
 
   /* ---------- 소스별 직접 불러오기 (CORS 허용 API) ---------- */
 
-  function fetchAppleDirect() {
-    return fetchWithTimeout('https://rss.applemarketingtools.com/api/v2/kr/music/most-played/10/songs.json')
+  function fetchAppleFrom(host) {
+    return fetchWithTimeout('https://' + host + '/api/v2/kr/music/most-played/10/songs.json')
       .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
       .then(function (data) {
         var results = data && data.feed && data.feed.results;
@@ -65,16 +65,28 @@
       });
   }
 
-  var WIKI_SKIP = /^(대문|특수:|위키백과:|분류:|파일:|틀:|포털:|도움말:|사용자:|토론:)/;
+  function fetchAppleDirect() {
+    // 애플 신규 호스트 → 구 호스트 순으로 시도합니다.
+    return fetchAppleFrom('rss.marketingtools.apple.com')
+      .catch(function () { return fetchAppleFrom('rss.applemarketingtools.com'); });
+  }
 
-  function fetchWikipediaDirect() {
-    // 통계는 하루 늦게 집계되므로 어제(한국 시간) 날짜를 사용합니다.
-    var kst = new Date(Date.now() + 9 * 3600 * 1000);
-    kst.setUTCDate(kst.getUTCDate() - 1);
-    var y = kst.getUTCFullYear();
-    var m = String(kst.getUTCMonth() + 1).length < 2 ? '0' + (kst.getUTCMonth() + 1) : String(kst.getUTCMonth() + 1);
-    var d = String(kst.getUTCDate()).length < 2 ? '0' + kst.getUTCDate() : String(kst.getUTCDate());
-    var url = 'https://wikimedia.org/api/rest_v1/metrics/pageviews/top/ko.wikipedia/all-access/' + y + '/' + m + '/' + d;
+  var WIKI_SKIP_PREFIX = /^(대문|특수:|위키백과:|분류:|파일:|틀:|포털:|도움말:|사용자:|토론:)/;
+
+  function wikiSkip(title) {
+    return WIKI_SKIP_PREFIX.test(title) || /목록$/.test(title);
+  }
+
+  function pad2(n) {
+    return n < 10 ? '0' + n : String(n);
+  }
+
+  function fetchWikipediaOn(hoursAgo) {
+    // 위키미디어 통계의 하루 단위는 UTC이고 집계에 최대 하루 이상 걸리므로,
+    // 넉넉히 hoursAgo 시간 전의 UTC 날짜를 요청합니다.
+    var t = new Date(Date.now() - hoursAgo * 3600 * 1000);
+    var url = 'https://wikimedia.org/api/rest_v1/metrics/pageviews/top/ko.wikipedia/all-access/'
+      + t.getUTCFullYear() + '/' + pad2(t.getUTCMonth() + 1) + '/' + pad2(t.getUTCDate());
     return fetchWithTimeout(url)
       .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
       .then(function (data) {
@@ -83,11 +95,16 @@
         var list = [];
         for (var i = 0; i < articles.length && list.length < 10; i++) {
           var title = String(articles[i].article).replace(/_/g, ' ');
-          if (WIKI_SKIP.test(title)) continue;
+          if (wikiSkip(title)) continue;
           list.push({ title: title, views: articles[i].views });
         }
         return list;
       });
+  }
+
+  function fetchWikipediaDirect() {
+    // 집계가 안 끝난 날짜면 하루 더 이전으로 재시도합니다.
+    return fetchWikipediaOn(36).catch(function () { return fetchWikipediaOn(60); });
   }
 
   /* ---------- 저장된 파일 (GitHub Actions 수집분) ---------- */
@@ -163,6 +180,13 @@
     var grid = document.getElementById('live-sources');
     var updated = document.getElementById('live-updated');
     if (!grid) return;
+
+    // fetch·Promise 미지원 구형 브라우저에서는 로딩 화면에 갇히지 않게 바로 안내합니다.
+    if (typeof fetch !== 'function' || typeof Promise === 'undefined') {
+      render({}, '사용 중인 브라우저가 오래되어 실시간 목록을 불러올 수 없습니다. 다른 메뉴는 모두 정상적으로 이용하실 수 있습니다.');
+      return;
+    }
+
     grid.innerHTML = '<p class="live-loading">실시간 데이터를 불러오는 중입니다…</p>';
     if (updated) updated.textContent = '';
 

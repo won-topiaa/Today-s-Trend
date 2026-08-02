@@ -32,9 +32,13 @@ html[data-font="3"] { --base-size: 24px; }
 * { box-sizing: border-box; }
 
 html {
+  font-size: 18px; /* CSS 변수 미지원 브라우저용 고정값 */
   font-size: var(--base-size);
   scroll-behavior: smooth;
 }
+
+html[data-font="2"] { font-size: 21px; font-size: var(--base-size); }
+html[data-font="3"] { font-size: 24px; font-size: var(--base-size); }
 
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
@@ -44,7 +48,9 @@ html {
 body {
   margin: 0;
   font-family: "Pretendard Variable", Pretendard, "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
+  background: #FAF6EF;
   background: var(--bg);
+  color: #26211A;
   color: var(--ink);
   line-height: 1.65;
   word-break: keep-all;
@@ -131,7 +137,7 @@ img { max-width: 100%; }
   font-family: inherit;
   font-size: 0.85rem;
   padding: 0.35rem 0.7rem;
-  min-height: 2.2rem;
+  min-height: 2.5rem;
   border: 1.5px solid var(--line);
   border-radius: 999px;
   background: var(--card);
@@ -341,7 +347,7 @@ h2 { font-size: 1.3rem; letter-spacing: -0.01em; }
   font-family: inherit;
   font-size: 0.9rem;
   padding: 0.35rem 0.85rem;
-  min-height: 2.3rem;
+  min-height: 2.5rem;
   border: 1.5px solid var(--line);
   border-radius: 999px;
   background: var(--card);
@@ -492,7 +498,8 @@ h2 { font-size: 1.3rem; letter-spacing: -0.01em; }
 
 .live-updated { margin: 0; color: var(--muted); font-size: 0.92rem; }
 
-.btn-small {
+/* .btn 보다 특이도를 높여 뒤에 선언된 .btn 규칙에 덮이지 않게 합니다 */
+.btn.btn-small {
   font-size: 0.92rem;
   padding: 0.45rem 1rem;
   min-height: 2.6rem;
