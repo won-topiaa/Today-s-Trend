@@ -988,6 +988,18 @@ h2 { font-size: 1.3rem; letter-spacing: -0.01em; }
 
 .btn-secondary:hover { background: var(--surface); }
 
+.quiz-saved-block {
+  margin-top: 1.4rem;
+  padding: 1rem 1.2rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+}
+
+.quiz-saved-block h3 { margin: 0 0 0.35rem; font-size: 1.05rem; color: var(--amber); }
+.quiz-saved-block p { margin: 0 0 0.2rem; font-size: 0.95rem; }
+.quiz-saved-block .btn { margin-top: 0.6rem; }
+
 .quiz-result-card { text-align: center; }
 .quiz-score { font-size: 2.4rem; font-weight: 700; color: var(--primary); margin: 0.5rem 0; }
 .quiz-message { font-size: 1.1rem; max-width: 34rem; margin: 0 auto 0.5rem; }
