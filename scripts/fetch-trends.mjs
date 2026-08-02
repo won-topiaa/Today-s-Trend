@@ -20,7 +20,8 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT_FILE = resolve(ROOT, 'data/live-trends.json');
-const UA = 'TodaysTrendBot/1.0 (https://github.com/won-topiaa/today-s-trend; 세대 소통 트렌드 안내 사이트)';
+// 주의: HTTP 헤더 값은 Latin-1 문자만 허용되므로 한글을 넣으면 fetch가 실패합니다.
+const UA = 'TodaysTrendBot/1.0 (+https://github.com/won-topiaa/Today-s-Trend; generation-gap trend guide for Korean seniors)';
 const TIMEOUT_MS = 20000;
 
 async function fetchText(url, accept) {
