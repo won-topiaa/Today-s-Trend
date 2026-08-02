@@ -18,7 +18,10 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+      # 데이터는 항상 배포 브랜치(main)에 쌓습니다 — 어느 브랜치에서 실행되든 동일
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-node@v4
         with:
@@ -38,5 +41,5 @@ jobs:
           git add data/live-trends.json
           git commit -m "자동 갱신: 실시간 트렌드 데이터 ($(date -u +'%Y-%m-%d %H:%M') UTC)"
           # 수집 도중 다른 커밋이 들어왔을 수 있으므로 rebase 후 push (1회 재시도)
-          git pull --rebase origin "${GITHUB_REF_NAME}" || true
-          git push || (git pull --rebase origin "${GITHUB_REF_NAME}" && git push)
+          git pull --rebase origin main || true
+          git push origin HEAD:main || (git pull --rebase origin main && git push origin HEAD:main)
