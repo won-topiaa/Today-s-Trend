@@ -1,14 +1,34 @@
 {
-  "updated": "2026-08-02T15:34:37.974Z",
+  "updated": "2026-08-02T18:52:54.023Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-02T15:34:37.974Z",
+      "fetched": "2026-08-02T18:52:54.023Z",
       "items": [
         {
+          "title": "여객선",
+          "traffic": "1000+",
+          "context": "여객선 화재에 승객들 바다로 '풍덩'...5명 사망·41명 실종"
+        },
+        {
+          "title": "히샬리송",
+          "traffic": "1000+",
+          "context": "손흥민 “토트넘 내가 필요하냐” 물어봤는데, 히샬리송 ‘가끔 토트넘 떠나길 원한다’…데 제르브 감독 작심발언"
+        },
+        {
+          "title": "잠실대교",
+          "traffic": "200+",
+          "context": "한강서 수영하다 수문에 빨려 들어간 30대...20분 만에 심정지 상태로 구조"
+        },
+        {
+          "title": "박기량",
+          "traffic": "200+",
+          "context": "박기량 치어리더 '두플래쉬에 래쉬가드 입고'[포토]"
+        },
+        {
           "title": "달 탐사",
-          "traffic": "500+",
+          "traffic": "1000+",
           "context": "유럽은 달 탐사 임무에서 미국과 협력하기를 원한다."
         },
         {
@@ -19,12 +39,12 @@
         {
           "title": "lck",
           "traffic": "1000+",
-          "context": "HanJin BRION Head Coach Kim Sang-soo: \"Our performance was poor... we need to regroup\""
+          "context": "DNS jungler Sharvel's LCK breakout highlights esports' growing talent pipeline, but where's the crypto?"
         },
         {
           "title": "앤드류 가필드",
           "traffic": "200+",
-          "context": "Exclusive | How Andrew Garfield feels about successor Tom Holland’s Spider-Man portrayal"
+          "context": "How Andrew Garfield feels about successor Tom Holland’s Spider-Man portrayal"
         },
         {
           "title": "마이클세일러",
@@ -33,35 +53,15 @@
         },
         {
           "title": "재벌x형사",
-          "traffic": "2000+",
+          "traffic": "5000+",
           "context": "SBS 작정했다…최고 시청률 11% 흥행 신화→2년 만에 '도파민' 서사로 돌아오는 韓 드라마 ('재벌X형사2')"
-        },
-        {
-          "title": "박소현",
-          "traffic": "2000+",
-          "context": "“실버타운 가면 받아주지도 않아” 양정아, 나이 공격하는 신봉선에 언짢♨"
-        },
-        {
-          "title": "제임스 네일",
-          "traffic": "1000+",
-          "context": "KIA 선수들은 왜 텅 빈 경기장에 나왔을까… 네일은 맨발로 뛰었다, 운명의 15연전 기다린다"
-        },
-        {
-          "title": "유재석",
-          "traffic": "500+",
-          "context": "2054 시청률+가구 시청률 土 예능 1위 '놀뭐?' 공효진, 유재석 시놉시스에 \"부자 역 하고 싶었다\""
-        },
-        {
-          "title": "김서연",
-          "traffic": "100+",
-          "context": "'흑백' 김도윤 셰프 여친, 배우 김서연이었다 \"내 존재 숨기더라\" [핫피플]"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-02T15:34:37.974Z",
+      "fetched": "2026-08-02T18:52:54.023Z",
       "items": [
         {
           "title": "REDRED",
@@ -100,15 +100,15 @@
           "artist": "에이티즈"
         },
         {
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+          "artist": "Post Malone & Swae Lee"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-02T15:34:37.974Z",
+      "fetched": "2026-08-02T18:52:54.023Z",
       "items": [
         {
           "title": "문화방송",
