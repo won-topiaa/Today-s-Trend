@@ -1,0 +1,40 @@
+# 6시간마다 실시간 트렌드 데이터를 수집해 data/live-trends.json 을 갱신합니다.
+# Actions 탭에서 "Run workflow" 버튼으로 수동 실행도 가능합니다.
+name: 실시간 트렌드 갱신
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-trends
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 트렌드 데이터 수집
+        run: node scripts/fetch-trends.mjs
+
+      - name: 변경이 있으면 커밋
+        run: |
+          if git diff --quiet -- data/live-trends.json; then
+            echo "변경 없음 — 커밋을 건너뜁니다."
+            exit 0
+          fi
+          git config user.name "trend-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/live-trends.json
+          git commit -m "자동 갱신: 실시간 트렌드 데이터 ($(date -u +'%Y-%m-%d %H:%M') UTC)"
+          git push

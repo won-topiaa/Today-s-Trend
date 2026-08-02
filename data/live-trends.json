@@ -1,0 +1,9 @@
+{
+  "updated": null,
+  "note": "이 파일은 GitHub Actions(.github/workflows/update-trends.yml)가 6시간마다 scripts/fetch-trends.mjs 를 실행해 자동으로 채웁니다. 첫 수집 전까지는 비어 있으며, 화면에서는 브라우저가 직접 불러온 실시간 데이터가 우선 표시됩니다.",
+  "sources": {
+    "google_trends": { "label": "구글 급상승 검색어", "hint": "지금 한국에서 검색이 급증한 주제입니다.", "fetched": null, "items": [] },
+    "apple_music": { "label": "애플뮤직 인기곡", "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.", "fetched": null, "items": [] },
+    "wikipedia": { "label": "위키백과 많이 본 문서", "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.", "fetched": null, "items": [] }
+  }
+}

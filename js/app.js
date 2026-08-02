@@ -2,7 +2,7 @@
 (function () {
   'use strict';
 
-  var SECTIONS = ['home', 'dictionary', 'trends', 'guide', 'quiz'];
+  var SECTIONS = ['home', 'dictionary', 'trends', 'live', 'guide', 'quiz'];
 
   function $(sel, root) { return (root || document).querySelector(sel); }
   function $all(sel, root) { return Array.prototype.slice.call((root || document).querySelectorAll(sel)); }
