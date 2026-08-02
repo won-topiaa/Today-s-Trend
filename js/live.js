@@ -183,7 +183,9 @@
 
     // fetch·Promise 미지원 구형 브라우저에서는 로딩 화면에 갇히지 않게 바로 안내합니다.
     if (typeof fetch !== 'function' || typeof Promise === 'undefined') {
-      render({}, '사용 중인 브라우저가 오래되어 실시간 목록을 불러올 수 없습니다. 다른 메뉴는 모두 정상적으로 이용하실 수 있습니다.');
+      grid.innerHTML = '<p class="live-empty">사용 중인 브라우저가 오래되어 실시간 목록을 불러올 수 없습니다. ' +
+        '다른 메뉴는 모두 정상적으로 이용하실 수 있습니다.</p>';
+      if (updated) updated.textContent = '';
       return;
     }
 
