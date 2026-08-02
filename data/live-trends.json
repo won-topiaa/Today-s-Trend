@@ -1,0 +1,156 @@
+{
+  "updated": "2026-08-02T15:25:54.180Z",
+  "sources": {
+    "google_trends": {
+      "label": "구글 급상승 검색어",
+      "hint": "지금 한국에서 검색이 급증한 주제입니다.",
+      "fetched": "2026-08-02T15:25:54.180Z",
+      "items": [
+        {
+          "title": "달 탐사",
+          "traffic": "200+",
+          "context": "유럽은 달 탐사 임무에서 미국과 협력하기를 원한다."
+        },
+        {
+          "title": "서주원",
+          "traffic": "100+",
+          "context": "아옳이, 이혼 4년만에 한의사 새 남친 김형배 공개…\"예쁘게 봐주세요\""
+        },
+        {
+          "title": "lck",
+          "traffic": "1000+",
+          "context": "HanJin BRION Head Coach Kim Sang-soo: \"Our performance was poor... we need to regroup\""
+        },
+        {
+          "title": "앤드류 가필드",
+          "traffic": "200+",
+          "context": "Exclusive | How Andrew Garfield feels about successor Tom Holland’s Spider-Man portrayal"
+        },
+        {
+          "title": "마이클세일러",
+          "traffic": "200+",
+          "context": "마이크로스트래티지, 비트코인 미실현손실 83억 달러 반영…2분기 순손실 82억 달러 기록"
+        },
+        {
+          "title": "재벌x형사",
+          "traffic": "2000+",
+          "context": "SBS 작정했다…최고 시청률 11% 흥행 신화→2년 만에 '도파민' 서사로 돌아오는 韓 드라마 ('재벌X형사2')"
+        },
+        {
+          "title": "박소현",
+          "traffic": "2000+",
+          "context": "“실버타운 가면 받아주지도 않아” 양정아, 나이 공격하는 신봉선에 언짢♨"
+        },
+        {
+          "title": "제임스 네일",
+          "traffic": "1000+",
+          "context": "KIA 선수들은 왜 텅 빈 경기장에 나왔을까… 네일은 맨발로 뛰었다, 운명의 15연전 기다린다"
+        },
+        {
+          "title": "유재석",
+          "traffic": "500+",
+          "context": "100억 벌고 세금만 41억...방송 중 돌연 은행 달려간 유재석"
+        },
+        {
+          "title": "김서연",
+          "traffic": "100+",
+          "context": "'흑백' 김도윤 셰프 여친, 배우 김서연이었다 \"내 존재 숨기더라\" [핫피플]"
+        }
+      ]
+    },
+    "apple_music": {
+      "label": "애플뮤직 인기곡",
+      "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
+      "fetched": "2026-08-02T15:25:54.180Z",
+      "items": [
+        {
+          "title": "REDRED",
+          "artist": "코르티스"
+        },
+        {
+          "title": "Less than a Lover",
+          "artist": "제니"
+        },
+        {
+          "title": "LOVE ATTACK",
+          "artist": "리센느"
+        },
+        {
+          "title": "Lemon Tang",
+          "artist": "Hearts2Hearts"
+        },
+        {
+          "title": "LEMONADE",
+          "artist": "aespa"
+        },
+        {
+          "title": "Pretty Girl",
+          "artist": "리센느"
+        },
+        {
+          "title": "It's Me",
+          "artist": "아일릿"
+        },
+        {
+          "title": "Deja Vu",
+          "artist": "리센느"
+        },
+        {
+          "title": "BAD",
+          "artist": "에이티즈"
+        },
+        {
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
+        }
+      ]
+    },
+    "wikipedia": {
+      "label": "위키백과 많이 본 문서",
+      "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
+      "fetched": "2026-08-02T15:25:54.180Z",
+      "items": [
+        {
+          "title": "문화방송",
+          "views": 18219
+        },
+        {
+          "title": "한국방송공사",
+          "views": 13097
+        },
+        {
+          "title": "한국교육방송공사",
+          "views": 9188
+        },
+        {
+          "title": "유튜브",
+          "views": 8051
+        },
+        {
+          "title": "박지현 (가수)",
+          "views": 5734
+        },
+        {
+          "title": "오디세이 (영화)",
+          "views": 3180
+        },
+        {
+          "title": "새 (영화)",
+          "views": 3084
+        },
+        {
+          "title": "사랑이 온다 (드라마)",
+          "views": 2934
+        },
+        {
+          "title": "김민하 (1995년)",
+          "views": 2663
+        },
+        {
+          "title": "유부녀 킬러",
+          "views": 2495
+        }
+      ]
+    }
+  }
+}

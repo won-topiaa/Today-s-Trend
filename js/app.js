@@ -2,7 +2,7 @@
 (function () {
   'use strict';
 
-  var SECTIONS = ['home', 'dictionary', 'trends', 'guide', 'quiz'];
+  var SECTIONS = ['home', 'dictionary', 'trends', 'live', 'guide', 'quiz'];
 
   function $(sel, root) { return (root || document).querySelector(sel); }
   function $all(sel, root) { return Array.prototype.slice.call((root || document).querySelectorAll(sel)); }
@@ -49,7 +49,8 @@
     });
     $all('.nav-link').forEach(function (link) {
       var active = link.getAttribute('data-section') === name;
-      link.classList.toggle('active', active);
+      if (active) link.classList.add('active');
+      else link.classList.remove('active');
       if (active) link.setAttribute('aria-current', 'page');
       else link.removeAttribute('aria-current');
     });
@@ -59,6 +60,16 @@
   function initRouting() {
     window.addEventListener('hashchange', function () { showSection(currentSection()); });
     showSection(currentSection());
+
+    // 스킵 링크: 해시 라우터를 거치지 않고 본문으로 초점만 이동시킵니다.
+    var skip = $('.skip-link');
+    var main = document.getElementById('main');
+    if (skip && main) {
+      skip.addEventListener('click', function (ev) {
+        ev.preventDefault();
+        main.focus();
+      });
+    }
   }
 
   /* ---------- 홈: 오늘의 신조어 ---------- */
@@ -89,12 +100,13 @@
       return '<button type="button" class="chip" data-value="' + esc(v) + '" aria-pressed="' +
         (v === '전체' ? 'true' : 'false') + '">' + esc(v) + '</button>';
     }).join('');
-    box.addEventListener('click', function (ev) {
-      var btn = ev.target.closest('.chip');
-      if (!btn) return;
-      $all('.chip', box).forEach(function (c) { c.setAttribute('aria-pressed', 'false'); });
-      btn.setAttribute('aria-pressed', 'true');
-      onPick(btn.getAttribute('data-value'));
+    // 칩은 이 함수가 직접 만들었으므로 각 버튼에 리스너를 바로 답니다 (closest 미지원 브라우저 호환).
+    $all('.chip', box).forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        $all('.chip', box).forEach(function (c) { c.setAttribute('aria-pressed', 'false'); });
+        btn.setAttribute('aria-pressed', 'true');
+        onPick(btn.getAttribute('data-value'));
+      });
     });
   }
 
