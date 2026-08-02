@@ -419,31 +419,104 @@
 
   /* ---------- 퀴즈 ---------- */
 
-  var quizState = { index: 0, score: 0, answered: false };
+  var quizState = { index: 0, score: 0, answered: false, questions: [], savedMode: false };
+
+  function shuffleArray(arr) {
+    var a = arr.slice();
+    for (var i = a.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var t = a[i]; a[i] = a[j]; a[j] = t;
+    }
+    return a;
+  }
+
+  // 보기로 쓰기 좋게 뜻풀이의 첫 문장만 잘라냅니다.
+  function shortMeaning(m) {
+    var idx = m.indexOf('다.');
+    if (idx >= 0 && idx <= 90) return m.slice(0, idx + 2);
+    return m.length > 80 ? m.slice(0, 80) + '…' : m;
+  }
+
+  // 저장한 단어로 4지선다 문제를 자동 생성합니다.
+  // 정답은 그 단어의 뜻, 오답은 다른 신조어들의 뜻에서 무작위로 가져옵니다.
+  function buildSavedQuiz() {
+    var entries = SLANG_DATA.filter(function (e) { return isSaved(e.term); });
+    return shuffleArray(entries).map(function (e) {
+      var wrong = shuffleArray(SLANG_DATA.filter(function (x) { return x.term !== e.term; }))
+        .slice(0, 3)
+        .map(function (x) { return shortMeaning(x.meaning); });
+      var answerIndex = Math.floor(Math.random() * 4);
+      var options = wrong.slice();
+      options.splice(answerIndex, 0, shortMeaning(e.meaning));
+      return {
+        question: "저장하신 단어입니다. '" + e.term + "'의 뜻으로 알맞은 것은 무엇일까요?",
+        options: options,
+        answer_index: answerIndex,
+        explanation: e.meaning + (e.usage_tip ? ' — 사용 팁: ' + e.usage_tip : '')
+      };
+    });
+  }
+
+  var SAVED_QUIZ_MIN = 3;
 
   function renderQuizIntro() {
     var area = $('#quiz-area');
     if (!area || !window.QUIZ_DATA) return;
-    quizState = { index: 0, score: 0, answered: false };
+    quizState = { index: 0, score: 0, answered: false, questions: [], savedMode: false };
+
+    var savedBlock;
+    if (savedTerms.length >= SAVED_QUIZ_MIN) {
+      savedBlock =
+        '<div class="quiz-saved-block">' +
+          '<h3>★ 내 단어장 복습 퀴즈</h3>' +
+          '<p>사전에서 저장해 두신 단어 ' + savedTerms.length + '개로만 문제를 만들어 드립니다. 외웠는지 확인해 보세요.</p>' +
+          '<button type="button" class="btn btn-secondary" id="quiz-start-saved">내 단어장 퀴즈 (' + savedTerms.length + '문항)</button>' +
+        '</div>';
+    } else {
+      savedBlock =
+        '<div class="quiz-saved-block">' +
+          '<h3>★ 내 단어장 복습 퀴즈</h3>' +
+          '<p>신조어 사전에서 단어를 ' + SAVED_QUIZ_MIN + '개 이상 저장하면, 저장한 단어로만 나만의 복습 퀴즈를 풀 수 있습니다. ' +
+          '(지금 ' + savedTerms.length + '개 저장됨)</p>' +
+          '<a class="more-link" href="#dictionary">신조어 사전에서 단어 저장하러 가기 →</a>' +
+        '</div>';
+    }
+
     area.innerHTML =
       '<div class="quiz-intro-card">' +
         '<h2>나의 트렌드 감각은 몇 점?</h2>' +
         '<p>신조어와 요즘 유행에 대한 문제 ' + QUIZ_DATA.length + '개가 준비되어 있습니다. ' +
         '틀려도 괜찮습니다. 문제마다 친절한 해설이 있으니, 재미로 풀어 보세요!</p>' +
-        '<button type="button" class="btn" id="quiz-start">퀴즈 시작하기</button>' +
+        '<button type="button" class="btn" id="quiz-start">전체 퀴즈 시작하기</button>' +
+        savedBlock +
       '</div>';
-    $('#quiz-start').addEventListener('click', renderQuizQuestion);
+
+    $('#quiz-start').addEventListener('click', function () {
+      startQuiz(QUIZ_DATA, false);
+    });
+    var savedBtn = $('#quiz-start-saved');
+    if (savedBtn) {
+      savedBtn.addEventListener('click', function () {
+        startQuiz(buildSavedQuiz(), true);
+      });
+    }
+  }
+
+  function startQuiz(questions, savedMode) {
+    quizState = { index: 0, score: 0, answered: false, questions: questions, savedMode: savedMode };
+    renderQuizQuestion();
   }
 
   function renderQuizQuestion() {
     var area = $('#quiz-area');
-    var q = QUIZ_DATA[quizState.index];
+    var qs = quizState.questions;
+    var q = qs[quizState.index];
     quizState.answered = false;
 
-    var progress = Math.round((quizState.index / QUIZ_DATA.length) * 100);
+    var progress = Math.round((quizState.index / qs.length) * 100);
     area.innerHTML =
       '<div class="quiz-question-card">' +
-        '<p class="quiz-progress">문제 ' + (quizState.index + 1) + ' / ' + QUIZ_DATA.length + '</p>' +
+        '<p class="quiz-progress">' + (quizState.savedMode ? '내 단어장 퀴즈 · ' : '') + '문제 ' + (quizState.index + 1) + ' / ' + qs.length + '</p>' +
         '<div class="quiz-progress-bar" aria-hidden="true"><div class="quiz-progress-fill" style="width:' + progress + '%"></div></div>' +
         '<p class="quiz-question">' + esc(q.question) + '</p>' +
         '<div class="quiz-options">' +
@@ -464,7 +537,7 @@
     if (quizState.answered) return;
     quizState.answered = true;
 
-    var q = QUIZ_DATA[quizState.index];
+    var q = quizState.questions[quizState.index];
     var correct = picked === q.answer_index;
     if (correct) quizState.score += 1;
 
@@ -474,7 +547,7 @@
       else if (i === picked) btn.classList.add('wrong');
     });
 
-    var last = quizState.index === QUIZ_DATA.length - 1;
+    var last = quizState.index === quizState.questions.length - 1;
     $('#quiz-feedback').innerHTML =
       '<div class="quiz-feedback ' + (correct ? 'good' : 'bad') + '">' +
         '<strong>' + (correct ? '⭕ 정답입니다!' : '❌ 아쉽네요. 정답은 ' + (q.answer_index + 1) + '번이에요.') + '</strong>' +
@@ -491,12 +564,16 @@
 
   function renderQuizResult() {
     var area = $('#quiz-area');
-    var total = QUIZ_DATA.length;
+    var total = quizState.questions.length;
     var score = quizState.score;
     var ratio = score / total;
 
     var message;
-    if (ratio >= 0.9) message = '대단합니다! 젊은 사람들과 바로 대화해도 전혀 어색하지 않으시겠어요. 이 정도면 "인싸" 어른이십니다.';
+    if (quizState.savedMode) {
+      if (ratio >= 0.9) message = '완벽합니다! 저장하신 단어를 전부 소화하셨네요. 이제 사전에서 새 단어를 더 저장해 보세요.';
+      else if (ratio >= 0.6) message = '잘하고 계십니다! 거의 다 외우셨어요. 틀린 단어만 단어장에서 다시 읽어 보시면 완성입니다.';
+      else message = '복습이 조금 더 필요하네요. 괜찮습니다 — 단어장("★ 저장한 단어만 보기")에서 천천히 다시 읽고 내일 또 풀어 보세요!';
+    } else if (ratio >= 0.9) message = '대단합니다! 젊은 사람들과 바로 대화해도 전혀 어색하지 않으시겠어요. 이 정도면 "인싸" 어른이십니다.';
     else if (ratio >= 0.6) message = '훌륭합니다! 웬만한 트렌드는 이미 알고 계시네요. 신조어 사전에서 조금만 더 채우면 완벽해요.';
     else if (ratio >= 0.3) message = '좋은 출발입니다! 오늘 처음 본 말이 많으셨죠? 신조어 사전을 천천히 읽어 보시면 금방 익숙해집니다.';
     else message = '괜찮습니다, 누구나 처음엔 이렇습니다. 중요한 건 알아가려는 마음이에요. 신조어 사전부터 하루 하나씩 시작해 보세요!';
@@ -529,5 +606,10 @@
     renderGuide();
     initStarters();
     renderQuizIntro();
+
+    // 퀴즈 화면에 들어올 때, 시작 전(첫 화면)이라면 저장 단어 수를 최신으로 갱신합니다.
+    window.addEventListener('hashchange', function () {
+      if (currentSection() === 'quiz' && document.getElementById('quiz-start')) renderQuizIntro();
+    });
   });
 })();
