@@ -737,6 +737,102 @@ h2 { font-size: 1.3rem; letter-spacing: -0.01em; }
   font-size: 0.9rem;
 }
 
+/* ---------- 내 단어장 (저장 버튼) ---------- */
+
+.save-btn {
+  font-family: inherit;
+  font-size: 0.88rem;
+  font-weight: 700;
+  padding: 0.35rem 0.8rem;
+  min-height: 2.7rem;
+  margin-left: auto;
+  border: 1.5px solid var(--line);
+  border-radius: var(--radius-sm);
+  background: var(--card);
+  color: var(--muted);
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.save-btn:hover { border-color: var(--amber); color: var(--amber); }
+
+.save-btn[aria-pressed="true"] {
+  background: var(--amber-soft);
+  border-color: var(--amber);
+  color: var(--amber);
+}
+
+.chip-star[aria-pressed="true"] {
+  background: var(--amber-soft);
+  border-color: var(--amber);
+  color: var(--amber);
+  font-weight: 700;
+}
+
+/* ---------- 바로 쓰는 말걸기 문장 ---------- */
+
+.starters-block {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 1.3rem 1.4rem 1.4rem;
+  margin-bottom: 2rem;
+}
+
+.starters-block h2 {
+  margin: 0 0 0.35rem;
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.starters-block h2 .icon { color: var(--primary); }
+
+.starters-lead {
+  color: var(--muted);
+  margin: 0 0 0.9rem;
+  font-size: 0.95rem;
+}
+
+.starters-block .chip { background: var(--card); }
+.starters-block .chip[aria-pressed="true"] { background: var(--primary); }
+
+#starter-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+  margin-top: 0.9rem;
+}
+
+.starter-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1rem 1.2rem;
+}
+
+.starter-text {
+  font-size: 1.08rem;
+  font-weight: 700;
+  margin: 0 0 0.35rem;
+  line-height: 1.55;
+}
+
+.starter-why {
+  color: var(--muted);
+  font-size: 0.92rem;
+  margin: 0 0 0.7rem;
+}
+
+.starter-copy.copied {
+  background: var(--green-soft);
+  border-color: var(--green);
+  color: var(--green);
+}
+
+.guide-list-title { margin: 0 0 0.9rem; }
+
 /* ---------- 대화 팁 ---------- */
 
 .guide-section { margin-bottom: 2rem; }

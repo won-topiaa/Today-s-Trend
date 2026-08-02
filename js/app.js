@@ -107,7 +107,34 @@
 
   /* ---------- 신조어 사전 ---------- */
 
-  var dictState = { query: '', difficulty: '전체', category: '전체' };
+  var dictState = { query: '', difficulty: '전체', category: '전체', savedOnly: false };
+
+  /* 내 단어장 (localStorage에 저장) */
+
+  function loadSavedTerms() {
+    try {
+      var raw = localStorage.getItem('trend-saved-terms');
+      var arr = raw ? JSON.parse(raw) : [];
+      return Array.isArray(arr) ? arr : [];
+    } catch (e) { return []; }
+  }
+
+  var savedTerms = loadSavedTerms();
+
+  function isSaved(term) { return savedTerms.indexOf(term) >= 0; }
+
+  function toggleSaved(term) {
+    var idx = savedTerms.indexOf(term);
+    if (idx >= 0) savedTerms.splice(idx, 1);
+    else savedTerms.push(term);
+    try { localStorage.setItem('trend-saved-terms', JSON.stringify(savedTerms)); } catch (e) { /* 저장 실패해도 화면 동작 유지 */ }
+    updateSavedCount();
+  }
+
+  function updateSavedCount() {
+    var el = document.getElementById('saved-count');
+    if (el) el.textContent = String(savedTerms.length);
+  }
 
   function makeChips(containerId, values, onPick) {
     var box = document.getElementById(containerId);
@@ -127,12 +154,15 @@
   }
 
   function slangCard(e) {
+    var saved = isSaved(e.term);
     return '<article class="entry-card">' +
       '<div class="entry-head">' +
         '<h2 class="entry-term">' + esc(e.term) + '</h2>' +
         '<span class="badge badge-difficulty-' + esc(e.difficulty) + '">' + esc(e.difficulty) + '</span>' +
         '<span class="badge badge-category">' + esc(e.category) + '</span>' +
         '<span class="badge badge-era">' + esc(e.era) + '</span>' +
+        '<button type="button" class="save-btn" data-term="' + esc(e.term) + '" aria-pressed="' + saved + '" aria-label="' + esc(e.term) + ' 단어장에 저장">' +
+          (saved ? '★ 저장됨' : '☆ 저장') + '</button>' +
       '</div>' +
       '<p class="entry-meaning">' + esc(e.meaning) + '</p>' +
       (e.origin ? '<p class="entry-origin">유래: ' + esc(e.origin) + '</p>' : '') +
@@ -153,22 +183,72 @@
     if (!list || !window.SLANG_DATA) return;
 
     var q = dictState.query.trim().toLowerCase();
-    var filtered = SLANG_DATA.filter(function (e) {
+
+    function baseFilter(e) {
+      if (dictState.savedOnly && !isSaved(e.term)) return false;
       if (dictState.difficulty !== '전체' && e.difficulty !== dictState.difficulty) return false;
       if (dictState.category !== '전체' && e.category !== dictState.category) return false;
+      return true;
+    }
+
+    var filtered = SLANG_DATA.filter(function (e) {
+      if (!baseFilter(e)) return false;
       if (!q) return true;
       var haystack = (e.term + ' ' + e.meaning + ' ' + e.example_dialog + ' ' + (e.origin || '')).toLowerCase();
       return haystack.indexOf(q) >= 0;
     });
 
-    count.textContent = '전체 ' + SLANG_DATA.length + '개 중 ' + filtered.length + '개를 보고 있습니다.';
+    // 문장 해석: 단어로 못 찾았고 검색어가 문장처럼 길면,
+    // 문장 안에 포함된 신조어를 대신 찾아 보여 줍니다 (띄어쓰기 무시).
+    var sentenceMode = false;
+    if (q && !filtered.length && q.length >= 6) {
+      var compactQ = q.replace(/\s+/g, '');
+      filtered = SLANG_DATA.filter(function (e) {
+        if (!baseFilter(e)) return false;
+        var t = e.term.toLowerCase();
+        return compactQ.indexOf(t.replace(/\s+/g, '')) >= 0 ||
+          (e.reading ? compactQ.indexOf(String(e.reading).toLowerCase().replace(/\s+/g, '')) >= 0 : false);
+      });
+      sentenceMode = filtered.length > 0;
+    }
+
+    if (sentenceMode) {
+      count.textContent = '붙여넣은 문장에서 신조어 ' + filtered.length + '개를 찾았습니다. 아래에서 뜻을 확인해 보세요.';
+    } else {
+      count.textContent = '전체 ' + SLANG_DATA.length + '개 중 ' + filtered.length + '개를 보고 있습니다.';
+    }
+
     list.innerHTML = filtered.length
       ? filtered.map(slangCard).join('')
-      : '<p class="empty-note">검색 결과가 없습니다.<br>다른 말로 검색해 보시거나, 필터를 "전체"로 바꿔 보세요.</p>';
+      : (dictState.savedOnly && !q
+          ? '<p class="empty-note">아직 저장한 단어가 없습니다.<br>카드 오른쪽의 "☆ 저장" 버튼을 누르면 여기에 모입니다.</p>'
+          : '<p class="empty-note">검색 결과가 없습니다.<br>다른 말로 검색해 보시거나, 필터를 "전체"로 바꿔 보세요.<br><small>문장을 붙여넣으면 그 안의 신조어를 찾아 드립니다. 여기 없는 말은 젊은 사람에게 직접 물어보시는 것도 좋은 대화 시작이 됩니다.</small></p>');
+
+    // 저장 버튼 (카드를 다시 그릴 때마다 새로 연결)
+    $all('.save-btn', list).forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var term = btn.getAttribute('data-term');
+        toggleSaved(term);
+        renderDictionary();
+        // 다시 그린 뒤에도 키보드 초점을 같은 버튼에 유지합니다.
+        $all('.save-btn', list).forEach(function (b) {
+          if (b.getAttribute('data-term') === term) b.focus();
+        });
+      });
+    });
   }
 
   function initDictionary() {
     if (!window.SLANG_DATA) return;
+
+    // 데이터 개편으로 사전에서 빠진 단어는 단어장에서도 정리합니다.
+    var existing = {};
+    SLANG_DATA.forEach(function (e) { existing[e.term] = true; });
+    var pruned = savedTerms.filter(function (t) { return existing[t]; });
+    if (pruned.length !== savedTerms.length) {
+      savedTerms = pruned;
+      try { localStorage.setItem('trend-saved-terms', JSON.stringify(savedTerms)); } catch (e) { /* 무시 */ }
+    }
 
     var categories = ['전체'];
     SLANG_DATA.forEach(function (e) {
@@ -189,7 +269,91 @@
         renderDictionary();
       });
     }
+
+    var savedFilter = $('#saved-filter');
+    if (savedFilter) {
+      savedFilter.addEventListener('click', function () {
+        dictState.savedOnly = !dictState.savedOnly;
+        savedFilter.setAttribute('aria-pressed', String(dictState.savedOnly));
+        renderDictionary();
+      });
+    }
+
+    updateSavedCount();
     renderDictionary();
+  }
+
+  /* ---------- 바로 쓰는 말걸기 문장 ---------- */
+
+  function copyText(text, btn) {
+    var original = btn.textContent;
+    function done() {
+      btn.textContent = '복사됨 ✓';
+      btn.classList.add('copied');
+      setTimeout(function () {
+        btn.textContent = original;
+        btn.classList.remove('copied');
+      }, 1600);
+    }
+    function fallback() {
+      var ta = document.createElement('textarea');
+      ta.value = text;
+      ta.setAttribute('readonly', '');
+      ta.style.position = 'absolute';
+      ta.style.left = '-9999px';
+      document.body.appendChild(ta);
+      ta.select();
+      try { document.execCommand('copy'); done(); } catch (e) { btn.textContent = '복사 실패'; }
+      document.body.removeChild(ta);
+    }
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(done, fallback);
+    } else {
+      fallback();
+    }
+  }
+
+  function renderStarters(situation) {
+    var box = $('#starter-list');
+    if (!box || !window.STARTERS_DATA) return;
+    var group = null;
+    for (var i = 0; i < STARTERS_DATA.length; i++) {
+      if (STARTERS_DATA[i].situation === situation) { group = STARTERS_DATA[i]; break; }
+    }
+    if (!group) group = STARTERS_DATA[0];
+
+    box.innerHTML = group.lines.map(function (line) {
+      return '<div class="starter-card">' +
+        '<p class="starter-text">“' + esc(line.text) + '”</p>' +
+        '<p class="starter-why">' + esc(line.why) + '</p>' +
+        '<button type="button" class="btn btn-secondary btn-small starter-copy" data-copy="' + esc(line.text) + '">문장 복사</button>' +
+      '</div>';
+    }).join('');
+
+    $all('.starter-copy', box).forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        copyText(btn.getAttribute('data-copy'), btn);
+      });
+    });
+  }
+
+  function initStarters() {
+    if (!window.STARTERS_DATA || !STARTERS_DATA.length) return;
+    var names = STARTERS_DATA.map(function (g) { return g.situation; });
+    var box = document.getElementById('starter-filters');
+    if (!box) return;
+    box.innerHTML = names.map(function (v, i) {
+      return '<button type="button" class="chip" data-value="' + esc(v) + '" aria-pressed="' +
+        (i === 0 ? 'true' : 'false') + '">' + esc(v) + '</button>';
+    }).join('');
+    $all('.chip', box).forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        $all('.chip', box).forEach(function (c) { c.setAttribute('aria-pressed', 'false'); });
+        btn.setAttribute('aria-pressed', 'true');
+        renderStarters(btn.getAttribute('data-value'));
+      });
+    });
+    renderStarters(names[0]);
   }
 
   /* ---------- 요즘 유행 ---------- */
@@ -363,6 +527,7 @@
     initDictionary();
     initTrends();
     renderGuide();
+    initStarters();
     renderQuizIntro();
   });
 })();
