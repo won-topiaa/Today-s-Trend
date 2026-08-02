@@ -17,19 +17,19 @@
   var SOURCE_INFO = {
     google_trends: {
       label: '구글 급상승 검색어',
-      icon: '🔍',
+      icon: '<svg class="icon"><use href="#i-search"></use></svg>',
       hint: '지금 한국에서 검색이 급증한 주제입니다.',
       empty: '급상승 검색어는 자동 수집(6시간마다)으로만 제공됩니다. 아직 수집 전이거나 잠시 불러올 수 없습니다.'
     },
     apple_music: {
       label: '애플뮤직 인기곡',
-      icon: '🎵',
+      icon: '<svg class="icon"><use href="#i-music"></use></svg>',
       hint: '요즘 젊은 층이 실제로 많이 듣는 노래입니다.',
       empty: '지금은 차트를 불러올 수 없습니다. 인터넷 연결을 확인한 뒤 "새로 불러오기"를 눌러 보세요.'
     },
     wikipedia: {
       label: '위키백과 많이 본 문서',
-      icon: '📚',
+      icon: '<svg class="icon"><use href="#i-book"></use></svg>',
       hint: '어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.',
       empty: '지금은 목록을 불러올 수 없습니다. 인터넷 연결을 확인한 뒤 "새로 불러오기"를 눌러 보세요.'
     }

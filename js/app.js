@@ -72,6 +72,22 @@
     }
   }
 
+  /* ---------- 홈: 검색 ---------- */
+
+  function initHomeSearch() {
+    var form = $('#home-search-form');
+    var input = $('#home-search-input');
+    if (!form || !input) return;
+    form.addEventListener('submit', function (ev) {
+      ev.preventDefault();
+      dictState.query = input.value;
+      var dictInput = $('#dict-search');
+      if (dictInput) dictInput.value = input.value;
+      renderDictionary();
+      location.hash = '#dictionary';
+    });
+  }
+
   /* ---------- 홈: 오늘의 신조어 ---------- */
 
   function renderTodayWord() {
@@ -189,7 +205,7 @@
       '</div>' +
       '<p class="entry-meaning">' + esc(t.description) + '</p>' +
       '<p class="trend-why">왜 인기일까요? — ' + esc(t.why_popular) + '</p>' +
-      '<p class="trend-talk"><strong>💬 이렇게 말 걸어 보세요</strong><br>“' + esc(t.talk_tip) + '”</p>' +
+      '<p class="trend-talk"><strong><svg class="icon" aria-hidden="true"><use href="#i-chat"></use></svg> 이렇게 말 걸어 보세요</strong><br>“' + esc(t.talk_tip) + '”</p>' +
     '</article>';
   }
 
@@ -342,6 +358,7 @@
 
     initFontControl();
     initRouting();
+    initHomeSearch();
     renderTodayWord();
     initDictionary();
     initTrends();
