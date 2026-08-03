@@ -39,6 +39,8 @@ html {
   font-size: 18px; /* CSS 변수 미지원 브라우저용 고정값 */
   font-size: var(--base-size);
   scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%; /* 아이폰 가로 모드에서 글자가 제멋대로 커지는 것 방지 */
+  text-size-adjust: 100%;
 }
 
 html[data-font="2"] { font-size: 21px; font-size: var(--base-size); }
@@ -61,6 +63,13 @@ body {
 }
 
 img { max-width: 100%; }
+
+/* 누를 수 있는 요소: 오래된 휴대폰의 탭 지연(약 0.3초)을 없애고
+   회색 깜빡임을 부드럽게 만듭니다. */
+a, button, summary, input, label {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: rgba(30, 58, 138, 0.12);
+}
 
 /* 아웃라인 아이콘 (텍스트와 항상 함께 사용) */
 .icon {
@@ -127,6 +136,7 @@ img { max-width: 100%; }
   display: flex;
   align-items: center;
   gap: 0.6rem;
+  min-height: 2.75rem; /* 터치 목표 44px 이상 */
   text-decoration: none;
   color: inherit;
 }
@@ -335,11 +345,12 @@ h2 { font-size: 1.3rem; letter-spacing: -0.01em; }
 .today-word-card .example .explain { color: var(--muted); font-size: 0.92rem; margin-top: 0.25rem; }
 
 .more-link {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
   color: var(--primary);
   font-weight: 700;
   text-decoration: none;
-  min-height: 2rem;
+  min-height: 2.75rem; /* 터치 목표 44px 이상 */
 }
 .more-link:hover { text-decoration: underline; }
 

@@ -93,7 +93,9 @@
   function renderTodayWord() {
     var box = $('#today-word-card');
     if (!box || !window.SLANG_DATA || !SLANG_DATA.length) return;
-    var days = Math.floor(Date.now() / 86400000);
+    // 한국 시간(UTC+9) 자정에 바뀌도록 9시간을 더해 날짜를 셉니다.
+    // (더하지 않으면 UTC 자정 = 한국 시간 오전 9시에 바뀝니다.)
+    var days = Math.floor((Date.now() + 9 * 3600 * 1000) / 86400000);
     var entry = SLANG_DATA[days % SLANG_DATA.length];
     box.innerHTML =
       '<p class="term">' + esc(entry.term) + '</p>' +
@@ -264,9 +266,16 @@
 
     var input = $('#dict-search');
     if (input) {
+      // 글자마다 카드 40장을 다시 그리면 오래된 휴대폰에서 입력이 끊깁니다.
+      // 잠깐 멈춘 뒤 한 번만 그리도록 모아서 처리합니다.
+      var searchTimer = null;
       input.addEventListener('input', function () {
-        dictState.query = input.value;
-        renderDictionary();
+        if (searchTimer) clearTimeout(searchTimer);
+        searchTimer = setTimeout(function () {
+          searchTimer = null;
+          dictState.query = input.value;
+          renderDictionary();
+        }, 150);
       });
     }
 
@@ -286,13 +295,22 @@
   /* ---------- 바로 쓰는 말걸기 문장 ---------- */
 
   function copyText(text, btn) {
-    var original = btn.textContent;
+    // 원래 라벨은 첫 클릭 때 한 번만 저장합니다.
+    // (연타하면 "복사됨 ✓"를 원래 라벨로 착각해 그대로 굳어 버립니다.)
+    var original = btn.getAttribute('data-label');
+    if (!original) {
+      original = btn.textContent;
+      btn.setAttribute('data-label', original);
+    }
+    if (btn.resetTimer) clearTimeout(btn.resetTimer);
+
     function done() {
       btn.textContent = '복사됨 ✓';
       btn.classList.add('copied');
-      setTimeout(function () {
+      btn.resetTimer = setTimeout(function () {
         btn.textContent = original;
         btn.classList.remove('copied');
+        btn.resetTimer = null;
       }, 1600);
     }
     function fallback() {
