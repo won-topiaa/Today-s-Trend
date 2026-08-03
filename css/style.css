@@ -1017,15 +1017,92 @@ h2 { font-size: 1.3rem; letter-spacing: -0.01em; }
 
 .site-footer p { max-width: 40rem; margin: 0.3rem auto; }
 
-/* ---------- 반응형 ---------- */
+/* ---------- 모바일 하단 메뉴 ---------- */
+
+.bottom-nav { display: none; }
+
+@media (max-width: 768px) {
+  /* 상단 메뉴 줄을 감추고, 엄지가 닿는 하단 고정 메뉴로 대체합니다 */
+  .site-nav { display: none; }
+
+  .bottom-nav {
+    display: flex;
+    position: fixed;
+    left: 0; right: 0; bottom: 0;
+    background: var(--card);
+    border-top: 1px solid var(--line);
+    box-shadow: 0 -2px 8px rgba(16, 24, 40, 0.06);
+    z-index: 60;
+    padding-bottom: env(safe-area-inset-bottom); /* 아이폰 하단 홈 표시줄 영역 확보 */
+  }
+
+  .bottom-nav .nav-link {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.15rem;
+    padding: 0.5rem 0.15rem 0.45rem;
+    min-height: 3.5rem;
+    min-width: 0;
+    border-radius: 0;
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--muted);
+  }
+
+  .bottom-nav .nav-link .icon {
+    width: 1.35rem;
+    height: 1.35rem;
+    vertical-align: 0;
+  }
+
+  .bottom-nav .nav-link:hover { background: var(--card); }
+
+  /* 하단 메뉴의 활성 표시는 흰 글자 대신 네이비 강조로 */
+  .bottom-nav .nav-link.active {
+    background: var(--primary-soft);
+    color: var(--primary);
+    font-weight: 700;
+  }
+
+  /* 고정 메뉴에 가리지 않도록 본문·푸터 아래 여백 확보 */
+  body { padding-bottom: calc(4.3rem + env(safe-area-inset-bottom)); }
+
+  /* 상단은 로고 + 글자 크기 조절만 남겨 화면을 넓게 씁니다 */
+  .header-inner { padding: 0.55rem 0.85rem; }
+  .font-control-label { display: none; }
+  .brand-text strong { font-size: 1.1rem; }
+  .brand-mark { width: 2.2rem; height: 2.2rem; }
+  .brand-mark .icon { width: 1.2rem; height: 1.2rem; }
+
+  main { padding-top: 1.1rem; }
+
+  /* 바로가기 카드: 세로로 길게 쌓이지 않게 가로형으로 압축 */
+  .shortcut-grid { gap: 0.6rem; }
+  .shortcut-card {
+    flex-direction: row;
+    align-items: center;
+    gap: 0.85rem;
+    padding: 0.9rem 1rem;
+  }
+  .shortcut-icon { width: 2.4rem; height: 2.4rem; }
+  .shortcut-card strong { font-size: 1.02rem; }
+  .shortcut-card p { display: none; }
+  .shortcut-card .card-action { margin-top: 0; margin-left: auto; white-space: nowrap; }
+}
+
+/* ---------- 반응형 (공통 소형 화면) ---------- */
 
 @media (max-width: 640px) {
-  .header-inner { padding-bottom: 0.2rem; }
   .brand-text small { display: none; }
-  .hero { padding: 1.5rem 1.2rem; }
+  .hero { padding: 1.4rem 1.2rem; }
   .hero h1 { font-size: 1.55rem; }
   .page > h1 { font-size: 1.45rem; }
-  .nav-link { padding: 0.5rem 0.75rem; font-size: 0.9rem; }
   .filter-title { min-width: 100%; margin-bottom: -0.2rem; }
   .home-search-form .btn { width: 100%; }
+  .entry-card, .live-card, .tip-card { padding: 1rem 1.05rem; }
+  .quiz-intro-card, .quiz-question-card, .quiz-result-card { padding: 1.3rem 1.1rem; }
+  .live-toolbar { align-items: flex-start; flex-direction: column; }
 }
