@@ -1,75 +1,75 @@
 {
-  "updated": "2026-08-03T09:00:44.474Z",
+  "updated": "2026-08-03T14:13:17.645Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-03T09:00:44.474Z",
+      "fetched": "2026-08-03T14:13:17.645Z",
       "items": [
         {
-          "title": "스타뉴스",
-          "traffic": "200+",
-          "context": "한화 김동선의 홀로서기…'비싸도 더 오를' 프리미엄 부동산에 풀베팅"
+          "title": "인도네시아 대 베트남",
+          "traffic": "2000+",
+          "context": "'싱가포르와 무승부' 김상식, 오늘 인니전 필승 각오...인니 매체는 \"당황한 듯\" 직격"
         },
         {
-          "title": "문진희",
+          "title": "indonesia đấu với việt nam",
           "traffic": "500+",
-          "context": "청문회서 \"거긴 끼지 마시고\"… 축구협회 임원 결국 사임"
+          "context": "Indonesia – Việt Nam: Cuộc chiến sinh tử ở ASEAN Cup"
         },
         {
-          "title": "전설 의 사내",
-          "traffic": "10000+",
-          "context": "'무명전설' 우승 성리 \"제주도 집 계약, 상금 1억원도 입금 돼\"('전설의사내')"
-        },
-        {
-          "title": "국방부",
-          "traffic": "5000+",
-          "context": "‘빈총’에 저격당했다... 1군단장 직무 배제"
-        },
-        {
-          "title": "아리아나 그란데",
+          "title": "낚시",
           "traffic": "500+",
-          "context": "“너무 말랐다” 악플 피해…아리아나 그란데, 결국 활동 멈춘다"
+          "context": "포항 낚시객 2명 사망‥전국 곳곳 수난사고"
         },
         {
-          "title": "폭염중대경보",
-          "traffic": "1000+",
-          "context": "양산 40도 밑돌았지만 경북·수도권 40도 '폭염'…서울 첫 중대경보(종합)"
-        },
-        {
-          "title": "손아섭",
-          "traffic": "5000+",
-          "context": "손아섭, 이대로 두산과 이별하나...애초에 잠실에 어울리는 선수가 아니었다"
-        },
-        {
-          "title": "롤라팔루자",
+          "title": "방시혁",
           "traffic": "200+",
-          "context": "제니, 韓여성 솔로 첫 롤라팔루자 헤드라이너…미공개 신곡 공개"
+          "context": "“방시혁 1조 증발” 41만원 주식이 17만원된 사연"
         },
         {
-          "title": "돌핀 경로",
-          "traffic": "5000+",
-          "context": "더 센 폭염 오나…태풍 ’돌핀’ 북상 중"
+          "title": "전현무",
+          "traffic": "2000+",
+          "context": "'연 수입 40억' 전현무, 결정사 나이·외모 '최하점 1점' 굴욕"
         },
         {
-          "title": "이데일리",
+          "title": "진 양곤",
           "traffic": "200+",
-          "context": "또 녹아내리는 삼전닉스에 '철렁'…주식 고수들 '뜻밖의 전망'"
+          "context": "HLB그룹, 새 GI 선포…\"더 큰 미래 향해 도약\" - 머니투데이"
+        },
+        {
+          "title": "수영복",
+          "traffic": "500+",
+          "context": "한강 수영장에 분홍 원피스 입은 남성? \"아이들 북적이는데\" 갑론을박"
+        },
+        {
+          "title": "평촌신도시",
+          "traffic": "200+",
+          "context": "안양시, 2026년 평촌신도시 주민제안 접수 완료…6개 구역 1만4천여 호 신청"
+        },
+        {
+          "title": "양평군",
+          "traffic": "2000+",
+          "context": "양평군, 2040년까지 환경정책 밑그림 완성…보전·개발 조화에 초점"
+        },
+        {
+          "title": "최애의 사원",
+          "traffic": "500+",
+          "context": "좀비에 쫓기고 불륜 잡아내다가...데뷔 11년 만에 첫 로코"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-03T09:00:44.474Z",
+      "fetched": "2026-08-03T14:13:17.645Z",
       "items": [
-        {
-          "title": "Less than a Lover",
-          "artist": "제니"
-        },
         {
           "title": "REDRED",
           "artist": "코르티스"
+        },
+        {
+          "title": "Less than a Lover",
+          "artist": "제니"
         },
         {
           "title": "LOVE ATTACK",
@@ -88,12 +88,12 @@
           "artist": "리센느"
         },
         {
-          "title": "It's Me",
-          "artist": "아일릿"
-        },
-        {
           "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
           "artist": "Post Malone & Swae Lee"
+        },
+        {
+          "title": "It's Me",
+          "artist": "아일릿"
         },
         {
           "title": "Deja Vu",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-03T09:00:44.474Z",
+      "fetched": "2026-08-03T14:13:17.645Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 18219
+          "views": 18688
         },
         {
           "title": "한국방송공사",
-          "views": 13097
+          "views": 15142
         },
         {
           "title": "한국교육방송공사",
-          "views": 9188
+          "views": 9106
         },
         {
           "title": "유튜브",
-          "views": 8051
-        },
-        {
-          "title": "박지현 (가수)",
-          "views": 5734
-        },
-        {
-          "title": "오디세이 (영화)",
-          "views": 3180
-        },
-        {
-          "title": "새 (영화)",
-          "views": 3084
+          "views": 6388
         },
         {
           "title": "사랑이 온다 (드라마)",
-          "views": 2934
+          "views": 4960
+        },
+        {
+          "title": "박동빈",
+          "views": 3649
         },
         {
           "title": "김민하 (1995년)",
-          "views": 2663
+          "views": 2945
         },
         {
-          "title": "유부녀 킬러",
-          "views": 2495
+          "title": "오디세이 (영화)",
+          "views": 2599
+        },
+        {
+          "title": "박진영",
+          "views": 2557
+        },
+        {
+          "title": "박지현 (가수)",
+          "views": 2413
         }
       ]
     }
