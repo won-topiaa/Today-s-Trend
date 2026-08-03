@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-02T18:52:54.023Z",
+  "updated": "2026-08-03T01:46:44.458Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-02T18:52:54.023Z",
+      "fetched": "2026-08-03T01:46:44.458Z",
       "items": [
         {
-          "title": "여객선",
-          "traffic": "1000+",
-          "context": "여객선 화재에 승객들 바다로 '풍덩'...5명 사망·41명 실종"
-        },
-        {
-          "title": "히샬리송",
-          "traffic": "1000+",
-          "context": "손흥민 “토트넘 내가 필요하냐” 물어봤는데, 히샬리송 ‘가끔 토트넘 떠나길 원한다’…데 제르브 감독 작심발언"
-        },
-        {
-          "title": "잠실대교",
+          "title": "차두리",
           "traffic": "200+",
-          "context": "한강서 수영하다 수문에 빨려 들어간 30대...20분 만에 심정지 상태로 구조"
+          "context": "깜짝돌풍 아니었네…판 흔드는 ‘차두리 축구’"
         },
         {
-          "title": "박기량",
-          "traffic": "200+",
-          "context": "박기량 치어리더 '두플래쉬에 래쉬가드 입고'[포토]"
-        },
-        {
-          "title": "달 탐사",
-          "traffic": "1000+",
-          "context": "유럽은 달 탐사 임무에서 미국과 협력하기를 원한다."
-        },
-        {
-          "title": "서주원",
+          "title": "연료전지",
           "traffic": "100+",
-          "context": "아옳이, 이혼 4년만에 한의사 새 남친 김형배 공개…\"예쁘게 봐주세요\""
+          "context": "“수억원 들여 설치해도 안 쓴다”···현실 고려 못한 ‘의무화’에 애물단지 전락한 연료전지"
         },
         {
-          "title": "lck",
-          "traffic": "1000+",
-          "context": "DNS jungler Sharvel's LCK breakout highlights esports' growing talent pipeline, but where's the crypto?"
+          "title": "tvn",
+          "traffic": "500+",
+          "context": "Top of the Top Sopot Festival 2026. Małgorzata Ostrowska o swoim występie"
         },
         {
-          "title": "앤드류 가필드",
-          "traffic": "200+",
-          "context": "How Andrew Garfield feels about successor Tom Holland’s Spider-Man portrayal"
-        },
-        {
-          "title": "마이클세일러",
-          "traffic": "200+",
-          "context": "마이크로스트래티지, 비트코인 미실현손실 83억 달러 반영…2분기 순손실 82억 달러 기록"
-        },
-        {
-          "title": "재벌x형사",
+          "title": "유산",
           "traffic": "5000+",
-          "context": "SBS 작정했다…최고 시청률 11% 흥행 신화→2년 만에 '도파민' 서사로 돌아오는 韓 드라마 ('재벌X형사2')"
+          "context": "진주성 영웅·사비 백제의 박사…빛으로 물든 국가유산 만나볼까"
+        },
+        {
+          "title": "전장연",
+          "traffic": "500+",
+          "context": "1호선 노량진역 무정차 통과중…혜화역 하행선은 운행 재개(상보)"
+        },
+        {
+          "title": "다슬기",
+          "traffic": "100+",
+          "context": "문경시, 다슬기 채취·물놀이 안전사고 주의 당부"
+        },
+        {
+          "title": "이솔이",
+          "traffic": "1000+",
+          "context": "'박성광과 이혼 부인' 이솔이 \"남은 건 이별뿐\"..서글픈 심경 고백"
+        },
+        {
+          "title": "암",
+          "traffic": "10000+",
+          "context": "“검캉스 가자” 국가암검진 수검 이벤트"
+        },
+        {
+          "title": "재산",
+          "traffic": "200+",
+          "context": "캠코, 3~5일 1조65억원 규모 압류재산 2천254건 공매"
+        },
+        {
+          "title": "직장갑질119",
+          "traffic": "100+",
+          "context": "소중한 연차 쓰고도…직장인 절반이 \"나도 당했다\""
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-02T18:52:54.023Z",
+      "fetched": "2026-08-03T01:46:44.458Z",
       "items": [
         {
           "title": "REDRED",
@@ -92,23 +92,23 @@
           "artist": "아일릿"
         },
         {
+          "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+          "artist": "Post Malone & Swae Lee"
+        },
+        {
           "title": "Deja Vu",
           "artist": "리센느"
         },
         {
           "title": "BAD",
           "artist": "에이티즈"
-        },
-        {
-          "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
-          "artist": "Post Malone & Swae Lee"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-02T18:52:54.023Z",
+      "fetched": "2026-08-03T01:46:44.458Z",
       "items": [
         {
           "title": "문화방송",
