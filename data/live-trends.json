@@ -1,75 +1,75 @@
 {
-  "updated": "2026-08-04T08:16:55.875Z",
+  "updated": "2026-08-04T13:44:35.864Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-04T08:16:55.875Z",
+      "fetched": "2026-08-04T13:44:35.864Z",
       "items": [
         {
-          "title": "이재영",
-          "traffic": "100+",
-          "context": "[공식발표] '日 무대 떠난' 이재영 새 둥지 찾았다, 유럽 무대 도전→투란VC 입단"
-        },
-        {
-          "title": "mlb",
-          "traffic": "1000+",
-          "context": "The 6 biggest winners of the Trade Deadline"
-        },
-        {
-          "title": "놀면 뭐하니?",
-          "traffic": "100+",
-          "context": "공효진, 정준원 '태도 논란'에 \"'놀뭐' 녹화 후 진짜 토했다\""
-        },
-        {
-          "title": "대전 날씨",
-          "traffic": "100+",
-          "context": "대전충남, 무더위·열대야 이어져…오후에 소나기"
-        },
-        {
-          "title": "kt wiz",
-          "traffic": "200+",
-          "context": "KT Wiz Honors Champion Captain Hwang Jae-gyun in Retirement Ceremony"
-        },
-        {
-          "title": "케스파컵",
-          "traffic": "1000+",
-          "context": null
-        },
-        {
-          "title": "twitch",
-          "traffic": "200+",
-          "context": "I’m Cool With Jaylen Brown Doing Dangerous Stuff Like Skydiving if the Content is This Funny"
-        },
-        {
-          "title": "신영균",
-          "traffic": "100+",
-          "context": "'99세 배우' 신영균, 건강 여전…신현준 \"꾸준히 운동하시는 모습에 큰 자극\""
-        },
-        {
-          "title": "모아타운",
-          "traffic": "2000+",
-          "context": "서울 모아타운·신통기획 ‘취소 구역’ 전면 공개···“투기 거래 차단”"
-        },
-        {
-          "title": "종합격투기",
+          "title": "고용노동부",
           "traffic": "500+",
-          "context": "'비극' UFC 스타 파이터, 34세에 갑작스러운 사망 \"불과 두 달 전 경기 치렀는데…\""
+          "context": "자발적 퇴사 청년에도 실업급여 준다… 정년연장은 연내 입법"
+        },
+        {
+          "title": "한유라",
+          "traffic": "100+",
+          "context": "정형돈, 기러기 아빠 생활 청산…아내 한유라, 쌍둥이 딸과 5년 만에 귀국"
+        },
+        {
+          "title": "산골총각 영웅",
+          "traffic": "200+",
+          "context": "‘산골총각 영웅’ 임영웅, 특별 신청곡으로 마지막 산골 콘서트"
+        },
+        {
+          "title": "허재원",
+          "traffic": "200+",
+          "context": "제주SK 유망주들 독일로…세계 축구 꿈나무와 기량 겨룬다"
+        },
+        {
+          "title": "서범수",
+          "traffic": "200+",
+          "context": "서범수·진종오, 돌려차기 피해자 불러놓고 “돌려차기 한번 하죠”"
+        },
+        {
+          "title": "한문철",
+          "traffic": "100+",
+          "context": "갑자기 튀어나온 우산에 차량 파손…\"운이 나빴을 뿐 누구 잘못도 아냐\""
+        },
+        {
+          "title": "첼시 fc",
+          "traffic": "100+",
+          "context": "웰백 이어 36세 헨더슨까지…'베테랑 수집' 나선 첼시"
+        },
+        {
+          "title": "오산 공군기지",
+          "traffic": "2000+",
+          "context": "[속보]“美공군 박살” 평택기지 침입 대진연 8명 검거"
+        },
+        {
+          "title": "중수 청",
+          "traffic": "2000+",
+          "context": "중수청 2837명...10년차 미만 평검사 이직시 '4급 수사관'"
+        },
+        {
+          "title": "삼전닉스",
+          "traffic": "2000+",
+          "context": "‘상한가 가길래 기대 했는데’…삼전닉스 하루 만에 8%대 급락 ‘허탈’"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-04T08:16:55.875Z",
+      "fetched": "2026-08-04T13:44:35.864Z",
       "items": [
-        {
-          "title": "Less than a Lover",
-          "artist": "제니"
-        },
         {
           "title": "REDRED",
           "artist": "코르티스"
+        },
+        {
+          "title": "Less than a Lover",
+          "artist": "제니"
         },
         {
           "title": "LOVE ATTACK",
@@ -96,59 +96,59 @@
           "artist": "아일릿"
         },
         {
-          "title": "Deja Vu",
-          "artist": "리센느"
+          "title": "Surfin' Boy",
+          "artist": "레드벨벳"
         },
         {
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Deja Vu",
+          "artist": "리센느"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-04T08:16:55.875Z",
+      "fetched": "2026-08-04T13:44:35.864Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 18688
+          "views": 17309
         },
         {
           "title": "한국방송공사",
-          "views": 15142
-        },
-        {
-          "title": "한국교육방송공사",
-          "views": 9106
+          "views": 15650
         },
         {
           "title": "유튜브",
-          "views": 6388
+          "views": 8149
         },
         {
-          "title": "사랑이 온다 (드라마)",
-          "views": 4960
-        },
-        {
-          "title": "박동빈",
-          "views": 3649
-        },
-        {
-          "title": "김민하 (1995년)",
-          "views": 2945
+          "title": "한국교육방송공사",
+          "views": 7368
         },
         {
           "title": "오디세이 (영화)",
-          "views": 2599
+          "views": 4615
         },
         {
-          "title": "박진영",
-          "views": 2557
+          "title": "최영중",
+          "views": 4304
         },
         {
-          "title": "박지현 (가수)",
-          "views": 2413
+          "title": "다음",
+          "views": 4186
+        },
+        {
+          "title": "Main Page",
+          "views": 2454
+        },
+        {
+          "title": "김서연",
+          "views": 2271
+        },
+        {
+          "title": "쿠팡",
+          "views": 2206
         }
       ]
     }
