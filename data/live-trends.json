@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-03T19:17:02.195Z",
+  "updated": "2026-08-04T01:22:31.305Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-03T19:17:02.195Z",
+      "fetched": "2026-08-04T01:22:31.305Z",
       "items": [
         {
-          "title": "이찬원",
-          "traffic": "100+",
-          "context": "이번엔 이지혜 저격한 고영욱 \"허세를 학습한 걸까\""
-        },
-        {
-          "title": "물고기",
-          "traffic": "200+",
-          "context": "Global Fish Box 시장 규모 상위 20개 기업"
-        },
-        {
-          "title": "산초",
-          "traffic": "200+",
-          "context": "한때 잉글랜드 최고 재능, 이렇게까지 몰락할 수가...맨유와 결별→'10부리그 팀' 훈련장 이용 중"
-        },
-        {
-          "title": "klasemen timnas indonesia vs tim nasional sepak bola vietnam",
-          "traffic": "200+",
-          "context": "John Herdman Dipecat atau Dipertahankan? Erick Thohir Beri Jawaban Tegas Usai Timnas Indonesia Dibantai Vietnam 0-3"
-        },
-        {
-          "title": "lg이노텍",
-          "traffic": "200+",
-          "context": "\"피지컬 AI 시대 전환점… '위닝 테크'로 핵심 파트너가 될 것\" [오늘의 DT인]"
-        },
-        {
-          "title": "화산분화",
+          "title": "유하진",
           "traffic": "2000+",
-          "context": null
+          "context": "강균성 예비신부, 14세 연하 배우 유하진이었다"
         },
         {
-          "title": "내 남은 연애",
-          "traffic": "100+",
-          "context": "\"머리 밀고 자기혐오 심해져\"...친언니 골수 이식 받은 미모의 청순녀[내남은연애][별별TV]"
-        },
-        {
-          "title": "대피소",
+          "title": "최진실",
           "traffic": "500+",
-          "context": "“금고에 돈넣으래” 대피했다 재진입 사망 女직원"
+          "context": "故 최진실 인연…홍진경, 최환희 생일 직접 축하 '훈훈' [MHN:피드]"
         },
         {
-          "title": "김용빈",
-          "traffic": "100+",
-          "context": "\"아티스트의 행사 일정과 중복\"…김용빈 첫 단독 콘서트 '세레나데', 예매 오픈일 변경"
-        },
-        {
-          "title": "인터 마이애미 cf",
+          "title": "필라델피아 필리스",
           "traffic": "200+",
-          "context": "'손흥민 우승 경쟁팀' 인터 마이애미, 드림팀 결성한다...메시+수아레즈+카세미루 이어 더 브라위너 영입 작업 착수"
+          "context": "롯데가 만든 역수출 신화 레일리, 38세에도 러브콜…필라델피아 유니폼 입는다"
+        },
+        {
+          "title": "박보경",
+          "traffic": "200+",
+          "context": "'청룡 부부' 진선규·박보경 \"신혼 때부터 꿈꿔온 순간\""
+        },
+        {
+          "title": "오픈ai",
+          "traffic": "100+",
+          "context": "오픈AI, '코덱스' 활용 게임 개발 해커톤 개최…'리니지의 아버지' 송재경 참여"
+        },
+        {
+          "title": "엄정화 나이",
+          "traffic": "1000+",
+          "context": "엄정화X박성웅X배정남 ‘오케이 마담2’ 주역들, 사상 최초 ‘아침마당’ 출격!| 디지털 KBS"
+        },
+        {
+          "title": "다저스 대 컵스",
+          "traffic": "2000+",
+          "context": "MLB 스플리터 장인 고즈먼, 토론토서 시카고 컵스로 이적"
+        },
+        {
+          "title": "황정민 폭로녀",
+          "traffic": "200+",
+          "context": "\"황정민 폭로 여성은 15살 연하...확인된 신체 접촉? 어깨에 손 올린 정도\" - 머니투데이"
+        },
+        {
+          "title": "현대 아반떼",
+          "traffic": "200+",
+          "context": "[기업 이모저모] '차급 넘는다'는 아반떼…쏘나타는 어디쯤"
+        },
+        {
+          "title": "상주시",
+          "traffic": "200+",
+          "context": "생산액 45조 회복에 삼성·오뚜기·두산까지…구미 ‘제2전성기’ 시작됐다"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-03T19:17:02.195Z",
+      "fetched": "2026-08-04T01:22:31.305Z",
       "items": [
         {
           "title": "REDRED",
@@ -100,15 +100,15 @@
           "artist": "리센느"
         },
         {
-          "title": "BAD",
-          "artist": "에이티즈"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-03T19:17:02.195Z",
+      "fetched": "2026-08-04T01:22:31.305Z",
       "items": [
         {
           "title": "문화방송",
