@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-05T13:40:20.661Z",
+  "updated": "2026-08-05T19:12:36.572Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-05T13:40:20.661Z",
+      "fetched": "2026-08-05T19:12:36.572Z",
       "items": [
         {
-          "title": "이은결",
-          "traffic": "200+",
-          "context": "이은결, 10년 노예계약 사기 당해 \"믿었던 형에게 인감 맡겨…수익 0원\" [유퀴즈]"
-        },
-        {
-          "title": "엘니뇨",
-          "traffic": "1000+",
-          "context": "폭염에 파나마 운하 통행까지 비상…‘수퍼 엘니뇨’ 우려에 통행 제한"
-        },
-        {
-          "title": "첼시",
-          "traffic": "500+",
-          "context": "\"올여름 보강을 거의 마무리한 셈이다\"… 쿠쿠렐라 떠나보낸 첼시, 1998년생 왼쪽 풀백 펩 차바리아 영입 임박"
-        },
-        {
-          "title": "장한별",
-          "traffic": "1000+",
-          "context": "성리 친형 등장…도플갱어급 목소리에 ‘깜짝’ (전설의 사내)"
-        },
-        {
-          "title": "간호사",
-          "traffic": "1000+",
-          "context": "“의사 두고 간호사가 응급처치”…수면 내시경 환자 사망"
-        },
-        {
-          "title": "imax",
+          "title": "lg 의인상",
           "traffic": "100+",
-          "context": "‘Spider-Man’ Sets Imax Release Date In North America"
+          "context": "수심 3m 가라앉던 19개월 아기 구한 60대… ‘LG 의인상’ 포상금도 기부"
         },
         {
-          "title": "조국",
+          "title": "알테오젠",
           "traffic": "200+",
-          "context": "“한 명도 책임 안 지는 모습”···‘레버리지 ETF’ 파장에 여권 내부도 김용범에 불만"
+          "context": "[특징주] 알테오젠, 5천억원 규모 라이선스 계약에 상승(종합)"
         },
         {
-          "title": "chelsea đấu với juventus",
-          "traffic": "100+",
-          "context": "Trực tiếp bóng đá Chelsea - Juventus: Zhegrova đặt lòng đẹp mắt đưa Juventus dẫn trước"
+          "title": "계엄",
+          "traffic": "1000+",
+          "context": "'尹계엄' 반란수괴 적용 불가 근거는…\"1980년 5·17 내란 판례\""
         },
         {
-          "title": "기부",
+          "title": "고현정",
           "traffic": "2000+",
-          "context": "홍지윤, ‘현역가왕3’ 우승 상금 전액 기부…“누군가에게 작은 힘 되길”"
+          "context": "\"김밥 2알 겨우 먹어\"...앙상하게 마른 고현정, 다이어트 아닌 '음식 공포증' 고백 [헬스톡]"
         },
         {
-          "title": "양양군",
+          "title": "덕분",
+          "traffic": "200+",
+          "context": "고양이 덕분에 힐링…통영 용호도서 축제"
+        },
+        {
+          "title": "장항준",
+          "traffic": "1000+",
+          "context": "장항준, '태도논란' 정준원에 \"인사성 없고 무례했다\" 농담 재조명"
+        },
+        {
+          "title": "fa컵",
+          "traffic": "200+",
+          "context": "2026-27 FA Cup Fixture Finder Map"
+        },
+        {
+          "title": "주소",
+          "traffic": "200+",
+          "context": "고양시, 교차로 길 찾기 쉬워진다...신규 도로명판 231개 설치 완료"
+        },
+        {
+          "title": "채리나",
           "traffic": "500+",
-          "context": "“군민이 곧 군정 출발점… 곁으로 찾아가는 현장행정 실현”"
+          "context": "민낯 처음 공개한 채리나 “성형괴물 악플에 상처” 눈물"
+        },
+        {
+          "title": "경로당",
+          "traffic": "200+",
+          "context": "울산시, 경로당 연장 운영 등 노인 폭염 피해 예방"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-05T13:40:20.661Z",
+      "fetched": "2026-08-05T19:12:36.572Z",
       "items": [
         {
           "title": "REDRED",
@@ -72,16 +72,16 @@
           "artist": "제니"
         },
         {
+          "title": "Surfin' Boy",
+          "artist": "레드벨벳"
+        },
+        {
           "title": "LOVE ATTACK",
           "artist": "리센느"
         },
         {
           "title": "Lemon Tang",
           "artist": "Hearts2Hearts"
-        },
-        {
-          "title": "Surfin' Boy",
-          "artist": "레드벨벳"
         },
         {
           "title": "LEMONADE",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-05T13:40:20.661Z",
+      "fetched": "2026-08-05T19:12:36.572Z",
       "items": [
         {
           "title": "문화방송",
