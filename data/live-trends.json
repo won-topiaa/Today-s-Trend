@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-05T08:14:48.824Z",
+  "updated": "2026-08-05T13:40:20.661Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-05T08:14:48.824Z",
+      "fetched": "2026-08-05T13:40:20.661Z",
       "items": [
         {
-          "title": "이지 한",
-          "traffic": "20000+",
-          "context": "“엄마, 신발이 벗겨져”…못 돌아온 아들, 거실 쪽으로 새 구두 놔뒀어"
+          "title": "이은결",
+          "traffic": "200+",
+          "context": "이은결, 10년 노예계약 사기 당해 \"믿었던 형에게 인감 맡겨…수익 0원\" [유퀴즈]"
         },
         {
-          "title": "교통카드",
-          "traffic": "2000+",
-          "context": "\"국장 투자하라면서 기존 ISA 혜택 깎아\"…'생산적금융 ISA' 출시 논란"
-        },
-        {
-          "title": "서장훈",
+          "title": "엘니뇨",
           "traffic": "1000+",
-          "context": "서장훈, '착한 건물주'였다..\"임차인 단 한 번도 먼저 내보낸 적 없어\" [이웃집 백만장자]"
+          "context": "폭염에 파나마 운하 통행까지 비상…‘수퍼 엘니뇨’ 우려에 통행 제한"
         },
         {
-          "title": "l g 화학",
-          "traffic": "1000+",
-          "context": "검찰, '전쟁 틈타 PVC 등 담합' 의혹으로 석화업체 7곳 압수수색"
-        },
-        {
-          "title": "성심당",
-          "traffic": "2000+",
-          "context": "37도 폭염에도 200명 줄 섰다…“몇몇 쓰러져 119도” 성심당 결국"
-        },
-        {
-          "title": "배재고등학교 야구부",
-          "traffic": "1000+",
-          "context": "배재고, '스타벅스 가야지' 선창 학생 2명에 중징계"
-        },
-        {
-          "title": "주차공간",
+          "title": "첼시",
           "traffic": "500+",
-          "context": "“택배 기사님 여기 주차하세요“...’명당 자리’ 내준 아파트 화제"
+          "context": "\"올여름 보강을 거의 마무리한 셈이다\"… 쿠쿠렐라 떠나보낸 첼시, 1998년생 왼쪽 풀백 펩 차바리아 영입 임박"
         },
         {
-          "title": "킬러들의 쇼핑몰 시즌2 공개시간",
+          "title": "장한별",
+          "traffic": "1000+",
+          "context": "성리 친형 등장…도플갱어급 목소리에 ‘깜짝’ (전설의 사내)"
+        },
+        {
+          "title": "간호사",
+          "traffic": "1000+",
+          "context": "“의사 두고 간호사가 응급처치”…수면 내시경 환자 사망"
+        },
+        {
+          "title": "imax",
           "traffic": "100+",
-          "context": "[TF인터뷰] 이동욱이 이어간 '킬러들의 쇼핑몰'…\"여전히 주인공은 지안\""
+          "context": "‘Spider-Man’ Sets Imax Release Date In North America"
         },
         {
-          "title": "식이",
-          "traffic": "5000+",
-          "context": "장 건강에 좋은 망고인데…의외로 위험한 사람은?"
+          "title": "조국",
+          "traffic": "200+",
+          "context": "“한 명도 책임 안 지는 모습”···‘레버리지 ETF’ 파장에 여권 내부도 김용범에 불만"
         },
         {
-          "title": "한동훈",
+          "title": "chelsea đấu với juventus",
+          "traffic": "100+",
+          "context": "Trực tiếp bóng đá Chelsea - Juventus: Zhegrova đặt lòng đẹp mắt đưa Juventus dẫn trước"
+        },
+        {
+          "title": "기부",
           "traffic": "2000+",
-          "context": "국민의힘서 \"윤리위 해체, 한동훈 제명 철회\" 주장"
+          "context": "홍지윤, ‘현역가왕3’ 우승 상금 전액 기부…“누군가에게 작은 힘 되길”"
+        },
+        {
+          "title": "양양군",
+          "traffic": "500+",
+          "context": "“군민이 곧 군정 출발점… 곁으로 찾아가는 현장행정 실현”"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-05T08:14:48.824Z",
+      "fetched": "2026-08-05T13:40:20.661Z",
       "items": [
         {
           "title": "REDRED",
@@ -80,12 +80,12 @@
           "artist": "Hearts2Hearts"
         },
         {
-          "title": "LEMONADE",
-          "artist": "aespa"
-        },
-        {
           "title": "Surfin' Boy",
           "artist": "레드벨벳"
+        },
+        {
+          "title": "LEMONADE",
+          "artist": "aespa"
         },
         {
           "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
@@ -100,55 +100,55 @@
           "artist": "아일릿"
         },
         {
-          "title": "hate that i made you love me",
-          "artist": "Ariana Grande"
+          "title": "Deja Vu",
+          "artist": "리센느"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-05T08:14:48.824Z",
+      "fetched": "2026-08-05T13:40:20.661Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 17309
+          "views": 19213
         },
         {
           "title": "한국방송공사",
-          "views": 15650
+          "views": 13484
         },
         {
           "title": "유튜브",
-          "views": 8149
+          "views": 10558
         },
         {
           "title": "한국교육방송공사",
-          "views": 7368
+          "views": 7494
         },
         {
           "title": "오디세이 (영화)",
-          "views": 4615
-        },
-        {
-          "title": "최영중",
-          "views": 4304
+          "views": 4317
         },
         {
           "title": "다음",
-          "views": 4186
-        },
-        {
-          "title": "Main Page",
-          "views": 2454
-        },
-        {
-          "title": "김서연",
-          "views": 2271
+          "views": 3684
         },
         {
           "title": "쿠팡",
-          "views": 2206
+          "views": 2285
+        },
+        {
+          "title": "합동태풍경보센터",
+          "views": 2253
+        },
+        {
+          "title": "트로이 전쟁",
+          "views": 2181
+        },
+        {
+          "title": "이지은 (정치인)",
+          "views": 1938
         }
       ]
     }
