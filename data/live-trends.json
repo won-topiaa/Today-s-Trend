@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-06T01:24:55.149Z",
+  "updated": "2026-08-06T08:13:19.499Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-06T01:24:55.149Z",
+      "fetched": "2026-08-06T08:13:19.499Z",
       "items": [
         {
-          "title": "종합부동산세",
+          "title": "반민정",
+          "traffic": "100+",
+          "context": "'9월 결혼' 반민정 누구? 조덕제 성추행 피해자→'각시탈' 연기상 [스타이슈]"
+        },
+        {
+          "title": "하한가",
+          "traffic": "500+",
+          "context": "11주 주문에 SK하이닉스 하한가…반복되는 넥스트레이드 가격 왜곡"
+        },
+        {
+          "title": "kespa컵",
+          "traffic": "200+",
+          "context": "예스24, ‘2026 LoL KeSPA CUP’ 결선 티켓 단독 판매"
+        },
+        {
+          "title": "법인세",
+          "traffic": "200+",
+          "context": "46조 법인세에 美·日 환율 공조까지…원화 ‘1300원대’ 기대감 By EBN"
+        },
+        {
+          "title": "태국",
           "traffic": "5000+",
-          "context": "10차 방정식 된 보유세... ‘양포 세무사’ 재등장할 판"
+          "context": "\"손녀들 같아서\"…한국 온 태국 관광객 밥값 6만원 계산한 어르신"
         },
         {
-          "title": "손태진",
-          "traffic": "500+",
-          "context": "손태진, 라디오·음악방송·스포츠 예능 오가며 활동 확장"
-        },
-        {
-          "title": "inter miami vs san luis",
-          "traffic": "500+",
-          "context": "BetMGM bonus code POSTBET: Get up to $1,500 in bonuses for Inter Miami vs. Atlético de San Luis"
-        },
-        {
-          "title": "다대포",
-          "traffic": "200+",
-          "context": "[도청도설] 다대포 부산바다축제"
-        },
-        {
-          "title": "포수",
-          "traffic": "200+",
-          "context": "다저스 큰일났다! IL 등재된 '욕쟁이 포수' 검진 결과 팔꿈치 인대 손상…시즌 아웃 가능성"
-        },
-        {
-          "title": "windy",
-          "traffic": "200+",
-          "context": "Windy and humid Wednesday on Key Biscayne"
-        },
-        {
-          "title": "백악관",
-          "traffic": "100+",
-          "context": "백악관 \"美해군 전투함 등 4척 해외 건조해야\"…의회에 요구"
-        },
-        {
-          "title": "이유비",
+          "title": "테슬라",
           "traffic": "2000+",
-          "context": "'견미리 딸' 이유비, '90억 한남동 집' 금수저의 침실...순백 파자마 입은 '공주님 미모'"
+          "context": "그랜저도 제치고 잘나가는 테슬라"
         },
         {
-          "title": "재테크",
+          "title": "이찬원",
+          "traffic": "2000+",
+          "context": "이찬원, 연예계 마당발 맞네…전화 한통에 '韓 최고 걸그룹' 출격 [편스토랑]"
+        },
+        {
+          "title": "엘에이 fc vs 과달라하라",
+          "traffic": "500+",
+          "context": "‘4경기 연속골’ 손흥민, 북중미 리그스컵 경기에서 침묵… LAFC는 승부차기 승리"
+        },
+        {
+          "title": "엘에이 fc",
           "traffic": "1000+",
-          "context": "[게시판] 케이뱅크, 게임하며 현금 받는 '게임라운지' 서비스"
+          "context": "WATCH: Lionel Messi breaks all-time Leagues Cup goalscoring record"
         },
         {
-          "title": "금값",
-          "traffic": "100+",
-          "context": "뉴욕 금값, 약달러에 급등...현물 4.3%↑"
+          "title": "인플루언서",
+          "traffic": "1000+",
+          "context": "용산 거주 일본인 인플루언서, 라이브방송 도중 사망"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-06T01:24:55.149Z",
+      "fetched": "2026-08-06T08:13:19.499Z",
       "items": [
         {
           "title": "REDRED",
@@ -80,12 +80,12 @@
           "artist": "리센느"
         },
         {
-          "title": "Lemon Tang",
-          "artist": "Hearts2Hearts"
-        },
-        {
           "title": "LEMONADE",
           "artist": "aespa"
+        },
+        {
+          "title": "Lemon Tang",
+          "artist": "Hearts2Hearts"
         },
         {
           "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-06T01:24:55.149Z",
+      "fetched": "2026-08-06T08:13:19.499Z",
       "items": [
         {
           "title": "문화방송",
