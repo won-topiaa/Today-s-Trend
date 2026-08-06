@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-05T19:12:36.572Z",
+  "updated": "2026-08-06T01:24:55.149Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-05T19:12:36.572Z",
+      "fetched": "2026-08-06T01:24:55.149Z",
       "items": [
         {
-          "title": "lg 의인상",
-          "traffic": "100+",
-          "context": "수심 3m 가라앉던 19개월 아기 구한 60대… ‘LG 의인상’ 포상금도 기부"
+          "title": "종합부동산세",
+          "traffic": "5000+",
+          "context": "10차 방정식 된 보유세... ‘양포 세무사’ 재등장할 판"
         },
         {
-          "title": "알테오젠",
-          "traffic": "200+",
-          "context": "[특징주] 알테오젠, 5천억원 규모 라이선스 계약에 상승(종합)"
-        },
-        {
-          "title": "계엄",
-          "traffic": "1000+",
-          "context": "'尹계엄' 반란수괴 적용 불가 근거는…\"1980년 5·17 내란 판례\""
-        },
-        {
-          "title": "고현정",
-          "traffic": "2000+",
-          "context": "\"김밥 2알 겨우 먹어\"...앙상하게 마른 고현정, 다이어트 아닌 '음식 공포증' 고백 [헬스톡]"
-        },
-        {
-          "title": "덕분",
-          "traffic": "200+",
-          "context": "고양이 덕분에 힐링…통영 용호도서 축제"
-        },
-        {
-          "title": "장항준",
-          "traffic": "1000+",
-          "context": "장항준, '태도논란' 정준원에 \"인사성 없고 무례했다\" 농담 재조명"
-        },
-        {
-          "title": "fa컵",
-          "traffic": "200+",
-          "context": "2026-27 FA Cup Fixture Finder Map"
-        },
-        {
-          "title": "주소",
-          "traffic": "200+",
-          "context": "고양시, 교차로 길 찾기 쉬워진다...신규 도로명판 231개 설치 완료"
-        },
-        {
-          "title": "채리나",
+          "title": "손태진",
           "traffic": "500+",
-          "context": "민낯 처음 공개한 채리나 “성형괴물 악플에 상처” 눈물"
+          "context": "손태진, 라디오·음악방송·스포츠 예능 오가며 활동 확장"
         },
         {
-          "title": "경로당",
+          "title": "inter miami vs san luis",
+          "traffic": "500+",
+          "context": "BetMGM bonus code POSTBET: Get up to $1,500 in bonuses for Inter Miami vs. Atlético de San Luis"
+        },
+        {
+          "title": "다대포",
           "traffic": "200+",
-          "context": "울산시, 경로당 연장 운영 등 노인 폭염 피해 예방"
+          "context": "[도청도설] 다대포 부산바다축제"
+        },
+        {
+          "title": "포수",
+          "traffic": "200+",
+          "context": "다저스 큰일났다! IL 등재된 '욕쟁이 포수' 검진 결과 팔꿈치 인대 손상…시즌 아웃 가능성"
+        },
+        {
+          "title": "windy",
+          "traffic": "200+",
+          "context": "Windy and humid Wednesday on Key Biscayne"
+        },
+        {
+          "title": "백악관",
+          "traffic": "100+",
+          "context": "백악관 \"美해군 전투함 등 4척 해외 건조해야\"…의회에 요구"
+        },
+        {
+          "title": "이유비",
+          "traffic": "2000+",
+          "context": "'견미리 딸' 이유비, '90억 한남동 집' 금수저의 침실...순백 파자마 입은 '공주님 미모'"
+        },
+        {
+          "title": "재테크",
+          "traffic": "1000+",
+          "context": "[게시판] 케이뱅크, 게임하며 현금 받는 '게임라운지' 서비스"
+        },
+        {
+          "title": "금값",
+          "traffic": "100+",
+          "context": "뉴욕 금값, 약달러에 급등...현물 4.3%↑"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-05T19:12:36.572Z",
+      "fetched": "2026-08-06T01:24:55.149Z",
       "items": [
         {
           "title": "REDRED",
@@ -100,15 +100,15 @@
           "artist": "아일릿"
         },
         {
-          "title": "Deja Vu",
-          "artist": "리센느"
+          "title": "hate that i made you love me",
+          "artist": "Ariana Grande"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-05T19:12:36.572Z",
+      "fetched": "2026-08-06T01:24:55.149Z",
       "items": [
         {
           "title": "문화방송",
