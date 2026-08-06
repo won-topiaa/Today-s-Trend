@@ -1,95 +1,95 @@
 {
-  "updated": "2026-08-06T13:38:50.849Z",
+  "updated": "2026-08-06T23:48:14.307Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-06T13:38:50.849Z",
+      "fetched": "2026-08-06T23:48:14.307Z",
       "items": [
         {
-          "title": "무역",
+          "title": "대학수학능력시험",
           "traffic": "100+",
-          "context": "영원무역, 국내 섬유장비 도입 확대…100억원 규모 환편기 계약 - 머니투데이"
+          "context": "이 대통령 \"객관식이 아이들 망쳐\"…수능 '대수술' 시동"
         },
         {
-          "title": "코로나 바이러스",
+          "title": "박완수",
           "traffic": "200+",
-          "context": "[사이언스샷] 코로나가 깨웠다, 잠복 바이러스가 중증 유발 - 조선비즈"
+          "context": "폭염에 타들어간 과일..올추석 금사과 재현되나?"
         },
         {
-          "title": "양육비",
-          "traffic": "2000+",
-          "context": "‘월 7000만원’ 벌다가 이혼 후 ‘수입 0원’…‘카페 알바’로 딸 양육비 버는 女유튜버"
-        },
-        {
-          "title": "페이즈",
+          "title": "단거리 탄도 미사일",
           "traffic": "200+",
-          "context": "[LCK] ‘부활 찬가’ T1, 젠지 이어 지구 최강 DK도 격파 선두 ‘사수’(종합)"
+          "context": "북한, 한미훈련 앞두고 동해상으로 단거리 탄도미사일 발사"
         },
         {
-          "title": "xsmb",
+          "title": "티 웨이 항공",
           "traffic": "1000+",
-          "context": "XSMN 6/8 - Kết quả XSMN hôm nay thứ Năm ngày 6/8/2026"
+          "context": "통합 대한항공 맞설 카드 꺼냈다… 트리니티항공이 공개한 ‘SSC’ 전략은?"
         },
         {
-          "title": "장기하",
-          "traffic": "200+",
-          "context": "'결별' 아이유, 얼굴에 드러난 건강 악화…\"열심히 사는 중\" 꽉 채운 46장"
-        },
-        {
-          "title": "안재현",
-          "traffic": "200+",
-          "context": "'끼리끼리' 해남 여행…보양먹방부터 쇼핑까지 '꽉 채운 하루'"
-        },
-        {
-          "title": "초과근무",
+          "title": "노동조합",
           "traffic": "500+",
-          "context": "근무하지도 않았는데…월 50시간 초과근무수당 챙긴 현직 경찰관들"
+          "context": "3대 국책은행 노조, '지방 이전 반대' 결의대회…\"2천여명 참가\""
         },
         {
-          "title": "김건희",
+          "title": "양양군",
+          "traffic": "200+",
+          "context": "[현장in] '문란한 동네' 허위 소문에 시달린 양양…올여름 피서객 급증"
+        },
+        {
+          "title": "베트남 축구 국가대표팀",
+          "traffic": "200+",
+          "context": "한국인이 3-0으로 이겼는데…이젠 한국인에 0-3으로 무너지네→인니 홈 30년 징크스 '와르르', STY 끝내 소환"
+        },
+        {
+          "title": "lg이노텍",
+          "traffic": "200+",
+          "context": "LG이노텍 직원 구미 기숙사서 사망···고용노동부 중대재해 조사"
+        },
+        {
+          "title": "러시아",
           "traffic": "1000+",
-          "context": "[비하인드 뉴스] '아무것도 아닌' 김건희? \"반려견 끌고가 공사 지시\""
+          "context": "이젠 민간시설까지 때린다…선넘는 러·우크라 전쟁"
         },
         {
-          "title": "세계일보",
-          "traffic": "500+",
-          "context": "[단독] 종합특검 '통일교 수사 무마 의혹' 관련 세계일보 전 부회장 조사"
+          "title": "이수현",
+          "traffic": "1000+",
+          "context": "악뮤 이수현, '김성주子' 김민국과 스위스 여행 \"첫 만남에 2시간 넘게 기다렸다\""
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-06T13:38:50.849Z",
+      "fetched": "2026-08-06T23:48:14.307Z",
       "items": [
         {
           "title": "REDRED",
           "artist": "코르티스"
         },
         {
-          "title": "Less than a Lover",
-          "artist": "제니"
-        },
-        {
           "title": "Surfin' Boy",
           "artist": "레드벨벳"
         },
         {
-          "title": "LOVE ATTACK",
-          "artist": "리센느"
+          "title": "Less than a Lover",
+          "artist": "제니"
+        },
+        {
+          "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+          "artist": "Post Malone & Swae Lee"
         },
         {
           "title": "LEMONADE",
           "artist": "aespa"
         },
         {
-          "title": "Lemon Tang",
-          "artist": "Hearts2Hearts"
+          "title": "LOVE ATTACK",
+          "artist": "리센느"
         },
         {
-          "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
-          "artist": "Post Malone & Swae Lee"
+          "title": "Lemon Tang",
+          "artist": "Hearts2Hearts"
         },
         {
           "title": "Pretty Girl",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-06T13:38:50.849Z",
+      "fetched": "2026-08-06T23:48:14.307Z",
       "items": [
         {
           "title": "문화방송",
