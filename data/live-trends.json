@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-07T12:38:03.741Z",
+  "updated": "2026-08-07T18:38:16.254Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-07T12:38:03.741Z",
+      "fetched": "2026-08-07T18:38:16.254Z",
       "items": [
         {
-          "title": "amd",
+          "title": "블랙핑크",
           "traffic": "200+",
-          "context": "AMD deepens AI inference bet with Taalas deal as chip race heats up"
+          "context": "블랙핑크 완전체, 데뷔 10주년 맞아 ‘국중박’에서 팬들 만난다"
         },
         {
-          "title": "전북 현대 모터스 fc",
+          "title": "이시영",
+          "traffic": "200+",
+          "context": "한국은 폭염인데…이시영 “캐나다는 에어컨 필요 없어” 근황"
+        },
+        {
+          "title": "최현석",
+          "traffic": "200+",
+          "context": "최현석 딸 최연수 \"제왕절개 한 달 전이 제일 무서웠다\" 출산 회상"
+        },
+        {
+          "title": "klasemen tim nasional sepak bola singapura vs timnas indonesia",
           "traffic": "100+",
-          "context": "제주SK \"전주성 함락, 아이아스 너만 믿는다\""
+          "context": "Imbangi Garuda, Media Singapura Heran Ranking FIFA Timnas Indonesia Padahal Jauh di Atas The Lions"
         },
         {
-          "title": "충남 아산 fc 대 안산 그리너스",
-          "traffic": "200+",
-          "context": "안산그리너스, ‘공격축구’ 충남아산 원정서 승점 3점 정조준"
+          "title": "놀면 뭐하니?",
+          "traffic": "100+",
+          "context": "'놀면 뭐하니?' 유재석, 정준하 향수 냄새에 폭발 \"왜 이렇게 뿌려\" - 머니투데이"
         },
         {
-          "title": "화성 대 서울e",
+          "title": "기사",
+          "traffic": "100+",
+          "context": "민선 9기 강원도지사-18개 시장·군수 첫 간담회…\"초당적 협력\""
+        },
+        {
+          "title": "류혜영",
           "traffic": "500+",
-          "context": "[그래도 K리그] 차두리 매직, 선두까지 넘본다...화성-서울E '운명의 빅매치'"
+          "context": "류혜영 앞머리 넘겨주는 고경표, 딱 걸렸다…'응팔' 보라♥선우 '망상회' 어게인('나혼산')"
         },
         {
-          "title": "오재원",
-          "traffic": "200+",
-          "context": "힘 빠진 한화 타선에 '반깁스' 오재원 언제 오나… \"상체 훈련 중, 시즌 내 복귀 가능\""
-        },
-        {
-          "title": "온도",
+          "title": "김구라",
           "traffic": "500+",
-          "context": "“여름엔 이 차 사는 거 다시 생각해야”...차량 내부온도, 85도까지 올랐다"
+          "context": "김구라 딸, 연예인 사주라더니…MC그리도 \"끼 정말 많다\" 눈길"
         },
         {
-          "title": "데이브 로버츠",
-          "traffic": "100+",
-          "context": "다저스 오타니, 시즌 첫 멀티 홈런 '25·26호'…팀은 컵스에 져 6연패"
+          "title": "하한가",
+          "traffic": "1000+",
+          "context": "프리마켓 하이닉스 하한가 논란…넥스트레이드 \"재발 막겠다\""
         },
         {
-          "title": "훈련",
-          "traffic": "100+",
-          "context": "제13호 태풍 '돌핀' 대비…'배수 펌프장' 8곳 대응 훈련 등[울진소식]"
-        },
-        {
-          "title": "교도소",
+          "title": "정해인",
           "traffic": "200+",
-          "context": "\"에어컨 설치 중단\" 수용자에 얼음물 지급…37도까지 치솟은 교도소 상황"
-        },
-        {
-          "title": "동전주",
-          "traffic": "100+",
-          "context": "벼랑 끝 몰린 동전주…'상폐 위기' 기업 왜 급증했나"
+          "context": "정해인, 김해숙 집까지 초대받았는데…\"너 나가\" 쫓겨날 뻔 - 머니투데이"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-07T12:38:03.741Z",
+      "fetched": "2026-08-07T18:38:16.254Z",
       "items": [
         {
           "title": "REDRED",
@@ -72,12 +72,12 @@
           "artist": "레드벨벳"
         },
         {
-          "title": "Less than a Lover",
-          "artist": "제니"
-        },
-        {
           "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
           "artist": "Post Malone & Swae Lee"
+        },
+        {
+          "title": "Less than a Lover",
+          "artist": "제니"
         },
         {
           "title": "LEMONADE",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-07T12:38:03.741Z",
+      "fetched": "2026-08-07T18:38:16.254Z",
       "items": [
         {
           "title": "문화방송",
