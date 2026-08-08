@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-07T18:38:16.254Z",
+  "updated": "2026-08-08T00:47:14.489Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-07T18:38:16.254Z",
+      "fetched": "2026-08-08T00:47:14.489Z",
       "items": [
         {
-          "title": "블랙핑크",
-          "traffic": "200+",
-          "context": "블랙핑크 완전체, 데뷔 10주년 맞아 ‘국중박’에서 팬들 만난다"
-        },
-        {
-          "title": "이시영",
-          "traffic": "200+",
-          "context": "한국은 폭염인데…이시영 “캐나다는 에어컨 필요 없어” 근황"
-        },
-        {
-          "title": "최현석",
-          "traffic": "200+",
-          "context": "최현석 딸 최연수 \"제왕절개 한 달 전이 제일 무서웠다\" 출산 회상"
-        },
-        {
-          "title": "klasemen tim nasional sepak bola singapura vs timnas indonesia",
-          "traffic": "100+",
-          "context": "Imbangi Garuda, Media Singapura Heran Ranking FIFA Timnas Indonesia Padahal Jauh di Atas The Lions"
-        },
-        {
-          "title": "놀면 뭐하니?",
-          "traffic": "100+",
-          "context": "'놀면 뭐하니?' 유재석, 정준하 향수 냄새에 폭발 \"왜 이렇게 뿌려\" - 머니투데이"
-        },
-        {
-          "title": "기사",
-          "traffic": "100+",
-          "context": "민선 9기 강원도지사-18개 시장·군수 첫 간담회…\"초당적 협력\""
-        },
-        {
-          "title": "류혜영",
-          "traffic": "500+",
-          "context": "류혜영 앞머리 넘겨주는 고경표, 딱 걸렸다…'응팔' 보라♥선우 '망상회' 어게인('나혼산')"
-        },
-        {
-          "title": "김구라",
-          "traffic": "500+",
-          "context": "김구라 딸, 연예인 사주라더니…MC그리도 \"끼 정말 많다\" 눈길"
-        },
-        {
-          "title": "하한가",
+          "title": "혼외자",
           "traffic": "1000+",
-          "context": "프리마켓 하이닉스 하한가 논란…넥스트레이드 \"재발 막겠다\""
+          "context": "\"난 20년 병수발했는데…'배다른 형제' 존재, 유산 절반 가져가나\""
         },
         {
-          "title": "정해인",
+          "title": "이혜영",
           "traffic": "200+",
-          "context": "정해인, 김해숙 집까지 초대받았는데…\"너 나가\" 쫓겨날 뻔 - 머니투데이"
+          "context": "이혜영, 폐암 ‘졸업’ 이어 또 경사…“할머니 됐어요” [SD셀픽]"
+        },
+        {
+          "title": "안젤리나 졸리",
+          "traffic": "200+",
+          "context": "안젤리나 졸리 오빠, 이혼 후 전처 앞에서 커밍아웃 “남들과 달랐다”[Oh!llywood]"
+        },
+        {
+          "title": "보그",
+          "traffic": "200+",
+          "context": "한때 방탄소년단 회의론자였던 사람의 고백"
+        },
+        {
+          "title": "天気",
+          "traffic": "100+",
+          "context": "２０５０年の天気予報"
+        },
+        {
+          "title": "해피투게더",
+          "traffic": "200+",
+          "context": "'조규찬♥' 해이, 주립대 영문과 교수였다…\"힘들면 남편이 美까지 와 집안일\" [해투]"
+        },
+        {
+          "title": "pltr",
+          "traffic": "100+",
+          "context": "Palantir-linked covered-call ETFs draw attention with annual dividend yields up to 28%"
+        },
+        {
+          "title": "자동차",
+          "traffic": "5000+",
+          "context": "제네시스 청주, 2026 레드닷 디자인 어워드 브랜드 & 커뮤니케이션 디자인 부문 2관왕"
+        },
+        {
+          "title": "잔니 인판티노",
+          "traffic": "200+",
+          "context": "\"인판티노, UEFA 사무총장 시절 내연 여직원에 특혜 의혹\""
+        },
+        {
+          "title": "광진구",
+          "traffic": "100+",
+          "context": "40도 육박 폭염…신청사 입주 1년 반 광진구청 직원들 “이렇게 좋을 수가”"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-07T18:38:16.254Z",
+      "fetched": "2026-08-08T00:47:14.489Z",
       "items": [
         {
           "title": "REDRED",
@@ -76,12 +76,12 @@
           "artist": "Post Malone & Swae Lee"
         },
         {
-          "title": "Less than a Lover",
-          "artist": "제니"
-        },
-        {
           "title": "LEMONADE",
           "artist": "aespa"
+        },
+        {
+          "title": "Less than a Lover",
+          "artist": "제니"
         },
         {
           "title": "LOVE ATTACK",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-07T18:38:16.254Z",
+      "fetched": "2026-08-08T00:47:14.489Z",
       "items": [
         {
           "title": "문화방송",
