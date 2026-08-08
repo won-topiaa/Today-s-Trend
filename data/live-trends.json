@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-08T00:47:14.489Z",
+  "updated": "2026-08-08T06:32:21.577Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-08T00:47:14.489Z",
+      "fetched": "2026-08-08T06:32:21.577Z",
       "items": [
         {
-          "title": "혼외자",
+          "title": "입양",
           "traffic": "1000+",
-          "context": "\"난 20년 병수발했는데…'배다른 형제' 존재, 유산 절반 가져가나\""
+          "context": "해외 입양 떠난 지 사흘 만에 숨진 구조견 '도담'…관리 공백 드러났다"
         },
         {
-          "title": "이혜영",
+          "title": "손현보",
           "traffic": "200+",
-          "context": "이혜영, 폐암 ‘졸업’ 이어 또 경사…“할머니 됐어요” [SD셀픽]"
+          "context": "손현보 목사, 백악관서 트럼프 접견…美정부 인사들과 잇단 접촉"
         },
         {
-          "title": "안젤리나 졸리",
+          "title": "르윈 디아즈",
           "traffic": "200+",
-          "context": "안젤리나 졸리 오빠, 이혼 후 전처 앞에서 커밍아웃 “남들과 달랐다”[Oh!llywood]"
+          "context": "\"최대한 살려야 하는데\" 박진만 감독의 한숨…'7번' 디아즈에서 드러난 삼성의 고민"
         },
         {
-          "title": "보그",
+          "title": "삼성 갤럭시 z 시리즈",
           "traffic": "200+",
-          "context": "한때 방탄소년단 회의론자였던 사람의 고백"
+          "context": "[테크톡노트] 폴드는 어떻게 '아재폰'에서 'MZ폰'이 됐나"
         },
         {
-          "title": "天気",
-          "traffic": "100+",
-          "context": "２０５０年の天気予報"
+          "title": "민생회복 소비쿠폰",
+          "traffic": "10000+",
+          "context": "전북 완주·부안·고창…30만원씩 민생지원금 추석 전 지급(종합)"
         },
         {
-          "title": "해피투게더",
+          "title": "하리수",
           "traffic": "200+",
-          "context": "'조규찬♥' 해이, 주립대 영문과 교수였다…\"힘들면 남편이 美까지 와 집안일\" [해투]"
+          "context": "하리수 \"미키정 보내주고 싶어 이혼…애 못 낳아 미안했다\""
         },
         {
-          "title": "pltr",
-          "traffic": "100+",
-          "context": "Palantir-linked covered-call ETFs draw attention with annual dividend yields up to 28%"
+          "title": "김하성",
+          "traffic": "1000+",
+          "context": "38일 만에 돌아온 김하성, 2타수 무안타 부진…시즌 타율 0.067"
         },
         {
-          "title": "자동차",
-          "traffic": "5000+",
-          "context": "제네시스 청주, 2026 레드닷 디자인 어워드 브랜드 & 커뮤니케이션 디자인 부문 2관왕"
+          "title": "파크 골프",
+          "traffic": "1000+",
+          "context": "“암 수술하고 파크골프 덕에 체력 회복”…시니어 전신 운동으로 각광"
         },
         {
-          "title": "잔니 인판티노",
-          "traffic": "200+",
-          "context": "\"인판티노, UEFA 사무총장 시절 내연 여직원에 특혜 의혹\""
+          "title": "그랜드 테 프트 오토 vi",
+          "traffic": "500+",
+          "context": "테이크투인터랙티브, GTA VI 출시 앞두고 부진한 가이던스에 주가 하락"
         },
         {
-          "title": "광진구",
-          "traffic": "100+",
-          "context": "40도 육박 폭염…신청사 입주 1년 반 광진구청 직원들 “이렇게 좋을 수가”"
+          "title": "기안84",
+          "traffic": "1000+",
+          "context": "\"너 고졸 아니었어?\" 기안84, 샤이니 민호 학력에 '충격' - 머니투데이"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-08T00:47:14.489Z",
+      "fetched": "2026-08-08T06:32:21.577Z",
       "items": [
         {
           "title": "REDRED",
@@ -76,12 +76,12 @@
           "artist": "Post Malone & Swae Lee"
         },
         {
-          "title": "LEMONADE",
-          "artist": "aespa"
-        },
-        {
           "title": "Less than a Lover",
           "artist": "제니"
+        },
+        {
+          "title": "LEMONADE",
+          "artist": "aespa"
         },
         {
           "title": "LOVE ATTACK",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-08T00:47:14.489Z",
+      "fetched": "2026-08-08T06:32:21.577Z",
       "items": [
         {
           "title": "문화방송",
