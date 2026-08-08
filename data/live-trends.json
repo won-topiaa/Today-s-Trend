@@ -1,75 +1,75 @@
 {
-  "updated": "2026-08-08T12:23:48.217Z",
+  "updated": "2026-08-08T18:20:38.760Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-08T12:23:48.217Z",
+      "fetched": "2026-08-08T18:20:38.760Z",
       "items": [
         {
-          "title": "전당 대회",
-          "traffic": "5000+",
-          "context": "[속보]김민석, 민주당 제주·인천 순회경선서 승리···2위 정청래·3위 송영길"
-        },
-        {
-          "title": "순항 미사일 잠수함",
-          "traffic": "1000+",
-          "context": "美, 공격잠수함 19척 순항미사일잠수함 전환…中 견제 강화"
-        },
-        {
-          "title": "메시",
-          "traffic": "200+",
-          "context": "충격 \"폭탄 4개 두르고 메시에게\" 자폭 테러 0순위 표적 됐었다... 월드컵 테러 문건 유출 \"호날두 호텔 무단침입도\" - 머니투데이"
-        },
-        {
-          "title": "t1 hle",
+          "title": "서점가",
           "traffic": "100+",
-          "context": "T1, Fielding 'Painter' Instead of 'Oner', Falls to Hanwha Life"
+          "context": "인기 없던 소설, 다시 '역주행' 중…판매량 2배 훌쩍, 서점가에 무슨일 - 머니투데이"
         },
         {
-          "title": "j리그",
+          "title": "정가은",
           "traffic": "100+",
-          "context": "A매치도 아닌데 6만 3960명 '역대 최다 관중'... '추춘제 전환' 日 J리그 개막전부터 '초대박' - 머니투데이"
+          "context": null
         },
         {
-          "title": "상수도",
+          "title": "가능한 사랑",
           "traffic": "500+",
-          "context": "폭염특보 내려진 부산, 상수도관 파열로 2000여 가구 6시간 단수"
+          "context": "여름엔 '호프', 가을엔 '가능한 사랑'…국제영화제 수상 기대감 [N이슈]"
         },
         {
-          "title": "아리엘 후라도",
-          "traffic": "500+",
-          "context": "후라도 재검진 받았다, 어깨 상태 어떨까…알쏭달쏭 보스, 박진만이 밝힌 후라도 복귀 시점은?"
-        },
-        {
-          "title": "반포동",
+          "title": "fotmob",
           "traffic": "200+",
-          "context": "압구정현대, 직접 증여가 매각 후 현금 증여보다 세금 7억 덜 낸다…계산기 두드리는 강남 고령층 - 조선비즈"
+          "context": "Pre-season friendly LIVE: Chelsea vs AC Milan - text commentary, score updates, match stats & head-to-head"
         },
         {
-          "title": "김천상무 대 fc 서울",
-          "traffic": "2000+",
-          "context": "세 경기째 주춤한 선두 FC서울, 껄끄러운 김천과 폭염 속 격돌"
+          "title": "면목동",
+          "traffic": "500+",
+          "context": "서로 칼부림하던 2명 모두 사망…10대 아들이 흉기로 어머니 살해"
         },
         {
-          "title": "베트남 축구 국가대표팀",
+          "title": "김소영",
+          "traffic": "500+",
+          "context": "김소영♥오상진, 순한 둘째 子..얼굴로도 효도하네 “아기가 너무 잘생겨” - 조선비즈"
+        },
+        {
+          "title": "ewc 철권",
+          "traffic": "200+",
+          "context": "'EWC 2026 철권' DNS '울산' 3연패 도전"
+        },
+        {
+          "title": "psg",
+          "traffic": "200+",
+          "context": "Mercato : Ferran Torres s'est mis d'accord avec le PSG pour un contrat de 5 ans, négociations en cours entre Paris et le Barça"
+        },
+        {
+          "title": "맨유",
           "traffic": "1000+",
-          "context": "'박항서도 못다 한 꿈 보인다' 김상식호, 베트남 사상 최초 '22G 무패' 대기록...조 1위로 아세안 챔피언십 4강행→대회 2연패 도전"
+          "context": "바르셀로나가 돈 아끼는 사이 맨유가 낚아챈다! '19세 스페인 특급 LB' 260억 바이아웃 \"지불할 준비 돼 있어\""
+        },
+        {
+          "title": "mutv",
+          "traffic": "200+",
+          "context": "Man Utd 1-1 Paris Saint-Germain: How Michael Carrick's players rated"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-08T12:23:48.217Z",
+      "fetched": "2026-08-08T18:20:38.760Z",
       "items": [
-        {
-          "title": "Surfin' Boy",
-          "artist": "레드벨벳"
-        },
         {
           "title": "REDRED",
           "artist": "코르티스"
+        },
+        {
+          "title": "Surfin' Boy",
+          "artist": "레드벨벳"
         },
         {
           "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
@@ -80,12 +80,12 @@
           "artist": "aespa"
         },
         {
-          "title": "Less than a Lover",
-          "artist": "제니"
-        },
-        {
           "title": "LOVE ATTACK",
           "artist": "리센느"
+        },
+        {
+          "title": "Less than a Lover",
+          "artist": "제니"
         },
         {
           "title": "Lemon Tang",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-08T12:23:48.217Z",
+      "fetched": "2026-08-08T18:20:38.760Z",
       "items": [
         {
           "title": "문화방송",
