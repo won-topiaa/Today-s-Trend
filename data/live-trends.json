@@ -1,75 +1,75 @@
 {
-  "updated": "2026-08-09T06:36:27.819Z",
+  "updated": "2026-08-09T12:26:12.845Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-09T06:36:27.819Z",
+      "fetched": "2026-08-09T12:26:12.845Z",
       "items": [
         {
-          "title": "휴대 전화",
-          "traffic": "500+",
-          "context": "[단독] \"정몽규, 32강 탈락 이후 휴대전화 교체\""
+          "title": "조호르 fc 대 첼시",
+          "traffic": "2000+",
+          "context": "맨유서 그렇게 망하고도 변한 게 없다…어김없이 '3백' 꺼낸 아모림의 밀란, 첼시에 0-3 완패"
         },
         {
-          "title": "정정용",
+          "title": "sydney sweeney",
+          "traffic": "200+",
+          "context": "Sydney Sweeney's Steamy 131-Minute Thriller Remains One of the Biggest Hits on Streaming"
+        },
+        {
+          "title": "영등포구",
+          "traffic": "100+",
+          "context": "“물놀이로 더위 싹~”…조유진 영등포구청장, 영등포공원 축제서 아이들과 찰칵"
+        },
+        {
+          "title": "클럽 친선경기",
+          "traffic": "1000+",
+          "context": "리버풀 대 모나코 경기 프리뷰, 8월 9일 오후 8시 30분: 이라올라가 안필드 데뷔전을 치릅니다."
+        },
+        {
+          "title": "알레띠",
+          "traffic": "200+",
+          "context": "한국에 이런 미인이…'이강인 고마워' 리센느 원이 만난 비야, 활짝 웃었다"
+        },
+        {
+          "title": "방은희",
+          "traffic": "100+",
+          "context": "\"엄마 돌아가신 뒤 이틀 만에…\" 방은희, 고독사 죄책감에 눈물"
+        },
+        {
+          "title": "man city vs atlético madrid",
+          "traffic": "1000+",
+          "context": "[Photo] Sabinyu smashes ATM side - CHOSUNBIZ"
+        },
+        {
+          "title": "제니",
+          "traffic": "5000+",
+          "context": "‘뷔와 열애설’ 제니, 동거 질문에 “여기까지만”"
+        },
+        {
+          "title": "맨 시티 대 아틀레티코",
+          "traffic": "50000+",
+          "context": "이강인, AT 마드리드 데뷔전 벤치 출발…맨시티전 교체 출격 대기"
+        },
+        {
+          "title": "상속",
           "traffic": "10000+",
-          "context": "[프로축구 전주전적] 제주 3-1 전북"
-        },
-        {
-          "title": "데미스 허사비스",
-          "traffic": "100+",
-          "context": "구글, AI 리더십 대대적 개편…연구 중심→수익화 압박"
-        },
-        {
-          "title": "전한길",
-          "traffic": "500+",
-          "context": "전한길, 출국금지 반발해 소송했지만 패소‥법원 \"수사 차질 우려\""
-        },
-        {
-          "title": "열사병",
-          "traffic": "1000+",
-          "context": "피지 출신 日 럭비선수, 35도 폭염속 야외 훈련하다 열사병 사망(종합)"
-        },
-        {
-          "title": "오정연",
-          "traffic": "200+",
-          "context": "오정연, 본업 '아나운서'로 활약 중···편안해 보이는 모습"
-        },
-        {
-          "title": "교통 사고",
-          "traffic": "200+",
-          "context": "교통사고 수습하다 중상입은 경찰…2년 투병·우울증 끝 숨져"
-        },
-        {
-          "title": "상장지수 펀드",
-          "traffic": "1000+",
-          "context": "삼전닉스 레버리지 시들하자 코스닥 레버리지 '들썩'"
-        },
-        {
-          "title": "벼",
-          "traffic": "200+",
-          "context": "충남농기원, 벼 병해충 방지 2차 합동예찰 추진"
-        },
-        {
-          "title": "장쯔위",
-          "traffic": "100+",
-          "context": null
+          "context": "사남매에 '30억 집 한 채'..99세 노모가 택한 '분쟁 없는 상속' [PB의 머니 레시피]"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-09T06:36:27.819Z",
+      "fetched": "2026-08-09T12:26:12.845Z",
       "items": [
-        {
-          "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
-          "artist": "Post Malone & Swae Lee"
-        },
         {
           "title": "REDRED",
           "artist": "코르티스"
+        },
+        {
+          "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+          "artist": "Post Malone & Swae Lee"
         },
         {
           "title": "Surfin' Boy",
@@ -80,12 +80,12 @@
           "artist": "aespa"
         },
         {
-          "title": "Less than a Lover",
-          "artist": "제니"
-        },
-        {
           "title": "LOVE ATTACK",
           "artist": "리센느"
+        },
+        {
+          "title": "Less than a Lover",
+          "artist": "제니"
         },
         {
           "title": "Lemon Tang",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-09T06:36:27.819Z",
+      "fetched": "2026-08-09T12:26:12.845Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 17488
+          "views": 19903
         },
         {
           "title": "한국방송공사",
-          "views": 13309
+          "views": 15610
         },
         {
           "title": "트로이 전쟁",
-          "views": 7105
-        },
-        {
-          "title": "한국교육방송공사",
-          "views": 6501
+          "views": 9469
         },
         {
           "title": "오디세이 (영화)",
-          "views": 5104
+          "views": 7569
         },
         {
-          "title": "해이",
-          "views": 4680
-        },
-        {
-          "title": "조규찬",
-          "views": 4571
+          "title": "한국교육방송공사",
+          "views": 6549
         },
         {
           "title": "하영",
-          "views": 4400
+          "views": 6424
+        },
+        {
+          "title": "리센느",
+          "views": 4443
         },
         {
           "title": "오디세이아",
-          "views": 3082
+          "views": 3425
         },
         {
-          "title": "연합뉴스",
-          "views": 2117
+          "title": "사랑이 온다 (드라마)",
+          "views": 3101
+        },
+        {
+          "title": "정해인",
+          "views": 2844
         }
       ]
     }
