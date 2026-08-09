@@ -1,75 +1,75 @@
 {
-  "updated": "2026-08-09T12:26:12.845Z",
+  "updated": "2026-08-09T18:22:54.206Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-09T12:26:12.845Z",
+      "fetched": "2026-08-09T18:22:54.206Z",
       "items": [
         {
-          "title": "조호르 fc 대 첼시",
-          "traffic": "2000+",
-          "context": "맨유서 그렇게 망하고도 변한 게 없다…어김없이 '3백' 꺼낸 아모림의 밀란, 첼시에 0-3 완패"
-        },
-        {
-          "title": "sydney sweeney",
+          "title": "유격수",
           "traffic": "200+",
-          "context": "Sydney Sweeney's Steamy 131-Minute Thriller Remains One of the Biggest Hits on Streaming"
+          "context": "2타석 기회 주고 다시 벤치…김하성, ‘PS 유력’ 애틀랜타에 자리 있나"
         },
         {
-          "title": "영등포구",
-          "traffic": "100+",
-          "context": "“물놀이로 더위 싹~”…조유진 영등포구청장, 영등포공원 축제서 아이들과 찰칵"
-        },
-        {
-          "title": "클럽 친선경기",
-          "traffic": "1000+",
-          "context": "리버풀 대 모나코 경기 프리뷰, 8월 9일 오후 8시 30분: 이라올라가 안필드 데뷔전을 치릅니다."
-        },
-        {
-          "title": "알레띠",
+          "title": "혼전연애",
           "traffic": "200+",
-          "context": "한국에 이런 미인이…'이강인 고마워' 리센느 원이 만난 비야, 활짝 웃었다"
+          "context": "최다니엘, 日유명 여배우 카호와 재회했다...이번엔 도쿄 데이트"
         },
         {
-          "title": "방은희",
+          "title": "ลิเวอร์พูล พบ มอนาโก",
           "traffic": "100+",
-          "context": "\"엄마 돌아가신 뒤 이틀 만에…\" 방은희, 고독사 죄책감에 눈물"
+          "context": "ลิเวอร์พูลประสบความพ่ายแพ้อย่างไม่น่าเชื่อที่แอนฟิลด์"
         },
         {
-          "title": "man city vs atlético madrid",
+          "title": "앤 해서웨이",
+          "traffic": "100+",
+          "context": null
+        },
+        {
+          "title": "피부암",
           "traffic": "1000+",
-          "context": "[Photo] Sabinyu smashes ATM side - CHOSUNBIZ"
+          "context": "“집 안인데 괜찮겠지?”…폭염에 소파·마루도 ‘화상’ 입는다"
         },
         {
-          "title": "제니",
-          "traffic": "5000+",
-          "context": "‘뷔와 열애설’ 제니, 동거 질문에 “여기까지만”"
+          "title": "arsenal",
+          "traffic": "100+",
+          "context": "Tottenham Refuses to Sell Romero to Arch-Rival Arsenal"
         },
         {
-          "title": "맨 시티 대 아틀레티코",
-          "traffic": "50000+",
-          "context": "이강인, AT 마드리드 데뷔전 벤치 출발…맨시티전 교체 출격 대기"
+          "title": "liverpool vs monaco",
+          "traffic": "200+",
+          "context": "Liverpool 2-3 Monaco: How players rated as Isak and Wirtz impress"
         },
         {
-          "title": "상속",
-          "traffic": "10000+",
-          "context": "사남매에 '30억 집 한 채'..99세 노모가 택한 '분쟁 없는 상속' [PB의 머니 레시피]"
+          "title": "전주시",
+          "traffic": "200+",
+          "context": "전주 송천동 농수산물시장서 화재…1시간 50분 만에 초진(종합)"
+        },
+        {
+          "title": "관리종목",
+          "traffic": "500+",
+          "context": "동전주 상폐 첫 절차 임박…48곳 관리종목 우려 공시"
+        },
+        {
+          "title": "트로이",
+          "traffic": "500+",
+          "context": "‘오디세이’ 흥행에 서점가도 들썩… ‘오디세이아’ 베스트셀러 역주행"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-09T12:26:12.845Z",
+      "fetched": "2026-08-09T18:22:54.206Z",
       "items": [
-        {
-          "title": "REDRED",
-          "artist": "코르티스"
-        },
         {
           "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
           "artist": "Post Malone & Swae Lee"
+        },
+        {
+          "title": "REDRED",
+          "artist": "코르티스"
         },
         {
           "title": "Surfin' Boy",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-09T12:26:12.845Z",
+      "fetched": "2026-08-09T18:22:54.206Z",
       "items": [
         {
           "title": "문화방송",
