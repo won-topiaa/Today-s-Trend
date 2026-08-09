@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-08T18:20:38.760Z",
+  "updated": "2026-08-09T00:51:38.847Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-08T18:20:38.760Z",
+      "fetched": "2026-08-09T00:51:38.847Z",
       "items": [
         {
-          "title": "서점가",
-          "traffic": "100+",
-          "context": "인기 없던 소설, 다시 '역주행' 중…판매량 2배 훌쩍, 서점가에 무슨일 - 머니투데이"
+          "title": "인터 마이애미 대 몬테레이",
+          "traffic": "2000+",
+          "context": "8월 9일 오전 7시, 인터 마이애미 대 몬테레이 경기 생중계 링크: 메시 결장."
         },
         {
-          "title": "정가은",
+          "title": "천하람",
+          "traffic": "100+",
+          "context": "천하람, 현역의원 최초 논산훈련소 입소…행군·각개전투 훈련"
+        },
+        {
+          "title": "허양임",
+          "traffic": "200+",
+          "context": "'고지용과 이혼' 허양임, 새 출발했다"
+        },
+        {
+          "title": "메릴 켈리",
+          "traffic": "100+",
+          "context": "韓에서 성장한 KBO 출신 투수, 드디어 살아났다! 564억 받는 켈리, '슈퍼팀' 다저스 상대 압도적 투구"
+        },
+        {
+          "title": "sbs",
+          "traffic": "200+",
+          "context": "Today's SBS News Hunters Preview (August 7)"
+        },
+        {
+          "title": "홍현희",
+          "traffic": "100+",
+          "context": "홍현희, 60kg→49kg 감량하더니…“등근육 장난 아냐” 실물 목격담"
+        },
+        {
+          "title": "공공기관",
           "traffic": "100+",
           "context": null
         },
         {
-          "title": "가능한 사랑",
-          "traffic": "500+",
-          "context": "여름엔 '호프', 가을엔 '가능한 사랑'…국제영화제 수상 기대감 [N이슈]"
+          "title": "러시아",
+          "traffic": "100+",
+          "context": "“한국서 선적한 정제유 약 3만t 러시아행…이례적 거래”"
         },
         {
-          "title": "fotmob",
+          "title": "하이브리드 차량",
+          "traffic": "5000+",
+          "context": "“10년이면 된다더니 30년” 바뀐 세법에 당황한 사장님…보험사에서 계산기 두드린 이유 [이보소]"
+        },
+        {
+          "title": "참교육",
           "traffic": "200+",
-          "context": "Pre-season friendly LIVE: Chelsea vs AC Milan - text commentary, score updates, match stats & head-to-head"
-        },
-        {
-          "title": "면목동",
-          "traffic": "500+",
-          "context": "서로 칼부림하던 2명 모두 사망…10대 아들이 흉기로 어머니 살해"
-        },
-        {
-          "title": "김소영",
-          "traffic": "500+",
-          "context": "김소영♥오상진, 순한 둘째 子..얼굴로도 효도하네 “아기가 너무 잘생겨” - 조선비즈"
-        },
-        {
-          "title": "ewc 철권",
-          "traffic": "200+",
-          "context": "'EWC 2026 철권' DNS '울산' 3연패 도전"
-        },
-        {
-          "title": "psg",
-          "traffic": "200+",
-          "context": "Mercato : Ferran Torres s'est mis d'accord avec le PSG pour un contrat de 5 ans, négociations en cours entre Paris et le Barça"
-        },
-        {
-          "title": "맨유",
-          "traffic": "1000+",
-          "context": "바르셀로나가 돈 아끼는 사이 맨유가 낚아챈다! '19세 스페인 특급 LB' 260억 바이아웃 \"지불할 준비 돼 있어\""
-        },
-        {
-          "title": "mutv",
-          "traffic": "200+",
-          "context": "Man Utd 1-1 Paris Saint-Germain: How Michael Carrick's players rated"
+          "context": "시청률 1/4토막 났다…유승호까지 나선 '김부장' 후속작, 2회 만에 하락세 ('재벌X형사')[종합]"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-08T18:20:38.760Z",
+      "fetched": "2026-08-09T00:51:38.847Z",
       "items": [
         {
           "title": "REDRED",
           "artist": "코르티스"
         },
         {
-          "title": "Surfin' Boy",
-          "artist": "레드벨벳"
-        },
-        {
           "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
           "artist": "Post Malone & Swae Lee"
+        },
+        {
+          "title": "Surfin' Boy",
+          "artist": "레드벨벳"
         },
         {
           "title": "LEMONADE",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-08T18:20:38.760Z",
+      "fetched": "2026-08-09T00:51:38.847Z",
       "items": [
         {
           "title": "문화방송",
