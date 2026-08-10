@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-10T00:53:13.097Z",
+  "updated": "2026-08-10T07:07:51.926Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-10T00:53:13.097Z",
+      "fetched": "2026-08-10T07:07:51.926Z",
       "items": [
         {
-          "title": "주거",
+          "title": "대구고등검찰청",
           "traffic": "200+",
-          "context": "가구 수보다 주택 수가 더 많지만···판잣집·여관 사는 주거취약가구 55만 달해"
+          "context": "'대장동 의혹 수사' 강백신 대구고검 검사 사직서 제출"
         },
         {
-          "title": "이다영",
+          "title": "연애 전쟁",
+          "traffic": "5000+",
+          "context": "서장훈 분노 터졌다 “통장에 100만원도 없는데 무슨…” (연애전쟁)"
+        },
+        {
+          "title": "오동도",
           "traffic": "200+",
-          "context": "‘학폭 논란’ 韓배구계 뒤흔든 쌍둥이 아직 현역이다! 나란히 아제르바이잔행→5년 만에 한솥밥 확정"
+          "context": "여수 오동도 앞바다 일가족 태운 모터보트 전복···20대 여성·선장 사망"
         },
         {
-          "title": "전장연",
-          "traffic": "200+",
-          "context": "장애인 시위로 1호선 용산역 상행선 무정차 통과"
-        },
-        {
-          "title": "대한민국 문화체육관광부",
-          "traffic": "1000+",
-          "context": "문화체육관광부, 해외에서 아파도 대한민국 119"
-        },
-        {
-          "title": "결혼식",
-          "traffic": "1000+",
-          "context": "'1박 210만원 5성급 호텔 두 층 예약' 호날두의 럭셔리 결혼식 피로연"
-        },
-        {
-          "title": "배구",
-          "traffic": "1000+",
-          "context": "일본 꺾고 또 정상! 한국 남자배구, 동아시아선수권 2연패 달성"
-        },
-        {
-          "title": "오타니 쇼헤이",
-          "traffic": "200+",
-          "context": "\"오타니, 이대로는 MVP 못 탄다?\" ML 저명 기자 \"마운드 복귀가 운명 가를 것\" - 머니투데이"
-        },
-        {
-          "title": "이승우",
-          "traffic": "200+",
-          "context": "\"이렇게 져서 슬프다\" 굳은 얼굴 이승우 \"포옛 전술도 처음엔 못 믿었지만...빨리 결과 내고 신뢰 쌓아야\"[현장 인터뷰]"
-        },
-        {
-          "title": "주유소",
+          "title": "도라이버",
           "traffic": "500+",
-          "context": "휘발유·경유 1천800원대 유지"
+          "context": "'활동 중단' 조세호, 또 품었다…시즌6로 돌아오는 '도라이버' 오늘(8일) 첫 공개"
         },
         {
-          "title": "간암",
-          "traffic": "500+",
-          "context": null
+          "title": "정연",
+          "traffic": "2000+",
+          "context": "[이슈] 새 둥지 찾은 정연, 배우 도전 “트와이스는 계속 지킬 것”"
+        },
+        {
+          "title": "모델",
+          "traffic": "200+",
+          "context": "OnlyFans model and ex-child actress nabbed a senior role on Dem governor campaign"
+        },
+        {
+          "title": "고영욱",
+          "traffic": "20000+",
+          "context": "고영욱 \"'류수영♥' 박하선, 감당 안 될 여자…계속 명품 사 나를 것\""
+        },
+        {
+          "title": "sbs 가요대전",
+          "traffic": "2000+",
+          "context": "`가요대전` 생방송 촌극…MC 우왕좌왕, 결국 제작진 투입 [MD이슈]"
+        },
+        {
+          "title": "최지만",
+          "traffic": "200+",
+          "context": "\"하위 순위여도 괜찮다\" ML 67홈런 최지만, 상위 라운드 지명설 솔솔"
+        },
+        {
+          "title": "편의점",
+          "traffic": "200+",
+          "context": "농심, 편의점 4사 전용 맞춤형 '포테토칩' 4종 출시"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-10T00:53:13.097Z",
+      "fetched": "2026-08-10T07:07:51.926Z",
       "items": [
         {
           "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
@@ -76,20 +76,20 @@
           "artist": "레드벨벳"
         },
         {
-          "title": "LEMONADE",
-          "artist": "aespa"
-        },
-        {
           "title": "LOVE ATTACK",
           "artist": "리센느"
         },
         {
-          "title": "Lemon Tang",
-          "artist": "Hearts2Hearts"
+          "title": "LEMONADE",
+          "artist": "aespa"
         },
         {
           "title": "Less than a Lover",
           "artist": "제니"
+        },
+        {
+          "title": "Lemon Tang",
+          "artist": "Hearts2Hearts"
         },
         {
           "title": "Pretty Girl",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-10T00:53:13.097Z",
+      "fetched": "2026-08-10T07:07:51.926Z",
       "items": [
         {
           "title": "문화방송",
