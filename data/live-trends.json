@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-09T18:22:54.206Z",
+  "updated": "2026-08-10T00:53:13.097Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-09T18:22:54.206Z",
+      "fetched": "2026-08-10T00:53:13.097Z",
       "items": [
         {
-          "title": "유격수",
+          "title": "주거",
           "traffic": "200+",
-          "context": "2타석 기회 주고 다시 벤치…김하성, ‘PS 유력’ 애틀랜타에 자리 있나"
+          "context": "가구 수보다 주택 수가 더 많지만···판잣집·여관 사는 주거취약가구 55만 달해"
         },
         {
-          "title": "혼전연애",
+          "title": "이다영",
           "traffic": "200+",
-          "context": "최다니엘, 日유명 여배우 카호와 재회했다...이번엔 도쿄 데이트"
+          "context": "‘학폭 논란’ 韓배구계 뒤흔든 쌍둥이 아직 현역이다! 나란히 아제르바이잔행→5년 만에 한솥밥 확정"
         },
         {
-          "title": "ลิเวอร์พูล พบ มอนาโก",
-          "traffic": "100+",
-          "context": "ลิเวอร์พูลประสบความพ่ายแพ้อย่างไม่น่าเชื่อที่แอนฟิลด์"
+          "title": "전장연",
+          "traffic": "200+",
+          "context": "장애인 시위로 1호선 용산역 상행선 무정차 통과"
         },
         {
-          "title": "앤 해서웨이",
-          "traffic": "100+",
-          "context": null
-        },
-        {
-          "title": "피부암",
+          "title": "대한민국 문화체육관광부",
           "traffic": "1000+",
-          "context": "“집 안인데 괜찮겠지?”…폭염에 소파·마루도 ‘화상’ 입는다"
+          "context": "문화체육관광부, 해외에서 아파도 대한민국 119"
         },
         {
-          "title": "arsenal",
-          "traffic": "100+",
-          "context": "Tottenham Refuses to Sell Romero to Arch-Rival Arsenal"
+          "title": "결혼식",
+          "traffic": "1000+",
+          "context": "'1박 210만원 5성급 호텔 두 층 예약' 호날두의 럭셔리 결혼식 피로연"
         },
         {
-          "title": "liverpool vs monaco",
+          "title": "배구",
+          "traffic": "1000+",
+          "context": "일본 꺾고 또 정상! 한국 남자배구, 동아시아선수권 2연패 달성"
+        },
+        {
+          "title": "오타니 쇼헤이",
           "traffic": "200+",
-          "context": "Liverpool 2-3 Monaco: How players rated as Isak and Wirtz impress"
+          "context": "\"오타니, 이대로는 MVP 못 탄다?\" ML 저명 기자 \"마운드 복귀가 운명 가를 것\" - 머니투데이"
         },
         {
-          "title": "전주시",
+          "title": "이승우",
           "traffic": "200+",
-          "context": "전주 송천동 농수산물시장서 화재…1시간 50분 만에 초진(종합)"
+          "context": "\"이렇게 져서 슬프다\" 굳은 얼굴 이승우 \"포옛 전술도 처음엔 못 믿었지만...빨리 결과 내고 신뢰 쌓아야\"[현장 인터뷰]"
         },
         {
-          "title": "관리종목",
+          "title": "주유소",
           "traffic": "500+",
-          "context": "동전주 상폐 첫 절차 임박…48곳 관리종목 우려 공시"
+          "context": "휘발유·경유 1천800원대 유지"
         },
         {
-          "title": "트로이",
+          "title": "간암",
           "traffic": "500+",
-          "context": "‘오디세이’ 흥행에 서점가도 들썩… ‘오디세이아’ 베스트셀러 역주행"
+          "context": null
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-09T18:22:54.206Z",
+      "fetched": "2026-08-10T00:53:13.097Z",
       "items": [
         {
           "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
@@ -84,12 +84,12 @@
           "artist": "리센느"
         },
         {
-          "title": "Less than a Lover",
-          "artist": "제니"
-        },
-        {
           "title": "Lemon Tang",
           "artist": "Hearts2Hearts"
+        },
+        {
+          "title": "Less than a Lover",
+          "artist": "제니"
         },
         {
           "title": "Pretty Girl",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-09T18:22:54.206Z",
+      "fetched": "2026-08-10T00:53:13.097Z",
       "items": [
         {
           "title": "문화방송",
