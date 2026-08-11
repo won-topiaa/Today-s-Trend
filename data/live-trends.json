@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-11T12:38:14.955Z",
+  "updated": "2026-08-11T18:44:38.050Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-11T12:38:14.955Z",
+      "fetched": "2026-08-11T18:44:38.050Z",
       "items": [
         {
-          "title": "김설현",
-          "traffic": "200+",
-          "context": null
-        },
-        {
-          "title": "유성우",
+          "title": "cpi",
           "traffic": "100+",
-          "context": "시간당 최대 100개 '별빛쇼'…페르세우스자리 유성우 이번 주 정점"
+          "context": "Inflation Reports Could Test Warsh’s Tough Talk"
         },
         {
-          "title": "최지만",
+          "title": "함소원",
+          "traffic": "2000+",
+          "context": "'교통사고' 함소원 \"두 달 가까이 입원…9세 딸 책임지게 살려달라 기도\""
+        },
+        {
+          "title": "광 통신",
           "traffic": "200+",
-          "context": "'불꽃야구2' 이대호 vs 최지만…무려 21만 5천명 몰렸다"
+          "context": "잘 나가던 광통신주, 하루만에 '우수수' 하락 무슨 일"
         },
         {
-          "title": "임라라",
+          "title": "고소영",
+          "traffic": "200+",
+          "context": "고소영, 22살에 첫 억대 광고료 받아…\"몸값이라는 게 생겨\""
+        },
+        {
+          "title": "투자가",
           "traffic": "1000+",
-          "context": "‘슈돌’ 강단둥이 남매, 첫 여권사진 공개… 강이는 ‘근엄’ 단이는 ‘브이’"
+          "context": "패밀리 캐피탈의 3륜 전기차 베팅"
         },
         {
-          "title": "스토킹",
-          "traffic": "1000+",
-          "context": "황정민 스토킹 혐의 40대 여성, 벌금 1000만 원 구형"
-        },
-        {
-          "title": "주사",
-          "traffic": "2000+",
-          "context": "비만 주사 맞던 여대생, 구토 하다 돌연 사망[아하미국]"
-        },
-        {
-          "title": "관광객",
-          "traffic": "2000+",
-          "context": "횡성군·원주시, 제주공항서 관광 홍보…지역 관광 활로 모색"
-        },
-        {
-          "title": "당진시",
-          "traffic": "1000+",
-          "context": "530억 드는 '인당 30만원 지원' 당진시장 공약, 시의회서 제동"
-        },
-        {
-          "title": "무지개",
+          "title": "진수 화",
           "traffic": "500+",
-          "context": "파란 하늘에 뜬 ’무지개구름’…“좋은 일 있으려나“"
+          "context": "진수화 치어리더 '신나게 야호~'[엑's 숏폼]"
         },
         {
-          "title": "옷",
+          "title": "테이",
+          "traffic": "200+",
+          "context": "테이 “친형 같은 매니저였는데…” 전성기때 돌연 활동 접은 사연"
+        },
+        {
+          "title": "슈퍼맨이 돌아왔다",
+          "traffic": "100+",
+          "context": "'심형탁 子' 하루, 굿즈 앞에서 말문 활짝…아빠 닮은 덕질 DNA 폭발 \"그거 줘\" [슈돌]"
+        },
+        {
+          "title": "임 라라",
           "traffic": "2000+",
-          "context": "역대급 폭염에 쿨링 생리대 ‘불티’"
+          "context": "손민수♥임라라 쌍둥이 남매, 생애 첫 여권사진에 미모 '감탄'(슈돌)"
+        },
+        {
+          "title": "갈소원",
+          "traffic": "1000+",
+          "context": "‘7번방의 선물 예승이' 갈소원, 폭풍 성장한 21살 근황…미모에 '깜짝'"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-11T12:38:14.955Z",
+      "fetched": "2026-08-11T18:44:38.050Z",
       "items": [
         {
           "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
@@ -72,12 +72,12 @@
           "artist": "코르티스"
         },
         {
-          "title": "Surfin' Boy",
-          "artist": "레드벨벳"
-        },
-        {
           "title": "LOVE ATTACK",
           "artist": "리센느"
+        },
+        {
+          "title": "Surfin' Boy",
+          "artist": "레드벨벳"
         },
         {
           "title": "LEMONADE",
@@ -92,23 +92,23 @@
           "artist": "제니"
         },
         {
+          "title": "Pop Off Pop Off",
+          "artist": "키키"
+        },
+        {
           "title": "Pretty Girl",
           "artist": "리센느"
         },
         {
           "title": "Deja Vu",
           "artist": "리센느"
-        },
-        {
-          "title": "It's Me",
-          "artist": "아일릿"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-11T12:38:14.955Z",
+      "fetched": "2026-08-11T18:44:38.050Z",
       "items": [
         {
           "title": "안상호",
