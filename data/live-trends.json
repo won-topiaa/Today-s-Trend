@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-11T18:44:38.050Z",
+  "updated": "2026-08-12T00:59:19.016Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-11T18:44:38.050Z",
+      "fetched": "2026-08-12T00:59:19.016Z",
       "items": [
         {
-          "title": "cpi",
-          "traffic": "100+",
-          "context": "Inflation Reports Could Test Warsh’s Tough Talk"
-        },
-        {
-          "title": "함소원",
-          "traffic": "2000+",
-          "context": "'교통사고' 함소원 \"두 달 가까이 입원…9세 딸 책임지게 살려달라 기도\""
-        },
-        {
-          "title": "광 통신",
-          "traffic": "200+",
-          "context": "잘 나가던 광통신주, 하루만에 '우수수' 하락 무슨 일"
-        },
-        {
-          "title": "고소영",
-          "traffic": "200+",
-          "context": "고소영, 22살에 첫 억대 광고료 받아…\"몸값이라는 게 생겨\""
-        },
-        {
-          "title": "투자가",
-          "traffic": "1000+",
-          "context": "패밀리 캐피탈의 3륜 전기차 베팅"
-        },
-        {
-          "title": "진수 화",
+          "title": "국채",
           "traffic": "500+",
-          "context": "진수화 치어리더 '신나게 야호~'[엑's 숏폼]"
+          "context": "국채선물, 파키스탄發 미 국채 강세에 상승…10년물 13틱↑"
         },
         {
-          "title": "테이",
-          "traffic": "200+",
-          "context": "테이 “친형 같은 매니저였는데…” 전성기때 돌연 활동 접은 사연"
+          "title": "정준하",
+          "traffic": "500+",
+          "context": "'놀뭐' 잘리고 오열한 정준하, 허경환 저격 \"굴러 들어온 돌 기고만장\"(알딸딸)"
         },
         {
-          "title": "슈퍼맨이 돌아왔다",
+          "title": "김수키",
           "traffic": "100+",
-          "context": "'심형탁 子' 하루, 굿즈 앞에서 말문 활짝…아빠 닮은 덕질 DNA 폭발 \"그거 줘\" [슈돌]"
+          "context": "북한 해커 김수키, 로컬 LLM 구축…Ollama·GPT4All 흔적 확인"
         },
         {
-          "title": "임 라라",
+          "title": "거제경찰서",
+          "traffic": "200+",
+          "context": "40년 된 거제경찰서, 연초면으로 이전·신축 추진"
+        },
+        {
+          "title": "안세영",
+          "traffic": "5000+",
+          "context": "숨 고른 '셔틀콕 여제' 안세영, 벼르던 '세계선수권' 다가온다"
+        },
+        {
+          "title": "리사",
+          "traffic": "200+",
+          "context": "'재벌과 결별' 블핑 리사, 이번엔 '태국 차은우' 배우와 열애설…목격담 확산"
+        },
+        {
+          "title": "경제",
           "traffic": "2000+",
-          "context": "손민수♥임라라 쌍둥이 남매, 생애 첫 여권사진에 미모 '감탄'(슈돌)"
+          "context": "'반도체주' 뜻밖의 악재…한국 개미들 '초긴장' 하는 이유"
         },
         {
-          "title": "갈소원",
+          "title": "정가은",
           "traffic": "1000+",
-          "context": "‘7번방의 선물 예승이' 갈소원, 폭풍 성장한 21살 근황…미모에 '깜짝'"
+          "context": "'정가은 떠오르네' 33세 女 배우, 은퇴 후 택시 기사로…\"하루 34만 원\" [해외이슈]"
+        },
+        {
+          "title": "벤 셸턴",
+          "traffic": "100+",
+          "context": "'2연패 도전' 셸턴, 폰세카 꺾고 8강 합류"
+        },
+        {
+          "title": "가상자산",
+          "traffic": "200+",
+          "context": "내년부터 가상자산 '쪼개기 송금' 차단…'트래블룰' 전체로 확대"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-11T18:44:38.050Z",
+      "fetched": "2026-08-12T00:59:19.016Z",
       "items": [
         {
           "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
@@ -88,12 +88,12 @@
           "artist": "Hearts2Hearts"
         },
         {
-          "title": "Less than a Lover",
-          "artist": "제니"
-        },
-        {
           "title": "Pop Off Pop Off",
           "artist": "키키"
+        },
+        {
+          "title": "Less than a Lover",
+          "artist": "제니"
         },
         {
           "title": "Pretty Girl",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-11T18:44:38.050Z",
+      "fetched": "2026-08-12T00:59:19.016Z",
       "items": [
         {
-          "title": "안상호",
-          "views": 59232
-        },
-        {
           "title": "문화방송",
-          "views": 18238
-        },
-        {
-          "title": "하영",
-          "views": 12529
+          "views": 18903
         },
         {
           "title": "한국방송공사",
-          "views": 11173
+          "views": 12392
         },
         {
-          "title": "오디세이 (영화)",
-          "views": 6472
+          "title": "하영",
+          "views": 7879
         },
         {
           "title": "한국교육방송공사",
-          "views": 6386
+          "views": 7543
         },
         {
-          "title": "윤시내",
-          "views": 5642
+          "title": "오디세이 (영화)",
+          "views": 7471
+        },
+        {
+          "title": "리센느",
+          "views": 7252
         },
         {
           "title": "트로이 전쟁",
-          "views": 3788
+          "views": 6635
         },
         {
-          "title": "황희 (1967년)",
-          "views": 3284
+          "title": "안상호",
+          "views": 4504
         },
         {
-          "title": "오초희",
-          "views": 2940
+          "title": "노라 노",
+          "views": 4445
+        },
+        {
+          "title": "사랑이 온다 (드라마)",
+          "views": 3916
         }
       ]
     }
