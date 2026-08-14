@@ -1,79 +1,79 @@
 {
-  "updated": "2026-08-14T07:06:46.403Z",
+  "updated": "2026-08-14T12:38:37.581Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-14T07:06:46.403Z",
+      "fetched": "2026-08-14T12:38:37.581Z",
       "items": [
         {
-          "title": "목사",
-          "traffic": "500+",
-          "context": "“30시간 넘게 묶여있었다”…‘교회 11살 사망’ 목사 구속 송치 [현장영상]"
+          "title": "첼시 fc",
+          "traffic": "100+",
+          "context": "\"금요일까지 2200억 가져와\" 첼시, 엔소 이적에 초강수...레알 빠지고 맨시티만 남았다"
         },
         {
-          "title": "앤 해서웨이",
-          "traffic": "2000+",
-          "context": "임신한 앤 해서웨이 ‘D라인’ 노출에…“실리콘 붙였나” 악플 눈살"
+          "title": "아파트",
+          "traffic": "5000+",
+          "context": "\"2030 ‘빌라 대출’? 청년 모독\"…비아파트 대출 정책, 안철수 작심 비판"
         },
         {
-          "title": "함재기",
-          "traffic": "500+",
-          "context": "트럼프 \"항모 함재기 이륙장치 전자기식→증기식 변경\" 개입"
-        },
-        {
-          "title": "이호선",
+          "title": "t1",
           "traffic": "200+",
-          "context": "결박 폭행 아니네?! ‘라면 부부’ 아내, 허언증 터졌다 (이혼숙려캠프)"
+          "context": "T1, 디플러스 기아에 2:0 완승…리그 1위 굳건"
         },
         {
-          "title": "핵무기 정책",
+          "title": "비정규직",
+          "traffic": "100+",
+          "context": "공공연대노조, 공무직·자회사·돌봄노동자 등 처우개선 촉구"
+        },
+        {
+          "title": "전력",
+          "traffic": "100+",
+          "context": "새만금 '그린에너지 복합단지' 조성…새만금청·남동발전 MOU"
+        },
+        {
+          "title": "암호화폐",
           "traffic": "500+",
-          "context": "북, ‘미국 핵전략’에 “중대위협…자위적 핵억제력 강화할 것”"
+          "context": "비트코인, 규제 지연으로 $63,300대로 하락"
         },
         {
-          "title": "자식방생 프로젝트 합숙 맞선",
-          "traffic": "2000+",
-          "context": "최정윤♥이인권, 최종 커플 탄생…양가 어머니까지 \"허락\" 해피엔딩 (합숙맞선2)[종합]"
-        },
-        {
-          "title": "pba 팀리그",
+          "title": "동원그룹",
           "traffic": "200+",
-          "context": "“캡틴 이승진의 극적인 끝내기 8점” 브레이커스, 하나카드 꺾고 9연패 탈출…크라운해태 김재근 ‘퍼펙트샷’"
+          "context": "김남정 동원그룹 회장, 상반기 동원산업서 보수 11.7억 수령"
         },
         {
-          "title": "신성",
-          "traffic": "2000+",
-          "context": "가수 신성, 父 위암 4기 투병 고백…\"검사에서 희망이 보이기 시작해\""
+          "title": "t1 dk",
+          "traffic": "1000+",
+          "context": "T1, Fueled by Home-Ground Buff, Sweeps Game 1 Against Dplus KIA"
         },
         {
-          "title": "안규백",
-          "traffic": "2000+",
-          "context": "4년 만에 걸린 국방부 깃발, '尹 도어스테핑' 그곳에서‥ [현장영상]"
-        },
-        {
-          "title": "맥스 먼시",
+          "title": "아이린",
           "traffic": "200+",
-          "context": "먼시, 64년 역사 새롭게 썼다…박찬호 옛 동료 제치고 다저스타디움 최다 홈런 새 주인공 등극 - 머니투데이"
+          "context": "\"방송 나가면 항상 나이 얘기했다\" 아이린, '24살 데뷔' 설움 토로 ('차쥐뿔')"
+        },
+        {
+          "title": "디즈니+",
+          "traffic": "1000+",
+          "context": "디즈니+, 광복절 연휴 8월 둘째 주 컬렉션"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-14T07:06:46.403Z",
+      "fetched": "2026-08-14T12:38:37.581Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
           "artist": "키키"
         },
         {
-          "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
-          "artist": "Post Malone & Swae Lee"
-        },
-        {
           "title": "REDRED",
           "artist": "코르티스"
+        },
+        {
+          "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+          "artist": "Post Malone & Swae Lee"
         },
         {
           "title": "LOVE ATTACK",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-14T07:06:46.403Z",
+      "fetched": "2026-08-14T12:38:37.581Z",
       "items": [
         {
           "title": "안상호",
-          "views": 44855
-        },
-        {
-          "title": "하영",
-          "views": 29458
+          "views": 27940
         },
         {
           "title": "문화방송",
-          "views": 19820
+          "views": 18436
+        },
+        {
+          "title": "하영",
+          "views": 12972
+        },
+        {
+          "title": "5·18 광주 민주화 운동",
+          "views": 12078
         },
         {
           "title": "한국방송공사",
-          "views": 12618
-        },
-        {
-          "title": "안병문",
-          "views": 6531
+          "views": 11865
         },
         {
           "title": "한국교육방송공사",
-          "views": 6476
+          "views": 6538
         },
         {
-          "title": "정해인",
-          "views": 4923
-        },
-        {
-          "title": "안정호",
-          "views": 4918
+          "title": "트로이 전쟁",
+          "views": 5408
         },
         {
           "title": "오디세이 (영화)",
-          "views": 4884
+          "views": 4244
         },
         {
-          "title": "정약용",
-          "views": 4035
+          "title": "이완용",
+          "views": 4115
+        },
+        {
+          "title": "안건영",
+          "views": 3671
         }
       ]
     }
