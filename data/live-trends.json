@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-14T12:38:37.581Z",
+  "updated": "2026-08-14T18:39:14.864Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-14T12:38:37.581Z",
+      "fetched": "2026-08-14T18:39:14.864Z",
       "items": [
         {
-          "title": "첼시 fc",
+          "title": "맨홀",
           "traffic": "100+",
-          "context": "\"금요일까지 2200억 가져와\" 첼시, 엔소 이적에 초강수...레알 빠지고 맨시티만 남았다"
+          "context": "삼척시, 하수도 맨홀 안전시설 정비 다음 달 완료"
         },
         {
-          "title": "아파트",
-          "traffic": "5000+",
-          "context": "\"2030 ‘빌라 대출’? 청년 모독\"…비아파트 대출 정책, 안철수 작심 비판"
+          "title": "마르세유 대 아틀레티코",
+          "traffic": "1000+",
+          "context": "더이상 '벤치 이강인'은 없다…\"개막전 선발\" 파격 전망"
         },
         {
-          "title": "t1",
-          "traffic": "200+",
-          "context": "T1, 디플러스 기아에 2:0 완승…리그 1위 굳건"
-        },
-        {
-          "title": "비정규직",
+          "title": "류중일",
           "traffic": "100+",
-          "context": "공공연대노조, 공무직·자회사·돌봄노동자 등 처우개선 촉구"
+          "context": "'류중일 감독 아들 집에 홈캠 설치' 前사돈 아들 무죄→유죄"
         },
         {
-          "title": "전력",
-          "traffic": "100+",
-          "context": "새만금 '그린에너지 복합단지' 조성…새만금청·남동발전 MOU"
-        },
-        {
-          "title": "암호화폐",
+          "title": "쿠팡플레이",
           "traffic": "500+",
-          "context": "비트코인, 규제 지연으로 $63,300대로 하락"
+          "context": "빅뱅·임영웅에 수십만명 몰린다…고양시, 초대형 공연 안전대책 가동"
         },
         {
-          "title": "동원그룹",
-          "traffic": "200+",
-          "context": "김남정 동원그룹 회장, 상반기 동원산업서 보수 11.7억 수령"
+          "title": "인구감소지역",
+          "traffic": "100+",
+          "context": "임실군, 인구감소 대응 5년 기본계획 세운다"
         },
         {
-          "title": "t1 dk",
+          "title": "네이버 웹툰",
+          "traffic": "100+",
+          "context": "'케이-콘텐츠' 불법 유통 대응 국제공조 수사 확대"
+        },
+        {
+          "title": "south korea national liberation day",
           "traffic": "1000+",
-          "context": "T1, Fueled by Home-Ground Buff, Sweeps Game 1 Against Dplus KIA"
+          "context": "liberation-day-bell-ringing-eng -"
         },
         {
-          "title": "아이린",
-          "traffic": "200+",
-          "context": "\"방송 나가면 항상 나이 얘기했다\" 아이린, '24살 데뷔' 설움 토로 ('차쥐뿔')"
+          "title": "대한민국 광복절",
+          "traffic": "10000+",
+          "context": "美국무, 광복절 축하메시지…\"한국은 없어서는 안 될 파트너\""
         },
         {
-          "title": "디즈니+",
-          "traffic": "1000+",
-          "context": "디즈니+, 광복절 연휴 8월 둘째 주 컬렉션"
+          "title": "t 멤버십",
+          "traffic": "100+",
+          "context": "11번가, T멤버십 고객 대상 980종 특가…20일까지 반값 혜택"
+        },
+        {
+          "title": "돈",
+          "traffic": "2000+",
+          "context": "“한국 돈? 안 받아요”…태국 공항서 환전 거부당한 한국인 [잇슈#태그]"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-14T12:38:37.581Z",
+      "fetched": "2026-08-14T18:39:14.864Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -80,12 +80,12 @@
           "artist": "리센느"
         },
         {
-          "title": "Surfin' Boy",
-          "artist": "레드벨벳"
-        },
-        {
           "title": "LEMONADE",
           "artist": "aespa"
+        },
+        {
+          "title": "Surfin' Boy",
+          "artist": "레드벨벳"
         },
         {
           "title": "Lemon Tang",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-14T12:38:37.581Z",
+      "fetched": "2026-08-14T18:39:14.864Z",
       "items": [
         {
           "title": "안상호",
