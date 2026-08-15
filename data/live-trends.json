@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-14T18:39:14.864Z",
+  "updated": "2026-08-15T00:35:53.208Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-14T18:39:14.864Z",
+      "fetched": "2026-08-15T00:35:53.208Z",
       "items": [
         {
-          "title": "맨홀",
+          "title": "송도 럭스 오션 sk뷰",
           "traffic": "100+",
-          "context": "삼척시, 하수도 맨홀 안전시설 정비 다음 달 완료"
+          "context": "[사건사고] 아파트 발코니 통째로 와르르…재시공·정밀진단 요구 外"
         },
         {
-          "title": "마르세유 대 아틀레티코",
+          "title": "현대무벡스",
+          "traffic": "200+",
+          "context": "현대무벡스 주가, 급등세... 무슨 회사길래?"
+        },
+        {
+          "title": "이지혜",
+          "traffic": "200+",
+          "context": "유리, 남편 공개했다"
+        },
+        {
+          "title": "두산에너빌리티",
+          "traffic": "5000+",
+          "context": "김정관 장관, 빌 게이츠 테라파워 의장 면담…SMR 협력방안 논의"
+        },
+        {
+          "title": "테슬라",
           "traffic": "1000+",
-          "context": "더이상 '벤치 이강인'은 없다…\"개막전 선발\" 파격 전망"
+          "context": "\"테슬라 전기차 독주 끝났다\"…'안방 사수' 성공한 車 봤더니"
         },
         {
-          "title": "류중일",
-          "traffic": "100+",
-          "context": "'류중일 감독 아들 집에 홈캠 설치' 前사돈 아들 무죄→유죄"
-        },
-        {
-          "title": "쿠팡플레이",
-          "traffic": "500+",
-          "context": "빅뱅·임영웅에 수십만명 몰린다…고양시, 초대형 공연 안전대책 가동"
-        },
-        {
-          "title": "인구감소지역",
-          "traffic": "100+",
-          "context": "임실군, 인구감소 대응 5년 기본계획 세운다"
-        },
-        {
-          "title": "네이버 웹툰",
-          "traffic": "100+",
-          "context": "'케이-콘텐츠' 불법 유통 대응 국제공조 수사 확대"
-        },
-        {
-          "title": "south korea national liberation day",
-          "traffic": "1000+",
-          "context": "liberation-day-bell-ringing-eng -"
-        },
-        {
-          "title": "대한민국 광복절",
-          "traffic": "10000+",
-          "context": "美국무, 광복절 축하메시지…\"한국은 없어서는 안 될 파트너\""
-        },
-        {
-          "title": "t 멤버십",
-          "traffic": "100+",
-          "context": "11번가, T멤버십 고객 대상 980종 특가…20일까지 반값 혜택"
-        },
-        {
-          "title": "돈",
+          "title": "김지민",
           "traffic": "2000+",
-          "context": "“한국 돈? 안 받아요”…태국 공항서 환전 거부당한 한국인 [잇슈#태그]"
+          "context": "‘♥김준호’ 김지민, 내년 2월 ‘출산 예정’ 소식 전했다…“딸이겠죠? 아들도 좋아요”"
+        },
+        {
+          "title": "schd",
+          "traffic": "100+",
+          "context": "SCHD: The Biggest Mistake New Dividend Investors Make"
+        },
+        {
+          "title": "날씨",
+          "traffic": "500000+",
+          "context": "[주말 날씨] 광복절, 남부 비 소식…내일 전국으로 확대"
+        },
+        {
+          "title": "thời tiết",
+          "traffic": "2000+",
+          "context": "Miền Bắc đón nhiều ngày có mưa dông"
+        },
+        {
+          "title": "天气",
+          "traffic": "1000+",
+          "context": "[天气]光复节假期最大150毫米强降雨……伴有阵风、雷电"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-14T18:39:14.864Z",
+      "fetched": "2026-08-15T00:35:53.208Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -84,12 +84,12 @@
           "artist": "aespa"
         },
         {
-          "title": "Surfin' Boy",
-          "artist": "레드벨벳"
-        },
-        {
           "title": "Lemon Tang",
           "artist": "Hearts2Hearts"
+        },
+        {
+          "title": "Surfin' Boy",
+          "artist": "레드벨벳"
         },
         {
           "title": "Less than a Lover",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-14T18:39:14.864Z",
+      "fetched": "2026-08-15T00:35:53.208Z",
       "items": [
         {
           "title": "안상호",
