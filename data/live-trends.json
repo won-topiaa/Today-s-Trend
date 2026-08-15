@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-15T12:15:49.560Z",
+  "updated": "2026-08-15T18:12:30.049Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-15T12:15:49.560Z",
+      "fetched": "2026-08-15T18:12:30.049Z",
       "items": [
         {
-          "title": "딴지",
-          "traffic": "100+",
-          "context": null
+          "title": "황정음",
+          "traffic": "1000+",
+          "context": "황정음, 까맣고 살 오른 모습에 본인도 깜짝 “왕식이 얼굴 나왔다..어떡해”"
         },
         {
-          "title": "백종원",
+          "title": "토트넘",
+          "traffic": "1000+",
+          "context": "'손흥민 옛 동료' 로메로, AT 마드리드 이적 확정…이강인과 만난다"
+        },
+        {
+          "title": "상장",
           "traffic": "200+",
-          "context": "“백종원 어쩌다 600억 증발” 믿었던 사람들 ‘망연자실’ 하더니…결국 터질게 터졌다"
+          "context": "‘SK하이닉스 주주들 난리난다’ 하루만에 10% 급락…‘솔리다임’ 상장 무섭네 [투자360]"
         },
         {
-          "title": "사장님 귀는 당나귀 귀",
-          "traffic": "200+",
-          "context": "썬킴, 전현무 옛 본가에 산다…“엘리베이터서 기운 느껴져”"
+          "title": "송가인",
+          "traffic": "1000+",
+          "context": "송가인, 옥빛 한복 입고 뽐낸 잘록한 몸매…44㎏ 감량 비결은 '꾸준한 운동'"
         },
         {
-          "title": "현관",
+          "title": "가출",
           "traffic": "2000+",
-          "context": "“우리 집 앞인데 어때서”…아파트 복도에 현관문 단 주민, 불법일까"
+          "context": "가출 말리는 엄마에게 끓는 물 부은 10대 딸"
         },
         {
-          "title": "백령도",
+          "title": "조규성",
+          "traffic": "100+",
+          "context": "조규성 연봉 26억? 日 파격 제안 거절하기 힘들다…깜짝 J리그 입단설 \"주말에 최종 결정 나올 수도\""
+        },
+        {
+          "title": "fotmob",
           "traffic": "200+",
-          "context": "사곶에서 만난 해병대 & 백령도 토박이 부녀의 백령도식 냉면 | KBS 260815 방송"
+          "context": "Arsenal surprise as Chelsea close in on bizarre deal"
         },
         {
-          "title": "구자욱",
-          "traffic": "200+",
-          "context": "구자욱이 치면 이긴다…내친김에 생애 첫 타격왕 '조준'"
+          "title": "มิลาน พบ แมนยู",
+          "traffic": "500+",
+          "context": "การคาดการณ์ผลการแข่งขันระหว่างแมนเชสเตอร์ ยูไนเต็ด กับ เอซี มิลาน: รายชื่อผู้เล่นตัวจริงที่คาดว่าจะลงสนาม"
         },
         {
-          "title": "농구 한일전",
-          "traffic": "200+",
-          "context": "'0.2초' 남기고 韓 울린 日 천재 가드, 정말 20세 맞아? 접전서도 싱글벙글…\"긴박한 상황이 즐거워, 이게 농구의 재미구나 실감\" [도쿄 인터뷰]"
+          "title": "milan vs man united",
+          "traffic": "2000+",
+          "context": "Manchester United vs AC Milan: Club Friendlies stats & head-to-head"
         },
         {
-          "title": "놀토",
-          "traffic": "200+",
-          "context": "'놀토' 원이 \"연습생 때부터 들어\" 태연 노래 열창 '훈훈 선후배'"
-        },
-        {
-          "title": "민생 지원금 지급일",
-          "traffic": "20000+",
-          "context": "통영시 ‘1인당 35만 원 민생지원금’ 시의회서 지급 확정"
-        },
-        {
-          "title": "이호연",
-          "traffic": "200+",
-          "context": null
+          "title": "milan đấu với man utd",
+          "traffic": "500+",
+          "context": "Thua AC Milan, fan MU đòi mua người thay thế Luke Shaw"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-15T12:15:49.560Z",
+      "fetched": "2026-08-15T18:12:30.049Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-15T12:15:49.560Z",
+      "fetched": "2026-08-15T18:12:30.049Z",
       "items": [
         {
           "title": "안상호",
