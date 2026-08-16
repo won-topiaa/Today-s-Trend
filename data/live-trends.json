@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-15T18:12:30.049Z",
+  "updated": "2026-08-16T00:37:29.818Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-15T18:12:30.049Z",
+      "fetched": "2026-08-16T00:37:29.818Z",
       "items": [
         {
-          "title": "황정음",
-          "traffic": "1000+",
-          "context": "황정음, 까맣고 살 오른 모습에 본인도 깜짝 “왕식이 얼굴 나왔다..어떡해”"
-        },
-        {
-          "title": "토트넘",
-          "traffic": "1000+",
-          "context": "'손흥민 옛 동료' 로메로, AT 마드리드 이적 확정…이강인과 만난다"
-        },
-        {
-          "title": "상장",
+          "title": "수성구",
           "traffic": "200+",
-          "context": "‘SK하이닉스 주주들 난리난다’ 하루만에 10% 급락…‘솔리다임’ 상장 무섭네 [투자360]"
+          "context": "대구 수성구, 자체 지역화폐 추진…조례 제정 나섰다"
         },
         {
-          "title": "송가인",
-          "traffic": "1000+",
-          "context": "송가인, 옥빛 한복 입고 뽐낸 잘록한 몸매…44㎏ 감량 비결은 '꾸준한 운동'"
-        },
-        {
-          "title": "가출",
-          "traffic": "2000+",
-          "context": "가출 말리는 엄마에게 끓는 물 부은 10대 딸"
-        },
-        {
-          "title": "조규성",
+          "title": "박세웅",
           "traffic": "100+",
-          "context": "조규성 연봉 26억? 日 파격 제안 거절하기 힘들다…깜짝 J리그 입단설 \"주말에 최종 결정 나올 수도\""
+          "context": "'3년 연속 전경기 출장' 철강왕 외인, 자진 교체 요청 날벼락...\"왼 종아리 타이트함, 보호차원 교체\" [오!쎈 부산] - 머니투데이"
         },
         {
-          "title": "fotmob",
-          "traffic": "200+",
-          "context": "Arsenal surprise as Chelsea close in on bizarre deal"
-        },
-        {
-          "title": "มิลาน พบ แมนยู",
+          "title": "군함",
           "traffic": "500+",
-          "context": "การคาดการณ์ผลการแข่งขันระหว่างแมนเชสเตอร์ ยูไนเต็ด กับ เอซี มิลาน: รายชื่อผู้เล่นตัวจริงที่คาดว่าจะลงสนาม"
+          "context": "\"미국 조선업 재건, 한국 등 동맹과 하이브리드 협력이 최적\" - 머니투데이"
         },
         {
-          "title": "milan vs man united",
+          "title": "임우일",
+          "traffic": "500+",
+          "context": "임우일, 김영희 '38번' 고백에도 거절했지만…결혼식에 '혼주' 의리 - 머니투데이"
+        },
+        {
+          "title": "우상호",
           "traffic": "2000+",
-          "context": "Manchester United vs AC Milan: Club Friendlies stats & head-to-head"
+          "context": "광복절을 기념하며 \"대한독립만세\""
         },
         {
-          "title": "milan đấu với man utd",
-          "traffic": "500+",
-          "context": "Thua AC Milan, fan MU đòi mua người thay thế Luke Shaw"
+          "title": "양현종",
+          "traffic": "200+",
+          "context": "대투수 123일만에 QS 역투 194승, 김도영 35호포, 박재현 2타점, 와~ 이의리 158km...KIA 6-1 설욕, 두산 3연승 실패 [광주 리뷰]"
+        },
+        {
+          "title": "메이저 리그 베이스볼",
+          "traffic": "200+",
+          "context": "\"장송곡이 된 등판 나팔\"…MLB 다저스, 마무리 디아스에 골머리"
+        },
+        {
+          "title": "재건축",
+          "traffic": "2000+",
+          "context": "[현장] “입지보다 사업 속도” 재건축 속도 내는 압구정 2구역"
+        },
+        {
+          "title": "이정후",
+          "traffic": "2000+",
+          "context": "이정후, 3경기 연속 무안타…배지환은 대주자로 시즌 1호 도루"
+        },
+        {
+          "title": "날씨예보",
+          "traffic": "100+",
+          "context": "8월 16일, 탄화는 계속해서 무더운 날씨를 보였습니다."
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-15T18:12:30.049Z",
+      "fetched": "2026-08-16T00:37:29.818Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-15T18:12:30.049Z",
+      "fetched": "2026-08-16T00:37:29.818Z",
       "items": [
         {
           "title": "안상호",
