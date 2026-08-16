@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-16T12:16:38.539Z",
+  "updated": "2026-08-16T18:12:45.377Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-16T12:16:38.539Z",
+      "fetched": "2026-08-16T18:12:45.377Z",
       "items": [
         {
-          "title": "독서로",
-          "traffic": "200+",
-          "context": "서논술형으로 사교육 잡는다?…학부모들 \"학원 하나 더 다닐 뿐\""
+          "title": "리버풀 코모",
+          "traffic": "100+",
+          "context": "리버풀 신임 감독, \"90분을 뛸 에너지가 없다\" 발언 왜?"
         },
         {
-          "title": "이자",
+          "title": "liverpool vs como",
+          "traffic": "200+",
+          "context": "¿Cómo ver el partido entre Liverpool vs Como en TV y Streaming?"
+        },
+        {
+          "title": "엘링 홀란",
           "traffic": "500+",
-          "context": "[돈MORE]연 10% 적금에 '눈 번쩍'…이자는 딸랑 679원"
+          "context": "\"홀란이 마약 포장에?\" 충격 사진 공개...에콰도르서 코카인 469kg 압수, 암시장 가치 '277억'"
         },
         {
-          "title": "토트넘 호펜하임",
-          "traffic": "100+",
-          "context": "'1920억 토날리 효과' 토트넘이 달라졌다...데 제르비표 '더 크고 거칠고 강한 팀' 완성 중"
+          "title": "호날두",
+          "traffic": "10000+",
+          "context": "“1.7조, 내 재산은 내 것”…결혼 하루 전 쓴 호날두의 ‘이혼 대비 계약서’"
         },
         {
-          "title": "박재현",
-          "traffic": "100+",
-          "context": "\"공이 보이지 않아요\" 김도영 35호 홈런 치고 땅이 꺼져라 한숨...1할6푼7리 폭염휴식에 식어버린 방망이, 다시 끌어올린다"
-        },
-        {
-          "title": "spurs vs hoffenheim",
+          "title": "레알마드리드",
           "traffic": "200+",
-          "context": "Tottenham's Moore Scores Twice in 3-0 Preseason Win"
+          "context": "로드리 영입 실패한 레알, 뜻밖의 대안은 알렉산더 아놀드… 무리뉴 감독 '중앙 미드필더 시프트' 검토"
         },
         {
-          "title": "리버풀",
-          "traffic": "100+",
-          "context": "베이조스, EPL 리버풀 구단 지분 인수…이사회엔 참여 안 해"
+          "title": "schalke vs real madrid",
+          "traffic": "500+",
+          "context": "Kantersieg im letzten Vorbereitungsspiel der Saison"
         },
         {
-          "title": "전영현",
+          "title": "기소",
+          "traffic": "500+",
+          "context": "중학생 제자 20차례 '위력 성폭행' 40대 교사…검찰 수사가 죄명 바꿨다"
+        },
+        {
+          "title": "맷 데이먼",
+          "traffic": "500+",
+          "context": "'오디세이' 책 매출 폭증…서점도 흥행 돌풍"
+        },
+        {
+          "title": "바르셀로나",
           "traffic": "200+",
-          "context": "범용 메모리 가격 2027년 하락 전망, 삼성전자·SK하이닉스 HBM 생산비중 더 높아진다"
+          "context": "766억→1051억 높였는데도 또 '거절'...바르셀로나, 로드리 영입 '난항'"
         },
         {
-          "title": "pba 팀리그",
+          "title": "프리미어리그",
           "traffic": "200+",
-          "context": "'헐크 영입 효과인가' 휴온스, 파죽의 4연승 2R 1위 질주…강동궁, 2R 3승 1패 선전"
-        },
-        {
-          "title": "카라스코",
-          "traffic": "200+",
-          "context": "주 2회 등판 무리였나! 7이닝 퍼펙트했던 MLB 112승 투수, KBO 9위팀에 혼쭐→홈런 2방 맞고 5실점 - 머니투데이"
-        },
-        {
-          "title": "김용빈",
-          "traffic": "200+",
-          "context": "“보고플 때마다 몰래 웁니다” 오승근, 故 김자옥 향한 마음 담았다 (금타는 금요일)"
+          "context": "\"韓 EPL 0명, 日? 떠오르는 태양\" 英 유력지 슬픈 비교…\"프리미어리그 자리 잡을 한국 선수도 많지 않아\""
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-16T12:16:38.539Z",
+      "fetched": "2026-08-16T18:12:45.377Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
