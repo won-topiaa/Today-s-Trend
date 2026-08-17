@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-17T00:35:32.309Z",
+  "updated": "2026-08-17T06:31:15.292Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-17T00:35:32.309Z",
+      "fetched": "2026-08-17T06:31:15.292Z",
       "items": [
         {
-          "title": "손태영",
-          "traffic": "100+",
-          "context": "손태영, 美 뉴저지 저택에 사슴 등장…♥권상우 \"우와\" [마데핫리뷰]"
-        },
-        {
-          "title": "광주시",
-          "traffic": "200+",
-          "context": "전남광주시의회, 22조원 예산 심사 대비 연찬회 개최"
-        },
-        {
-          "title": "타릭 스쿠발",
-          "traffic": "200+",
-          "context": "이래서 “디트로이트로 돌아가고 싶다” 했나…스쿠발 6이닝 1자책 호투에도 고배, 다저스 타선 또 침묵 [LAD 리뷰] - 머니투데이"
-        },
-        {
-          "title": "디지털 자산",
-          "traffic": "100+",
-          "context": "코인데스크 \"전통 금융, 디지털자산 완전 수용…은행가와 대립 시대 끝\""
-        },
-        {
-          "title": "농축 우라늄",
-          "traffic": "200+",
-          "context": "원전 늘리지만, 연료 창고는 비어간다"
-        },
-        {
-          "title": "전현무",
-          "traffic": "200+",
-          "context": "“막내 이찬원도 쏘는데” 전현무, 60억 대 아파트 살면서 4년째 회식비 ‘0원’ 폭로(사당귀)"
-        },
-        {
-          "title": "토마스 해치",
-          "traffic": "200+",
-          "context": "'고별전' 번복하고, 삼성 3연전까지 뛰면 안 될까...SSG 대체 외인, 홈런 포함 4출루 \"내가 가진 것 보여주지 못해 아쉽다\""
-        },
-        {
-          "title": "필리스 대 트윈스",
-          "traffic": "200+",
-          "context": "[오늘의 영상] 옥수수밭 ‘꿈의 구장’"
-        },
-        {
-          "title": "염경엽",
-          "traffic": "200+",
-          "context": "\"문정빈, 4번째 치는 타자일 뿐\" 염경엽 발언, 홀대 아닌 '부담 완화' 배려였는데 왜 왜곡됐나 - 머니투데이"
-        },
-        {
-          "title": "박은혜",
+          "title": "헤이든 파네티어",
           "traffic": "500+",
-          "context": null
+          "context": "‘히어로즈’ 배우 헤이든 파네티어 사망…“비극적인 죽음에 깊은 슬픔”"
+        },
+        {
+          "title": "키옥시아 주가",
+          "traffic": "200+",
+          "context": "亞 증시 떠받친 AI·반도체 훈풍, 닛케이 상승전환[Asia오전] - 머니투데이"
+        },
+        {
+          "title": "브루클린 베컴",
+          "traffic": "200+",
+          "context": "Why did Cruz Beckham share Brooklyn Beckham’s childhood photo? The family feud adds a deeper meaning to t"
+        },
+        {
+          "title": "과학 고등학교",
+          "traffic": "500+",
+          "context": "과학고 역대 최대 1858명 선발…최상위권 '이공계냐 의대냐'"
+        },
+        {
+          "title": "india vs sri lanka",
+          "traffic": "200+",
+          "context": "Ball by Ball Commentary & Live Score - SL vs IND, 1st Test"
+        },
+        {
+          "title": "트레킹",
+          "traffic": "1000+",
+          "context": "무이응에 외에도 다낭에는 트레킹이 금지된 곳이 두 군데 더 있습니다."
+        },
+        {
+          "title": "로스앤젤레스 fc",
+          "traffic": "5000+",
+          "context": "손흥민 왜 폭발했나? 백태클에 마지막 공격 끊겼는데→공까지 안 주자 직접 빼앗아…주심은 SON 향해 '옐로카드'"
+        },
+        {
+          "title": "김영익",
+          "traffic": "500+",
+          "context": "시험대 오른 반도체주…'이번주 주식시장 주요 변수'"
+        },
+        {
+          "title": "실업",
+          "traffic": "500+",
+          "context": "같은 회사 21번 들락날락…실업급여 '1억' 받은 직장인 등장 [곽용희의 일자리노트]"
+        },
+        {
+          "title": "경마",
+          "traffic": "200+",
+          "context": "과천 경마장 이전 ‘속도전’…토지수용·손실보상 난제"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-17T00:35:32.309Z",
+      "fetched": "2026-08-17T06:31:15.292Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
