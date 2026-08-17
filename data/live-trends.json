@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-17T06:31:15.292Z",
+  "updated": "2026-08-17T12:20:07.928Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-17T06:31:15.292Z",
+      "fetched": "2026-08-17T12:20:07.928Z",
       "items": [
         {
-          "title": "헤이든 파네티어",
-          "traffic": "500+",
-          "context": "‘히어로즈’ 배우 헤이든 파네티어 사망…“비극적인 죽음에 깊은 슬픔”"
-        },
-        {
-          "title": "키옥시아 주가",
-          "traffic": "200+",
-          "context": "亞 증시 떠받친 AI·반도체 훈풍, 닛케이 상승전환[Asia오전] - 머니투데이"
-        },
-        {
-          "title": "브루클린 베컴",
-          "traffic": "200+",
-          "context": "Why did Cruz Beckham share Brooklyn Beckham’s childhood photo? The family feud adds a deeper meaning to t"
-        },
-        {
-          "title": "과학 고등학교",
-          "traffic": "500+",
-          "context": "과학고 역대 최대 1858명 선발…최상위권 '이공계냐 의대냐'"
-        },
-        {
-          "title": "india vs sri lanka",
-          "traffic": "200+",
-          "context": "Ball by Ball Commentary & Live Score - SL vs IND, 1st Test"
-        },
-        {
-          "title": "트레킹",
-          "traffic": "1000+",
-          "context": "무이응에 외에도 다낭에는 트레킹이 금지된 곳이 두 군데 더 있습니다."
-        },
-        {
-          "title": "로스앤젤레스 fc",
+          "title": "김태선",
           "traffic": "5000+",
-          "context": "손흥민 왜 폭발했나? 백태클에 마지막 공격 끊겼는데→공까지 안 주자 직접 빼앗아…주심은 SON 향해 '옐로카드'"
+          "context": "더불어민주당 새 당대표 '김민석'‥최고위원 1위 최민희"
         },
         {
-          "title": "김영익",
-          "traffic": "500+",
-          "context": "시험대 오른 반도체주…'이번주 주식시장 주요 변수'"
-        },
-        {
-          "title": "실업",
-          "traffic": "500+",
-          "context": "같은 회사 21번 들락날락…실업급여 '1억' 받은 직장인 등장 [곽용희의 일자리노트]"
-        },
-        {
-          "title": "경마",
+          "title": "신세계",
           "traffic": "200+",
-          "context": "과천 경마장 이전 ‘속도전’…토지수용·손실보상 난제"
+          "context": "신세계百, 역대 최대 '베이비페어'…육아용품 최대 40% 할인"
+        },
+        {
+          "title": "김부선",
+          "traffic": "10000+",
+          "context": "[단독] 김부선과 고인, 무슨 사이였길래 ‘난방열사’ 집까지 가압류"
+        },
+        {
+          "title": "제주 sk fc",
+          "traffic": "100+",
+          "context": "제주항공, 제주SK FC 홈경기서 '브랜드데이' 진행"
+        },
+        {
+          "title": "한민수",
+          "traffic": "1000+",
+          "context": "당대표만큼 치열했던 최고위원 선거‥김용 탈락에 '친청' 과반"
+        },
+        {
+          "title": "대한민국",
+          "traffic": "500+",
+          "context": "광복절 경축식 영상에 독립운동 6인… 이승만 빠져"
+        },
+        {
+          "title": "티비",
+          "traffic": "200+",
+          "context": "What will TV look like in three years? Media insiders share their predictions"
+        },
+        {
+          "title": "테라파워",
+          "traffic": "2000+",
+          "context": "韓에 'SMR 러브콜' 보낸 빌 게이츠…테라파워 vs K-SMR 경쟁력은"
+        },
+        {
+          "title": "디즈니",
+          "traffic": "200+",
+          "context": "디즈니, 젊은 팬 찾아 게임·틱톡으로 확장...“새 세대에 이야기 이어지도록”"
+        },
+        {
+          "title": "부모",
+          "traffic": "10000+",
+          "context": "\"시부 팔순잔치 못했으니 친정부모도 챙기지 마\"…시모·시누이 억지 시끌"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-17T06:31:15.292Z",
+      "fetched": "2026-08-17T12:20:07.928Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-16T06:20:51.882Z",
+      "fetched": "2026-08-17T12:20:07.928Z",
       "items": [
         {
-          "title": "안상호",
-          "views": 27940
+          "title": "친일반민족행위 705인 명단",
+          "views": 24940
         },
         {
           "title": "문화방송",
-          "views": 18436
-        },
-        {
-          "title": "하영",
-          "views": 12972
-        },
-        {
-          "title": "5·18 광주 민주화 운동",
-          "views": 12078
-        },
-        {
-          "title": "한국방송공사",
-          "views": 11865
-        },
-        {
-          "title": "한국교육방송공사",
-          "views": 6538
+          "views": 19450
         },
         {
           "title": "트로이 전쟁",
-          "views": 5408
+          "views": 11994
         },
         {
-          "title": "오디세이 (영화)",
-          "views": 4244
+          "title": "안상호",
+          "views": 11900
+        },
+        {
+          "title": "하영",
+          "views": 11777
+        },
+        {
+          "title": "5·18 광주 민주화 운동",
+          "views": 10782
+        },
+        {
+          "title": "한국방송공사",
+          "views": 10649
         },
         {
           "title": "이완용",
-          "views": 4115
+          "views": 9778
         },
         {
-          "title": "안건영",
-          "views": 3671
+          "title": "한국교육방송공사",
+          "views": 8342
+        },
+        {
+          "title": "오디세이 (영화)",
+          "views": 7336
         }
       ]
     }
