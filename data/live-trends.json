@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-19T06:24:36.780Z",
+  "updated": "2026-08-19T12:21:43.157Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-19T06:24:36.780Z",
+      "fetched": "2026-08-19T12:21:43.157Z",
       "items": [
         {
-          "title": "조태용",
+          "title": "야구여왕",
           "traffic": "200+",
-          "context": "\"윤석열 탄핵 저지 위해 홍장원 거짓말 몰이\"... 조태용 징역 2년 6개월"
+          "context": "'야구여왕2' 온라인 화제성·오프라인 직관까지…팬심↑"
         },
         {
-          "title": "이의리",
+          "title": "윤석열",
+          "traffic": "2000+",
+          "context": "[속보] 특검, '계엄 관련 위증' 尹 2심서 벌금 1천만원 구형"
+        },
+        {
+          "title": "모더나",
           "traffic": "1000+",
-          "context": "'2사 만루서 헛스윙 삼진' 김도영, 홈런으로 아쉬움 만회했다…\"많이 반성하고 있어요\" [대전 인터뷰]"
+          "context": "머크, 모더나와 공동 개발한 mRNA 암 치료제 3상 임상 성공… 흑색종 재발 방지 효과 입증"
         },
         {
-          "title": "f 35a",
-          "traffic": "1000+",
-          "context": "Germany’s first F-35 leaves final assembly as Luftwaffe eyes 15 more"
-        },
-        {
-          "title": "민방위",
+          "title": "활주로",
           "traffic": "500+",
-          "context": "내일 오후 2시 사이렌 울리면 대피…전국 민방위 훈련"
+          "context": "긴급발진 마치고 착륙하다 ‘휘청’…일본 F-15 날개 활주로에 닿아 [현장영상]"
         },
         {
-          "title": "dior",
+          "title": "티켓링크",
+          "traffic": "1000+",
+          "context": "NHN링크, 뮤지컬 ‘드라큘라’ 전관 행사 실시…‘링크스페셜데이’ 12번째 무대"
+        },
+        {
+          "title": "김민종",
           "traffic": "100+",
-          "context": "Blackpink Jeesoo mourns Dior publicist Mathilde Favier's death - CHOSUNBIZ"
+          "context": "MC몽 ‘김민종 도박 폭로’ 거짓말이었나…차가원 녹취에서 “칩 안 만졌대”"
         },
         {
-          "title": "삼청교육대",
-          "traffic": "100+",
-          "context": "'삼청교육대 10배 규모'... 법무부, 교도소 순화교육 진상조사 나서야"
-        },
-        {
-          "title": "국립 대학",
+          "title": "김준환",
           "traffic": "1000+",
-          "context": "민형배 “목포대·순천대 통합 무산돼도 전남 의대 신청 포기 안 한다”"
+          "context": "민주당 의원, 탈북민 국힘 의원 향해 \"김일성 만세 하던 사람\""
         },
         {
-          "title": "레이디 제인",
-          "traffic": "500+",
-          "context": "‘레이디제인♥’ 임현태, 쌍둥이 딸 하버드 꿈꿨는데..’발달 지연 경계’ 진단에 충격"
+          "title": "안양 대 제주",
+          "traffic": "2000+",
+          "context": "“선두 서울 잡아야 산다”…‘3연패’ FC안양, 반등 정조준"
         },
         {
-          "title": "오타니 쇼헤이",
-          "traffic": "500+",
-          "context": "오타니, 6년 연속 30홈런 달성…다저스, 콜로라도전 진땀승"
+          "title": "인시디어스",
+          "traffic": "100+",
+          "context": "늦여름 극장가 점령한 호러 '인시디어스'·'위커맨'"
         },
         {
-          "title": "그랜드 테 프트 오토 vi",
-          "traffic": "5000+",
-          "context": "넷플릭스 통해 공개 앞둔 ‘GTA 6’…해킹 그룹에 의해 정보 유출"
+          "title": "키움 대 롯데",
+          "traffic": "10000+",
+          "context": "믿기 힘들었던 7회 13점 폭격, 롯데 역사 새로 썼다"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-19T06:24:36.780Z",
+      "fetched": "2026-08-19T12:21:43.157Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -72,12 +72,12 @@
           "artist": "코르티스"
         },
         {
-          "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
-          "artist": "Post Malone & Swae Lee"
-        },
-        {
           "title": "LOVE ATTACK",
           "artist": "리센느"
+        },
+        {
+          "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+          "artist": "Post Malone & Swae Lee"
         },
         {
           "title": "LEMONADE",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-19T06:24:36.780Z",
+      "fetched": "2026-08-19T12:21:43.157Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 22924
-        },
-        {
-          "title": "친일반민족행위 705인 명단",
-          "views": 14580
-        },
-        {
-          "title": "트로이 전쟁",
-          "views": 12890
+          "views": 19744
         },
         {
           "title": "한국방송공사",
-          "views": 10244
+          "views": 10100
         },
         {
-          "title": "안상호",
-          "views": 9381
+          "title": "친일반민족행위 705인 명단",
+          "views": 9331
+        },
+        {
+          "title": "여성 사정",
+          "views": 7964
         },
         {
           "title": "한국교육방송공사",
-          "views": 8279
+          "views": 7147
+        },
+        {
+          "title": "안상호",
+          "views": 6055
         },
         {
           "title": "5·18 광주 민주화 운동",
-          "views": 7907
+          "views": 5773
         },
         {
-          "title": "김민석 (1964년)",
-          "views": 7452
+          "title": "트로이 전쟁",
+          "views": 4215
         },
         {
-          "title": "하영",
-          "views": 6612
+          "title": "정해인",
+          "views": 3851
         },
         {
-          "title": "이완용",
-          "views": 6097
+          "title": "오디세이 (영화)",
+          "views": 3781
         }
       ]
     }
