@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-18T18:20:25.487Z",
+  "updated": "2026-08-19T00:35:28.437Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-18T18:20:25.487Z",
+      "fetched": "2026-08-19T00:35:28.437Z",
       "items": [
         {
-          "title": "광화문광장",
-          "traffic": "200+",
-          "context": "가습기살균제 피해자들 \"2기 사회적참사 특조위 필요\""
+          "title": "동아일보",
+          "traffic": "2000+",
+          "context": "정청래 “민주당 탈당말라…최민희·이성윤·한민수 당선은 소중한 성과”"
         },
         {
-          "title": "world cup schedule",
-          "traffic": "100+",
-          "context": "The referee’s view of the World Cup final: Telling Messi to ‘control’ a player and a ‘well done’ from Trump - The Athletic"
+          "title": "이상민",
+          "traffic": "2000+",
+          "context": "[단독]이상민, 결혼 1년 만에 확 달라졌다..\"아내, 날 바꾼 유일한 사람\" [인터뷰②]"
         },
         {
-          "title": "사우델",
-          "traffic": "100+",
-          "context": "다발성 태풍에 기압계 '흔들'...호우 끝나면 또 '찜통'"
-        },
-        {
-          "title": "아빠 10년",
-          "traffic": "200+",
-          "context": null
-        },
-        {
-          "title": "mortgage rates today",
-          "traffic": "100+",
-          "context": "Mortgage rates fall for first time in 6 weeks"
-        },
-        {
-          "title": "신진서",
-          "traffic": "200+",
-          "context": "韓 바둑, 언제까지 신진서 '원맨쇼' 의존?…홀로 16강 분투"
-        },
-        {
-          "title": "서장훈의 이웃집 백만장 자",
-          "traffic": "5000+",
-          "context": "박정희, 82만평 산 소유…\"여의도 규모\""
-        },
-        {
-          "title": "매미",
+          "title": "배드민턴",
           "traffic": "1000+",
-          "context": "\"볶아먹자\" 중국인들, 샛강서 매미 유충 싹쓸이…\"한강공원 과태료 10만원\""
+          "context": "배드민턴 세계 1위 중국 스위치, 세계선수권 첫판서 21세 인도 신인에 패해 탈락"
         },
         {
-          "title": "mathilde favier",
+          "title": "경주기행",
           "traffic": "200+",
-          "context": "Un des producteurs d'OSS 117 et une figure de Dior meurent dans un accident à Airvault près de Thouars"
+          "context": "비극 속 유머와 통쾌한 복수극…영화 ‘경주기행’의 네 모녀"
         },
         {
-          "title": "태국 대 싱가포르",
+          "title": "3기 신도시",
           "traffic": "100+",
-          "context": "태국은 싱가포르에 패했지만 2026년 아세안컵 결승 진출권을 확보했습니다."
+          "context": "이민근 안산시장 “3기 신도시 시민 불편 최소화”…관계기관 협력 강화"
+        },
+        {
+          "title": "홍민기",
+          "traffic": "500+",
+          "context": "배우 홍민기, '데이트 폭력' 폭로글 올라와…소속사 대응은 '아직' [MD이슈]"
+        },
+        {
+          "title": "이창민",
+          "traffic": "200+",
+          "context": "이창민 \"19년째 새벽 5시 기상\"…무속인 \"50대에 건물주 된다\""
+        },
+        {
+          "title": "abl생명",
+          "traffic": "100+",
+          "context": "우리금융, 동양생명·ABL생명 통합 착수"
+        },
+        {
+          "title": "제니",
+          "traffic": "10000+",
+          "context": "[잇슈 컬처] 블랙핑크 제니 노출 사고? 일본 축제 무대서 ‘곤욕’"
+        },
+        {
+          "title": "이슬람 혁명 수비대",
+          "traffic": "500+",
+          "context": "\"미, 지난 5월 이란 혁수대 사령관과 비밀 접촉…회담은 무산\""
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-18T18:20:25.487Z",
+      "fetched": "2026-08-19T00:35:28.437Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-18T18:20:25.487Z",
+      "fetched": "2026-08-19T00:35:28.437Z",
       "items": [
         {
           "title": "문화방송",
