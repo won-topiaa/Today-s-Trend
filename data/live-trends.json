@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-22T06:20:01.691Z",
+  "updated": "2026-08-22T12:16:59.706Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-22T06:20:01.691Z",
+      "fetched": "2026-08-22T12:16:59.706Z",
       "items": [
         {
-          "title": "집",
-          "traffic": "1000+",
-          "context": "\"집 샀다는 이유만으로 30억 벌었는데, 세금 당연 내야죠\"…이 말 나오도록, 디테일에 승부 걸어야 [세금전쟁 ⑥·끝]"
+          "title": "안산 그리너스 대 성남",
+          "traffic": "200+",
+          "context": "안산, 성남전 좋은 기억 살려갈까?…홈에서 승점 3점 사냥 나선다"
         },
         {
-          "title": "코인니스",
+          "title": "쿠팡 플레이",
+          "traffic": "500+",
+          "context": "[TF인터뷰] 김지훈, 데뷔 25년 차에도 멈추지 않는 고민"
+        },
+        {
+          "title": "미국 상품거래위원회",
           "traffic": "100+",
-          "context": null
+          "context": "AI 연산 능력 원유처럼 거래되는 ‘자산’이 된다"
         },
         {
-          "title": "유방녕",
+          "title": "원종해",
           "traffic": "100+",
-          "context": "‘도원’ 유방녕 “故 정주영 회장이 단골…팁은 수표 다발, 빌딩 살 수 있었다”"
+          "context": "[사진] 박민우, 1500경기 출전 기록 달성 - 머니투데이"
         },
         {
-          "title": "임요환",
-          "traffic": "200+",
-          "context": "임요환, 억대 상금 다 어디로?…김가연 \"집에 원수 같은 트로피만\""
-        },
-        {
-          "title": "골드만삭스",
-          "traffic": "200+",
-          "context": "골드만삭스, XRP ETF 8650만달러 재매수…최대 기관으로"
-        },
-        {
-          "title": "김대호",
-          "traffic": "200+",
-          "context": "'88명 대가족' 김대호, '결혼장례식' 후 달라졌다…\"제사 폐지, 김치 사먹어\""
-        },
-        {
-          "title": "아시아나항공",
+          "title": "김용필",
           "traffic": "1000+",
-          "context": null
+          "context": "아나운서 출신 김용필, 가요계 데뷔 3년 만에 미국 대형쇼 진출"
         },
         {
-          "title": "이의리",
+          "title": "hull vs man united",
           "traffic": "1000+",
-          "context": "'마무의리' 이제 짝 달라붙는다...여기서 생긴 궁금증 '혹시 3연투 가능한가요' [고척 현장]"
+          "context": "Premier League LIVE: Build-up, team news, live text, radio & score updates as it happens from across the Premier League"
         },
         {
-          "title": "티 프로스",
-          "traffic": "200+",
-          "context": "[명일방주 엔드필드] 티프로스 진짜 귀엽네"
+          "title": "hull city đấu với man utd",
+          "traffic": "500+",
+          "context": "Nhận định Hull vs MU (18h30 ngày 22/8): Bắn hạ tân binh"
         },
         {
-          "title": "트럼프",
+          "title": "김영웅",
           "traffic": "200+",
-          "context": "시타델이 살렸다…금리 또 올랐지만 주가, 금, 코인 상승 [김현석의 월스트리트나우]"
+          "context": "솔로 홈런-솔로 홈런-2루타...'타율 1할' 삼성 젊은 거포, 홈런포가 터진다"
+        },
+        {
+          "title": "동남아시아 축구 연맹 선수권 대회",
+          "traffic": "200+",
+          "context": "태국 대 베트남 결승: '물싸움'으로 챔피언을 가리다"
+        },
+        {
+          "title": "lck",
+          "traffic": "1000+",
+          "context": "LCK's Summer regular season comes to a close this weekend, here are the final fixtures"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-22T06:20:01.691Z",
+      "fetched": "2026-08-22T12:16:59.706Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -76,12 +76,12 @@
           "artist": "리센느"
         },
         {
-          "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
-          "artist": "Post Malone & Swae Lee"
-        },
-        {
           "title": "BiiiG",
           "artist": "BIGBANG"
+        },
+        {
+          "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+          "artist": "Post Malone & Swae Lee"
         },
         {
           "title": "LEMONADE",
@@ -92,12 +92,12 @@
           "artist": "Hearts2Hearts"
         },
         {
-          "title": "Surfin' Boy",
-          "artist": "레드벨벳"
-        },
-        {
           "title": "Deja Vu",
           "artist": "리센느"
+        },
+        {
+          "title": "Surfin' Boy",
+          "artist": "레드벨벳"
         },
         {
           "title": "Less than a Lover",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-22T06:20:01.691Z",
+      "fetched": "2026-08-22T12:16:59.706Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 16164
+          "views": 17197
         },
         {
           "title": "한국방송공사",
-          "views": 11227
-        },
-        {
-          "title": "제네시스 GV90",
-          "views": 6931
-        },
-        {
-          "title": "홍민기 (배우)",
-          "views": 6706
-        },
-        {
-          "title": "한국교육방송공사",
-          "views": 6189
+          "views": 10523
         },
         {
           "title": "5·18 광주 민주화 운동",
-          "views": 6076
+          "views": 6228
         },
         {
-          "title": "전용기",
-          "views": 5860
+          "title": "한국교육방송공사",
+          "views": 6000
         },
         {
-          "title": "조희대",
-          "views": 3207
+          "title": "김태규 (1967년)",
+          "views": 3449
         },
         {
-          "title": "유리의 성 (드라마)",
-          "views": 2701
+          "title": "오디세이 (영화)",
+          "views": 2696
         },
         {
           "title": "트로이 전쟁",
-          "views": 2369
+          "views": 2425
+        },
+        {
+          "title": "유리의 성 (드라마)",
+          "views": 2004
+        },
+        {
+          "title": "홍민기 (배우)",
+          "views": 1927
+        },
+        {
+          "title": "전용기",
+          "views": 1873
         }
       ]
     }
