@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-22T12:16:59.706Z",
+  "updated": "2026-08-22T18:13:21.708Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-22T12:16:59.706Z",
+      "fetched": "2026-08-22T18:13:21.708Z",
       "items": [
         {
-          "title": "안산 그리너스 대 성남",
+          "title": "일본 지진",
+          "traffic": "2000+",
+          "context": "일본 지바현 가시와시 북동쪽서 규모 5.9 지진 발생"
+        },
+        {
+          "title": "地震",
           "traffic": "200+",
-          "context": "안산, 성남전 좋은 기억 살려갈까?…홈에서 승점 3점 사냥 나선다"
+          "context": "简讯：茨城县南部发生M5.9级地震 东京震感强烈"
         },
         {
-          "title": "쿠팡 플레이",
-          "traffic": "500+",
-          "context": "[TF인터뷰] 김지훈, 데뷔 25년 차에도 멈추지 않는 고민"
+          "title": "brentford vs spurs",
+          "traffic": "200+",
+          "context": "Tottenham predicted team vs Brentford - New captain starts as De Zerbi picks young team"
         },
         {
-          "title": "미국 상품거래위원회",
+          "title": "k뷰티",
           "traffic": "100+",
-          "context": "AI 연산 능력 원유처럼 거래되는 ‘자산’이 된다"
+          "context": "19 New K-Beauty Brands Are Coming to Sephora. Here’s What to Buy."
         },
         {
-          "title": "원종해",
+          "title": "유영우",
           "traffic": "100+",
-          "context": "[사진] 박민우, 1500경기 출전 기록 달성 - 머니투데이"
+          "context": "유영우 \"노잼 이미지, 마음 고생했지만…노래로 새 시도\" [코미디언을 만나다]②"
         },
         {
-          "title": "김용필",
-          "traffic": "1000+",
-          "context": "아나운서 출신 김용필, 가요계 데뷔 3년 만에 미국 대형쇼 진출"
+          "title": "로베르토 데 제르비",
+          "traffic": "100+",
+          "context": "[오피셜] 손흥민 ‘70m 단독 돌파 골’ 완벽하게 재현한 ‘토트넘 에이스’→SON, 로메로 이어 ‘새로운 캡틴..."
         },
         {
-          "title": "hull vs man united",
-          "traffic": "1000+",
-          "context": "Premier League LIVE: Build-up, team news, live text, radio & score updates as it happens from across the Premier League"
+          "title": "토트넘",
+          "traffic": "2000+",
+          "context": "손흥민 땐 그렇게 돈 아끼더니...토트넘, 역대급 이적시장 확정! '둘이 합쳐 2650억' 사비뉴+마르무시 동반 영입 근접"
         },
         {
-          "title": "hull city đấu với man utd",
-          "traffic": "500+",
-          "context": "Nhận định Hull vs MU (18h30 ngày 22/8): Bắn hạ tân binh"
-        },
-        {
-          "title": "김영웅",
+          "title": "최홍만",
           "traffic": "200+",
-          "context": "솔로 홈런-솔로 홈런-2루타...'타율 1할' 삼성 젊은 거포, 홈런포가 터진다"
+          "context": "최홍만, 서울 집 공개…식량창고에 간식·즉석밥 빼곡"
         },
         {
-          "title": "동남아시아 축구 연맹 선수권 대회",
+          "title": "블리치",
           "traffic": "200+",
-          "context": "태국 대 베트남 결승: '물싸움'으로 챔피언을 가리다"
+          "context": "‘Bleach: Thousand-Year Blood War’ Episode 45 Release Date & Time: When ‘The Calamity’ Continues"
         },
         {
-          "title": "lck",
-          "traffic": "1000+",
-          "context": "LCK's Summer regular season comes to a close this weekend, here are the final fixtures"
+          "title": "타짜",
+          "traffic": "100+",
+          "context": "\"밑장빼기는 없다\"...추석에 정면승부 거는 '타짜:벨제붑의노래' [시네마 리포트] - 머니투데이"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-22T12:16:59.706Z",
+      "fetched": "2026-08-22T18:13:21.708Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -100,15 +100,15 @@
           "artist": "레드벨벳"
         },
         {
-          "title": "Less than a Lover",
-          "artist": "제니"
+          "title": "Pretty Girl",
+          "artist": "리센느"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-22T12:16:59.706Z",
+      "fetched": "2026-08-22T18:13:21.708Z",
       "items": [
         {
           "title": "문화방송",
