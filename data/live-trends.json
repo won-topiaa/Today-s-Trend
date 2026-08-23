@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-23T06:21:33.171Z",
+  "updated": "2026-08-23T12:17:32.275Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-23T06:21:33.171Z",
+      "fetched": "2026-08-23T12:17:32.275Z",
       "items": [
         {
-          "title": "삼성",
-          "traffic": "5000+",
-          "context": "삼성 110조의 '빈칸'…SK하이닉스 40조 소각이 던진 숙제 [fn마켓워치]"
+          "title": "수능원서접수",
+          "traffic": "100+",
+          "context": "재수생 \"작년 수능사진 써도되나\" 여권사진규격, 수능원서 접수기간 총정리"
         },
         {
-          "title": "장윤주",
+          "title": "지석진",
+          "traffic": "500+",
+          "context": "“저 석진이에요!” 김종국, 돌아가신 부모님 찾는 지석진에 눈물 (‘런닝맨’)"
+        },
+        {
+          "title": "나 혼자 산다",
           "traffic": "200+",
-          "context": "'초밀착 슬립 원피스' 장윤주 \"조금 과감한 선택\"…해외 길거리 패션은"
+          "context": "‘나혼산’, 시청률 한달간 지지부진하더니…전현무 즉흥여행에 시청률 상승[Oh!쎈 이슈]"
         },
         {
-          "title": "india vs sri lanka",
-          "traffic": "1000+",
-          "context": "How to watch Sri Lanka vs India 2nd Test: Free Streams & TV Channels"
+          "title": "bwf",
+          "traffic": "100+",
+          "context": "Canada's Victor Lai earns bronze at badminton world championships for 2nd straight year"
         },
         {
-          "title": "김주형",
-          "traffic": "200+",
-          "context": "임성재, PGA 투어 PO 2차전 3R서 7위로 뒷걸음"
-        },
-        {
-          "title": "카자흐스탄",
-          "traffic": "200+",
-          "context": "전현무 \"일 없으면 수입 0원\"…일 중독 생존불안 - 머니투데이"
-        },
-        {
-          "title": "타율",
+          "title": "미사일",
           "traffic": "2000+",
-          "context": "이정후, MLB 보스턴전서 4타수 1안타…타율 0.291 유지"
+          "context": "北 미사일 ‘물량공세’에 요격용 공중 미사일 쌓는 한국…“전쟁나면 역부족”"
         },
         {
-          "title": "엔비디아",
-          "traffic": "2000+",
-          "context": "AI 서버값 '고공행진'…엔비디아, 고객사에 가격 15% 인상 예고"
-        },
-        {
-          "title": "오버워치 월드컵",
+          "title": "앞머리",
           "traffic": "200+",
-          "context": "넥슨·블리자드 ‘오버워치’ 파트너십…“韓 기반 IP 성장 노린다”"
+          "context": null
         },
         {
-          "title": "이바라키 현",
-          "traffic": "5000+",
-          "context": "330m 빌딩 속 붉은 원통…'대피해오는 도시'를 만들다[르포]"
+          "title": "프로야구",
+          "traffic": "200+",
+          "context": "KIA 김도영, 시즌 38호 홈런…최연소 40홈런까지 '-2'"
         },
         {
-          "title": "가사 도우미",
+          "title": "아시아투데이",
+          "traffic": "200+",
+          "context": "김민석 \"비거주 1주택 세제 재검토\"‥당정, 실거주 인정 확대 공감"
+        },
+        {
+          "title": "삼성전기",
           "traffic": "2000+",
-          "context": "故 김우중 회장 가사 도우미…'연매출 500억' 대표님 됐다"
+          "context": "“20만원→240만원, 700% 폭등” 전국민 난리더니…‘국민 황제주’ 추락, 무슨 일이"
+        },
+        {
+          "title": "발데",
+          "traffic": "500+",
+          "context": "맨유, '바이아웃만 1조 6천억' 바르셀로나 성골 LB 노린다!...칸셀루 합류에 입지 흔들 \"플릭도 경기력에 의문\""
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-23T06:21:33.171Z",
+      "fetched": "2026-08-23T12:17:32.275Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-23T06:21:33.171Z",
+      "fetched": "2026-08-23T12:17:32.275Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 17197
+          "views": 13972
         },
         {
           "title": "한국방송공사",
-          "views": 10523
-        },
-        {
-          "title": "5·18 광주 민주화 운동",
-          "views": 6228
+          "views": 11314
         },
         {
           "title": "한국교육방송공사",
-          "views": 6000
+          "views": 6536
         },
         {
-          "title": "김태규 (1967년)",
-          "views": 3449
+          "title": "5·18 광주 민주화 운동",
+          "views": 6014
         },
         {
-          "title": "오디세이 (영화)",
-          "views": 2696
+          "title": "박위 (유튜버)",
+          "views": 4747
         },
         {
           "title": "트로이 전쟁",
-          "views": 2425
+          "views": 4532
         },
         {
-          "title": "유리의 성 (드라마)",
-          "views": 2004
+          "title": "오디세우스",
+          "views": 4202
         },
         {
-          "title": "홍민기 (배우)",
-          "views": 1927
+          "title": "오디세이 (영화)",
+          "views": 3376
         },
         {
-          "title": "전용기",
-          "views": 1873
+          "title": "명진",
+          "views": 2929
+        },
+        {
+          "title": "김태규 (1967년)",
+          "views": 2693
         }
       ]
     }
