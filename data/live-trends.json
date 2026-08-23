@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-22T18:13:21.708Z",
+  "updated": "2026-08-23T00:38:07.390Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-22T18:13:21.708Z",
+      "fetched": "2026-08-23T00:38:07.390Z",
       "items": [
         {
-          "title": "일본 지진",
-          "traffic": "2000+",
-          "context": "일본 지바현 가시와시 북동쪽서 규모 5.9 지진 발생"
+          "title": "남편",
+          "traffic": "500+",
+          "context": "김밥지옥 부부, 잠시 쉬는 아내에 \"왜 쉬어?\"..\"100명 중 1명 해당\" ('결혼 지옥')"
         },
         {
-          "title": "地震",
+          "title": "연차",
           "traffic": "200+",
-          "context": "简讯：茨城县南部发生M5.9级地震 东京震感强烈"
+          "context": "\"연차를 왜 써요?\"…휴가 몰빵하던 직장인들 돌변한 이유 [신용현의 트래블랩]"
         },
         {
-          "title": "brentford vs spurs",
+          "title": "그랜드 테프트 오토 vi",
+          "traffic": "100+",
+          "context": "\"연장 복무하면 GTA6 출시 때 특별휴가\"…美육군, '이색 인센티브'"
+        },
+        {
+          "title": "전북 현대 모터스 fc",
+          "traffic": "100+",
+          "context": "‘즈베즈다 입단 눈앞’ 유럽 꿈 이룬 김예건 “설영우 선수에게 물어보니 적응 힘들거라고…하지만 자신감 중요하다” [현장인터뷰]"
+        },
+        {
+          "title": "농구",
+          "traffic": "100+",
+          "context": "'신장 열세 극복 못 했다' 한국 U18 대표팀, 호주에 37점 차 완패…뉴질랜드와 銅 다툰다"
+        },
+        {
+          "title": "lg에너지솔루션",
           "traffic": "200+",
-          "context": "Tottenham predicted team vs Brentford - New captain starts as De Zerbi picks young team"
+          "context": "LG에너지솔루션, 美 랜싱 공장 본격 가동…북미 ESS 생산망 5곳 구축"
         },
         {
-          "title": "k뷰티",
-          "traffic": "100+",
-          "context": "19 New K-Beauty Brands Are Coming to Sephora. Here’s What to Buy."
+          "title": "롯데 자이언츠",
+          "traffic": "500+",
+          "context": "롯데의 자랑 '국대 좌완', 슬럼프 탈출 기미 보인다…김태형 감독 \"김진욱은 확 무너지지 않아\" [잠실 현장]"
         },
         {
-          "title": "유영우",
-          "traffic": "100+",
-          "context": "유영우 \"노잼 이미지, 마음 고생했지만…노래로 새 시도\" [코미디언을 만나다]②"
+          "title": "경상남도",
+          "traffic": "500+",
+          "context": "경남교육청, 올해 지방공무원 합격자 178명 발표…27∼28일 등록"
         },
         {
-          "title": "로베르토 데 제르비",
-          "traffic": "100+",
-          "context": "[오피셜] 손흥민 ‘70m 단독 돌파 골’ 완벽하게 재현한 ‘토트넘 에이스’→SON, 로메로 이어 ‘새로운 캡틴..."
-        },
-        {
-          "title": "토트넘",
-          "traffic": "2000+",
-          "context": "손흥민 땐 그렇게 돈 아끼더니...토트넘, 역대급 이적시장 확정! '둘이 합쳐 2650억' 사비뉴+마르무시 동반 영입 근접"
-        },
-        {
-          "title": "최홍만",
+          "title": "klasemen espanyol vs real madrid",
           "traffic": "200+",
-          "context": "최홍만, 서울 집 공개…식량창고에 간식·즉석밥 빼곡"
+          "context": null
         },
         {
-          "title": "블리치",
+          "title": "신상진",
           "traffic": "200+",
-          "context": "‘Bleach: Thousand-Year Blood War’ Episode 45 Release Date & Time: When ‘The Calamity’ Continues"
-        },
-        {
-          "title": "타짜",
-          "traffic": "100+",
-          "context": "\"밑장빼기는 없다\"...추석에 정면승부 거는 '타짜:벨제붑의노래' [시네마 리포트] - 머니투데이"
+          "context": "신상진 성남시장 “누구나 문화예술 즐기는 성남 만들겠다”"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-22T18:13:21.708Z",
+      "fetched": "2026-08-23T00:38:07.390Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -96,19 +96,19 @@
           "artist": "리센느"
         },
         {
-          "title": "Surfin' Boy",
-          "artist": "레드벨벳"
-        },
-        {
           "title": "Pretty Girl",
           "artist": "리센느"
+        },
+        {
+          "title": "Surfin' Boy",
+          "artist": "레드벨벳"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-22T18:13:21.708Z",
+      "fetched": "2026-08-23T00:38:07.390Z",
       "items": [
         {
           "title": "문화방송",
