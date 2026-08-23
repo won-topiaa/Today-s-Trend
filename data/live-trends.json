@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-23T12:17:32.275Z",
+  "updated": "2026-08-23T18:13:42.391Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-23T12:17:32.275Z",
+      "fetched": "2026-08-23T18:13:42.391Z",
       "items": [
         {
-          "title": "수능원서접수",
+          "title": "훌리안 알바레스",
+          "traffic": "200+",
+          "context": "[오피셜]'일단 이강인과 함께 한다, 여름 이적 접은 듯' 아틀레티코 시메오네 감독, 알바레즈 비야레알전 출전 예고..\"훌리안은 매우 중요한 선수, 우리가 보살핀다\""
+        },
+        {
+          "title": "นิวคาสเซิล พบ ลิเวอร์พูล",
+          "traffic": "200+",
+          "context": "การทำนายผลการแข่งขันระหว่างนิวคาสเซิลกับลิเวอร์พูล: แมตช์ที่คาดเดาผลได้ยาก"
+        },
+        {
+          "title": "살라",
+          "traffic": "200+",
+          "context": "'이럴 수가' 리버풀 떠난 파라오, '기회 창출 4회'에도 팬들 엇갈린 반응…\"그의 영입은 실수였다\""
+        },
+        {
+          "title": "로메로",
           "traffic": "100+",
-          "context": "재수생 \"작년 수능사진 써도되나\" 여권사진규격, 수능원서 접수기간 총정리"
+          "context": "손흥민 동료에서 이강인 새 동료로 합류…'이미 아틀레티코 마드리드 수비진 리더'"
         },
         {
-          "title": "지석진",
-          "traffic": "500+",
-          "context": "“저 석진이에요!” 김종국, 돌아가신 부모님 찾는 지석진에 눈물 (‘런닝맨’)"
-        },
-        {
-          "title": "나 혼자 산다",
-          "traffic": "200+",
-          "context": "‘나혼산’, 시청률 한달간 지지부진하더니…전현무 즉흥여행에 시청률 상승[Oh!쎈 이슈]"
-        },
-        {
-          "title": "bwf",
-          "traffic": "100+",
-          "context": "Canada's Victor Lai earns bronze at badminton world championships for 2nd straight year"
-        },
-        {
-          "title": "미사일",
+          "title": "100 일 의 거짓말",
           "traffic": "2000+",
-          "context": "北 미사일 ‘물량공세’에 요격용 공중 미사일 쌓는 한국…“전쟁나면 역부족”"
+          "context": "tvN 역대급 대작 온다…시청률 27.6% 감독→일제 강점물로 돌아오는 新 주말극 ('100일의거짓말')"
         },
         {
-          "title": "앞머리",
+          "title": "마르무시",
           "traffic": "200+",
-          "context": null
+          "context": "손흥민 땐 그렇게 돈 아끼더니...토트넘, 역대급 이적시장 확정! '둘이 합쳐 2650억' 사비뉴+마르무시 동반 영입 근접"
         },
         {
-          "title": "프로야구",
-          "traffic": "200+",
-          "context": "KIA 김도영, 시즌 38호 홈런…최연소 40홈런까지 '-2'"
-        },
-        {
-          "title": "아시아투데이",
-          "traffic": "200+",
-          "context": "김민석 \"비거주 1주택 세제 재검토\"‥당정, 실거주 인정 확대 공감"
-        },
-        {
-          "title": "삼성전기",
-          "traffic": "2000+",
-          "context": "“20만원→240만원, 700% 폭등” 전국민 난리더니…‘국민 황제주’ 추락, 무슨 일이"
-        },
-        {
-          "title": "발데",
+          "title": "newcastle vs liverpool",
           "traffic": "500+",
-          "context": "맨유, '바이아웃만 1조 6천억' 바르셀로나 성골 LB 노린다!...칸셀루 합류에 입지 흔들 \"플릭도 경기력에 의문\""
+          "context": "Newcastle 2-2 Liverpool: Szoboszlai penalty rescues draw after wins for Man City & Brighton"
+        },
+        {
+          "title": "스포츠",
+          "traffic": "200+",
+          "context": "기대해도 될까…태극마크 단 ‘카스트로프 형제’"
+        },
+        {
+          "title": "중계",
+          "traffic": "200+",
+          "context": "“49층·1000가구로 탈바꿈”…하계·중계·상계, 노원 재건축 ‘한꺼번에 뛴다’"
+        },
+        {
+          "title": "티비",
+          "traffic": "200+",
+          "context": "IndyCar drivers to zoom through D.C. streets, with Trump set to take lap in limo"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-23T12:17:32.275Z",
+      "fetched": "2026-08-23T18:13:42.391Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -76,12 +76,12 @@
           "artist": "리센느"
         },
         {
-          "title": "BiiiG",
-          "artist": "BIGBANG"
-        },
-        {
           "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
           "artist": "Post Malone & Swae Lee"
+        },
+        {
+          "title": "BiiiG",
+          "artist": "BIGBANG"
         },
         {
           "title": "LEMONADE",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-23T12:17:32.275Z",
+      "fetched": "2026-08-23T18:13:42.391Z",
       "items": [
         {
           "title": "문화방송",
