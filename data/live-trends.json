@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-23T18:13:42.391Z",
+  "updated": "2026-08-24T00:37:09.859Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-23T18:13:42.391Z",
+      "fetched": "2026-08-24T00:37:09.859Z",
       "items": [
         {
-          "title": "훌리안 알바레스",
+          "title": "브레이브스 대 브루어스",
           "traffic": "200+",
-          "context": "[오피셜]'일단 이강인과 함께 한다, 여름 이적 접은 듯' 아틀레티코 시메오네 감독, 알바레즈 비야레알전 출전 예고..\"훌리안은 매우 중요한 선수, 우리가 보살핀다\""
+          "context": "김하성 7경기 연속 결장…애틀랜타, 밀워키에 1-4 역전패"
         },
         {
-          "title": "นิวคาสเซิล พบ ลิเวอร์พูล",
+          "title": "제시카 페굴라",
           "traffic": "200+",
-          "context": "การทำนายผลการแข่งขันระหว่างนิวคาสเซิลกับลิเวอร์พูล: แมตช์ที่คาดเดาผลได้ยาก"
+          "context": "페굴라 시계"
         },
         {
-          "title": "살라",
-          "traffic": "200+",
-          "context": "'이럴 수가' 리버풀 떠난 파라오, '기회 창출 4회'에도 팬들 엇갈린 반응…\"그의 영입은 실수였다\""
-        },
-        {
-          "title": "로메로",
+          "title": "송성문",
           "traffic": "100+",
-          "context": "손흥민 동료에서 이강인 새 동료로 합류…'이미 아틀레티코 마드리드 수비진 리더'"
+          "context": "샌디에이고, 미네소타에 짜릿한 7-5 뒤집기…송성문 결장"
         },
         {
-          "title": "100 일 의 거짓말",
-          "traffic": "2000+",
-          "context": "tvN 역대급 대작 온다…시청률 27.6% 감독→일제 강점물로 돌아오는 新 주말극 ('100일의거짓말')"
-        },
-        {
-          "title": "마르무시",
-          "traffic": "200+",
-          "context": "손흥민 땐 그렇게 돈 아끼더니...토트넘, 역대급 이적시장 확정! '둘이 합쳐 2650억' 사비뉴+마르무시 동반 영입 근접"
-        },
-        {
-          "title": "newcastle vs liverpool",
+          "title": "전기",
           "traffic": "500+",
-          "context": "Newcastle 2-2 Liverpool: Szoboszlai penalty rescues draw after wins for Man City & Brighton"
+          "context": "삼성전자, EHS 히트펌프 보일러 해외 생산거점 국내 이전"
         },
         {
-          "title": "스포츠",
-          "traffic": "200+",
-          "context": "기대해도 될까…태극마크 단 ‘카스트로프 형제’"
+          "title": "유",
+          "traffic": "500+",
+          "context": "박위, 100만선 무너진 구독자 이탈 계속…낙상사고 CCTV 공개 후폭풍 [엑's 이슈]"
         },
         {
-          "title": "중계",
-          "traffic": "200+",
-          "context": "“49층·1000가구로 탈바꿈”…하계·중계·상계, 노원 재건축 ‘한꺼번에 뛴다’"
+          "title": "아리엘 후라도",
+          "traffic": "100+",
+          "context": "“삼성 팬분들께서 이름 크게 불러주신다”…‘땡큐 보스→웰컴 백 후라도’ 다가오는 바통터치 [SS시선집중]"
         },
         {
-          "title": "티비",
+          "title": "뉴스",
+          "traffic": "2000+",
+          "context": "트럼프 측근 \"트럼프, 김정은 앞서 이 대통령과 먼저 회담해야\""
+        },
+        {
+          "title": "klasemen elche vs barcelona",
           "traffic": "200+",
-          "context": "IndyCar drivers to zoom through D.C. streets, with Trump set to take lap in limo"
+          "context": null
+        },
+        {
+          "title": "한겨레",
+          "traffic": "100+",
+          "context": "김회승 전 논설위원의 춘추관장 임명에 대한 한겨레신문사 입장"
+        },
+        {
+          "title": "나스닥 100",
+          "traffic": "500+",
+          "context": "'보이는 손' 美 국채…채권·주식·부동산까지 흔든다"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-23T18:13:42.391Z",
+      "fetched": "2026-08-24T00:37:09.859Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -84,12 +84,12 @@
           "artist": "BIGBANG"
         },
         {
-          "title": "LEMONADE",
-          "artist": "aespa"
-        },
-        {
           "title": "Lemon Tang",
           "artist": "Hearts2Hearts"
+        },
+        {
+          "title": "LEMONADE",
+          "artist": "aespa"
         },
         {
           "title": "Deja Vu",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-23T18:13:42.391Z",
+      "fetched": "2026-08-24T00:37:09.859Z",
       "items": [
         {
           "title": "문화방송",
