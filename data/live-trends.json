@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-25T00:36:21.481Z",
+  "updated": "2026-08-25T06:25:34.133Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-25T00:36:21.481Z",
+      "fetched": "2026-08-25T06:25:34.133Z",
       "items": [
         {
-          "title": "장서희",
-          "traffic": "500+",
-          "context": null
-        },
-        {
-          "title": "인플레이션",
+          "title": "유어 아너",
           "traffic": "2000+",
-          "context": "[속보]美증시 반도체 급락…마이크론 -5.8%·하닉ADR -4.9%"
+          "context": "넷플릭스 공개되고 2위까지 치고 올라온 美친 역주행 드라마[MD이슈]"
         },
         {
-          "title": "합계출산율",
+          "title": "임금피크제",
+          "traffic": "5000+",
+          "context": "‘성과금 400%+1270만원’에 월 기본급 10만원 인상···현대차 노사, 111일 줄다리기 끝 잠정합의"
+        },
+        {
+          "title": "정형돈",
           "traffic": "100+",
-          "context": "“아이 한 명당 7600만원 준다”···‘출산율 역대 최저’로 떨어져 파격 육아 지원책 내놓은 국가"
+          "context": "'모친상' 정형돈, 母 6년 반 투병 회상 \"그만 괴로워하시길, 너무 힘들었다\" ('제목없음TV')"
         },
         {
-          "title": "김승윤",
-          "traffic": "2000+",
-          "context": "장동윤, 배우 김승윤과 10월 결혼…“서로의 편 되어주기로”"
-        },
-        {
-          "title": "수능원서",
-          "traffic": "100+",
-          "context": "오늘부터 2027학년도 수능 응시원서 접수"
-        },
-        {
-          "title": "대한전선",
+          "title": "최영중",
           "traffic": "200+",
-          "context": "대한전선, CIGRE서 HVDC 경쟁력 선보여"
+          "context": "‘아동 성범죄 혐의’ 최영중 미성년 피해자 또 있다?…“4명” [지금뉴스]"
         },
         {
-          "title": "스테이블코인",
-          "traffic": "100+",
-          "context": "금리 인하에 진심인 미국…트럼프 '가상화폐 밀어주기' 큰 그림"
-        },
-        {
-          "title": "축제",
-          "traffic": "100+",
-          "context": "'양천가족 거리축제' 10월 개최…먹거리부스 참여 맛집 공모"
-        },
-        {
-          "title": "에코프로비엠",
-          "traffic": "100+",
-          "context": "에코프로비엠, 하이니켈 양극소재 공급 위해 헝가리공장 개조"
-        },
-        {
-          "title": "송해나",
+          "title": "배구",
           "traffic": "2000+",
-          "context": "\"일반인 입었으면 경악할 패션\"… 송해나, 도쿄 싹 쓸어버린 '쇼킹 레이어드'"
+          "context": "의정부 떠난 프로배구 KB손보, 평택으로 임시 연고지 결정"
+        },
+        {
+          "title": "광명시",
+          "traffic": "1000+",
+          "context": "광명시, 1천657억원 증액 2회 추경안 편성…미래도시 기반 강화"
+        },
+        {
+          "title": "좌석",
+          "traffic": "500+",
+          "context": "’만석’인데 사람 대신 가방…“돈 주고 산 좌석“·“배려 좀 하자“"
+        },
+        {
+          "title": "박준형",
+          "traffic": "500+",
+          "context": "택시 승객 인터뷰했는데, 정의선 셋째 누나…제작진도 몰랐다"
+        },
+        {
+          "title": "원태인",
+          "traffic": "2000+",
+          "context": "'307억원 노시환보다 많이 준다면야'...원태인, 삼성 떠날 이유 사라진다"
+        },
+        {
+          "title": "화환",
+          "traffic": "1000+",
+          "context": "유족 동의 없이 화환 못 처분한다‥외부 과일·음료 반입 허용"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-25T00:36:21.481Z",
+      "fetched": "2026-08-25T06:25:34.133Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -76,12 +76,12 @@
           "artist": "리센느"
         },
         {
-          "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
-          "artist": "Post Malone & Swae Lee"
-        },
-        {
           "title": "BiiiG",
           "artist": "BIGBANG"
+        },
+        {
+          "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+          "artist": "Post Malone & Swae Lee"
         },
         {
           "title": "Lemon Tang",
@@ -100,15 +100,15 @@
           "artist": "레드벨벳"
         },
         {
-          "title": "Pretty Girl",
-          "artist": "리센느"
+          "title": "Bloody Paradise",
+          "artist": "엔하이픈"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-25T00:36:21.481Z",
+      "fetched": "2026-08-25T06:25:34.133Z",
       "items": [
         {
           "title": "문화방송",
