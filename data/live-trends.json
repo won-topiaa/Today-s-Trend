@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-25T18:22:22.385Z",
+  "updated": "2026-08-26T00:37:33.840Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-25T18:22:22.385Z",
+      "fetched": "2026-08-26T00:37:33.840Z",
       "items": [
         {
-          "title": "대한상공회의소",
+          "title": "yeouido",
+          "traffic": "500+",
+          "context": "Wildfire Consumes Area 20 Times Size of Yeouido in Just One Day... Evacuation Orders Issued for 90,000"
+        },
+        {
+          "title": "리그 오브 레전드",
+          "traffic": "500+",
+          "context": "26.17 패치 노트"
+        },
+        {
+          "title": "이준석",
+          "traffic": "500+",
+          "context": "[정치쇼] 김성태 \"이준석 사퇴, 하필 장동혁 취임 1주년 회견일…일부러 노렸나\""
+        },
+        {
+          "title": "엔비디아 실적",
           "traffic": "100+",
-          "context": "대한상의 상근부회장에 김정일 前산업부 실장"
+          "context": "“손절도 못하고 미치겠어요”…코스피 7천, 이번 주 3대 변수가 가른다 [잇슈 머니]"
         },
         {
-          "title": "수능접수",
-          "traffic": "200+",
-          "context": "수능 응시원서 접수하는 수험생들"
-        },
-        {
-          "title": "리그컵",
-          "traffic": "200+",
-          "context": "'알론소 체제' 첼시, 31초 골로 '아르벨로아 감독' 풀럼에 3-2 승리...4시즌 만에 거둔 '개막전 승리'"
-        },
-        {
-          "title": "유재석",
-          "traffic": "1000+",
-          "context": "차태현, 유연석 연기 극찬하더니 \"김부장 때문에 올해 나가리\" 찬물 - 머니투데이"
-        },
-        {
-          "title": "에어부산",
+          "title": "한겨레",
           "traffic": "100+",
-          "context": "국민의힘 부산의원들 \"통합 진에어 본사 부산으로 와야\""
+          "context": "김회승 신임 춘추관장 임명에 \"청와대 직행, 깊은 유감\""
         },
         {
-          "title": "장원영",
-          "traffic": "1000+",
-          "context": "장원영, 사복 추구미는 섹시? 레드 초미니 드레스 입고 밀라노行"
-        },
-        {
-          "title": "불량연애2 2기",
+          "title": "판결",
           "traffic": "100+",
-          "context": "‘사람 몸에 불 질렀다’… 범죄자 미화 역풍에 멈춘 日 법무성 ‘갱생 포스터’"
+          "context": "[판결] “주총 권한 밖 결의라도, 무조건 각하 안 돼”"
         },
         {
-          "title": "하석진",
+          "title": "스코티 셰플러",
           "traffic": "2000+",
-          "context": "'사랑이 온다' 안희연, 복귀 잘했다...4주 연속 화제성 1위"
+          "context": "우즈 '26년 천하' 막내리나…셰플러·매킬로이, 통산 상금 1위 도전"
         },
         {
-          "title": "누리호",
-          "traffic": "100+",
-          "context": "누리호 5호기 발사 승인…위성 15기 싣고 10월 발사될까"
+          "title": "베라 루빈",
+          "traffic": "200+",
+          "context": "대규모 에이전틱 AI 가속 위해 NVIDIA Vera CPU 도입하는 SpaceXAI"
         },
         {
-          "title": "재벌x형사 2",
-          "traffic": "2000+",
-          "context": "신예 박태린, '재벌X형사2' 반전의 중심"
+          "title": "돌리 파튼",
+          "traffic": "200+",
+          "context": "美 '컨트리음악 여왕' 돌리 파튼 별세…향년 80세"
+        },
+        {
+          "title": "한국고속철도",
+          "traffic": "200+",
+          "context": "李대통령 \"SRT·KTX 적자 고려해야…누적되면 결국 국민 세금\""
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-25T18:22:22.385Z",
+      "fetched": "2026-08-26T00:37:33.840Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -76,16 +76,16 @@
           "artist": "리센느"
         },
         {
-          "title": "BiiiG",
-          "artist": "BIGBANG"
+          "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+          "artist": "Post Malone & Swae Lee"
         },
         {
           "title": "Lemon Tang",
           "artist": "Hearts2Hearts"
         },
         {
-          "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
-          "artist": "Post Malone & Swae Lee"
+          "title": "BiiiG",
+          "artist": "BIGBANG"
         },
         {
           "title": "LEMONADE",
@@ -96,19 +96,19 @@
           "artist": "리센느"
         },
         {
-          "title": "Surfin' Boy",
-          "artist": "레드벨벳"
-        },
-        {
           "title": "Bloody Paradise",
           "artist": "엔하이픈"
+        },
+        {
+          "title": "Surfin' Boy",
+          "artist": "레드벨벳"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-25T18:22:22.385Z",
+      "fetched": "2026-08-26T00:37:33.840Z",
       "items": [
         {
           "title": "문화방송",
