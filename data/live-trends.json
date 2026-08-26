@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-26T00:37:33.840Z",
+  "updated": "2026-08-26T06:27:55.659Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-26T00:37:33.840Z",
+      "fetched": "2026-08-26T06:27:55.659Z",
       "items": [
         {
-          "title": "yeouido",
-          "traffic": "500+",
-          "context": "Wildfire Consumes Area 20 Times Size of Yeouido in Just One Day... Evacuation Orders Issued for 90,000"
-        },
-        {
-          "title": "리그 오브 레전드",
-          "traffic": "500+",
-          "context": "26.17 패치 노트"
-        },
-        {
-          "title": "이준석",
-          "traffic": "500+",
-          "context": "[정치쇼] 김성태 \"이준석 사퇴, 하필 장동혁 취임 1주년 회견일…일부러 노렸나\""
-        },
-        {
-          "title": "엔비디아 실적",
-          "traffic": "100+",
-          "context": "“손절도 못하고 미치겠어요”…코스피 7천, 이번 주 3대 변수가 가른다 [잇슈 머니]"
-        },
-        {
-          "title": "한겨레",
-          "traffic": "100+",
-          "context": "김회승 신임 춘추관장 임명에 \"청와대 직행, 깊은 유감\""
-        },
-        {
-          "title": "판결",
-          "traffic": "100+",
-          "context": "[판결] “주총 권한 밖 결의라도, 무조건 각하 안 돼”"
-        },
-        {
-          "title": "스코티 셰플러",
-          "traffic": "2000+",
-          "context": "우즈 '26년 천하' 막내리나…셰플러·매킬로이, 통산 상금 1위 도전"
-        },
-        {
-          "title": "베라 루빈",
+          "title": "현대차",
           "traffic": "200+",
-          "context": "대규모 에이전틱 AI 가속 위해 NVIDIA Vera CPU 도입하는 SpaceXAI"
+          "context": "현대차, 2030년까지 신차 100종 이상…연간생산 127만대 확대"
         },
         {
-          "title": "돌리 파튼",
-          "traffic": "200+",
-          "context": "美 '컨트리음악 여왕' 돌리 파튼 별세…향년 80세"
+          "title": "최강야구",
+          "traffic": "1000+",
+          "context": "\"일본 출국 직전 폐지 통보\" 증언 나왔다..'최강야구' 충격 비하인드[스타이슈]"
         },
         {
-          "title": "한국고속철도",
+          "title": "동전주",
+          "traffic": "1000+",
+          "context": "\"매출 617억·4년째 흑자인데\"…'동전주'라고 퇴출 위기, 상폐 강화의 역설[상폐 칼바람 분다②]"
+        },
+        {
+          "title": "가덕도신공항",
           "traffic": "200+",
-          "context": "李대통령 \"SRT·KTX 적자 고려해야…누적되면 결국 국민 세금\""
+          "context": "가덕도 공항복합도시 초안 공개…내달 주민공람·설명회"
+        },
+        {
+          "title": "인요한",
+          "traffic": "200+",
+          "context": "김민석, 李대통령에 \"인요한, 적십자사 회장 임명 않는 게 좋겠다\" 건의"
+        },
+        {
+          "title": "엔비디아 실적 발표",
+          "traffic": "20000+",
+          "context": "1,100억 달러 전망도 존재…엔비디아, 이번엔 랠리 나올까"
+        },
+        {
+          "title": "김윤식",
+          "traffic": "100+",
+          "context": null
+        },
+        {
+          "title": "허영만",
+          "traffic": "5000+",
+          "context": "중환자실 갔던 허영만, 두 달 만에 전해진 근황 - 머니투데이"
+        },
+        {
+          "title": "비광",
+          "traffic": "200+",
+          "context": "류승룡 “아들 고3…집에 가면 한숨 나와”"
+        },
+        {
+          "title": "여론",
+          "traffic": "10000+",
+          "context": "‘전국이 TK됐나?’ 李 지지율 38.9%, 조국혁신 등돌려…국힘은 중도층 못잡아"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-26T00:37:33.840Z",
+      "fetched": "2026-08-26T06:27:55.659Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -76,16 +76,16 @@
           "artist": "리센느"
         },
         {
+          "title": "BiiiG",
+          "artist": "BIGBANG"
+        },
+        {
           "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
           "artist": "Post Malone & Swae Lee"
         },
         {
           "title": "Lemon Tang",
           "artist": "Hearts2Hearts"
-        },
-        {
-          "title": "BiiiG",
-          "artist": "BIGBANG"
         },
         {
           "title": "LEMONADE",
@@ -96,19 +96,19 @@
           "artist": "리센느"
         },
         {
-          "title": "Bloody Paradise",
-          "artist": "엔하이픈"
-        },
-        {
           "title": "Surfin' Boy",
           "artist": "레드벨벳"
+        },
+        {
+          "title": "Bloody Paradise",
+          "artist": "엔하이픈"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-26T00:37:33.840Z",
+      "fetched": "2026-08-26T06:27:55.659Z",
       "items": [
         {
           "title": "문화방송",
