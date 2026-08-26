@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-26T12:27:14.343Z",
+  "updated": "2026-08-26T19:30:08.274Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-26T12:27:14.343Z",
+      "fetched": "2026-08-26T19:30:08.274Z",
       "items": [
         {
-          "title": "스마트폰",
+          "title": "레알 마드리드 대 레알 소시에다드",
           "traffic": "1000+",
-          "context": "갤럭시에 했던대로 힘줬더니 그대로 ‘우지직’…폴더블 신제품 내구성 테스트 ‘굴욕’"
+          "context": "레알 마드리드 vs 소시에다드 경기 예측, 8월 27일 오전 2시: 백독수리(레알 마드리드의 별칭)가 강팀의 면모를 보여줄 것입니다."
         },
         {
-          "title": "유학생",
-          "traffic": "10000+",
-          "context": "중국인 여성 유학생 실종 닷새만 숨진 채 발견‥실종신고 한 중국인 강사 체포"
-        },
-        {
-          "title": "제임스 매디슨",
+          "title": "재난",
           "traffic": "100+",
-          "context": "손흥민 또 울겠다! '전방십자인대 파열' 매디슨, '또또' 부상 '아웃'…첫 경기부터 어깨 골절, 데 제르비 \"그나마 경미\" 안도"
+          "context": "지방재정공제회, 25개 지방정부 재난안전 담당자 실무교육"
         },
         {
-          "title": "부아디",
+          "title": "tory burch",
           "traffic": "100+",
-          "context": "아유브 부아디의 등번호 공개"
+          "context": "Tory Burch ‘Tea’ Party at Southampton Playhouse Has Fans Fashionably On Time"
         },
         {
-          "title": "정정용",
-          "traffic": "100+",
-          "context": "“정정용 나가!”…무너진 명가, 전주성에 울려 퍼진 팬들의 최후통첩"
-        },
-        {
-          "title": "난징 지하철",
-          "traffic": "2000+",
-          "context": "지하철 바닥 한가득 ’꿈틀’…쏟아진 민물장어에 ’아수라장’"
-        },
-        {
-          "title": "김시아",
+          "title": "tim curry",
           "traffic": "200+",
-          "context": "[Y현장] 'D.P'이어 '부활남'으로 재회…구교환 \"신승호와 액션, 멜로처럼 연기\""
+          "context": "Tim Curry, star of ‘Rocky Horror Picture Show’ and ‘Clue,’ dead at 80"
         },
         {
-          "title": "네팔",
-          "traffic": "2000+",
-          "context": "[속보] 네팔 홍수로 한국인 8명 연락두절·10명 고립"
-        },
-        {
-          "title": "도지코인",
-          "traffic": "200+",
-          "context": "도지코인 ETF '0달러 행진' 끊었다…0.1달러 돌파 시험대"
-        },
-        {
-          "title": "한국여자프로농구",
+          "title": "국세청",
           "traffic": "100+",
-          "context": "여자농구 우리은행, 드래프트 지명 못 받은 정혜윤 추가 선발"
+          "context": "“수백억 대 주택 회삿돈으로”…다주택 규제까지 피했다"
+        },
+        {
+          "title": "팀 커리",
+          "traffic": "500+",
+          "context": "'록키 호러 픽쳐 쇼' 컬트의 전설 팀 커리 별세…향년 80세"
+        },
+        {
+          "title": "한국고속철도",
+          "traffic": "500+",
+          "context": "李대통령 \"SRT·KTX 적자 고려해야…누적되면 결국 국민 세금\""
+        },
+        {
+          "title": "단발",
+          "traffic": "500+",
+          "context": "\"인형이 빵을 먹네\"…이세영, '청바지' 하나로 촬영장 찢었다"
+        },
+        {
+          "title": "황석정",
+          "traffic": "100+",
+          "context": "황석정, 영화 '호프' 흥행에 30년 전 썸남까지 연락 \"기억 안 나\" - 머니투데이"
+        },
+        {
+          "title": "포수",
+          "traffic": "1000+",
+          "context": "‘한국 최초 MLB 포수’에 성큼…엄형찬, 28일 만에 또 승격! 이제 한 단계 남았다"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-26T12:27:14.343Z",
+      "fetched": "2026-08-26T19:30:08.274Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -80,10 +80,6 @@
           "artist": "Hearts2Hearts"
         },
         {
-          "title": "BiiiG",
-          "artist": "BIGBANG"
-        },
-        {
           "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
           "artist": "Post Malone & Swae Lee"
         },
@@ -92,23 +88,27 @@
           "artist": "aespa"
         },
         {
+          "title": "BiiiG",
+          "artist": "BIGBANG"
+        },
+        {
           "title": "Deja Vu",
           "artist": "리센느"
         },
         {
-          "title": "Surfin' Boy",
-          "artist": "레드벨벳"
-        },
-        {
           "title": "Bloody Paradise",
           "artist": "엔하이픈"
+        },
+        {
+          "title": "Surfin' Boy",
+          "artist": "레드벨벳"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-26T12:27:14.343Z",
+      "fetched": "2026-08-26T19:30:08.274Z",
       "items": [
         {
           "title": "문화방송",
