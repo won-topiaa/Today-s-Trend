@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-27T05:35:22.365Z",
+  "updated": "2026-08-27T17:01:39.036Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-27T05:35:22.365Z",
+      "fetched": "2026-08-27T17:01:39.036Z",
       "items": [
         {
-          "title": "대장내시경",
-          "traffic": "2000+",
-          "context": "불편한 대변 채취, 안해도 된다?···“대장암 진단, 피만 뽑아도 정확도 높아”"
+          "title": "스포티비",
+          "traffic": "500+",
+          "context": "SPOTV, 다음 달 개막 아이치-나고야 아시안게임 중계"
         },
         {
-          "title": "성과급",
+          "title": "무인 항공기",
+          "traffic": "200+",
+          "context": "“한국은 4초 만에 추락”…러-우, 시속 600㎞ 자폭드론 실전 투입 [밀리터리+]"
+        },
+        {
+          "title": "이성미",
+          "traffic": "200+",
+          "context": "이성미, 남편과 23년째 각방…\"합방하고 싶어도 못해\" - 머니투데이"
+        },
+        {
+          "title": "챔스",
+          "traffic": "200+",
+          "context": "충격 '가운뎃손가락+조롱' 말썽꾼 귀엥두지, UCL 쑥대밭 만들었다... 20명 뒤엉켜 주먹질 '역대급 난투극' - 머니투데이"
+        },
+        {
+          "title": "휴머노이드",
+          "traffic": "500+",
+          "context": "공중제비 대신 ‘상자 뜯기’… 공장 넘어 집안 장악 나선 中 로봇"
+        },
+        {
+          "title": "장진혁",
+          "traffic": "200+",
+          "context": "6번째 선발 경기 마지막 타석의 기적…kt 장진혁 끝내기 홈런"
+        },
+        {
+          "title": "정국",
           "traffic": "1000+",
-          "context": "‘DS 6곳·DX 3곳’ 갈라진다…삼성전자 노조 ‘분리교섭’ 현실화"
+          "context": "방탄소년단 정국 기념 '정국절' 지구촌 대축제"
         },
         {
-          "title": "기후동행카드",
+          "title": "한가인",
+          "traffic": "5000+",
+          "context": "한가인, 주식 계좌 공개…\"조정 전 싹 다 팔고 세금도 내\" - 머니투데이"
+        },
+        {
+          "title": "김경문",
+          "traffic": "1000+",
+          "context": "'독수리 끝없는 추락' 한화이글스 4연패…8위 추락"
+        },
+        {
+          "title": "총장",
           "traffic": "500+",
-          "context": "다음달 1일 ‘기후동행패스’ 출시…신규카드 무료로 교환해준다"
-        },
-        {
-          "title": "모즈타바 하메네이",
-          "traffic": "200+",
-          "context": "트럼프 \"이란 최고지도자 죽지 않아, 종전 협상 시간표 없다\""
-        },
-        {
-          "title": "국선변호인",
-          "traffic": "200+",
-          "context": null
-        },
-        {
-          "title": "가능한 사랑",
-          "traffic": "100+",
-          "context": "'가능한 사랑' 전도연·설경구·조인성·조여정, 어떤 욕망 마주할까"
-        },
-        {
-          "title": "표창원",
-          "traffic": "2000+",
-          "context": "‘허위 종결’ 제주 경찰, 침입 의혹 女 화장실서 DNA 검출"
-        },
-        {
-          "title": "공공",
-          "traffic": "500+",
-          "context": "공공기관 ‘알짜배기’ 호남 가고 ‘쭉정이’만 대구·경북 오나"
-        },
-        {
-          "title": "수도권 광역급행철도 c노선",
-          "traffic": "500+",
-          "context": "[사설] 7년 지연 부전마산선 반쪽개통에 셔틀버스 환승까지"
-        },
-        {
-          "title": "산업 재해",
-          "traffic": "200+",
-          "context": "산재예방 조례 주민청구 서명, 대전시의회에 제출"
+          "context": "인하대 신임 총장에 최기영 교수 선임"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-27T05:35:22.365Z",
+      "fetched": "2026-08-27T17:01:39.036Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -80,6 +80,14 @@
           "artist": "Hearts2Hearts"
         },
         {
+          "title": "LEMONADE",
+          "artist": "aespa"
+        },
+        {
+          "title": "GRLS",
+          "artist": "튜이드"
+        },
+        {
           "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
           "artist": "Post Malone & Swae Lee"
         },
@@ -88,67 +96,59 @@
           "artist": "BIGBANG"
         },
         {
-          "title": "LEMONADE",
-          "artist": "aespa"
+          "title": "SUN KISS",
+          "artist": "튜이드"
         },
         {
           "title": "Deja Vu",
           "artist": "리센느"
-        },
-        {
-          "title": "Bloody Paradise",
-          "artist": "엔하이픈"
-        },
-        {
-          "title": "GRLS",
-          "artist": "튜이드"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-27T05:35:22.365Z",
+      "fetched": "2026-08-27T17:01:39.036Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 17039
+          "views": 19522
         },
         {
           "title": "한국방송공사",
-          "views": 9966
-        },
-        {
-          "title": "한국교육방송공사",
-          "views": 6488
+          "views": 9592
         },
         {
           "title": "박위 (유튜버)",
-          "views": 5658
+          "views": 6409
         },
         {
-          "title": "경장 (계급)",
-          "views": 4121
+          "title": "한국교육방송공사",
+          "views": 6071
         },
         {
           "title": "5·18 광주 민주화 운동",
-          "views": 4056
+          "views": 5156
         },
         {
-          "title": "김승윤",
-          "views": 2883
+          "title": "백중날",
+          "views": 1869
         },
         {
-          "title": "이호연 (야구 선수)",
-          "views": 2792
+          "title": "무화과나무",
+          "views": 1784
         },
         {
-          "title": "천경자",
-          "views": 2512
+          "title": "트로이 전쟁",
+          "views": 1772
         },
         {
-          "title": "윤해영 (배우)",
-          "views": 2038
+          "title": "돌리 파튼",
+          "views": 1697
+        },
+        {
+          "title": "경장 (계급)",
+          "views": 1592
         }
       ]
     }
