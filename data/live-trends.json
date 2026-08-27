@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-26T19:30:08.274Z",
+  "updated": "2026-08-27T05:35:22.365Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-26T19:30:08.274Z",
+      "fetched": "2026-08-27T05:35:22.365Z",
       "items": [
         {
-          "title": "레알 마드리드 대 레알 소시에다드",
+          "title": "대장내시경",
+          "traffic": "2000+",
+          "context": "불편한 대변 채취, 안해도 된다?···“대장암 진단, 피만 뽑아도 정확도 높아”"
+        },
+        {
+          "title": "성과급",
           "traffic": "1000+",
-          "context": "레알 마드리드 vs 소시에다드 경기 예측, 8월 27일 오전 2시: 백독수리(레알 마드리드의 별칭)가 강팀의 면모를 보여줄 것입니다."
+          "context": "‘DS 6곳·DX 3곳’ 갈라진다…삼성전자 노조 ‘분리교섭’ 현실화"
         },
         {
-          "title": "재난",
-          "traffic": "100+",
-          "context": "지방재정공제회, 25개 지방정부 재난안전 담당자 실무교육"
+          "title": "기후동행카드",
+          "traffic": "500+",
+          "context": "다음달 1일 ‘기후동행패스’ 출시…신규카드 무료로 교환해준다"
         },
         {
-          "title": "tory burch",
-          "traffic": "100+",
-          "context": "Tory Burch ‘Tea’ Party at Southampton Playhouse Has Fans Fashionably On Time"
-        },
-        {
-          "title": "tim curry",
+          "title": "모즈타바 하메네이",
           "traffic": "200+",
-          "context": "Tim Curry, star of ‘Rocky Horror Picture Show’ and ‘Clue,’ dead at 80"
+          "context": "트럼프 \"이란 최고지도자 죽지 않아, 종전 협상 시간표 없다\""
         },
         {
-          "title": "국세청",
+          "title": "국선변호인",
+          "traffic": "200+",
+          "context": null
+        },
+        {
+          "title": "가능한 사랑",
           "traffic": "100+",
-          "context": "“수백억 대 주택 회삿돈으로”…다주택 규제까지 피했다"
+          "context": "'가능한 사랑' 전도연·설경구·조인성·조여정, 어떤 욕망 마주할까"
         },
         {
-          "title": "팀 커리",
+          "title": "표창원",
+          "traffic": "2000+",
+          "context": "‘허위 종결’ 제주 경찰, 침입 의혹 女 화장실서 DNA 검출"
+        },
+        {
+          "title": "공공",
           "traffic": "500+",
-          "context": "'록키 호러 픽쳐 쇼' 컬트의 전설 팀 커리 별세…향년 80세"
+          "context": "공공기관 ‘알짜배기’ 호남 가고 ‘쭉정이’만 대구·경북 오나"
         },
         {
-          "title": "한국고속철도",
+          "title": "수도권 광역급행철도 c노선",
           "traffic": "500+",
-          "context": "李대통령 \"SRT·KTX 적자 고려해야…누적되면 결국 국민 세금\""
+          "context": "[사설] 7년 지연 부전마산선 반쪽개통에 셔틀버스 환승까지"
         },
         {
-          "title": "단발",
-          "traffic": "500+",
-          "context": "\"인형이 빵을 먹네\"…이세영, '청바지' 하나로 촬영장 찢었다"
-        },
-        {
-          "title": "황석정",
-          "traffic": "100+",
-          "context": "황석정, 영화 '호프' 흥행에 30년 전 썸남까지 연락 \"기억 안 나\" - 머니투데이"
-        },
-        {
-          "title": "포수",
-          "traffic": "1000+",
-          "context": "‘한국 최초 MLB 포수’에 성큼…엄형찬, 28일 만에 또 승격! 이제 한 단계 남았다"
+          "title": "산업 재해",
+          "traffic": "200+",
+          "context": "산재예방 조례 주민청구 서명, 대전시의회에 제출"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-26T19:30:08.274Z",
+      "fetched": "2026-08-27T05:35:22.365Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -84,12 +84,12 @@
           "artist": "Post Malone & Swae Lee"
         },
         {
-          "title": "LEMONADE",
-          "artist": "aespa"
-        },
-        {
           "title": "BiiiG",
           "artist": "BIGBANG"
+        },
+        {
+          "title": "LEMONADE",
+          "artist": "aespa"
         },
         {
           "title": "Deja Vu",
@@ -100,15 +100,15 @@
           "artist": "엔하이픈"
         },
         {
-          "title": "Surfin' Boy",
-          "artist": "레드벨벳"
+          "title": "GRLS",
+          "artist": "튜이드"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-26T19:30:08.274Z",
+      "fetched": "2026-08-27T05:35:22.365Z",
       "items": [
         {
           "title": "문화방송",
