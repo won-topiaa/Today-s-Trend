@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-28T01:52:07.699Z",
+  "updated": "2026-08-28T17:50:26.719Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-28T01:52:07.699Z",
+      "fetched": "2026-08-28T17:50:26.719Z",
       "items": [
         {
-          "title": "달러",
+          "title": "선우용여",
           "traffic": "500+",
-          "context": "베선트 美국채 개입 후 워시 시험대…장기금리 해법 엇갈릴까"
+          "context": "“노폐물 빼준다”… 선우용여가 아침 공복에 꼭 마신다는 것, 뭐야?"
         },
         {
-          "title": "신대철",
-          "traffic": "500+",
-          "context": "李 지지한 신대철에 “양아치” 댓글…대법 “모욕죄 아니다”"
-        },
-        {
-          "title": "남보라",
-          "traffic": "500+",
-          "context": "남보라, 민낯에도 너무 아름다운 이유···子 보기만 해도 꿀 떨어지니까"
-        },
-        {
-          "title": "나는 solo, 그 후 사랑은 계속된다",
+          "title": "twitch",
           "traffic": "100+",
-          "context": "미스터 공의 돌직구 질문.. 대답하지 않는 국화의 속내는? #나솔사계 EP.180ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분"
+          "context": "Is Twitch Down? What We Know About ‘Major Outage’"
         },
         {
-          "title": "fm 챔피언십",
+          "title": "정명훈",
           "traffic": "100+",
-          "context": "4주만에 복귀한 윤이나, FM챔피언십 첫날 어땠나? [LPGA]"
+          "context": "같은 날 지휘자로 무대 오른 父子…아버지는 아들이 떠올랐다"
         },
         {
-          "title": "리가켐바이오사이언스",
+          "title": "전 소연",
+          "traffic": "1000+",
+          "context": "아이들 소연, 파격 '퇴사할게여' 기안84 내레이션 참여"
+        },
+        {
+          "title": "티파니",
           "traffic": "100+",
-          "context": "에이비엘·리가켐 \"중국 수출 ADC, 임상 1b상서 항암 효능\""
+          "context": "'변요한♥' 티파니, 공개 연애 2개월 만에 혼인신고 한 이유 \"그냥 가는 거야\" ('원샷한솔') - 조선비즈"
         },
         {
-          "title": "발전소",
+          "title": "서영교",
+          "traffic": "100+",
+          "context": "“한국에서 태어났다면 국적 관계없이 출생등록”… 헌재, 외국인 아동 권리 인정"
+        },
+        {
+          "title": "건설",
+          "traffic": "200+",
+          "context": "\"결국 댐이었나\"...댐 건설 반대 주민·환경단체 결집"
+        },
+        {
+          "title": "정의선",
           "traffic": "2000+",
-          "context": "\"히말라야서 간과되는 위기\"‥석달 전 찍힌 영상 '소름'"
+          "context": "현대차·기아, 협력사 AI 전환과 경쟁력 강화 'AI 특화 공동훈련센터' 개소"
         },
         {
-          "title": "금융감독원",
+          "title": "축의금",
           "traffic": "200+",
-          "context": "증권신고서 무한 정정 막는다…금감원, 보완 미흡 기업 공개"
+          "context": "미혼은 13만원, 기혼은 29만원…결혼 여부 따라 ‘축의금 기준’ 갈렸다"
         },
         {
-          "title": "회사",
-          "traffic": "200+",
-          "context": "알짜회사인 줄…지금은 애물단지 [스페셜리포트]"
-        },
-        {
-          "title": "리벨리온",
-          "traffic": "100+",
-          "context": "엔비디아·리벨리온, 왜 만났나?…업계 \"인수 가능성 낮아\""
+          "title": "케빈 워시",
+          "traffic": "5000+",
+          "context": "\"Fed의 수단은 단기금리\"…'7가지 원칙' 내세운 워시 의장 [잭슨홀]"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-28T01:52:07.699Z",
+      "fetched": "2026-08-28T17:50:26.719Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -76,6 +76,14 @@
           "artist": "리센느"
         },
         {
+          "title": "GRLS",
+          "artist": "튜이드"
+        },
+        {
+          "title": "SUN KISS",
+          "artist": "튜이드"
+        },
+        {
           "title": "Lemon Tang",
           "artist": "Hearts2Hearts"
         },
@@ -84,71 +92,63 @@
           "artist": "aespa"
         },
         {
-          "title": "GRLS",
-          "artist": "튜이드"
-        },
-        {
           "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
           "artist": "Post Malone & Swae Lee"
         },
         {
-          "title": "SUN KISS",
-          "artist": "튜이드"
+          "title": "Deja Vu",
+          "artist": "리센느"
         },
         {
           "title": "BiiiG",
           "artist": "BIGBANG"
-        },
-        {
-          "title": "Deja Vu",
-          "artist": "리센느"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-28T01:52:07.699Z",
+      "fetched": "2026-08-28T17:50:26.719Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 19522
+          "views": 21599
         },
         {
           "title": "한국방송공사",
-          "views": 9592
-        },
-        {
-          "title": "박위 (유튜버)",
-          "views": 6409
+          "views": 9003
         },
         {
           "title": "한국교육방송공사",
-          "views": 6071
+          "views": 7595
+        },
+        {
+          "title": "네팔",
+          "views": 6724
+        },
+        {
+          "title": "박위 (유튜버)",
+          "views": 5829
         },
         {
           "title": "5·18 광주 민주화 운동",
-          "views": 5156
+          "views": 4117
         },
         {
-          "title": "백중날",
-          "views": 1869
+          "title": "김현태 (군인)",
+          "views": 3185
         },
         {
-          "title": "무화과나무",
-          "views": 1784
+          "title": "한기범",
+          "views": 2940
         },
         {
-          "title": "트로이 전쟁",
-          "views": 1772
+          "title": "목뿔뼈",
+          "views": 2936
         },
         {
-          "title": "돌리 파튼",
-          "views": 1697
-        },
-        {
-          "title": "경장 (계급)",
-          "views": 1592
+          "title": "히말라야산맥",
+          "views": 2447
         }
       ]
     }
