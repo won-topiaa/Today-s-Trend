@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-29T15:53:53.416Z",
+  "updated": "2026-08-29T20:07:36.547Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-29T15:53:53.416Z",
+      "fetched": "2026-08-29T20:07:36.547Z",
       "items": [
         {
-          "title": "유병훈",
-          "traffic": "2000+",
-          "context": "안양 유병훈 감독, K리그 100번째 경기 무승부 후 기자회견 불참(종합)"
-        },
-        {
-          "title": "제주특별자치도",
-          "traffic": "100+",
-          "context": null
-        },
-        {
-          "title": "bournemouth vs everton",
-          "traffic": "100+",
-          "context": "Forest to bid £40m for Everton teenager Armstrong"
-        },
-        {
-          "title": "더중앙플러스",
+          "title": "at마드리드",
           "traffic": "500+",
-          "context": "“이직할까?” AI에 물었더니…SKT 특허왕이 한전 간 이유"
+          "context": "이강인, 라리가 1호 도움…세비야전 바에나 선제골 어시스트"
         },
         {
-          "title": "로또 당첨지역",
+          "title": "세비야 대 아틀레티코",
+          "traffic": "5000+",
+          "context": "세비야 vs 아틀레티코 마드리드 프리뷰: 선두 경쟁의 뜨거운 승부"
+        },
+        {
+          "title": "한반도",
+          "traffic": "500+",
+          "context": "태풍 '사우델' 중국 남동부 상륙...9개 성·자치구에 폭우"
+        },
+        {
+          "title": "pl",
           "traffic": "200+",
-          "context": "로또 1239회 1등 13명···당첨번호 ‘11·13·22·32·33·36’"
+          "context": "NCK firmowało raport Mróz-Gorgoń. Nie sprawdzili nawet metodologii"
         },
         {
-          "title": "꽃파당",
-          "traffic": "200+",
-          "context": "\"지금이면 이 캐스팅 몸값 감당 못해\"…변우석·박지훈 창고에서 꺼냈더니 '종편 1위' ('꽃파당')"
-        },
-        {
-          "title": "나마디 조엘 진",
+          "title": "fotmob",
           "traffic": "100+",
-          "context": "나란히 10초13…조엘진·비웨사, ‘마의 10초’ 벽 넘는다"
+          "context": "Ref cam reveals what Sam Barrett told Virgil van Dijk after Liverpool goal disallowed"
         },
         {
-          "title": "황석정",
-          "traffic": "100+",
-          "context": "현실판 '파묘'...황석정, 1000평 농장서 '2중 관' - 머니투데이"
+          "title": "빙하 붕괴",
+          "traffic": "5000+",
+          "context": "사망 6백30명·실종 3천‥영안실도 넘쳐난다"
         },
         {
-          "title": "챔피언십",
+          "title": "해외축구",
+          "traffic": "2000+",
+          "context": "'韓 국가대표 수비수' 김민재, 입지 전격 변화...'방출 후보→핵심 등극'에 獨 매체도 \"뮌헨, KIM과 동행은 올바른 선택\" 호평 일색"
+        },
+        {
+          "title": "spurs vs newcastle",
+          "traffic": "500+",
+          "context": "Tottenham 0-2 Newcastle: First Premier League win for boss Matthias Jaissle"
+        },
+        {
+          "title": "오마르 마르무시",
+          "traffic": "500+",
+          "context": "'7000억 펑펑' 데 제르비 활짝! 토트넘, '맨시티 벤치' 사비우 이어 마르무시도 품었다...\"임대 후 2027년 완전 영입\" [공식발표]"
+        },
+        {
+          "title": "인플루언서",
           "traffic": "200+",
-          "context": "김효주, LPGA 투어 FM 챔피언십 2R서 공동 선두로 도약"
-        },
-        {
-          "title": "이은결",
-          "traffic": "200+",
-          "context": "이은결, 미녀 어시스턴트 출신 아내 공개 \"한국무용 전공자\"(아형)"
+          "context": "한국서 성형한 호주 인플루언서 “아이폰도 내 얼굴 인식 못해”"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-29T15:53:53.416Z",
+      "fetched": "2026-08-29T20:07:36.547Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -100,15 +100,15 @@
           "artist": "리센느"
         },
         {
-          "title": "BiiiG",
-          "artist": "BIGBANG"
+          "title": "FALLEN ANGEL",
+          "artist": "제니"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-29T15:53:53.416Z",
+      "fetched": "2026-08-29T20:07:36.547Z",
       "items": [
         {
           "title": "문화방송",
