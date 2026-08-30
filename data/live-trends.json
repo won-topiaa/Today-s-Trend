@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-30T15:39:39.018Z",
+  "updated": "2026-08-30T20:14:05.579Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-30T15:39:39.018Z",
+      "fetched": "2026-08-30T20:14:05.579Z",
       "items": [
         {
-          "title": "맨유 대 입스위치",
-          "traffic": "5000+",
-          "context": "“100% 의심의 여지 없다” 캐릭 맨유 감독, 욕 먹고 있는 ‘최악의 7번’ 선수 보호 “그는 정말 뛰어난 선..."
+          "title": "real madrid vs málaga cf standings",
+          "traffic": "200+",
+          "context": "Real Madrid vs Malaga Lineups, Prediction, Betting Tips & Odds"
         },
         {
-          "title": "레알 마드리드 대 말라가",
-          "traffic": "5000+",
-          "context": "\"105G 음바페 VS 86G 호날두\" 레알 공격포인트 100개 비교해보니..,그래도 무리뉴의 新 최애는 음바페!"
-        },
-        {
-          "title": "김나희",
+          "title": "스포티비뉴스",
           "traffic": "500+",
-          "context": "가수 겸 개그우먼 김나희, 비연예인 사업가와 결혼"
+          "context": "'푸른거탑' 배우 이용주 별세…향년 44세"
         },
         {
-          "title": "일기예보",
+          "title": "설영우",
           "traffic": "200+",
-          "context": "오늘 밤부터 어느 지역에서 가장 강한 뇌우가 예상되나요?"
+          "context": "'韓 축구 초대형 호재!' 국가대표 수비수 설영우, 독일 분데스리가 데뷔 임박 \"완전히 컨디션을 회복\"→다재다능 평가"
         },
         {
-          "title": "6세대 전투기",
-          "traffic": "1000+",
-          "context": "KAI KF-21 잇는 6세대 스텔스기 첫발…韓 방사청 개념연구 착수"
-        },
-        {
-          "title": "죽변비상활주로",
-          "traffic": "200+",
-          "context": "48년 전 조성된 울진 죽변 비상활주로 이전 비용을 왜 군이 떠맡나...울진군 문제 공식제기"
-        },
-        {
-          "title": "이형철",
-          "traffic": "500+",
-          "context": "56세 미혼 이형철 '미우새' 합류, 노안 탓 로봇조립 패대기→맨손 고기 굽기 '충격'"
-        },
-        {
-          "title": "가덕도 신공항",
-          "traffic": "200+",
-          "context": "정부, “가덕도신공항 추진 지역균형발전 위해 타당하다” 결론"
-        },
-        {
-          "title": "김민수",
+          "title": "살림하는 남자들",
           "traffic": "100+",
-          "context": "\"민주당, 국힘 원팀 부럽나\"…박근혜 탄핵은 '다시 보자'"
+          "context": "이요원 \"시어머니가 생일 용돈 보내줘…계좌번호 안 바꿔\""
         },
         {
-          "title": "식재료",
+          "title": "ngoại hạng anh",
+          "traffic": "200+",
+          "context": "6 điểm nhấn MU 5-2 Ipswich: Lời khẳng định của Bruno Fernandes"
+        },
+        {
+          "title": "나폴리 대 코모",
+          "traffic": "500+",
+          "context": "나폴리 vs 코모 경기 예측: 선두 경쟁의 뜨거운 승부"
+        },
+        {
+          "title": "그것이 알고 싶다",
           "traffic": "1000+",
-          "context": "\"냉동실에 뒀다면 당장 빼라\"…오래 두면 안되는 식재료, 전문가 경고 나왔다 [헬시타임]"
+          "context": "\"'귀신 들렸다'던 자매와 첫째딸의 고백\""
+        },
+        {
+          "title": "맨유 경기",
+          "traffic": "200+",
+          "context": "前 아내가 매달 1억3600만원 요구!…박지성 옛 맨유 동료, 이혼 후 신세 한탄→\"매년 빚더미 속에서 시작\""
+        },
+        {
+          "title": "man united vs ipswich town",
+          "traffic": "500+",
+          "context": "Manchester United 5-2 Ipswich Town: Bruno Fernandes hat-trick helps hosts win from behind"
+        },
+        {
+          "title": "real madrid đấu với malaga",
+          "traffic": "100+",
+          "context": "Nhận định Real Madrid vs Malaga: Tiếp đà thăng hoa, 22h00 ngày 30/8/2026"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-30T15:39:39.018Z",
+      "fetched": "2026-08-30T20:14:05.579Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-30T15:39:39.018Z",
+      "fetched": "2026-08-30T20:14:05.579Z",
       "items": [
         {
           "title": "문화방송",
