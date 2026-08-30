@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-30T02:13:51.440Z",
+  "updated": "2026-08-30T10:52:10.062Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-30T02:13:51.440Z",
+      "fetched": "2026-08-30T10:52:10.062Z",
       "items": [
         {
-          "title": "보조금",
-          "traffic": "500+",
-          "context": "\"차 값의 50%가 보조금\"... 501km 국산 SUV, 2200만 원대에 구입 가능한 지역은?"
-        },
-        {
-          "title": "총장",
-          "traffic": "100+",
-          "context": "대교협 \"지방대 엄청나게 망할 것\"… 등록금 자율화·AI 예산 확충 요구"
-        },
-        {
-          "title": "진기주",
-          "traffic": "100+",
-          "context": null
-        },
-        {
-          "title": "손주",
-          "traffic": "5000+",
-          "context": "\"시아버지와 매일 영통, 너무 힘들다\"…도 넘은 손주 사랑에 번호 차단"
-        },
-        {
-          "title": "볼로디미르 젤렌스키",
+          "title": "광주 대 fc 서울",
           "traffic": "2000+",
-          "context": "러시아, 우크라이나 키이우 인근 드론 공격···최소 37명 사망"
+          "context": "[그래도 K리그] '승점 41점 차’ 서울 vs 광주의 얄궂은 만남...1위 독주?, 23경기 무승 탈출?"
         },
         {
-          "title": "메르세데스-벤츠 s 클래스",
+          "title": "신다인",
           "traffic": "200+",
-          "context": "‘S-클래스의 ‘S’가 무슨 뜻인지 아십니까’⋯ 75년 헤리티지에 숨겨진 비밀"
+          "context": "'5홀 연속 버디＋대회 첫 2연패' 신다인 \"신들린 날이었어요!\""
         },
         {
-          "title": "inter miami vs montréal",
-          "traffic": "500+",
-          "context": "Are Lionel Messi and Alexis Sanchez playing today, Aug. 29, in Inter Miami vs CF Montreal?"
+          "title": "최현욱",
+          "traffic": "100+",
+          "context": "최현욱, 만취 라이브 방송에 팬들 걱정"
         },
         {
-          "title": "스페이스x",
-          "traffic": "500+",
-          "context": "오픈AI, 스페이스X 인수된 '커서' 계약해지…올트먼·머스크 또 신경전"
+          "title": "교통 허브",
+          "traffic": "100+",
+          "context": "[편집국에서] `좌초` 부산항 북항 환승센터 해법 서둘러야"
         },
         {
-          "title": "차두리",
-          "traffic": "500+",
-          "context": "[B11 현장] '극장골 주인공' 플라나, 화성의 침공 이끈다…\"개인 타이틀? 내 목표는 오직 K리그1 승격!\""
+          "title": "인천 대 전북",
+          "traffic": "5000+",
+          "context": "'원정서 설욕 노린다' 전북, 인천 맞대결서 '결정력 회복 선두 추격' 두 마리 토끼 잡을까 [오!쎈 프리뷰] - 머니투데이"
         },
         {
-          "title": "일본 엔",
-          "traffic": "500+",
-          "context": "美 재무 \"엔화 불안정시 美 금리상승\" 경고"
+          "title": "특별경보",
+          "traffic": "1000+",
+          "context": "“역대급 기록”…일본 혼슈 중서부 하루 300mm 넘는 폭우 상황 보니 [지금뉴스]"
+        },
+        {
+          "title": "박수현",
+          "traffic": "100+",
+          "context": "1분도 안돼 쑥대밭 됐다…비닐하우스 덮친 ‘토네이도급 돌풍’ [르포]"
+        },
+        {
+          "title": "은디아예",
+          "traffic": "1000+",
+          "context": "아스널 미친 결단! 아틀레티코 문제아 대안 찾았다…1500억 PL 공격수 점찍었다"
+        },
+        {
+          "title": "경매",
+          "traffic": "100+",
+          "context": "李 \"대출연체에 경매폭증... 주택가격 폭락 대비 중\""
+        },
+        {
+          "title": "니콜라이스 마줄스",
+          "traffic": "200+",
+          "context": "[스경X인터뷰]레바논전 되돌아본 이현중 “패배는 결국 선수 탓···지면 안 되는 경기를 졌다”"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-30T02:13:51.440Z",
+      "fetched": "2026-08-30T10:52:10.062Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -88,6 +88,10 @@
           "artist": "Hearts2Hearts"
         },
         {
+          "title": "FALLEN ANGEL",
+          "artist": "제니"
+        },
+        {
           "title": "LEMONADE",
           "artist": "aespa"
         },
@@ -98,17 +102,13 @@
         {
           "title": "Deja Vu",
           "artist": "리센느"
-        },
-        {
-          "title": "FALLEN ANGEL",
-          "artist": "제니"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-30T02:13:51.440Z",
+      "fetched": "2026-08-30T10:52:10.062Z",
       "items": [
         {
           "title": "문화방송",
