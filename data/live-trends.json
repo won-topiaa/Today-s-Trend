@@ -1,67 +1,67 @@
 {
-  "updated": "2026-08-30T20:14:05.579Z",
+  "updated": "2026-08-31T02:09:19.340Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-30T20:14:05.579Z",
+      "fetched": "2026-08-31T02:09:19.340Z",
       "items": [
         {
-          "title": "real madrid vs málaga cf standings",
-          "traffic": "200+",
-          "context": "Real Madrid vs Malaga Lineups, Prediction, Betting Tips & Odds"
+          "title": "대통령",
+          "traffic": "2000+",
+          "context": "[속보]‘50대서 7% 빠졌다’…李대통령 지지율 30%대 진입-리얼미터"
         },
         {
-          "title": "스포티비뉴스",
+          "title": "농협",
           "traffic": "500+",
-          "context": "'푸른거탑' 배우 이용주 별세…향년 44세"
+          "context": "NH농협은행장, 뉴욕서 현지 감독당국 소통…영업현장 점검도"
         },
         {
-          "title": "설영우",
-          "traffic": "200+",
-          "context": "'韓 축구 초대형 호재!' 국가대표 수비수 설영우, 독일 분데스리가 데뷔 임박 \"완전히 컨디션을 회복\"→다재다능 평가"
-        },
-        {
-          "title": "살림하는 남자들",
-          "traffic": "100+",
-          "context": "이요원 \"시어머니가 생일 용돈 보내줘…계좌번호 안 바꿔\""
-        },
-        {
-          "title": "ngoại hạng anh",
-          "traffic": "200+",
-          "context": "6 điểm nhấn MU 5-2 Ipswich: Lời khẳng định của Bruno Fernandes"
-        },
-        {
-          "title": "나폴리 대 코모",
+          "title": "그랜드캐년",
           "traffic": "500+",
-          "context": "나폴리 vs 코모 경기 예측: 선두 경쟁의 뜨거운 승부"
+          "context": "미 그랜드캐니언서도 ‘돌발 홍수’로 15명 실종…콜로라도강 지형까지 변했다"
         },
         {
-          "title": "그것이 알고 싶다",
+          "title": "히샬리송",
+          "traffic": "2000+",
+          "context": "'흥민이 형 저도 떠나요'…토트넘 결단! 134경기 32골 공격수 친정팀으로 돌려보낸다"
+        },
+        {
+          "title": "부산은행",
+          "traffic": "200+",
+          "context": "부산은행 고객, 10월부터 전국 우체국서 금융서비스 이용"
+        },
+        {
+          "title": "건설업",
+          "traffic": "500+",
+          "context": "원전·AIDC·재건 기대감 한 몸에…건설주, 이달만 33% '껑충'"
+        },
+        {
+          "title": "안성시",
+          "traffic": "200+",
+          "context": "안성시 첫 터널 뚫렸다⋯시도 5호선 삼흥-미장간 도로 개통"
+        },
+        {
+          "title": "드라이브",
+          "traffic": "200+",
+          "context": "알파드라이브원 리오, 눈길 가는 존재감…‘룩스’ 주인공"
+        },
+        {
+          "title": "이범호",
           "traffic": "1000+",
-          "context": "\"'귀신 들렸다'던 자매와 첫째딸의 고백\""
+          "context": "'깜짝' 이범호의 단언, 왜 이 선수 1년 더 믿나…\"내년에도, 앞으로 KIA 갈 방향과 맞아\""
         },
         {
-          "title": "맨유 경기",
+          "title": "유리",
           "traffic": "200+",
-          "context": "前 아내가 매달 1억3600만원 요구!…박지성 옛 맨유 동료, 이혼 후 신세 한탄→\"매년 빚더미 속에서 시작\""
-        },
-        {
-          "title": "man united vs ipswich town",
-          "traffic": "500+",
-          "context": "Manchester United 5-2 Ipswich Town: Bruno Fernandes hat-trick helps hosts win from behind"
-        },
-        {
-          "title": "real madrid đấu với malaga",
-          "traffic": "100+",
-          "context": "Nhận định Real Madrid vs Malaga: Tiếp đà thăng hoa, 22h00 ngày 30/8/2026"
+          "context": "반도체-전장-이차전지 소재 중심으로 체질 개선"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-30T20:14:05.579Z",
+      "fetched": "2026-08-31T02:09:19.340Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
@@ -72,12 +72,12 @@
           "artist": "코르티스"
         },
         {
-          "title": "LOVE ATTACK",
-          "artist": "리센느"
-        },
-        {
           "title": "SUN KISS",
           "artist": "튜이드"
+        },
+        {
+          "title": "LOVE ATTACK",
+          "artist": "리센느"
         },
         {
           "title": "GRLS",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-30T20:14:05.579Z",
+      "fetched": "2026-08-31T02:09:19.340Z",
       "items": [
         {
           "title": "문화방송",
