@@ -1,91 +1,91 @@
 {
-  "updated": "2026-08-31T02:09:19.340Z",
+  "updated": "2026-08-31T12:03:55.079Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-08-31T02:09:19.340Z",
+      "fetched": "2026-08-31T12:03:55.079Z",
       "items": [
         {
-          "title": "대통령",
+          "title": "아데몰라 루크먼",
+          "traffic": "100+",
+          "context": "'시즌 첫 도움' 이강인, 3경기 만에 1골 1도움…현지 매체 \"'마법의 사각형' 빛났다\""
+        },
+        {
+          "title": "이수연",
+          "traffic": "200+",
+          "context": "‘국민 손녀’ 이수연, 천만 벽 넘었다"
+        },
+        {
+          "title": "자연재해",
+          "traffic": "200+",
+          "context": "연휴 기간 동안 화재, 폭발 및 자연재해에 대해 방심하거나 안일하게 생각하지 마십시오."
+        },
+        {
+          "title": "손빈",
+          "traffic": "100+",
+          "context": "손빈아, 10kg 감량 고백…단단한 등 근육 \"너무 힘든데 중독된다\" (천만기인쇼) - 조선비즈"
+        },
+        {
+          "title": "sk이노베이션",
+          "traffic": "500+",
+          "context": "삼성SDI, 글로벌 톱티어 ESS기업에 LFP 배터리 공급"
+        },
+        {
+          "title": "숲",
           "traffic": "2000+",
-          "context": "[속보]‘50대서 7% 빠졌다’…李대통령 지지율 30%대 진입-리얼미터"
+          "context": "경북도 \"대형산불 피해지역에 소멸대응기금 131억 배분 전망\""
         },
         {
-          "title": "농협",
-          "traffic": "500+",
-          "context": "NH농협은행장, 뉴욕서 현지 감독당국 소통…영업현장 점검도"
-        },
-        {
-          "title": "그랜드캐년",
-          "traffic": "500+",
-          "context": "미 그랜드캐니언서도 ‘돌발 홍수’로 15명 실종…콜로라도강 지형까지 변했다"
-        },
-        {
-          "title": "히샬리송",
-          "traffic": "2000+",
-          "context": "'흥민이 형 저도 떠나요'…토트넘 결단! 134경기 32골 공격수 친정팀으로 돌려보낸다"
-        },
-        {
-          "title": "부산은행",
-          "traffic": "200+",
-          "context": "부산은행 고객, 10월부터 전국 우체국서 금융서비스 이용"
-        },
-        {
-          "title": "건설업",
-          "traffic": "500+",
-          "context": "원전·AIDC·재건 기대감 한 몸에…건설주, 이달만 33% '껑충'"
-        },
-        {
-          "title": "안성시",
-          "traffic": "200+",
-          "context": "안성시 첫 터널 뚫렸다⋯시도 5호선 삼흥-미장간 도로 개통"
-        },
-        {
-          "title": "드라이브",
-          "traffic": "200+",
-          "context": "알파드라이브원 리오, 눈길 가는 존재감…‘룩스’ 주인공"
-        },
-        {
-          "title": "이범호",
+          "title": "최동석",
           "traffic": "1000+",
-          "context": "'깜짝' 이범호의 단언, 왜 이 선수 1년 더 믿나…\"내년에도, 앞으로 KIA 갈 방향과 맞아\""
+          "context": "'이혼 소송' 최동석 \"내 아픔이 너에게 묻어있어…이제는 괜찮아\""
         },
         {
-          "title": "유리",
-          "traffic": "200+",
-          "context": "반도체-전장-이차전지 소재 중심으로 체질 개선"
+          "title": "김태군",
+          "traffic": "100+",
+          "context": "\"6타점이라니 이제 그만하세요!\" 왜 김태군은 페덱에게 정장을 선물했나…\"나도 추억 선물하겠다\" [MD대구]"
+        },
+        {
+          "title": "박지원",
+          "traffic": "5000+",
+          "context": "[단독 인터뷰] 이준석 “혼자라도 끝까지 자강… 김승원, 국힘 위헌정당해산 포석일지도”"
+        },
+        {
+          "title": "진",
+          "traffic": "2000+",
+          "context": "‘우지원 딸’ 타이틀 독 됐나…미스코리아 진 우서윤, 도 넘은 외모 품평에 빛 바랜 왕관"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-08-31T02:09:19.340Z",
+      "fetched": "2026-08-31T12:03:55.079Z",
       "items": [
         {
           "title": "Pop Off Pop Off",
           "artist": "키키"
         },
         {
-          "title": "REDRED",
-          "artist": "코르티스"
-        },
-        {
           "title": "SUN KISS",
           "artist": "튜이드"
         },
         {
-          "title": "LOVE ATTACK",
-          "artist": "리센느"
+          "title": "FALLEN ANGEL",
+          "artist": "제니"
         },
         {
           "title": "GRLS",
           "artist": "튜이드"
         },
         {
-          "title": "FALLEN ANGEL",
-          "artist": "제니"
+          "title": "REDRED",
+          "artist": "코르티스"
+        },
+        {
+          "title": "LOVE ATTACK",
+          "artist": "리센느"
         },
         {
           "title": "Lemon Tang",
@@ -96,59 +96,59 @@
           "artist": "aespa"
         },
         {
-          "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
-          "artist": "Post Malone & Swae Lee"
-        },
-        {
           "title": "Deja Vu",
           "artist": "리센느"
+        },
+        {
+          "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+          "artist": "Post Malone & Swae Lee"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-08-31T02:09:19.340Z",
+      "fetched": "2026-08-31T12:03:55.079Z",
       "items": [
         {
+          "title": "강신철 (군인)",
+          "views": 19097
+        },
+        {
           "title": "문화방송",
-          "views": 16157
+          "views": 16815
+        },
+        {
+          "title": "용혜인",
+          "views": 13338
         },
         {
           "title": "한국방송공사",
-          "views": 10222
+          "views": 9463
         },
         {
           "title": "한국교육방송공사",
-          "views": 8685
+          "views": 8711
         },
         {
-          "title": "이용주 (배우)",
-          "views": 6235
-        },
-        {
-          "title": "네팔",
-          "views": 4569
-        },
-        {
-          "title": "이용주 (희극인)",
-          "views": 4108
-        },
-        {
-          "title": "5·18 광주 민주화 운동",
-          "views": 3673
+          "title": "김승원 (1969년)",
+          "views": 8065
         },
         {
           "title": "비비 (대한민국의 가수)",
-          "views": 3087
+          "views": 5154
         },
         {
-          "title": "트로이 전쟁",
-          "views": 2858
+          "title": "이용주 (배우)",
+          "views": 4044
         },
         {
-          "title": "사랑이 온다 (드라마)",
-          "views": 2733
+          "title": "포헨즈",
+          "views": 4034
+        },
+        {
+          "title": "이용주 (희극인)",
+          "views": 3930
         }
       ]
     }
