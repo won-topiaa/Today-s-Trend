@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-02T10:07:27.751Z",
+  "updated": "2026-09-02T15:32:18.938Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-02T10:07:27.751Z",
+      "fetched": "2026-09-02T15:32:18.938Z",
       "items": [
         {
-          "title": "최준용",
-          "traffic": "100+",
-          "context": "남자농구 대표팀, 이현중·여준석 등 AG 명단 확정‥최준용은 15일 합류"
-        },
-        {
-          "title": "스테이블코인",
+          "title": "아시안 게임 야구",
           "traffic": "200+",
-          "context": "달러 스테이블코인 본격화…내년 21개 은행 컨소시엄이 발행"
+          "context": "아시안게임 야구대표팀 프로필 사진 논란(?)"
         },
         {
-          "title": "현대제철",
+          "title": "mbk 파트너스",
           "traffic": "100+",
-          "context": "당진 현대제철서 산소 누출 화재폭발…\"직원들 모두 대피\""
+          "context": "MBK파트너스, 2년 만에 국내 바이아웃⋯뷰티ㆍ건기식 기업 인수"
         },
         {
-          "title": "서울경제",
+          "title": "포항시장",
           "traffic": "100+",
-          "context": "서울 도심서 '킥보드' 안 보인다 했더니…뜻밖의 이유 있었다"
+          "context": "경찰, 박용선 포항시장 선거법 위반 혐의 검찰 재송치"
         },
         {
-          "title": "선박",
-          "traffic": "100+",
-          "context": "해운협회 \"호르무즈서 피격된 선박, 장금상선 소유 아니야\""
-        },
-        {
-          "title": "배재고등학교",
-          "traffic": "200+",
-          "context": "'비하 응원' 배재고 감독·선수 2명, 출전정지 1개월 징계"
-        },
-        {
-          "title": "포스코홀딩스",
-          "traffic": "200+",
-          "context": "한·호주 경제계 \"전략적 동반자…핵심광물·AI·방산협력 확대\""
-        },
-        {
-          "title": "기초 연구",
-          "traffic": "200+",
-          "context": "과학기술원 부설 영재학교 1개교→5개교 늘린다"
-        },
-        {
-          "title": "김성주",
-          "traffic": "100+",
-          "context": null
-        },
-        {
-          "title": "오은영",
+          "title": "리사",
           "traffic": "1000+",
-          "context": "이호선, 오은영과 체중 비교 질문에 즉답…“내가 압도적으로 뚱뚱”"
+          "context": "리사, 교토서 찾은 여유…고혹적인 드레스 자태에 \"현실 공주\""
+        },
+        {
+          "title": "보물",
+          "traffic": "200+",
+          "context": "임실 중기사 소장 '진구사지 철조여래좌상' 보물 승격"
+        },
+        {
+          "title": "정일우",
+          "traffic": "200+",
+          "context": "정일우, 네팔 대홍수 피해지역 주민·아동에 기부"
+        },
+        {
+          "title": "xbox",
+          "traffic": "500+",
+          "context": "Xbox live down. Xbox error 0x80004005 popping up Wednesday"
+        },
+        {
+          "title": "미국 상원",
+          "traffic": "500+",
+          "context": "美 클래리티법, 15일 상원 클로처 표결…업계 \"연내 통과 비관적\""
+        },
+        {
+          "title": "lck",
+          "traffic": "2000+",
+          "context": "Interim head coach Lim Jae-hyun on reverse sweep loss: \"We made many draft mistakes\""
+        },
+        {
+          "title": "권순표",
+          "traffic": "200+",
+          "context": "MBC 차기 사장은 누구?…후보군 8명 압축"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-02T10:07:27.751Z",
+      "fetched": "2026-09-02T15:32:18.938Z",
       "items": [
         {
           "title": "노스탈지아",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-02T10:07:27.751Z",
+      "fetched": "2026-09-02T15:32:18.938Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 15819
+          "views": 14851
         },
         {
           "title": "용혜인",
-          "views": 13517
+          "views": 9323
         },
         {
           "title": "한국방송공사",
-          "views": 8047
+          "views": 8491
         },
         {
           "title": "5·18 광주 민주화 운동",
-          "views": 7772
+          "views": 6693
         },
         {
           "title": "한국교육방송공사",
-          "views": 7031
+          "views": 6477
         },
         {
-          "title": "조희대",
-          "views": 6635
+          "title": "김용범 (공무원)",
+          "views": 3544
         },
         {
-          "title": "김승원 (1969년)",
-          "views": 4176
+          "title": "로베르트 모레노",
+          "views": 2309
         },
         {
-          "title": "강신철 (군인)",
-          "views": 3707
+          "title": "김영균 (교육인)",
+          "views": 1876
         },
         {
-          "title": "네팔",
-          "views": 2582
+          "title": "무화과나무",
+          "views": 1760
         },
         {
-          "title": "포헨즈",
-          "views": 2489
+          "title": "트로이 전쟁",
+          "views": 1727
         }
       ]
     }
