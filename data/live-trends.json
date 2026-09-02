@@ -1,11 +1,36 @@
 {
-  "updated": "2026-09-02T15:32:18.938Z",
+  "updated": "2026-09-02T20:14:23.340Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-02T15:32:18.938Z",
+      "fetched": "2026-09-02T20:14:23.340Z",
       "items": [
+        {
+          "title": "vfl 오스나브뤼크 대 바이에른",
+          "traffic": "2000+",
+          "context": "Osnabrück vs Bayern Munich: German DFB Pokal stats & head-to-head"
+        },
+        {
+          "title": "카사마츠 쇼",
+          "traffic": "100+",
+          "context": "日 배우 폭로, '라디오스타' 불러놓고 \"통역사 없어 당황…절대 보지마세요\""
+        },
+        {
+          "title": "투표용지",
+          "traffic": "200+",
+          "context": "헌재, ‘6·3 지선 투표용지 부족’ 헌법소원 각하…4건 모두 종결"
+        },
+        {
+          "title": "여자 야구",
+          "traffic": "2000+",
+          "context": "‘야구여왕2’ 국대 출신 9명 보유 강팀과 붙는다…선발 ‘1+1’ 파격 기용"
+        },
+        {
+          "title": "박재홍",
+          "traffic": "200+",
+          "context": "20일째 안 보이더니…‘한판승부’ 박재홍, 뇌경색으로 쓰러졌다"
+        },
         {
           "title": "아시안 게임 야구",
           "traffic": "200+",
@@ -29,39 +54,14 @@
         {
           "title": "보물",
           "traffic": "200+",
-          "context": "임실 중기사 소장 '진구사지 철조여래좌상' 보물 승격"
-        },
-        {
-          "title": "정일우",
-          "traffic": "200+",
-          "context": "정일우, 네팔 대홍수 피해지역 주민·아동에 기부"
-        },
-        {
-          "title": "xbox",
-          "traffic": "500+",
-          "context": "Xbox live down. Xbox error 0x80004005 popping up Wednesday"
-        },
-        {
-          "title": "미국 상원",
-          "traffic": "500+",
-          "context": "美 클래리티법, 15일 상원 클로처 표결…업계 \"연내 통과 비관적\""
-        },
-        {
-          "title": "lck",
-          "traffic": "2000+",
-          "context": "Interim head coach Lim Jae-hyun on reverse sweep loss: \"We made many draft mistakes\""
-        },
-        {
-          "title": "권순표",
-          "traffic": "200+",
-          "context": "MBC 차기 사장은 누구?…후보군 8명 압축"
+          "context": "\"마당 흙 파다 덜컥\"… 덴마크 집주인, 18.5kg 은 보물 싹쓸이"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-02T15:32:18.938Z",
+      "fetched": "2026-09-02T20:14:23.340Z",
       "items": [
         {
           "title": "노스탈지아",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-02T15:32:18.938Z",
+      "fetched": "2026-09-02T20:14:23.340Z",
       "items": [
         {
           "title": "문화방송",
