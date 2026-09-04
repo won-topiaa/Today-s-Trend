@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-03T20:15:19.274Z",
+  "updated": "2026-09-04T01:50:40.121Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-03T20:15:19.274Z",
+      "fetched": "2026-09-04T01:50:40.121Z",
       "items": [
         {
-          "title": "러시아",
-          "traffic": "100+",
-          "context": "푸틴, 출산율 강조하며 한국 언급…\"전쟁도 안 하는데 저출산\""
-        },
-        {
-          "title": "폐쇄회로 텔레비전",
-          "traffic": "500+",
-          "context": "범죄 예방 CCTV도 '재정' 따라…서울 자치구별 설치 격차"
-        },
-        {
-          "title": "gemini",
-          "traffic": "2000+",
-          "context": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber"
-        },
-        {
-          "title": "스낳대",
+          "title": "국채",
           "traffic": "200+",
-          "context": "스틸시리즈, ‘자낳대26: 스타크래프트 with 치지직’ 공식 스폰서 참여"
+          "context": "\"이번엔 진짜 다르다\"…월가 족집게들이 콕 찍은 '매수 타임'"
         },
         {
-          "title": "제미나이",
-          "traffic": "10000+",
-          "context": "구글, 사이버 보안 특화 ‘제미나이 3.8 플래시 사이버’ 공개... 추론·코딩 특화 ‘제미나이 3.8 플래시’ 함께"
+          "title": "코레일",
+          "traffic": "1000+",
+          "context": "코레일, 버려진 플라스틱 용산역 벤치로 재탄생"
         },
         {
-          "title": "챗gpt",
+          "title": "자기주식",
           "traffic": "2000+",
-          "context": "챗GPT·클로드·그록, 한때 일제히 ‘먹통’…이용자들 불편"
+          "context": "이노그리드, 자기주식 취득 결정"
         },
         {
-          "title": "저작권",
-          "traffic": "100+",
-          "context": "미 정부, 저작권 소송서 AI 빅테크 옹호…\"AI 경쟁력은 안보\""
-        },
-        {
-          "title": "gpt",
+          "title": "gpt6",
           "traffic": "10000+",
-          "context": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts"
+          "context": "GPT-6 Astra: A new generation of intelligence"
         },
         {
-          "title": "chatgpt",
-          "traffic": "5000+",
-          "context": "Widespread AI outage underway"
+          "title": "쓰레기통",
+          "traffic": "500+",
+          "context": "부산 외국인 관광객 300만명 눈앞…지역 내 소비도 급증"
         },
         {
-          "title": "시부모",
+          "title": "진학사",
+          "traffic": "1000+",
+          "context": "어려운 국어에 N수생 급증…'9월 모평' 이후 고민하는 고3 현장[르포]"
+        },
+        {
+          "title": "브루어스 대 컵스",
           "traffic": "100+",
-          "context": "주말 교회 갈 때마다 용돈 주겠다는 시부모…“얼마 주면 다닐 수 있나요?”"
+          "context": "MLB 컵스, 밀워키전 9홈런 폭발…역대 한 경기 최다 공동 2위"
+        },
+        {
+          "title": "불꽃축제",
+          "traffic": "500+",
+          "context": "\"자리 선점 금지\" 경고 무색…돗자리 알박기에 30만 원 거래까지"
+        },
+        {
+          "title": "아스트라",
+          "traffic": "200+",
+          "context": "오픈AI, '아스트라'에 차세대 '순환 추론' 적용으로 성능 대폭 향상"
+        },
+        {
+          "title": "매일경제신문",
+          "traffic": "200+",
+          "context": "“고금리에 경매 정말 쏟아지려나”…서울 집합건물 임의경매 급증한 ‘이곳’"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-03T20:15:19.274Z",
+      "fetched": "2026-09-04T01:50:40.121Z",
       "items": [
         {
           "title": "노스탈지아",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-03T20:15:19.274Z",
+      "fetched": "2026-09-04T01:50:40.121Z",
       "items": [
         {
           "title": "용혜인",
