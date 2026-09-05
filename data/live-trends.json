@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-05T14:09:23.904Z",
+  "updated": "2026-09-05T19:40:12.425Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-05T14:09:23.904Z",
+      "fetched": "2026-09-05T19:40:12.425Z",
       "items": [
         {
-          "title": "노팅엄 포레스트 대 토트넘",
-          "traffic": "10000+",
-          "context": "5500억 썼지만 달라진 게 없다…토트넘이 못산 '위닝 멘털리티'"
-        },
-        {
-          "title": "호펜하임 대 도르트문트",
-          "traffic": "500+",
-          "context": "1899 호펜하임 vs 보루시아 도르트문트 예측: 정상 경쟁의 뜨거운 승부"
-        },
-        {
-          "title": "대한민국 의 대법관",
+          "title": "석유",
           "traffic": "200+",
-          "context": "고심 길어지는 조희대…'대법관 재제청' 관련 입장 발표 미뤄"
+          "context": "미군 \"미 군함 겨냥 미사일 발사 대응해 이란 유조선 3척 타격\""
         },
         {
-          "title": "김재윤",
-          "traffic": "100+",
-          "context": "‘강민호 역전타’ 삼성, 연장 11회 뒤집기…사흘 만에 선두 탈환"
-        },
-        {
-          "title": "이강철",
-          "traffic": "100+",
-          "context": "“던질 수 있겠냐?” 꽃범호의 믿음에 이의리가 화답했다…BSV? 대역전극 발판 마련, KIA 클로저가 또 성장했다[MD광주]"
-        },
-        {
-          "title": "젠지 한화",
-          "traffic": "500+",
-          "context": "[LCK] ‘회심의 조커픽 정글 아트록스’ 젠지, 한화생명에 2-1 역전…결승 ‘눈 앞’"
-        },
-        {
-          "title": "이상순",
-          "traffic": "1000+",
-          "context": "이상순, 7일 연속 라디오 DJ 불참…청취자 걱정 커저"
-        },
-        {
-          "title": "윤혜진",
-          "traffic": "5000+",
-          "context": "엄태웅♥윤혜진 딸, 중학생 키가 벌써 178cm..진짜 폭풍 성장 - 조선비즈"
-        },
-        {
-          "title": "주유소",
+          "title": "분데스리가",
           "traffic": "200+",
-          "context": "셀프 주유했다 ‘날벼락’…수리비만 수천만 원·‘행정처분’ 계획 [이런뉴스]"
+          "context": "‘패스 성공률 98%+평점 7점대+3경기 연속 선발’ 돌아온 철기둥, 김민재, 뮌헨 3번째 시즌은 다르다 ‘뮌헨 오스나크뷔르에 4-1 대역전승→포칼 2라운드 진출’"
         },
         {
-          "title": "해피투게더",
+          "title": "샬케 대 바이에른",
           "traffic": "10000+",
-          "context": "유재석, 결국 또 시청률 1%대 찍었다…안은진 눈물→생활고 고백에도 '1.9%' ('해투')[종합]"
+          "context": "FC 샬케 04 vs 바이에른 뮌헨 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?"
+        },
+        {
+          "title": "아틀레틱 빌바오 대 아틀레티코 마드리드 라인업",
+          "traffic": "500+",
+          "context": "'이강인 골대·59분 출전' 아틀레티코, 빌바오 원정서 시즌 첫 패배"
+        },
+        {
+          "title": "f1",
+          "traffic": "500+",
+          "context": "Gasly charges to sensational maiden F1 pole at Monza over Russell and Piastri"
+        },
+        {
+          "title": "agi",
+          "traffic": "500+",
+          "context": "OpenAI Unveils Astra AI With Evasion Capabilities"
+        },
+        {
+          "title": "실시간스포츠",
+          "traffic": "100+",
+          "context": "'6연승 도전' LG 라인업 떴다...오지환-박동원 선발 제외, 어제 라인업과 똑같다 [오!쎈 잠실]"
+        },
+        {
+          "title": "nottm forest vs spurs",
+          "traffic": "200+",
+          "context": "Tottenham's £370M Squad Draws 0-0, Three Straight Blanked Matches"
+        },
+        {
+          "title": "athletic vs atlético madrid",
+          "traffic": "500+",
+          "context": "'Golazo que golpeó el poste' Lee Kang-in, fuera a los 58 minutos... 'Colapso' del Atlético, 0-2 'Consecutivos goles en contra'"
+        },
+        {
+          "title": "로또 1240",
+          "traffic": "2000+",
+          "context": "로또 1240회 1등 16명···각 17억9000만원씩"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-05T14:09:23.904Z",
+      "fetched": "2026-09-05T19:40:12.425Z",
       "items": [
         {
           "title": "노스탈지아",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-05T14:09:23.904Z",
+      "fetched": "2026-09-05T19:40:12.425Z",
       "items": [
         {
           "title": "문화방송",
