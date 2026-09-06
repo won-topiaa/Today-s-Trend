@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-06T14:33:43.285Z",
+  "updated": "2026-09-06T19:43:05.622Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-06T14:33:43.285Z",
+      "fetched": "2026-09-06T19:43:05.622Z",
       "items": [
         {
-          "title": "valencia vs barcelona",
-          "traffic": "200+",
-          "context": "Valencia - Barcelona en directo, el partido de la Liga en vivo"
-        },
-        {
-          "title": "발렌시아 대 바르셀로나",
-          "traffic": "2000+",
-          "context": "\"레알 마드리드 패배? 그게 축구다\"… 라이벌 팀 결과에서 교훈 찾는 한지 플릭 감독, \"우리 자신에게 집중할 것\""
-        },
-        {
-          "title": "south africa vs zimbabwe",
+          "title": "라민 야말",
           "traffic": "100+",
-          "context": "RSA vs ZIM, Final, Namibia T20I Tri-Series 2026 - Commentary"
+          "context": "파격 그 자체! '제2의 메시' 19세 나이로 바르셀로나 주장단 합류, 5주장 전격 선임...플릭 감독+선수단 투표로 결정"
         },
         {
-          "title": "코레일",
-          "traffic": "1000+",
-          "context": "추석 명절 승차권 예매 내일 시작"
+          "title": "첼시",
+          "traffic": "500+",
+          "context": "\"첼시로 왔으면 좋겠지만, 맨체스터 유나이티드로 갈 겁니다!\" 前 첼시 미드필더의 깜짝 전망…\"워튼, 다음 시즌 팰리스 떠날 것\""
         },
         {
-          "title": "이창동",
+          "title": "อาร์เซนอล พบ เชลซี",
           "traffic": "200+",
-          "context": "[83회 베니스] '가능한사랑' 전도연 \"어마어마하게 빛나는 동료애 느꼈다\""
+          "context": "ผลการแข่งขันฟุตบอลวันนี้ 6 กันยายน"
         },
         {
-          "title": "이영자",
+          "title": "모건 로저스",
+          "traffic": "200+",
+          "context": "Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been"
+        },
+        {
+          "title": "김승현",
           "traffic": "2000+",
-          "context": "이영자, 직접 키운 오이 씨도 안 버린다 “밤에 이걸로 마사지”"
+          "context": "드라마 섭외 안 들어온다더니…김승현, 6년 공백 끝에 작가 데뷔"
         },
         {
-          "title": "사라 두테르테",
-          "traffic": "200+",
-          "context": "“나 죽으면 대통령 죽여라” 지시 필리핀 부통령, 보석 석방돼"
+          "title": "arsenal vs chelsea",
+          "traffic": "1000+",
+          "context": "Arsenal 2-1 Chesleas: Martin Odegaard sinks Chelsea in London derby thriller"
         },
         {
-          "title": "카드론",
-          "traffic": "200+",
-          "context": "은행 막히자 보험권 '풍선효과'…보험 가계대출 석달새 2.7조 쑥"
+          "title": "꽃게",
+          "traffic": "2000+",
+          "context": "\"버릴 거면 한국에 줘…\" 이탈리아 덮친 '꽃게' 반전 근황"
         },
         {
-          "title": "เอฟเวอร์ตัน พบ แมนยู",
+          "title": "거점 국립 대학교",
           "traffic": "500+",
-          "context": "ดูบอลสดฟรี เอฟเวอร์ตัน พบ แมนยู ถ่ายทอดสดช่อง MONOMAX SPORTS เวลา 20.00 น."
+          "context": "[현장의 시각]부산대 양산캠퍼스 유휴부지에 ‘훈풍’이 분다"
         },
         {
-          "title": "everton đấu với man utd",
-          "traffic": "500+",
-          "context": "Everton 0-0 MU: Bruno sút trúng xà"
+          "title": "валенсия – барселона",
+          "traffic": "100+",
+          "context": "«Валенсия» — «Барселона»: где смотреть прямую трансляцию матча Ла Лиги 6 сентября"
+        },
+        {
+          "title": "아스널 대 첼시",
+          "traffic": "10000+",
+          "context": "디펜딩 챔피언답다! 아스날, 2분 만에 선제 실점 딛고 짜릿한 역전승, 하베르츠·외데고르 연속골→첼시 2-1 격파...개막 3연승 질주"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-06T14:33:43.285Z",
+      "fetched": "2026-09-06T19:43:05.622Z",
       "items": [
         {
           "title": "노스탈지아",
@@ -76,12 +76,12 @@
           "artist": "키키"
         },
         {
-          "title": "REDRED",
-          "artist": "코르티스"
-        },
-        {
           "title": "GRLS",
           "artist": "튜이드"
+        },
+        {
+          "title": "REDRED",
+          "artist": "코르티스"
         },
         {
           "title": "LOVE ATTACK",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-06T14:33:43.285Z",
+      "fetched": "2026-09-06T19:43:05.622Z",
       "items": [
         {
           "title": "문화방송",
