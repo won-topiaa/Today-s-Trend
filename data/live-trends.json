@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-06T09:51:13.302Z",
+  "updated": "2026-09-06T14:33:43.285Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-06T09:51:13.302Z",
+      "fetched": "2026-09-06T14:33:43.285Z",
       "items": [
         {
-          "title": "하하",
+          "title": "valencia vs barcelona",
+          "traffic": "200+",
+          "context": "Valencia - Barcelona en directo, el partido de la Liga en vivo"
+        },
+        {
+          "title": "발렌시아 대 바르셀로나",
+          "traffic": "2000+",
+          "context": "\"레알 마드리드 패배? 그게 축구다\"… 라이벌 팀 결과에서 교훈 찾는 한지 플릭 감독, \"우리 자신에게 집중할 것\""
+        },
+        {
+          "title": "south africa vs zimbabwe",
           "traffic": "100+",
-          "context": "\"너무 즉흥적\" 전현무, 끝내 고개 저었다…촬영 감행하는 PD에 돌직구 ('사당귀')"
+          "context": "RSA vs ZIM, Final, Namibia T20I Tri-Series 2026 - Commentary"
         },
         {
-          "title": "인도네시아 화산",
+          "title": "코레일",
           "traffic": "1000+",
-          "context": "인도네시아 분화 화산재 15㎞ 치솟아…공항 6곳 일시 폐쇄"
+          "context": "추석 명절 승차권 예매 내일 시작"
         },
         {
-          "title": "다음 뉴스",
-          "traffic": "1000+",
-          "context": "'사당귀' 양준혁, 광어 들어간 '광어빵' 도전…김숙 비명 지르며 경악"
+          "title": "이창동",
+          "traffic": "200+",
+          "context": "[83회 베니스] '가능한사랑' 전도연 \"어마어마하게 빛나는 동료애 느꼈다\""
         },
         {
-          "title": "민주노동조합총연맹",
-          "traffic": "100+",
-          "context": "공공운수노조 간부, 10층 높이 건물외벽 매달려…부당징계 주장"
+          "title": "이영자",
+          "traffic": "2000+",
+          "context": "이영자, 직접 키운 오이 씨도 안 버린다 “밤에 이걸로 마사지”"
         },
         {
-          "title": "1 박 2 일",
-          "traffic": "5000+",
-          "context": "'1박2일' 태백 촬영지 어디? 이기택 VS 이준 댄스실력 자랑"
+          "title": "사라 두테르테",
+          "traffic": "200+",
+          "context": "“나 죽으면 대통령 죽여라” 지시 필리핀 부통령, 보석 석방돼"
         },
         {
-          "title": "자폐",
-          "traffic": "10000+",
-          "context": "27살 자폐아들 살 곳 찾던 ‘피터팬 아빠’ 눈감아…“안녕, 또 봐”"
+          "title": "카드론",
+          "traffic": "200+",
+          "context": "은행 막히자 보험권 '풍선효과'…보험 가계대출 석달새 2.7조 쑥"
         },
         {
-          "title": "차영현",
+          "title": "เอฟเวอร์ตัน พบ แมนยู",
           "traffic": "500+",
-          "context": "치어리더 차영현,'마지막 잠실구장 라이벌전 응원' [O! SPORTS 숏폼]"
+          "context": "ดูบอลสดฟรี เอฟเวอร์ตัน พบ แมนยู ถ่ายทอดสดช่อง MONOMAX SPORTS เวลา 20.00 น."
         },
         {
-          "title": "대한민국의 국방부 장관",
-          "traffic": "1000+",
-          "context": "[한반도 브리핑] 국방장관 교체…’문민’에서 다시 ’육사 출신 엘리트’로"
-        },
-        {
-          "title": "이수",
-          "traffic": "10000+",
-          "context": "이혼 1년’ 린, 여전히 화장실 바닥 생활…과일 먹으며 ‘허남준 앓이’"
-        },
-        {
-          "title": "기사",
-          "traffic": "1000+",
-          "context": "[포토] 앤더블 장하오 '스윗한 밀크남'"
+          "title": "everton đấu với man utd",
+          "traffic": "500+",
+          "context": "Everton 0-0 MU: Bruno sút trúng xà"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-06T09:51:13.302Z",
+      "fetched": "2026-09-06T14:33:43.285Z",
       "items": [
         {
           "title": "노스탈지아",
@@ -76,12 +76,12 @@
           "artist": "키키"
         },
         {
-          "title": "GRLS",
-          "artist": "튜이드"
-        },
-        {
           "title": "REDRED",
           "artist": "코르티스"
+        },
+        {
+          "title": "GRLS",
+          "artist": "튜이드"
         },
         {
           "title": "LOVE ATTACK",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-06T09:51:13.302Z",
+      "fetched": "2026-09-06T14:33:43.285Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 13563
+          "views": 13147
         },
         {
           "title": "한국방송공사",
-          "views": 10269
-        },
-        {
-          "title": "용혜인",
-          "views": 7151
+          "views": 9145
         },
         {
           "title": "한국교육방송공사",
-          "views": 5727
+          "views": 7237
+        },
+        {
+          "title": "용혜인",
+          "views": 3641
         },
         {
           "title": "5·18 광주 민주화 운동",
-          "views": 2594
+          "views": 2341
         },
         {
           "title": "김승원 (1969년)",
-          "views": 2503
+          "views": 2316
         },
         {
-          "title": "강신철 (군인)",
-          "views": 2439
+          "title": "장한별",
+          "views": 2138
         },
         {
-          "title": "구광모",
-          "views": 2130
+          "title": "사랑이 온다 (드라마)",
+          "views": 2033
         },
         {
-          "title": "전혜원",
-          "views": 2108
+          "title": "유부녀 킬러",
+          "views": 2019
         },
         {
-          "title": "9·11 테러",
-          "views": 2015
+          "title": "정미조",
+          "views": 1999
         }
       ]
     }
