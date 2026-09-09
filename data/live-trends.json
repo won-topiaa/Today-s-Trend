@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-09T10:19:33.736Z",
+  "updated": "2026-09-09T15:29:43.051Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-09T10:19:33.736Z",
+      "fetched": "2026-09-09T15:29:43.051Z",
       "items": [
         {
-          "title": "복권",
-          "traffic": "2000+",
-          "context": "’로또 1등 인증’ 대기업 직원…당첨금 12억 찍힌 통장 공개"
-        },
-        {
-          "title": "제복",
-          "traffic": "500+",
-          "context": "10년 만에 경찰제복 바뀐다…헌 제복은 가방·의류로 재활용"
-        },
-        {
-          "title": "이희진",
+          "title": "apple",
           "traffic": "200+",
-          "context": "베이비복스 이희진, 제주서 봉변당했다..얼굴 뒤덮은 머리카락 \"바람아 멈추어다오\""
+          "context": "Apple to Unveil $2,000 Foldable iPhone Duo at High-Stakes Event"
         },
         {
-          "title": "아침마당",
-          "traffic": "200+",
-          "context": "\"엄마인 줄 알았는데 할머니\" 10세 한수정, 자신 키운 조모에 눈물 (아침마당)"
+          "title": "신탁",
+          "traffic": "100+",
+          "context": "큐에스아이, 20억 원 규모 자사주 매입 신탁계약 체결...주주가치 제고 및 임직원 보상 재원 확보"
         },
         {
-          "title": "공군사관학교",
-          "traffic": "200+",
-          "context": "청주시의회 \"성무비행장, 공군사관학교와 함께 이전하라\""
-        },
-        {
-          "title": "sony",
-          "traffic": "200+",
-          "context": "Sony isn’t phasing out discs quite as quickly as we thought"
-        },
-        {
-          "title": "김신영",
+          "title": "임기",
           "traffic": "5000+",
-          "context": "\"김신영이 사라졌다\"…'조작방송 논란' 나혼산 근황"
+          "context": "[속보] 이 대통령 “제 임기, 헌법상 명확하게 제한돼 있어”···연임 개헌에 첫 입장"
         },
         {
-          "title": "배틀그라운드",
+          "title": "제주 sk fc",
+          "traffic": "100+",
+          "context": "제주SK 18세 유승재, 손흥민 있는 LA로 간다"
+        },
+        {
+          "title": "뉴데일리",
+          "traffic": "1000+",
+          "context": "[여론조사 ‘경향’]국정 운영 지지율 첫 30%대 하락…민주당·국힘 지지율도 근접"
+        },
+        {
+          "title": "한지윤",
+          "traffic": "100+",
+          "context": "[스경X현장]빅이닝에 쏘아올린 1군 첫 만루포…한화 한지윤 “몬스터월 넘겨서 더 좋았어요”"
+        },
+        {
+          "title": "이정은",
           "traffic": "200+",
-          "context": "크래프톤 '배틀그라운드 모바일', 신규 테마 모드 '블러드헌트' 추가"
+          "context": "\"나한테 담배 가르쳐\"…유재석이 언급한 유명 배우 - 머니투데이"
         },
         {
-          "title": "nc 대 kia",
-          "traffic": "5000+",
-          "context": "“대한민국 홈런왕이 빠지니까…” 40홈런 타자 김도영 없는 타선, 꽃감독도 머리 아프다 “어떻게 메울지 고민” [오!쎈 대구]"
+          "title": "서정진",
+          "traffic": "200+",
+          "context": "세금 체납했던 서정진 내연녀, 결국 용인 아파트 경매로 매각"
         },
         {
-          "title": "ssg 대 두산",
-          "traffic": "2000+",
-          "context": "[포토] 곽빈도 집중 '두산-SSG전 시구나선' 배우 남태우 - 머니투데이"
+          "title": "정치인",
+          "traffic": "1000+",
+          "context": "부산시선관위, 추석 전후 위법행위 예방·단속 강화"
+        },
+        {
+          "title": "사이언스 투데이",
+          "traffic": "1000+",
+          "context": "[다시보기] 9월 9일 (수) 오후 사이언스 투데이"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-09T10:19:33.736Z",
+      "fetched": "2026-09-09T15:29:43.051Z",
       "items": [
         {
           "title": "노스탈지아",
@@ -88,12 +88,12 @@
           "artist": "리센느"
         },
         {
-          "title": "FALLEN ANGEL",
-          "artist": "제니"
-        },
-        {
           "title": "Deja Vu",
           "artist": "리센느"
+        },
+        {
+          "title": "FALLEN ANGEL",
+          "artist": "제니"
         },
         {
           "title": "Lemon Tang",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-09T10:19:33.736Z",
+      "fetched": "2026-09-09T15:29:43.051Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 14671
+          "views": 16092
         },
         {
           "title": "한국방송공사",
-          "views": 9815
+          "views": 9366
         },
         {
           "title": "한국교육방송공사",
-          "views": 7113
+          "views": 6906
         },
         {
           "title": "용혜인",
-          "views": 3409
+          "views": 2653
         },
         {
           "title": "김승원 (1969년)",
-          "views": 3190
+          "views": 2401
         },
         {
-          "title": "강신철 (군인)",
-          "views": 1944
+          "title": "낸시 랭",
+          "views": 1929
         },
         {
           "title": "5·18 광주 민주화 운동",
-          "views": 1826
+          "views": 1830
         },
         {
-          "title": "트로이 전쟁",
-          "views": 1680
+          "title": "정미조",
+          "views": 1774
         },
         {
-          "title": "백로 (절기)",
-          "views": 1569
+          "title": "장제원",
+          "views": 1605
         },
         {
-          "title": "정조",
-          "views": 1353
+          "title": "정점식",
+          "views": 1576
         }
       ]
     }
