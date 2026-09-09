@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-08T20:26:15.470Z",
+  "updated": "2026-09-09T01:59:59.566Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-08T20:26:15.470Z",
+      "fetched": "2026-09-09T01:59:59.566Z",
       "items": [
         {
-          "title": "real madrid vs inter",
-          "traffic": "500+",
-          "context": "Mourinho returns to Champions League as Real Madrid coach to face Inter - CHOSUNBIZ"
-        },
-        {
-          "title": "공소기각",
-          "traffic": "100+",
-          "context": "이미 공소기각 판결 급증… 檢 폐지로 범죄 처벌 더 힘들 것[사설]"
-        },
-        {
-          "title": "레알 마드리드 대 인테르",
+          "title": "권혁빈",
           "traffic": "2000+",
-          "context": null
+          "context": "‘8조원대 재산분할’ 이혼소송...오늘 권혁빈 스마일게이트 창업자 이혼 1심 선고"
         },
         {
-          "title": "포르투 대 맨 시티",
-          "traffic": "2000+",
-          "context": "시티, FC 포르투전 원정 명단 확정"
-        },
-        {
-          "title": "sbs",
+          "title": "제시카 페굴라",
           "traffic": "200+",
-          "context": "SBS News Hunters Preview for September 8"
+          "context": "미국 테니스가 살아났다…US오픈 8강에 남자 3명, 여자도 돌풍"
         },
         {
-          "title": "club brugge vs aston villa",
+          "title": "이유비",
           "traffic": "100+",
-          "context": "Club Brugge vs Aston Villa Confirmed Lineups"
+          "context": "‘견미리 딸’ 이유비, 이훈과 집 데이트 ‘포착’…공개열애 시작"
         },
         {
-          "title": "챔스",
-          "traffic": "500+",
-          "context": "이강인부터 김민재까지, '태극전사 4인방' 내일부터 UCL 출격"
+          "title": "송가 인",
+          "traffic": "5000+",
+          "context": "\"가인님은 그저 빛\" 송가인, 몰라보게 날씬해진 근황…운동과 식단은"
         },
         {
-          "title": "인플루언서",
+          "title": "상인푸르지오",
+          "traffic": "1000+",
+          "context": "\"텐트 치고 밤샜다\" 오픈런까지…파리 날리던 아파트 '대반전'"
+        },
+        {
+          "title": "이재명 정부",
+          "traffic": "1000+",
+          "context": "이재명 정부의 위기, 지지율보다 더 심각한 것 [신진욱의 시선]"
+        },
+        {
+          "title": "땅집고",
           "traffic": "200+",
-          "context": "팔로워 123만 먹방 中 인플루언서 사망…사인은 미공개"
+          "context": "원주민 이익 빼앗는 지분 쪼개기, \"조합원 추가분담금 폭탄으로\""
         },
         {
-          "title": "풍자",
+          "title": "dwcs",
           "traffic": "200+",
-          "context": "풍자, 벌써부터 결혼 발표 파장 예상 \"대한민국 시끌벅적, 남편 공개 안할 것\" (풍자테레비)"
+          "context": "Week 5 Results + Scorecards | Dana White's Contender Series, Season 10"
         },
         {
-          "title": "양구",
+          "title": "손녀",
           "traffic": "500+",
-          "context": "양구 해안면 농가 흙탕물 저감·작목 전환에 4개 기관 손잡아"
+          "context": "“손주 키우기 더는 공짜 아냐“…조부모의 ’황혼 육아’ 소송"
+        },
+        {
+          "title": "삼성sds",
+          "traffic": "200+",
+          "context": "삼성SDS “로봇통합운영 플랫폼 내년 출시”"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-08T20:26:15.470Z",
+      "fetched": "2026-09-09T01:59:59.566Z",
       "items": [
         {
           "title": "노스탈지아",
@@ -88,12 +88,12 @@
           "artist": "리센느"
         },
         {
-          "title": "Deja Vu",
-          "artist": "리센느"
-        },
-        {
           "title": "FALLEN ANGEL",
           "artist": "제니"
+        },
+        {
+          "title": "Deja Vu",
+          "artist": "리센느"
         },
         {
           "title": "Lemon Tang",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-08T20:26:15.470Z",
+      "fetched": "2026-09-09T01:59:59.566Z",
       "items": [
         {
           "title": "문화방송",
