@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-10T15:25:02.871Z",
+  "updated": "2026-09-10T20:11:38.068Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-10T15:25:02.871Z",
+      "fetched": "2026-09-10T20:11:38.068Z",
       "items": [
         {
-          "title": "신지",
-          "traffic": "1000+",
-          "context": "'신혼' 신지, 외식 두 달에 한 번…\"익숙하지 않은 것 두려워\""
+          "title": "ios27",
+          "traffic": "200+",
+          "context": "Apple Announces macOS Golden Gate Release Date"
         },
         {
-          "title": "어디가",
+          "title": "오세훈",
           "traffic": "500+",
-          "context": "“액티브냐 패시브냐” 끝났다…기관 돈 잡는 ‘크로스플랫폼’ 경쟁"
+          "context": "‘한동훈·이진숙 OUT’ 다음날… 김민석 “법 개정해 의원 자격정지”"
         },
         {
-          "title": "유인나",
+          "title": "스포티비",
           "traffic": "100+",
-          "context": "아이유, 오늘 1년 만의 싱글 '이 별로부터'…직접 작사"
+          "context": "[아시안게임] 개회 9일 남은 나고야…아직은 조용한 분위기로 준비 중"
         },
         {
-          "title": "농구",
+          "title": "바이에른 대 보되/글림트",
           "traffic": "2000+",
-          "context": "男농구 이현중, 에이스 폼 어디 안 갔네…사우디전 23득점 활약 [현장영상]"
+          "context": "바이에른 뮌헨 콤파이 감독, 우파메카노-요나단 타 듀오 재신임…UCL 첫 경기 현지 예측"
         },
         {
-          "title": "이혜정",
-          "traffic": "200+",
-          "context": "이혜정, 아들 장가 보내고 명품 플렉스…\"억울하고 분해서 하나 사\" (빅마마)"
-        },
-        {
-          "title": "가천대",
-          "traffic": "500+",
-          "context": "목포대·지역 6개 대학, 에너지 전문인력 2천800명 양성"
-        },
-        {
-          "title": "수시 원서 접수",
-          "traffic": "200+",
-          "context": "우리 대학, 2027학년도 수시 2,153명 선발…9월 7일부터 원서접수"
-        },
-        {
-          "title": "cpi",
+          "title": "skt",
           "traffic": "100+",
-          "context": "Which sectors are most exposed if Friday’s inflation data comes in hot?"
+          "context": "SK Telecom discusses AI growth strategy with global telecom leaders"
         },
         {
-          "title": "변우석",
-          "traffic": "1000+",
-          "context": "130억 한남더힐 전액 현금으로…변우석, '선업튀' 2년 만에 깜짝 [집코노미-핫!부동산]"
+          "title": "아스널 fc",
+          "traffic": "200+",
+          "context": "'외데고르 결승포' 아스날, 슈팅 24개 맹폭 끝 나폴리 원정 1-0 승리...UCL 첫판부터 승점 3점 - 머니투데이"
         },
         {
-          "title": "신애라",
-          "traffic": "500+",
-          "context": "57세 신애라, 30년 전 사진 맞아? 머리만 달라진 방부제 미모 '깜짝' [N샷]"
+          "title": "챔스",
+          "traffic": "20000+",
+          "context": "'이강인, 얼굴 얻어맞고 걷어차였다'... 무려 \"판 다이크·소보슬러이·맥알리스터 집중견제\" 축구도 제대로 못 할 지경"
+        },
+        {
+          "title": "숲",
+          "traffic": "200+",
+          "context": "제주, 2030 온실가스 감축 목표 58%로 상향"
+        },
+        {
+          "title": "google usa",
+          "traffic": "100+",
+          "context": "New Mexico leaders ask Apple and Google not to use ‘New America’ on their maps"
+        },
+        {
+          "title": "한우랑 사과랑 축제",
+          "traffic": "100+",
+          "context": "'색에 반하고 맛에 취한다' 장수 한우랑사과랑축제 개막"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-10T15:25:02.871Z",
+      "fetched": "2026-09-10T20:11:38.068Z",
       "items": [
         {
           "title": "노스탈지아",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-10T15:25:02.871Z",
+      "fetched": "2026-09-10T20:11:38.068Z",
       "items": [
         {
           "title": "문화방송",
