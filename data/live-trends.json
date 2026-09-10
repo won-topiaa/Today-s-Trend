@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-09T20:09:33.814Z",
+  "updated": "2026-09-10T01:56:44.228Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-09T20:09:33.814Z",
+      "fetched": "2026-09-10T01:56:44.228Z",
       "items": [
         {
-          "title": "스포티비",
+          "title": "chicago vs inter miami",
           "traffic": "200+",
-          "context": "‘AG 2회 우승 주역’ 김주성, 스포티비 농구 중계 합류"
+          "context": "MATCH PREVIEW: Inter Miami CF Visits Chicago Fire FC in Midweek MLS Regular Season Action"
         },
         {
-          "title": "psg 대 슬로반 브라티슬라바",
+          "title": "김대호",
           "traffic": "1000+",
-          "context": "파리 생제르맹 vs 슬로반 브라티슬라바 프리뷰: 치열한 우승 경쟁의 한복판"
+          "context": "'전속계약 해지통보' 김대호 \"너무 잘 산다? 외로워진지 좀 됐다\"('나혼산')"
         },
         {
-          "title": "나폴리 대 아스널",
+          "title": "현대자동차",
+          "traffic": "500+",
+          "context": "NS홈쇼핑, 추석 앞두고 판매대금 150억원 조기 지급"
+        },
+        {
+          "title": "알렉산더 즈베레프",
           "traffic": "1000+",
-          "context": "\"UCL서 맨유와 레알, 사실상 동급\" 슈퍼컴퓨터, 맨유 우승 확률에 \"레알과 차이는 불과 0.6%P\" - 머니투데이"
+          "context": "'브레이크도, 미니브레이크도 허용하지 않는다' 즈베레프, 무결점 경기력으로 8강 진출"
         },
         {
-          "title": "첼시 대 리즈 유나이티드",
-          "traffic": "500+",
-          "context": "EFL Cup: Watson, 16, makes Chelsea debut against Leeds in third round"
+          "title": "자산",
+          "traffic": "1000+",
+          "context": "삼성운용, 한국부동산리츠인프라 ETF 연말까지 분배금 조정 지급"
         },
         {
-          "title": "갤럭시 폴드8",
-          "traffic": "2000+",
-          "context": "갤럭시 Z8, 전작보다 8% 더 팔렸다…폴드8이 흥행 주도"
+          "title": "차태현",
+          "traffic": "1000+",
+          "context": "차태현 “술 끊은 지 3년…무알코올 맥주 마시다 자연스럽게 금주”"
         },
         {
-          "title": "리버풀 대 아틀레티코",
-          "traffic": "5000+",
-          "context": "'이강인 선발' ATM, 리버풀 원정서 1-0 리드...요렌테, 또 리버풀 흔들었다 - 머니투데이"
+          "title": "유가",
+          "traffic": "100+",
+          "context": "\"이란전, 중간선거 직후 종결\"‥'새 통제구역' 예고"
         },
         {
-          "title": "iphone",
+          "title": "메타 뮤즈",
           "traffic": "200+",
-          "context": "アップル初の折り畳み式iPhone、開発に約10年－価格は2000ドル超か"
+          "context": "2000억원 연봉 제안도 못 붙잡았다…AI 스타 연구자들, 빅테크 잇단 이탈"
         },
         {
-          "title": "애플",
-          "traffic": "5000+",
-          "context": "\"아이폰18 사라진다…아이폰 에어2로 보급형 대체\""
-        },
-        {
-          "title": "보통주",
-          "traffic": "200+",
-          "context": "유안타증권, 최대주주 Yuanta Securities Asia Financial Services 등 주식 1만500주 증가…최대주주 장내매수"
-        },
-        {
-          "title": "파주 냉동창고",
+          "title": "레이스 대 브레이브스",
           "traffic": "500+",
-          "context": "[단독] '냉동창고 살인' 미끼 위조 상품권, 7월 말 '촬영용'으로 인쇄"
+          "context": "김하성 없었으면 어쩔 뻔했나! '타율 0.068' 딛고 다저스 격침→ATL 선두 이끈 \"예상 밖 영웅\" 美 극찬"
+        },
+        {
+          "title": "아시안 게임 배드민턴",
+          "traffic": "500+",
+          "context": "'日에서 神으로 추앙' 韓 전설의 당황·복잡한 감정 \"20년 동고동락, 이제 적이라니 부담이네요\""
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-09T20:09:33.814Z",
+      "fetched": "2026-09-10T01:56:44.228Z",
       "items": [
         {
           "title": "노스탈지아",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-09T20:09:33.814Z",
+      "fetched": "2026-09-10T01:56:44.228Z",
       "items": [
         {
           "title": "문화방송",
