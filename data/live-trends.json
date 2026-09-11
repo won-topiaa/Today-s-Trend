@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-10T20:11:38.068Z",
+  "updated": "2026-09-11T01:55:12.200Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-10T20:11:38.068Z",
+      "fetched": "2026-09-11T01:55:12.200Z",
       "items": [
         {
-          "title": "ios27",
+          "title": "강남구",
           "traffic": "200+",
-          "context": "Apple Announces macOS Golden Gate Release Date"
+          "context": "강남구, 중고생 1만8천명 결핵검진 > 뉴스"
         },
         {
-          "title": "오세훈",
+          "title": "슈퍼맨이 돌아왔다",
+          "traffic": "1000+",
+          "context": "\"슈퍼카에 별장까지\"…'코인 대박' 기욤 패트리, 근황 공개"
+        },
+        {
+          "title": "대한민국 의 대법관",
           "traffic": "500+",
-          "context": "‘한동훈·이진숙 OUT’ 다음날… 김민석 “법 개정해 의원 자격정지”"
+          "context": "26명 대법관과 대법원장, 지금 방식대로 뽑을 순 없다"
         },
         {
-          "title": "스포티비",
+          "title": "리노베이션",
           "traffic": "100+",
-          "context": "[아시안게임] 개회 9일 남은 나고야…아직은 조용한 분위기로 준비 중"
+          "context": "A 283-year-old N.J. restaurant returns after huge renovation. Did it lose its charm? | Review"
         },
         {
-          "title": "바이에른 대 보되/글림트",
-          "traffic": "2000+",
-          "context": "바이에른 뮌헨 콤파이 감독, 우파메카노-요나단 타 듀오 재신임…UCL 첫 경기 현지 예측"
-        },
-        {
-          "title": "skt",
+          "title": "제시카 페굴라",
           "traffic": "100+",
-          "context": "SK Telecom discusses AI growth strategy with global telecom leaders"
+          "context": "취미로 테니스 한다고? ‘15조 금수저’ 한국계 페굴라의 반란"
         },
         {
-          "title": "아스널 fc",
+          "title": "pba 팀리그",
           "traffic": "200+",
-          "context": "'외데고르 결승포' 아스날, 슈팅 24개 맹폭 끝 나폴리 원정 1-0 승리...UCL 첫판부터 승점 3점 - 머니투데이"
+          "context": "\"회장님 울컥에 선수들도 눈물바다\" PBA 휴온스, 창단 첫 PS 이어 새 역사도 쓰나"
         },
         {
-          "title": "챔스",
-          "traffic": "20000+",
-          "context": "'이강인, 얼굴 얻어맞고 걷어차였다'... 무려 \"판 다이크·소보슬러이·맥알리스터 집중견제\" 축구도 제대로 못 할 지경"
-        },
-        {
-          "title": "숲",
-          "traffic": "200+",
-          "context": "제주, 2030 온실가스 감축 목표 58%로 상향"
-        },
-        {
-          "title": "google usa",
+          "title": "스페이스x",
           "traffic": "100+",
-          "context": "New Mexico leaders ask Apple and Google not to use ‘New America’ on their maps"
+          "context": "골드만삭스 컨퍼런스 2026서 SpaceX: 컴퓨팅 확장 계획 발표"
         },
         {
-          "title": "한우랑 사과랑 축제",
+          "title": "마우리시오 포체티노",
+          "traffic": "500+",
+          "context": "\"토트넘에 우승 줘야 해\" 손흥민도 리그 타이틀 생긴다? 포체티노 깜짝 주장...\"징계받은 첼시, 2017년 우승 박탈해라\""
+        },
+        {
+          "title": "연금복권720+",
           "traffic": "100+",
-          "context": "'색에 반하고 맛에 취한다' 장수 한우랑사과랑축제 개막"
+          "context": "“여보, 나 1등이래” 복권 긁다 ‘싸한 느낌’…5억원 대박 터진 사연"
+        },
+        {
+          "title": "코모",
+          "traffic": "100+",
+          "context": "새로운 명장 파브레가스, UCL 환상적인 데뷔! 독일 라이프치히 완파"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-10T20:11:38.068Z",
+      "fetched": "2026-09-11T01:55:12.200Z",
       "items": [
         {
           "title": "노스탈지아",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-10T20:11:38.068Z",
+      "fetched": "2026-09-11T01:55:12.200Z",
       "items": [
         {
           "title": "문화방송",
