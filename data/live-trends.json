@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-12T09:43:45.767Z",
+  "updated": "2026-09-12T14:34:42.118Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-12T09:43:45.767Z",
+      "fetched": "2026-09-12T14:34:42.118Z",
       "items": [
         {
-          "title": "몸매",
-          "traffic": "500+",
-          "context": "강민경, 독보적 골반 라인 비결은…\"주 4회 고강도 운동·1일 1식\""
-        },
-        {
-          "title": "안리원",
-          "traffic": "1000+",
-          "context": "'뉴욕대 졸업' 안정환 딸, 한국서 취업…\"출근 2일차\" 자식자랑 ('놀면 뭐하니')[방송 프리뷰]"
-        },
-        {
-          "title": "대한민국 교육부",
-          "traffic": "500+",
-          "context": "외국인 유학생 지난해 50만 첫 돌파…4년 새 6배 급증"
-        },
-        {
-          "title": "호시",
+          "title": "f1",
           "traffic": "200+",
-          "context": null
+          "context": "F1 practice LIVE: Spanish Grand Prix 226 times, results, radio & updates from Madrid"
         },
         {
-          "title": "박수진",
-          "traffic": "2000+",
-          "context": "'박수진♥' 배용준, 백발 장발 근황 후 또 포착…'14세 장타자'와 라운딩"
-        },
-        {
-          "title": "기부",
+          "title": "liverpool vs fulham",
           "traffic": "200+",
-          "context": "삼성증권-KAIST, 신탁 활용 기부문화 확산 협약 체결 - 머니투데이"
+          "context": "Liverpool vs Fulham: Premier League preview, team news, stats & head-to-head"
         },
         {
-          "title": "술",
-          "traffic": "2000+",
-          "context": "줄줄이 \"술집 안 가요\"…20대들 향하는 곳"
+          "title": "ลิเวอร์พูล พบ ฟูลัม",
+          "traffic": "200+",
+          "context": "%~~*[[[SPORT TV>]* LIVE:ลิเวอร์พูล vs ฟูลัม ถ่ายทอดสด Liverpool Fulham 12 กันยายน 2569"
         },
         {
-          "title": "persija jakarta vs persib bandung",
+          "title": "chelsea vs hull",
           "traffic": "500+",
-          "context": "BRI Super League: Pemain Persib Tiba di GBK Naik Rantis Baraccuda"
+          "context": "Chelsea vs Hull City: Premier League preview, team news, stats & head-to-head"
         },
         {
-          "title": "k리그1",
+          "title": "메간",
           "traffic": "500+",
-          "context": "'멀티골'로 대전 연승 이끈 주민규, K리그 28라운드 MVP"
+          "context": "\"가슴 움켜잡아\" 하이브 걸그룹, 성추행 피해 - 머니투데이"
         },
         {
-          "title": "프랑코 마스탄투오노",
+          "title": "대구광역시",
           "traffic": "100+",
-          "context": "메시 넘은 마스탄투오노…19세 28일에 유럽 빅리그 해트트릭"
+          "context": "`도박·스마트폰 중독` 자녀 둔 부모들, 대구서 고심 털어놓는 자리 마련"
+        },
+        {
+          "title": "첼시 대 헐 시티",
+          "traffic": "5000+",
+          "context": "[한국스포츠레저공동기획]강등 후보가 날고 절대강자가 흔들렸다…유럽 5대 리그 ‘이변의 시작’"
+        },
+        {
+          "title": "리버풀 대 풀럼",
+          "traffic": "5000+",
+          "context": "옵타 슈퍼컴퓨터가 9월 12일 프리미어 리그 경기를 예측했습니다. 리버풀과 첼시의 승리 가능성이 높고, 아스톤 빌라와 포레스트의 경기는 무승부로 끝날 가능성이 높습니다."
+        },
+        {
+          "title": "어머니",
+          "traffic": "5000+",
+          "context": "강화도 주택서 60대 어머니 흉기로 찌른 20대 아들 체포"
+        },
+        {
+          "title": "동행",
+          "traffic": "100+",
+          "context": "기후동행카드, '기후동행패스'로 바꾸셨나요? 지하철역 12곳서 무료 교체"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-12T09:43:45.767Z",
+      "fetched": "2026-09-12T14:34:42.118Z",
       "items": [
         {
           "title": "노스탈지아",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-12T09:43:45.767Z",
+      "fetched": "2026-09-12T14:34:42.118Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 15068
+          "views": 13183
         },
         {
           "title": "한국방송공사",
-          "views": 8758
-        },
-        {
-          "title": "용혜인",
-          "views": 6110
+          "views": 8525
         },
         {
           "title": "한국교육방송공사",
-          "views": 5324
-        },
-        {
-          "title": "한성숙",
-          "views": 3279
+          "views": 5736
         },
         {
           "title": "9·11 테러",
-          "views": 3156
+          "views": 5489
+        },
+        {
+          "title": "용혜인",
+          "views": 4490
+        },
+        {
+          "title": "한성숙",
+          "views": 3355
+        },
+        {
+          "title": "빅 나티",
+          "views": 2002
+        },
+        {
+          "title": "찰스 디킨스",
+          "views": 1784
         },
         {
           "title": "5·18 광주 민주화 운동",
-          "views": 2191
+          "views": 1773
         },
         {
           "title": "김승원 (1969년)",
-          "views": 1966
-        },
-        {
-          "title": "장훈",
-          "views": 1662
-        },
-        {
-          "title": "강신철 (군인)",
-          "views": 1658
+          "views": 1637
         }
       ]
     }
