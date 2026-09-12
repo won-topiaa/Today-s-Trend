@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-12T01:59:40.648Z",
+  "updated": "2026-09-12T09:43:45.767Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-12T01:59:40.648Z",
+      "fetched": "2026-09-12T09:43:45.767Z",
       "items": [
         {
-          "title": "나이키",
-          "traffic": "200+",
-          "context": "\"그 돈 주고 누가 신어요\"…'50만원→9만원' 나이키의 굴욕"
-        },
-        {
-          "title": "요즘 남자 라이프 - 신랑수업",
-          "traffic": "100+",
-          "context": "전현무 소속사, 일본 아나운서 출신 아사코 영입"
-        },
-        {
-          "title": "허수봉",
+          "title": "몸매",
           "traffic": "500+",
-          "context": "“한국, 대체 어떤 팀이야?” 결승 길목서 만난 日 초긴장…‘득점 2위’ 허수봉에 ‘수호신’ 박경민까지"
+          "context": "강민경, 독보적 골반 라인 비결은…\"주 4회 고강도 운동·1일 1식\""
         },
         {
-          "title": "db하이텍",
-          "traffic": "100+",
-          "context": "DB하이텍, 8인치 차세대 전력반도체 공정 검증...내년 양산"
-        },
-        {
-          "title": "전원주",
-          "traffic": "2000+",
-          "context": "전원주, 유튜브 중단 이유 밝혔다…\"출연료 올리겠다 하니 그만두자고\""
-        },
-        {
-          "title": "메이플 블루 아카이브",
-          "traffic": "100+",
-          "context": "[게임스냅] 넥슨, '메이플스토리 이스케이프' 방탈출 카페 오픈"
-        },
-        {
-          "title": "김호령",
+          "title": "안리원",
           "traffic": "1000+",
-          "context": "“(김)호령 선배님 FA 계약으로 (KIA에)남으면 좋겠다” 박재현 진심…KIA 차세대 중견수? 아직은 배움의 시간[MD광주]"
+          "context": "'뉴욕대 졸업' 안정환 딸, 한국서 취업…\"출근 2일차\" 자식자랑 ('놀면 뭐하니')[방송 프리뷰]"
         },
         {
-          "title": "벤 셸턴",
+          "title": "대한민국 교육부",
           "traffic": "500+",
-          "context": "'무려 4시간 28분' 구토할 만했네! 경기 끝나니 '새벽 3시' 넘었다...세계 3위 알카라스, US오픈 2연패 무산 \"행복하게 떠난다\""
+          "context": "외국인 유학생 지난해 50만 첫 돌파…4년 새 6배 급증"
         },
         {
-          "title": "도루",
-          "traffic": "500+",
-          "context": "[영상] 허무하게 무너진 롯데…사직에서 16실점"
-        },
-        {
-          "title": "아스트리드 공주",
+          "title": "호시",
           "traffic": "200+",
-          "context": "노르웨이 왕실 또 부고…아스트리드 공주 94세로 별세"
+          "context": null
+        },
+        {
+          "title": "박수진",
+          "traffic": "2000+",
+          "context": "'박수진♥' 배용준, 백발 장발 근황 후 또 포착…'14세 장타자'와 라운딩"
+        },
+        {
+          "title": "기부",
+          "traffic": "200+",
+          "context": "삼성증권-KAIST, 신탁 활용 기부문화 확산 협약 체결 - 머니투데이"
+        },
+        {
+          "title": "술",
+          "traffic": "2000+",
+          "context": "줄줄이 \"술집 안 가요\"…20대들 향하는 곳"
+        },
+        {
+          "title": "persija jakarta vs persib bandung",
+          "traffic": "500+",
+          "context": "BRI Super League: Pemain Persib Tiba di GBK Naik Rantis Baraccuda"
+        },
+        {
+          "title": "k리그1",
+          "traffic": "500+",
+          "context": "'멀티골'로 대전 연승 이끈 주민규, K리그 28라운드 MVP"
+        },
+        {
+          "title": "프랑코 마스탄투오노",
+          "traffic": "100+",
+          "context": "메시 넘은 마스탄투오노…19세 28일에 유럽 빅리그 해트트릭"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-12T01:59:40.648Z",
+      "fetched": "2026-09-12T09:43:45.767Z",
       "items": [
         {
           "title": "노스탈지아",
@@ -80,35 +80,35 @@
           "artist": "코르티스"
         },
         {
-          "title": "GRLS",
-          "artist": "튜이드"
-        },
-        {
           "title": "LOVE ATTACK",
           "artist": "리센느"
         },
         {
-          "title": "Deja Vu",
-          "artist": "리센느"
+          "title": "GRLS",
+          "artist": "튜이드"
         },
         {
           "title": "Dear my crazy soulmate",
           "artist": "아이유"
         },
         {
-          "title": "Lemon Tang",
-          "artist": "Hearts2Hearts"
+          "title": "Deja Vu",
+          "artist": "리센느"
         },
         {
           "title": "이 별로부터",
           "artist": "아이유"
+        },
+        {
+          "title": "Lemon Tang",
+          "artist": "Hearts2Hearts"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-12T01:59:40.648Z",
+      "fetched": "2026-09-12T09:43:45.767Z",
       "items": [
         {
           "title": "문화방송",
