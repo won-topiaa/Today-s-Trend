@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-13T10:45:25.236Z",
+  "updated": "2026-09-13T15:14:18.910Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-13T10:45:25.236Z",
+      "fetched": "2026-09-13T15:14:18.910Z",
       "items": [
         {
-          "title": "xsmn",
+          "title": "재혼",
           "traffic": "1000+",
-          "context": "Kết quả xổ số hôm nay ngày 13.9: Tiền Giang, Kiên Giang, Đà Lạt"
+          "context": "17살 아들, 가족 잠들면 나온다…50kg도 안 되는 몸에 母 눈물 (결혼지옥)"
         },
         {
-          "title": "오스틴",
+          "title": "afghanistan vs india",
+          "traffic": "500+",
+          "context": "India face tough selection calls as Afghanistan play hosts in Delhi"
+        },
+        {
+          "title": "땅집고",
           "traffic": "200+",
-          "context": "\"김도영 응원\"…오스틴, 홈런왕보다 다른 목표"
+          "context": "농사를 못 지으면 농지를 팔아야 한다? 사실은 이렇습니다"
         },
         {
-          "title": "광주 대 안양",
-          "traffic": "2000+",
-          "context": null
-        },
-        {
-          "title": "경매",
+          "title": "무신사",
           "traffic": "500+",
-          "context": "유찰 늘고 낙찰가율도 하락…고가아파트 경매시장 '찬바람'"
+          "context": "\"올리브영 잡아라\"…K-뷰티 특화 매장으로 도전장"
         },
         {
-          "title": "살림하는 남자들",
+          "title": "맨더비",
           "traffic": "500+",
-          "context": "\"폐지해라\" 혹평 쏟아졌다…불륜 의심 연출 논란, 선 넘은 박서진 家의 억지극 ('살림남')"
+          "context": "'맨체스터 더비' 앞두고 초비상? 맨체스터 유나이티드 '캡틴' 부상 의심...UCL 경기 후 절뚝이며 퇴장, \"단순 타박상일 가능성 존재\""
         },
         {
-          "title": "축구 감독",
-          "traffic": "500+",
-          "context": "‘손흥민-이강인 충돌’ 몰락 시작…모레노, 두 태양 딜레마 풀어라"
-        },
-        {
-          "title": "빙하 붕괴",
-          "traffic": "500+",
-          "context": "[프리즘] 더 이상 '경고' 아니다…지구의 분노 현실로"
-        },
-        {
-          "title": "조국혁신당",
-          "traffic": "200+",
-          "context": "김민석 “지분 나누는 시대 지나”…조국 “머리 숙이고 들어오라고? 모욕적”"
-        },
-        {
-          "title": "맥도날드",
+          "title": "영국",
           "traffic": "100+",
-          "context": "\"키오스크 당장 치워\"…美 패스트푸드가 다시 직원 찾는 이유"
+          "context": "불쑥 “아일랜드 통일” 말해버린 트럼프…깜짝 놀란 영국"
         },
         {
-          "title": "런닝맨",
-          "traffic": "2000+",
-          "context": "런닝맨 : [선공개] “싸울 때 말도 예쁘게 하고” 지예은, ‘예비 신랑’ 바타와 결혼 결심하게 된 이유"
+          "title": "레반테 대 바르셀로나",
+          "traffic": "5000+",
+          "context": "'래시포드보다 낫다!' 고든, 바르사 5경기 4도움으로 몸값 증명→'득점 기계' 공격진 완벽 적응 - 조선비즈"
+        },
+        {
+          "title": "levante vs barcelona",
+          "traffic": "1000+",
+          "context": "Tratamiento real para las campeonas. El Levante homenajea a ocho campeonas del mundo del Barcelona con regalos y una ovación en pie"
+        },
+        {
+          "title": "집",
+          "traffic": "1000+",
+          "context": "거래 86% 급감에도 신고가…'토허제' 동탄·기흥·구리, 삼성 대출 변수"
+        },
+        {
+          "title": "coventry vs brighton",
+          "traffic": "200+",
+          "context": "Coventry City 0-5 Brighton & Hove Albion: Hosts remain pointless and goalless in Premier League"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-13T10:45:25.236Z",
+      "fetched": "2026-09-13T15:14:18.910Z",
       "items": [
         {
           "title": "노스탈지아",
@@ -96,59 +96,59 @@
           "artist": "리센느"
         },
         {
-          "title": "이 별로부터",
-          "artist": "아이유"
-        },
-        {
           "title": "Lemon Tang",
           "artist": "Hearts2Hearts"
+        },
+        {
+          "title": "이 별로부터",
+          "artist": "아이유"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-13T10:45:25.236Z",
+      "fetched": "2026-09-13T15:14:18.910Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 13183
+          "views": 13340
+        },
+        {
+          "title": "임이지",
+          "views": 10863
         },
         {
           "title": "한국방송공사",
-          "views": 8525
+          "views": 9778
         },
         {
-          "title": "한국교육방송공사",
-          "views": 5736
+          "title": "쥬얼리",
+          "views": 6990
         },
         {
           "title": "9·11 테러",
-          "views": 5489
+          "views": 6487
+        },
+        {
+          "title": "한국교육방송공사",
+          "views": 6111
+        },
+        {
+          "title": "트로이 전쟁",
+          "views": 3082
         },
         {
           "title": "용혜인",
-          "views": 4490
+          "views": 2480
         },
         {
-          "title": "한성숙",
-          "views": 3355
-        },
-        {
-          "title": "빅 나티",
-          "views": 2002
-        },
-        {
-          "title": "찰스 디킨스",
-          "views": 1784
+          "title": "정미조",
+          "views": 2467
         },
         {
           "title": "5·18 광주 민주화 운동",
-          "views": 1773
-        },
-        {
-          "title": "김승원 (1969년)",
-          "views": 1637
+          "views": 1808
         }
       ]
     }
