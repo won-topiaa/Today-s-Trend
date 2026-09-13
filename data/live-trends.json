@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-13T15:14:18.910Z",
+  "updated": "2026-09-13T19:58:06.242Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-13T15:14:18.910Z",
+      "fetched": "2026-09-13T19:58:06.242Z",
       "items": [
         {
-          "title": "재혼",
-          "traffic": "1000+",
-          "context": "17살 아들, 가족 잠들면 나온다…50kg도 안 되는 몸에 母 눈물 (결혼지옥)"
-        },
-        {
-          "title": "afghanistan vs india",
-          "traffic": "500+",
-          "context": "India face tough selection calls as Afghanistan play hosts in Delhi"
-        },
-        {
-          "title": "땅집고",
-          "traffic": "200+",
-          "context": "농사를 못 지으면 농지를 팔아야 한다? 사실은 이렇습니다"
-        },
-        {
-          "title": "무신사",
-          "traffic": "500+",
-          "context": "\"올리브영 잡아라\"…K-뷰티 특화 매장으로 도전장"
-        },
-        {
-          "title": "맨더비",
-          "traffic": "500+",
-          "context": "'맨체스터 더비' 앞두고 초비상? 맨체스터 유나이티드 '캡틴' 부상 의심...UCL 경기 후 절뚝이며 퇴장, \"단순 타박상일 가능성 존재\""
-        },
-        {
-          "title": "영국",
+          "title": "us open",
           "traffic": "100+",
-          "context": "불쑥 “아일랜드 통일” 말해버린 트럼프…깜짝 놀란 영국"
+          "context": "Sabalenka throws racket after US Open loss to Rybakina - CHOSUNBIZ"
         },
         {
-          "title": "레반테 대 바르셀로나",
+          "title": "레알 소시에다드 대 아틀레티코",
           "traffic": "5000+",
-          "context": "'래시포드보다 낫다!' 고든, 바르사 5경기 4도움으로 몸값 증명→'득점 기계' 공격진 완벽 적응 - 조선비즈"
+          "context": "'바르셀로나 이적 요청 거부, 의문의 팀 훈련 불참'…아틀레티코, 이강인 의존도 더 높아진다"
         },
         {
-          "title": "levante vs barcelona",
-          "traffic": "1000+",
-          "context": "Tratamiento real para las campeonas. El Levante homenajea a ocho campeonas del mundo del Barcelona con regalos y una ovación en pie"
+          "title": "김민재",
+          "traffic": "500+",
+          "context": "'김민재 결장' 바이에른 뮌헨, 챔스 첫 경기서 보되글림트 5-0 대파"
         },
         {
-          "title": "집",
-          "traffic": "1000+",
-          "context": "거래 86% 급감에도 신고가…'토허제' 동탄·기흥·구리, 삼성 대출 변수"
-        },
-        {
-          "title": "coventry vs brighton",
+          "title": "levante ud vs fc barcelona standings",
           "traffic": "200+",
-          "context": "Coventry City 0-5 Brighton & Hove Albion: Hosts remain pointless and goalless in Premier League"
+          "context": "Levante vs Barcelona: Lineups, Prediction, Odds & Bet Builder Tip"
+        },
+        {
+          "title": "at마드리드",
+          "traffic": "100+",
+          "context": "대박이다! '이강인 역대급 조력자'...AT 마드리드 '930억' 지불 결단! \"리버풀 재계약 없어 슬프다\" 공개 불만 표출→퇴단 가능성 제기"
+        },
+        {
+          "title": "프리미어리그",
+          "traffic": "500+",
+          "context": "'막장이다!' 로베르토 데 제르비 감독, 마티스 텔 향한 분노…내부 분열 우려→\"아무 문제 없다\" 다급히 해명"
+        },
+        {
+          "title": "pl",
+          "traffic": "100+",
+          "context": "Atak na pociąg Kijów-Warszawa. Rosjanie użyli nowej broni"
+        },
+        {
+          "title": "nfl",
+          "traffic": "200+",
+          "context": "Josiah Trotter Fulfills Lifelong Dream Today"
+        },
+        {
+          "title": "김원효",
+          "traffic": "200+",
+          "context": "'김원효♥' 심진화, 살 빠지더니 여배우 아우라…\"개그계 송혜교 맞네\""
+        },
+        {
+          "title": "manchester united",
+          "traffic": "200+",
+          "context": "Premier League: Haaland opens scoring for 10-man City at Man Utd after VAR overrule"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-13T15:14:18.910Z",
+      "fetched": "2026-09-13T19:58:06.242Z",
       "items": [
         {
           "title": "노스탈지아",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-13T15:14:18.910Z",
+      "fetched": "2026-09-13T19:58:06.242Z",
       "items": [
         {
           "title": "문화방송",
