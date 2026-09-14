@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-13T19:58:06.242Z",
+  "updated": "2026-09-14T02:11:51.725Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-13T19:58:06.242Z",
+      "fetched": "2026-09-14T02:11:51.725Z",
       "items": [
         {
-          "title": "us open",
-          "traffic": "100+",
-          "context": "Sabalenka throws racket after US Open loss to Rybakina - CHOSUNBIZ"
+          "title": "차태현",
+          "traffic": "200+",
+          "context": "74억 강남 건물 산 차태현, 유재석이 테이블 주고 박보영이 명패 만든 이유"
         },
         {
-          "title": "레알 소시에다드 대 아틀레티코",
+          "title": "여론 조사",
           "traffic": "5000+",
-          "context": "'바르셀로나 이적 요청 거부, 의문의 팀 훈련 불참'…아틀레티코, 이강인 의존도 더 높아진다"
+          "context": "이 대통령 지지율 33.8%, 취임 후 최저치‥국힘 42.1%·민주 36.1%"
         },
         {
-          "title": "김민재",
-          "traffic": "500+",
-          "context": "'김민재 결장' 바이에른 뮌헨, 챔스 첫 경기서 보되글림트 5-0 대파"
-        },
-        {
-          "title": "levante ud vs fc barcelona standings",
+          "title": "생계",
           "traffic": "200+",
-          "context": "Levante vs Barcelona: Lineups, Prediction, Odds & Bet Builder Tip"
+          "context": "“4달 동안 수입 없었다”… 당국 총량 관리에 대출모집인 생계 불똥"
         },
         {
-          "title": "at마드리드",
+          "title": "윤성호",
+          "traffic": "200+",
+          "context": "윤성호 \"'개콘' 후배가 머리 툭툭 쳐\"…옥상 몸싸움 중 머리까지 물렸다 (나무미키)"
+        },
+        {
+          "title": "ssg",
           "traffic": "100+",
-          "context": "대박이다! '이강인 역대급 조력자'...AT 마드리드 '930억' 지불 결단! \"리버풀 재계약 없어 슬프다\" 공개 불만 표출→퇴단 가능성 제기"
+          "context": "KBO League surpasses 11 million fans for second straight year - CHOSUNBIZ"
         },
         {
-          "title": "프리미어리그",
-          "traffic": "500+",
-          "context": "'막장이다!' 로베르토 데 제르비 감독, 마티스 텔 향한 분노…내부 분열 우려→\"아무 문제 없다\" 다급히 해명"
-        },
-        {
-          "title": "pl",
+          "title": "mail",
           "traffic": "100+",
-          "context": "Atak na pociąg Kijów-Warszawa. Rosjanie użyli nowej broni"
+          "context": "Here’s How the Postal Service Could Refuse to Deliver Your Mail Ballot"
         },
         {
-          "title": "nfl",
-          "traffic": "200+",
-          "context": "Josiah Trotter Fulfills Lifelong Dream Today"
+          "title": "은마종합상가",
+          "traffic": "100+",
+          "context": "재건축 달리나 했더니 ‘투쟁’ 붙었다…은마 재건축, 상가 세입자 집단반발"
         },
         {
-          "title": "김원효",
-          "traffic": "200+",
-          "context": "'김원효♥' 심진화, 살 빠지더니 여배우 아우라…\"개그계 송혜교 맞네\""
+          "title": "신랑",
+          "traffic": "1000+",
+          "context": "예비 신랑의 ’학교폭력 가해자’ 과거…아이 생겨 결혼 고민 [SNS 와글]"
         },
         {
-          "title": "manchester united",
-          "traffic": "200+",
-          "context": "Premier League: Haaland opens scoring for 10-man City at Man Utd after VAR overrule"
+          "title": "폴란드",
+          "traffic": "10000+",
+          "context": "러, 폴란드 2㎞ 앞 공습…영국·스웨덴 전 총리 탄 열차 맞을뻔(종합)"
+        },
+        {
+          "title": "차상현",
+          "traffic": "500+",
+          "context": "[아시안게임] 여자배구 강소휘, 허벅지 파열 회복 \"항저우 치욕, 꼭 씻겠다\""
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-13T19:58:06.242Z",
+      "fetched": "2026-09-14T02:11:51.725Z",
       "items": [
         {
           "title": "노스탈지아",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-13T19:58:06.242Z",
+      "fetched": "2026-09-14T02:11:51.725Z",
       "items": [
         {
           "title": "문화방송",
