@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-14T02:11:51.725Z",
+  "updated": "2026-09-14T11:10:04.873Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-14T02:11:51.725Z",
+      "fetched": "2026-09-14T11:10:04.873Z",
       "items": [
         {
-          "title": "차태현",
-          "traffic": "200+",
-          "context": "74억 강남 건물 산 차태현, 유재석이 테이블 주고 박보영이 명패 만든 이유"
-        },
-        {
-          "title": "여론 조사",
-          "traffic": "5000+",
-          "context": "이 대통령 지지율 33.8%, 취임 후 최저치‥국힘 42.1%·민주 36.1%"
-        },
-        {
-          "title": "생계",
-          "traffic": "200+",
-          "context": "“4달 동안 수입 없었다”… 당국 총량 관리에 대출모집인 생계 불똥"
-        },
-        {
-          "title": "윤성호",
-          "traffic": "200+",
-          "context": "윤성호 \"'개콘' 후배가 머리 툭툭 쳐\"…옥상 몸싸움 중 머리까지 물렸다 (나무미키)"
-        },
-        {
-          "title": "ssg",
-          "traffic": "100+",
-          "context": "KBO League surpasses 11 million fans for second straight year - CHOSUNBIZ"
-        },
-        {
-          "title": "mail",
-          "traffic": "100+",
-          "context": "Here’s How the Postal Service Could Refuse to Deliver Your Mail Ballot"
-        },
-        {
-          "title": "은마종합상가",
-          "traffic": "100+",
-          "context": "재건축 달리나 했더니 ‘투쟁’ 붙었다…은마 재건축, 상가 세입자 집단반발"
-        },
-        {
-          "title": "신랑",
-          "traffic": "1000+",
-          "context": "예비 신랑의 ’학교폭력 가해자’ 과거…아이 생겨 결혼 고민 [SNS 와글]"
-        },
-        {
-          "title": "폴란드",
-          "traffic": "10000+",
-          "context": "러, 폴란드 2㎞ 앞 공습…영국·스웨덴 전 총리 탄 열차 맞을뻔(종합)"
-        },
-        {
-          "title": "차상현",
+          "title": "연방 공개 시장 위원회",
           "traffic": "500+",
-          "context": "[아시안게임] 여자배구 강소휘, 허벅지 파열 회복 \"항저우 치욕, 꼭 씻겠다\""
+          "context": "[뉴욕증시] '금리 인상' 우려…연준 행보에 '주목'"
+        },
+        {
+          "title": "박지수",
+          "traffic": "100+",
+          "context": "[아시안게임] 여자농구 대표팀, 박지수 합류 불발‥11명으로 출전"
+        },
+        {
+          "title": "기본소득당",
+          "traffic": "200+",
+          "context": "[사설] 성평등부 장관 기준은 ‘성평등 정책 실현 능력’ 돼야"
+        },
+        {
+          "title": "착륙",
+          "traffic": "1000+",
+          "context": "美 공화 의원, 탑승 비행기 호수에 비상착륙하자 헤엄쳐 탈출"
+        },
+        {
+          "title": "옌스 카스트로 프",
+          "traffic": "1000+",
+          "context": "'어깨부상+아시안게임 탈락에 소속팀 감독까지 경질' 옌스 카스트로프에게 닥친 아픈 시련"
+        },
+        {
+          "title": "수도권 광역 급행 철도 c 노선",
+          "traffic": "2000+",
+          "context": "우여곡절 끝 GTX-C 15일 착공...수원에서 청량리까지 75분→30분 단축"
+        },
+        {
+          "title": "xổ số miền nam",
+          "traffic": "1000+",
+          "context": "Cập nhật kết quả xổ số Huế, Phú Yên hôm nay 14.9"
+        },
+        {
+          "title": "김연정",
+          "traffic": "1000+",
+          "context": "“해명이 더 웃겨”… 한화 김연정, 남편 KIA 하주석 2루타에 ‘함박 웃음’ 해명"
+        },
+        {
+          "title": "pv7",
+          "traffic": "200+",
+          "context": "2026 Kia PV5 First Drive: The Real Successor to the VW Microbus?"
+        },
+        {
+          "title": "한미반도체",
+          "traffic": "500+",
+          "context": "[단독] 한미반도체, 테라팹에 AI 시스템반도체 패키징 장비 공급"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-14T02:11:51.725Z",
+      "fetched": "2026-09-14T11:10:04.873Z",
       "items": [
         {
           "title": "노스탈지아",
@@ -76,16 +76,16 @@
           "artist": "키키"
         },
         {
-          "title": "REDRED",
-          "artist": "코르티스"
+          "title": "Dear my crazy soulmate",
+          "artist": "아이유"
         },
         {
           "title": "LOVE ATTACK",
           "artist": "리센느"
         },
         {
-          "title": "Dear my crazy soulmate",
-          "artist": "아이유"
+          "title": "REDRED",
+          "artist": "코르티스"
         },
         {
           "title": "GRLS",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-14T02:11:51.725Z",
+      "fetched": "2026-09-14T11:10:04.873Z",
       "items": [
         {
           "title": "문화방송",
