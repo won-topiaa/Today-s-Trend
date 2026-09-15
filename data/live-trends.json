@@ -1,75 +1,75 @@
 {
-  "updated": "2026-09-15T02:17:59.602Z",
+  "updated": "2026-09-15T10:38:07.009Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-15T02:17:59.602Z",
+      "fetched": "2026-09-15T10:38:07.009Z",
       "items": [
         {
-          "title": "백종원",
+          "title": "롯데 대 삼성",
+          "traffic": "2000+",
+          "context": "‘안타 하나 없이 끝내기라니’ 볼넷→희생 번트→고의4구→사구→밀어내기 볼넷…삼성, 롯데에 3-2 승 [오!쎈 퓨처스] - 머니투데이"
+        },
+        {
+          "title": "매매",
+          "traffic": "200+",
+          "context": "8월 서울 주택매매가격 상승률 5개월 만에 주춤, 강남↓외곽↑"
+        },
+        {
+          "title": "브라이언 암스트롱",
           "traffic": "500+",
-          "context": "M&A에 쓴다고 했던 935억 파킹통장에… 백종원 더본코리아, 연내 인수전 나설까 - 조선비즈"
+          "context": "클래리티 법안 표결 앞둔 美…SEC·월가, 불발돼도 가상자산 사업 계속"
         },
         {
-          "title": "홍진영",
-          "traffic": "200+",
-          "context": "홍진영 친언니, 의미심장 글 \"선 넘으면 호의도 끝\""
-        },
-        {
-          "title": "왕옌청",
-          "traffic": "200+",
-          "context": "한화의 복덩이, 아시안게임선 적으로"
-        },
-        {
-          "title": "김호영",
+          "title": "소유진",
           "traffic": "1000+",
-          "context": "\"결혼 앞둔 지인 손절\"...김호영, 황당 요구에 분노한 사연 - 머니투데이"
+          "context": "소유진, 홈쇼핑 제작진 전원에 순금 돌렸다... 통 큰 2주년 선물 [공식]"
         },
         {
-          "title": "위암",
-          "traffic": "200+",
-          "context": "에이비엘바이오 담도암 신약 ‘주춤’, 위암 파이프라인 가치 입증할까"
-        },
-        {
-          "title": "농구",
-          "traffic": "1000+",
-          "context": "[스포츠머그] 농구 한일전에 '태풍주의보' 예언부터 퇴근 선언까지, 전태풍 해설 데뷔전 킬포 모음"
-        },
-        {
-          "title": "lpga",
+          "title": "미국 의 재무부 장관",
           "traffic": "500+",
-          "context": "US Solheim Cup captain Angela Stanford takes assistant job at alma mater TCU after loss to Europe"
+          "context": "[이슈&인사이트] 성장으로 빚을 갚는다는 약속, 그 청구서는 누가 받는가"
         },
         {
-          "title": "이봉원",
-          "traffic": "20000+",
-          "context": "박미선♥이봉원 아들·딸 모두 배우였다…\"부모 숨기고 엑스트라부터\" (신여성)"
+          "title": "kt 대 한화",
+          "traffic": "5000+",
+          "context": "강백호 1루수 전격 선발! 문현빈-노시환 없는 한화, 한지윤-유민-박정현 선발 출전…선두 KT 잡고 3연패 끊을까 [오!쎈 대전] - 머니투데이"
         },
         {
-          "title": "맞춤형복지",
-          "traffic": "1000+",
-          "context": "정선 고한읍, 지역 맞춤형 복지사업 발굴"
+          "title": "lg 대 nc",
+          "traffic": "2000+",
+          "context": "[무등의 아침] 김도영·박재현·성영탁, AG 출전…KIA, 7경기 버텨야 3위 싸움 가능"
         },
         {
-          "title": "아크 인베스트",
-          "traffic": "1000+",
-          "context": "“구글팔고 ‘이 주식’ 375억원 매수했다”…돈나무 언니가 베팅한 AI 수혜주"
+          "title": "마라톤",
+          "traffic": "200+",
+          "context": "\"목 90도 꺾여\" 희귀 난치병 56세 이봉주, 근황 공개...몸 상태 호전 \"포기하면 그걸로 끝\" 당찬 각오로 하프마라톤 완주"
+        },
+        {
+          "title": "cgv",
+          "traffic": "500+",
+          "context": null
+        },
+        {
+          "title": "부정승차",
+          "traffic": "100+",
+          "context": "\"두 번 찍었으니 돈 냈다\" 외국인 관광객…명동역 부정승차 적발 뒤 역무원 얼굴 SNS 공개 논란"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-15T02:17:59.602Z",
+      "fetched": "2026-09-15T10:38:07.009Z",
       "items": [
-        {
-          "title": "노스탈지아",
-          "artist": "BIG Naughty"
-        },
         {
           "title": "SUN KISS",
           "artist": "튜이드"
+        },
+        {
+          "title": "노스탈지아",
+          "artist": "BIG Naughty"
         },
         {
           "title": "Pop Off Pop Off",
@@ -84,12 +84,12 @@
           "artist": "리센느"
         },
         {
-          "title": "REDRED",
-          "artist": "코르티스"
-        },
-        {
           "title": "GRLS",
           "artist": "튜이드"
+        },
+        {
+          "title": "REDRED",
+          "artist": "코르티스"
         },
         {
           "title": "Deja Vu",
@@ -100,15 +100,15 @@
           "artist": "Hearts2Hearts"
         },
         {
-          "title": "이 별로부터",
-          "artist": "아이유"
+          "title": "LEMONADE",
+          "artist": "aespa"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-15T02:17:59.602Z",
+      "fetched": "2026-09-15T10:38:07.009Z",
       "items": [
         {
           "title": "문화방송",
