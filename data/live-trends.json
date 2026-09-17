@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-17T02:14:59.543Z",
+  "updated": "2026-09-17T10:36:10.972Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-17T02:14:59.543Z",
+      "fetched": "2026-09-17T10:36:10.972Z",
       "items": [
         {
-          "title": "fifa u 20 여자 월드컵",
+          "title": "안전 공업 주",
           "traffic": "2000+",
-          "context": "한국 축구, 아르헨티나 1-0 꺾고 12년만에 U-20 여자 월드컵 8강"
+          "context": "[속보] 경찰, '74명 사망' 안전공업 화재 책임 대표 등 13명 검찰 송치"
         },
         {
-          "title": "신원식",
+          "title": "직위해제",
           "traffic": "100+",
-          "context": "'계엄 정당화 메시지' 신원식 前안보실장 측 \"尹 지시 안 받아\""
+          "context": "'서해공무원 피격' 징계 불복 前남해해경청장, 행정소송서 승소"
         },
         {
-          "title": "윤여정",
+          "title": "성남시",
           "traffic": "200+",
-          "context": "윤여정 영어 지적한 BBC, 틀렸다···조지은 옥스퍼드 교수 “mukbang과 unnie도 맞는 영어”"
+          "context": "신상진 성남시장, 유엔 지속가능교통 10년 웨비나서 정책 사례 발표"
         },
         {
-          "title": "고영욱",
+          "title": "추미애",
+          "traffic": "2000+",
+          "context": "추미애 “저 안 쫓겨납니다”…‘경기도 시집 온 며느리’ 빗대 반박"
+        },
+        {
+          "title": "당구",
           "traffic": "1000+",
-          "context": "고영욱, 무빈소 장례 계획…“여러모로 앞서가”"
+          "context": "혼전의 PBA 팀리그 3R…하나카드 선두 도약·크라운해태 5연승"
         },
         {
-          "title": "대학 입시",
+          "title": "맘스터치",
           "traffic": "200+",
-          "context": "‘수시 먹통’ 우왕좌왕 일주일… 수험생 분통"
+          "context": "맘스터치, 추석 맞이 이벤트 진행… 특별 굿즈 가격은?"
         },
         {
-          "title": "테크볼",
-          "traffic": "100+",
-          "context": "버추얼 태권도부터 MMA까지, 확! 달라진 아시안게임 총정리.zip"
+          "title": "ssg 대 nc",
+          "traffic": "5000+",
+          "context": "[사진] 에레디아와 맞대결 펼치는 라일리 - 머니투데이"
         },
         {
-          "title": "inter miami vs cruz azul",
+          "title": "lg 트윈스",
+          "traffic": "2000+",
+          "context": "다시 2위 삼성 꼬리잡나!...'4연승' 술술 풀리는 LG 야구, \"3안타 홍창기-5타점 문정빈 타선 이끌었다\" [오!쎈 창원]"
+        },
+        {
+          "title": "삼성중공업",
           "traffic": "500+",
-          "context": "Messi opens Campeones Cup scoring with 100th goal for Miami"
+          "context": "KIRO-삼성중공업, 조선 특화 자율작업로봇·산업제조 휴머노이드·AI 로봇솔루션 공동연구 추진"
         },
         {
-          "title": "jev",
-          "traffic": "100+",
-          "context": "TypeSafe AI Emerges From Stealth With $40M in Funding With New Model for Composable AI"
-        },
-        {
-          "title": "브레이브스 대 컵스",
-          "traffic": "1000+",
-          "context": "‘김하성 결장’ 애틀란타, 홈런포 앞세워 컵스에 역전승...매직넘버 5"
-        },
-        {
-          "title": "한국항공우주산업",
-          "traffic": "1000+",
-          "context": "국방부, ‘2026 국방 드론 기술전’ 개최... 드론·대드론 첨단기술 총출동"
+          "title": "최두호",
+          "traffic": "200+",
+          "context": "\"마지막…\" 3번 외친 최두호 vs \"내가 죽인다!\" 핏불 [인터뷰]"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-17T02:14:59.543Z",
+      "fetched": "2026-09-17T10:36:10.972Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -84,12 +84,12 @@
           "artist": "리센느"
         },
         {
-          "title": "REDRED",
-          "artist": "코르티스"
-        },
-        {
           "title": "GRLS",
           "artist": "튜이드"
+        },
+        {
+          "title": "REDRED",
+          "artist": "코르티스"
         },
         {
           "title": "Deja Vu",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-17T02:14:59.543Z",
+      "fetched": "2026-09-17T10:36:10.972Z",
       "items": [
         {
           "title": "문화방송",
