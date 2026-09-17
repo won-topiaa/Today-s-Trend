@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-17T10:36:10.972Z",
+  "updated": "2026-09-17T15:49:32.979Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-17T10:36:10.972Z",
+      "fetched": "2026-09-17T15:49:32.979Z",
       "items": [
         {
-          "title": "안전 공업 주",
-          "traffic": "2000+",
-          "context": "[속보] 경찰, '74명 사망' 안전공업 화재 책임 대표 등 13명 검찰 송치"
+          "title": "특공무술",
+          "traffic": "20000+",
+          "context": "특공무술 겨루기 심사 중 쓰러진 특전사 숨져…장기기증 결정"
         },
         {
-          "title": "직위해제",
-          "traffic": "100+",
-          "context": "'서해공무원 피격' 징계 불복 前남해해경청장, 행정소송서 승소"
-        },
-        {
-          "title": "성남시",
-          "traffic": "200+",
-          "context": "신상진 성남시장, 유엔 지속가능교통 10년 웨비나서 정책 사례 발표"
-        },
-        {
-          "title": "추미애",
-          "traffic": "2000+",
-          "context": "추미애 “저 안 쫓겨납니다”…‘경기도 시집 온 며느리’ 빗대 반박"
-        },
-        {
-          "title": "당구",
-          "traffic": "1000+",
-          "context": "혼전의 PBA 팀리그 3R…하나카드 선두 도약·크라운해태 5연승"
-        },
-        {
-          "title": "맘스터치",
-          "traffic": "200+",
-          "context": "맘스터치, 추석 맞이 이벤트 진행… 특별 굿즈 가격은?"
-        },
-        {
-          "title": "ssg 대 nc",
-          "traffic": "5000+",
-          "context": "[사진] 에레디아와 맞대결 펼치는 라일리 - 머니투데이"
-        },
-        {
-          "title": "lg 트윈스",
-          "traffic": "2000+",
-          "context": "다시 2위 삼성 꼬리잡나!...'4연승' 술술 풀리는 LG 야구, \"3안타 홍창기-5타점 문정빈 타선 이끌었다\" [오!쎈 창원]"
-        },
-        {
-          "title": "삼성중공업",
+          "title": "안선영",
           "traffic": "500+",
-          "context": "KIRO-삼성중공업, 조선 특화 자율작업로봇·산업제조 휴머노이드·AI 로봇솔루션 공동연구 추진"
+          "context": "안선영, 子 유학 따라간 캐나다서 '대재앙'..\"연예인 여기서 아무 쓸모 없어\""
         },
         {
-          "title": "최두호",
+          "title": "전제완",
           "traffic": "200+",
-          "context": "\"마지막…\" 3번 외친 최두호 vs \"내가 죽인다!\" 핏불 [인터뷰]"
+          "context": "'꼬꼬무', 1세대 IT계 신화 프리챌 전제완, 청소부 된 충격 근황 - 머니투데이"
+        },
+        {
+          "title": "what is a data breach",
+          "traffic": "100+",
+          "context": "Hackers demand Revolut pay $3mn ransom after data breach"
+        },
+        {
+          "title": "황유민",
+          "traffic": "100+",
+          "context": "아시안게임 출전 양윤서, KLPGA 하나금융 대회 1R서 이븐파 선전"
+        },
+        {
+          "title": "지진희",
+          "traffic": "100+",
+          "context": "염정아, 20년지기 남사친 등장에 기절초풍…“결혼식 사회도 봐” (산지직송3)"
+        },
+        {
+          "title": "로맥",
+          "traffic": "200+",
+          "context": "‘어서와 한국은’ 제이미 로맥, 문학경기장→치맥 맛집"
+        },
+        {
+          "title": "웨이모",
+          "traffic": "1000+",
+          "context": "美 웨이모는 도쿄·中바이두는 런던…韓 자율주행 어디까지 왔나"
+        },
+        {
+          "title": "weather tomorrow",
+          "traffic": "2000+",
+          "context": "Crews respond to water rescues as storms move through Phoenix area"
+        },
+        {
+          "title": "cuaca besok",
+          "traffic": "200+",
+          "context": "BMKG Keluarkan Peringatan Dini Hujan di Jabodetabek 18-19 September, Ini Wilayahnya"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-17T10:36:10.972Z",
+      "fetched": "2026-09-17T15:49:32.979Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -76,20 +76,20 @@
           "artist": "키키"
         },
         {
-          "title": "Dear my crazy soulmate",
-          "artist": "아이유"
-        },
-        {
           "title": "LOVE ATTACK",
           "artist": "리센느"
         },
         {
-          "title": "GRLS",
-          "artist": "튜이드"
+          "title": "Dear my crazy soulmate",
+          "artist": "아이유"
         },
         {
           "title": "REDRED",
           "artist": "코르티스"
+        },
+        {
+          "title": "GRLS",
+          "artist": "튜이드"
         },
         {
           "title": "Deja Vu",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-17T10:36:10.972Z",
+      "fetched": "2026-09-17T15:49:32.979Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 14978
+          "views": 13745
+        },
+        {
+          "title": "강신철 (군인)",
+          "views": 13445
         },
         {
           "title": "한국방송공사",
-          "views": 12564
-        },
-        {
-          "title": "김승원 (1969년)",
-          "views": 6298
+          "views": 13096
         },
         {
           "title": "한국교육방송공사",
-          "views": 5461
+          "views": 5104
         },
         {
-          "title": "9·11 테러",
-          "views": 2584
+          "title": "강선영 (군인)",
+          "views": 2747
+        },
+        {
+          "title": "김승원 (1969년)",
+          "views": 2623
         },
         {
           "title": "5·18 광주 민주화 운동",
-          "views": 2191
+          "views": 2036
         },
         {
-          "title": "서영교",
-          "views": 2189
-        },
-        {
-          "title": "엄지성 (축구 선수)",
-          "views": 2182
-        },
-        {
-          "title": "김태규 (1967년)",
-          "views": 2013
+          "title": "9·11 테러",
+          "views": 1914
         },
         {
           "title": "대한민국",
-          "views": 1859
+          "views": 1523
+        },
+        {
+          "title": "이영혜",
+          "views": 1515
         }
       ]
     }
