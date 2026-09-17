@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-17T15:49:32.979Z",
+  "updated": "2026-09-17T20:42:10.997Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-17T15:49:32.979Z",
+      "fetched": "2026-09-17T20:42:10.997Z",
       "items": [
         {
-          "title": "특공무술",
-          "traffic": "20000+",
-          "context": "특공무술 겨루기 심사 중 쓰러진 특전사 숨져…장기기증 결정"
+          "title": "크리스털 팰리스 대 레흐 포즈난",
+          "traffic": "100+",
+          "context": "크리스탈 팰리스 vs 레흐 포즈난 예측: 상위권 경쟁의 뜨거운 승부"
         },
         {
-          "title": "안선영",
-          "traffic": "500+",
-          "context": "안선영, 子 유학 따라간 캐나다서 '대재앙'..\"연예인 여기서 아무 쓸모 없어\""
+          "title": "man city vs norwich city",
+          "traffic": "100+",
+          "context": "EFL Cup 3rd Round LIVE: Manchester City vs Norwich City - live text updates, score & radio commentary"
         },
         {
-          "title": "전제완",
-          "traffic": "200+",
-          "context": "'꼬꼬무', 1세대 IT계 신화 프리챌 전제완, 청소부 된 충격 근황 - 머니투데이"
-        },
-        {
-          "title": "what is a data breach",
+          "title": "what is phishing",
           "traffic": "100+",
           "context": "Hackers demand Revolut pay $3mn ransom after data breach"
         },
         {
-          "title": "황유민",
+          "title": "백화점",
+          "traffic": "500+",
+          "context": "경북 의성군, 현대백화점과 손잡고 농특산물 프리미엄화 추진"
+        },
+        {
+          "title": "록히드 마틴 f-35 라이트닝 ii",
           "traffic": "100+",
-          "context": "아시안게임 출전 양윤서, KLPGA 하나금융 대회 1R서 이븐파 선전"
+          "context": "State Department approves potential F-35 sales to Saudi Arabia"
         },
         {
-          "title": "지진희",
+          "title": "삼중살",
           "traffic": "100+",
-          "context": "염정아, 20년지기 남사친 등장에 기절초풍…“결혼식 사회도 봐” (산지직송3)"
+          "context": "‘8일 만에 나왔는데 5초 만에 삼중살이라니’ 김혜성 망연자실…日 매체도 깜짝 “역대 가장 쿨?”"
         },
         {
-          "title": "로맥",
-          "traffic": "200+",
-          "context": "‘어서와 한국은’ 제이미 로맥, 문학경기장→치맥 맛집"
-        },
-        {
-          "title": "웨이모",
+          "title": "봉누도2",
           "traffic": "1000+",
-          "context": "美 웨이모는 도쿄·中바이두는 런던…韓 자율주행 어디까지 왔나"
+          "context": "'봉누도 시즌2' 2일차. '갱단' 설립을 향한 레이스 … 온 세상이 '범죄'다"
         },
         {
-          "title": "weather tomorrow",
-          "traffic": "2000+",
-          "context": "Crews respond to water rescues as storms move through Phoenix area"
+          "title": "압구정 현대아파트",
+          "traffic": "500+",
+          "context": "압구정현대보다 비쌌던 '원조 부촌'…대규모 부활 예고"
         },
         {
-          "title": "cuaca besok",
+          "title": "송지효",
           "traffic": "200+",
-          "context": "BMKG Keluarkan Peringatan Dini Hujan di Jabodetabek 18-19 September, Ini Wilayahnya"
+          "context": "송지효, 업로드 주기 자주 바뀌더니 결국 중단..\"마음만 앞서서 될 일 아냐\""
+        },
+        {
+          "title": "아스트라에 오라티오",
+          "traffic": "100+",
+          "context": "오타쿠 전유물? 대접 확 달라졌다…100억달러 낳는 이 게임 [팩플]"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-17T15:49:32.979Z",
+      "fetched": "2026-09-17T20:42:10.997Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-17T15:49:32.979Z",
+      "fetched": "2026-09-17T20:42:10.997Z",
       "items": [
         {
           "title": "문화방송",
