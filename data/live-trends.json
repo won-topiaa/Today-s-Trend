@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-16T20:35:06.862Z",
+  "updated": "2026-09-17T02:14:59.543Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-16T20:35:06.862Z",
+      "fetched": "2026-09-17T02:14:59.543Z",
       "items": [
         {
-          "title": "이강인",
-          "traffic": "10000+",
-          "context": "\"이강인 공 너무 오래 소유\" 스페인 매체 지적에 '日 동감'…\"ATM 7번 될 수 있나, 현대축구와 안 맞아\" 지적"
-        },
-        {
-          "title": "แมนยู พบ ไบรตัน",
-          "traffic": "200+",
-          "context": "โปรแกรมการแข่งขันฟุตบอลลีกคัพอังกฤษล่าสุด: แมนเชสเตอร์ ยูไนเต็ด และ แมนเชสเตอร์ ซิตี้ จะลงสนามแข่งขัน"
-        },
-        {
-          "title": "김구라",
+          "title": "fifa u 20 여자 월드컵",
           "traffic": "2000+",
-          "context": "김구라 \"문중 땅 40만평...자손 많지 않아 희망\" - 머니투데이"
+          "context": "한국 축구, 아르헨티나 1-0 꺾고 12년만에 U-20 여자 월드컵 8강"
         },
         {
-          "title": "man utd vs brighton",
+          "title": "신원식",
+          "traffic": "100+",
+          "context": "'계엄 정당화 메시지' 신원식 前안보실장 측 \"尹 지시 안 받아\""
+        },
+        {
+          "title": "윤여정",
+          "traffic": "200+",
+          "context": "윤여정 영어 지적한 BBC, 틀렸다···조지은 옥스퍼드 교수 “mukbang과 unnie도 맞는 영어”"
+        },
+        {
+          "title": "고영욱",
+          "traffic": "1000+",
+          "context": "고영욱, 무빈소 장례 계획…“여러모로 앞서가”"
+        },
+        {
+          "title": "대학 입시",
+          "traffic": "200+",
+          "context": "‘수시 먹통’ 우왕좌왕 일주일… 수험생 분통"
+        },
+        {
+          "title": "테크볼",
+          "traffic": "100+",
+          "context": "버추얼 태권도부터 MMA까지, 확! 달라진 아시안게임 총정리.zip"
+        },
+        {
+          "title": "inter miami vs cruz azul",
           "traffic": "500+",
-          "context": "Man Utd vs Brighton Predictions, Bet Builder Tips, Lineups, Odds"
+          "context": "Messi opens Campeones Cup scoring with 100th goal for Miami"
         },
         {
-          "title": "로스앤젤레스 fc",
-          "traffic": "200+",
-          "context": "'손흥민 득점포 침묵, 최근 9경기에서 1승' LAFC, '우승 후보에서 플레이오프 진출도 불투명' 추락"
+          "title": "jev",
+          "traffic": "100+",
+          "context": "TypeSafe AI Emerges From Stealth With $40M in Funding With New Model for Composable AI"
         },
         {
-          "title": "man utd đấu với brighton",
-          "traffic": "200+",
-          "context": "Trực tiếp bóng đá MU - Brighton: Rashford - Sesko lĩnh xướng hàng công (League Cup)"
-        },
-        {
-          "title": "카라바오컵",
-          "traffic": "200+",
-          "context": "“손흥민 ‘리더의 부재’ 너무 커” 英 BBC 이상 최고 공신력 언론의 조명 “그는 좋은 방향으로 토트넘을 이끌 수 있다”"
-        },
-        {
-          "title": "바르셀로나 대 라싱 산탄데르",
+          "title": "브레이브스 대 컵스",
           "traffic": "1000+",
-          "context": "바르셀로나 vs 라싱 산탄데르 경기 예측: 홈팀이 연승 행진을 이어갈 수 있을까?"
+          "context": "‘김하성 결장’ 애틀란타, 홈런포 앞세워 컵스에 역전승...매직넘버 5"
         },
         {
-          "title": "냄비",
+          "title": "한국항공우주산업",
           "traffic": "1000+",
-          "context": "“내 사진으로 20년 장사”…백일섭, 주방업체 상대 1억원 배상받는다"
-        },
-        {
-          "title": "돈",
-          "traffic": "200+",
-          "context": "경찰, 한동훈 “李, 방북 대가로 北에 돈 건너간 건 팩트” 발언에 무혐의 처분"
+          "context": "국방부, ‘2026 국방 드론 기술전’ 개최... 드론·대드론 첨단기술 총출동"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-16T20:35:06.862Z",
+      "fetched": "2026-09-17T02:14:59.543Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-16T20:35:06.862Z",
+      "fetched": "2026-09-17T02:14:59.543Z",
       "items": [
         {
           "title": "문화방송",
