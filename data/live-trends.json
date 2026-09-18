@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-18T10:12:10.343Z",
+  "updated": "2026-09-18T15:22:48.889Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-18T10:12:10.343Z",
+      "fetched": "2026-09-18T15:22:48.889Z",
       "items": [
         {
-          "title": "롯데백화점",
-          "traffic": "500+",
-          "context": "나주시-롯데백화점 구리점, 농특산물 판로 확대 '맞손'"
-        },
-        {
-          "title": "그랜드 테프트 오토 vi",
+          "title": "장신영",
           "traffic": "200+",
-          "context": "‘GTA VI Online’, 32인 플레이어 포맷 도입 가능성"
+          "context": "장신영, 아파트 1층서만 살았던 이유 “펜트하우스 살고 싶지만…” - 스타투데이"
         },
         {
-          "title": "강경준",
-          "traffic": "100+",
-          "context": "장신영, 아파트 1층서만 살았던 이유 “펜트하우스 살고 싶지만…”"
+          "title": "업비트",
+          "traffic": "200+",
+          "context": "업비트서 스테이블코인 상장 직후 190%대 이례적 급등"
         },
         {
-          "title": "신유빈",
-          "traffic": "500+",
-          "context": "\"태극기는 안 됩니다\"...日, 나고야 입성 한국 선수단 막아"
+          "title": "재벌형사",
+          "traffic": "200+",
+          "context": "재벌X형사 2 : [최종회 예고] “내가 마무리할게” 정은채, 도망친 유승호 향한 숨 막히는 마지막 추격"
         },
         {
-          "title": "삼성 대 한화",
-          "traffic": "5000+",
-          "context": "[AI프리뷰] 18일 대전 한화-삼성전, '에이스' 후라도 삼성의 선두추격 선봉장 서나"
+          "title": "아스트라에 오라티오",
+          "traffic": "200+",
+          "context": "“대기만 90분”... 엔씨 신작 ‘아스트라에 오라티오’ 해보니"
         },
         {
-          "title": "lg 대 kt",
-          "traffic": "2000+",
-          "context": "'선두 질주' KT 이강철 재계약 규모 관심…염경엽 30억 넘는 '역대급 대우' 받을까"
-        },
-        {
-          "title": "키움 대 두산",
-          "traffic": "5000+",
-          "context": "두산, 3연승으로 사실상 '5위 굳히기' 끝내나→오늘(18일) 키움 상대 선발 라인업 발표 [잠실 현장] - 머니투데이"
-        },
-        {
-          "title": "허양임",
+          "title": "지귀연",
           "traffic": "1000+",
-          "context": "\"잠자는 것도 안 맞아\"...고지용·허양임, 이혼 전 발언 재조명 - 머니투데이"
+          "context": "[판결] “윤 전 대통령 내란 실명 판결문 비공개는 위법”"
         },
         {
-          "title": "australia vs zimbabwe",
+          "title": "박시은",
+          "traffic": "1000+",
+          "context": "진태현·박시은 \"11만 유튜브 채널 구독 멈춰달라\"…왜?"
+        },
+        {
+          "title": "고속도로",
+          "traffic": "500+",
+          "context": "고속도 기름값 L당 100원 인하에, 동네주유소 “문 닫으라는 거냐”"
+        },
+        {
+          "title": "나는 solo, 그 후 사랑은 계속된다",
+          "traffic": "500+",
+          "context": null
+        },
+        {
+          "title": "애국가",
           "traffic": "200+",
-          "context": "LIVE: Head’s record-breaking day ends; young gun continues impressive ODI form"
+          "context": "이번엔 ‘애국가’ 대신 ‘북한 국가’ 재생…‘실수가 반복되면 무능’"
         },
         {
-          "title": "다코타 존슨",
-          "traffic": "100+",
-          "context": "롱 원피스에 ‘할머니 샌들’ 신고도 우아한 다코타 존슨"
+          "title": "정용진",
+          "traffic": "500+",
+          "context": "'구해줘 홈즈' 11가구 면적 중 50% 차지 깜짝..누구?"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-18T10:12:10.343Z",
+      "fetched": "2026-09-18T15:22:48.889Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -80,12 +80,12 @@
           "artist": "리센느"
         },
         {
-          "title": "Dear my crazy soulmate",
-          "artist": "아이유"
-        },
-        {
           "title": "REDRED",
           "artist": "코르티스"
+        },
+        {
+          "title": "Dear my crazy soulmate",
+          "artist": "아이유"
         },
         {
           "title": "GRLS",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-18T10:12:10.343Z",
+      "fetched": "2026-09-18T15:22:48.889Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 13745
-        },
-        {
-          "title": "강신철 (군인)",
-          "views": 13445
+          "views": 13912
         },
         {
           "title": "한국방송공사",
-          "views": 13096
+          "views": 11046
+        },
+        {
+          "title": "강신철 (군인)",
+          "views": 4887
         },
         {
           "title": "한국교육방송공사",
-          "views": 5104
+          "views": 4743
         },
         {
-          "title": "강선영 (군인)",
-          "views": 2747
+          "title": "심수봉",
+          "views": 2335
         },
         {
-          "title": "김승원 (1969년)",
-          "views": 2623
+          "title": "조주빈",
+          "views": 2270
         },
         {
           "title": "5·18 광주 민주화 운동",
-          "views": 2036
+          "views": 1732
         },
         {
           "title": "9·11 테러",
-          "views": 1914
+          "views": 1643
         },
         {
-          "title": "대한민국",
-          "views": 1523
+          "title": "지셀르 리본느",
+          "views": 1562
         },
         {
-          "title": "이영혜",
-          "views": 1515
+          "title": "기쁜 우리 좋은 날",
+          "views": 1541
         }
       ]
     }
