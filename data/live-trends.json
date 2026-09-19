@@ -1,11 +1,26 @@
 {
-  "updated": "2026-09-19T14:59:00.887Z",
+  "updated": "2026-09-19T19:43:57.089Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-19T14:59:00.887Z",
+      "fetched": "2026-09-19T19:43:57.089Z",
       "items": [
+        {
+          "title": "최예나",
+          "traffic": "100+",
+          "context": "‘워터밤’ 전신 수영복은 최예나 아이디어, ‘전참시’로 보이는 ‘프로 아이돌’의 진수"
+        },
+        {
+          "title": "아스날",
+          "traffic": "500+",
+          "context": "[pl.review] ‘브라이튼의 미친 압박에 완전히 무너졌다!’ 아스널, 원정서 충격의 0-3 완패...결국 시즌 첫 패배"
+        },
+        {
+          "title": "유영우",
+          "traffic": "100+",
+          "context": "'전참시' 유영우, 리센느 시상식 무대 보고 '울컥'…훈훈한 응원"
+        },
         {
           "title": "재벌형사",
           "traffic": "100+",
@@ -14,54 +29,39 @@
         {
           "title": "pl",
           "traffic": "100+",
-          "context": "Polska może tylko zyskać na współpracy gospodarczej z Ukrainą. To inwestycja w przyszłość"
+          "context": "Gorąco wokół kopalni \"Kłodawa\". Oświadczenie zarządu, list do załogi -"
+        },
+        {
+          "title": "라이엇게임즈",
+          "traffic": "100+",
+          "context": "“한국 게이머 위해 특별한 선물 준비” 라이엇 게임즈 ‘리프트바운드’ 국내 상륙"
         },
         {
           "title": "로또번호",
           "traffic": "2000+",
-          "context": "“9명에게 32억8천만원씩”…이번주 로또 명당 공개"
+          "context": "“9명에게 32억8천만원씩”…이번주 로또 명당은 어디?"
         },
         {
           "title": "토트넘",
           "traffic": "1000+",
-          "context": "'5경기 0승' 골 하나 넣는 데만 446분, 승리는 아직도 없다...토트넘, 5873억짜리 선수단으로 빌라에 2-3 패배→강등권 추락 - 머니투데이"
-        },
-        {
-          "title": "롤 아시안게임",
-          "traffic": "200+",
-          "context": "‘화끈하고 압도적인' 대한민국, 미국 상대로 1시간만에 3-0 셧아웃(종합) [AG LoL 평가전]"
+          "context": "\"손흥민이 결국 다 해줬던 거였다\" 국내 팬들 비판 계속...최악의 토트넘, 아스톤 빌라에 2-3 패배→또 강등 위기"
         },
         {
           "title": "sxmb",
           "traffic": "200+",
-          "context": "XSMT 20/9. Kết quả xổ số miền Trung hôm nay ngày 20/9/2026. XSMT chủ Nhật ngày 20/9"
+          "context": "Kết quả xổ số miền Bắc hôm nay ngày 19/9/2026"
         },
         {
           "title": "프로야구 순위",
           "traffic": "200+",
-          "context": "[영상] KIA 팬들 뒷목 잡게 한 번트…어쩌라고 이겼잖아"
-        },
-        {
-          "title": "이승기",
-          "traffic": "100+",
-          "context": "TV-라디오 화제의 순간|'너 말고 다른 연애' 서강준♥안은진, 풀세팅 ‘꾸꾸꾸’ 데이트 전말 베일 벗는다 [방송 프리뷰]"
-        },
-        {
-          "title": "아프리카",
-          "traffic": "100+",
-          "context": "[단독] 아프리카계 207cm 빅맨 등장! 배재고 입학한 '마눙가 올리비에'는 누구?"
-        },
-        {
-          "title": "나고야",
-          "traffic": "200+",
-          "context": "India at Asian Games 2026: Full schedule of medal events and fixtures on September 20, Sunday"
+          "context": "KIA 초대형 트레이드 주인공, '80억 유격수' 대체자 가능할까…'희생번트 더블아웃→수어사이드 스퀴즈 대실패' 울고 싶네 [광주 현장]"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-19T14:59:00.887Z",
+      "fetched": "2026-09-19T19:43:57.089Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-19T14:59:00.887Z",
+      "fetched": "2026-09-19T19:43:57.089Z",
       "items": [
         {
           "title": "문화방송",
