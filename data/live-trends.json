@@ -1,20 +1,40 @@
 {
-  "updated": "2026-09-20T02:11:18.019Z",
+  "updated": "2026-09-20T10:14:32.281Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-20T02:11:18.019Z",
+      "fetched": "2026-09-20T10:14:32.281Z",
       "items": [
+        {
+          "title": "아시안게임 농구",
+          "traffic": "100+",
+          "context": "[아시안게임] 남자농구 결승 한일전 당일에…대표팀 훈련 버스 '황당 노쇼'(종합)"
+        },
+        {
+          "title": "아시안게임",
+          "traffic": "200+",
+          "context": "[아시안게임]한국 첫 金 터졌다…성승민, 여자 근대5종 사상 첫 우승"
+        },
+        {
+          "title": "백억커피",
+          "traffic": "200+",
+          "context": "PUBG 아시아 스타즈 2026 - 이벤트 - PUBG: 배틀그라운드"
+        },
+        {
+          "title": "lafc",
+          "traffic": "100+",
+          "context": "Son Heung-min's Heroics Undone as LAFC Draw 2-2"
+        },
         {
           "title": "하피냐",
           "traffic": "100+",
-          "context": "'강인아 큰일 났다, 우승 못 하겠다' '미친' 하피냐 또 해트트릭 대폭발! 바르셀로나 7전 전승 행진, 세비야 원정 3-1 역전승..'벌써 개인 리그 12골, 팀 전 경기 멀티골 행진'"
+          "context": "'유럽 축구 1대장'은 하피냐...'또 해트트릭' 7경기 12골 3도움→11-12시즌 '프라임 메시'까지 소환"
         },
         {
           "title": "최두호",
-          "traffic": "500+",
-          "context": "천당과 지옥 오간 '코리안 슈퍼보이' 최두호, 레전드 핏불 꺾고 UFC 챔피언 꿈 이어갈까"
+          "traffic": "2000+",
+          "context": "UFC 한국인 파이터 전멸… 최두호 1R KO패하며 랭커 복귀 실패"
         },
         {
           "title": "ufc",
@@ -24,44 +44,24 @@
         {
           "title": "유주상",
           "traffic": "500+",
-          "context": "3라운드 추격 아쉽다...'좀비 주니어' 유주상, UFC 복귀전서 판정패→애스웰 주니어에게 당하며 2연패 늪"
+          "context": "‘좀비 주니어’ 유주상, UFC 2연패…11개월 만의 복귀전서 애스웰 주니어에 쓴맛"
+        },
+        {
+          "title": "토토",
+          "traffic": "100+",
+          "context": "롤토토의 숫자는 왜 그대로 믿기 어려울까? 2026 경기 분석"
         },
         {
           "title": "최예나",
           "traffic": "100+",
-          "context": null
-        },
-        {
-          "title": "아스날",
-          "traffic": "500+",
-          "context": "'이럴 수가' 디펜딩 챔피언 아스널 완전 박살났다!…맨체스터 유나이티드에 굴욕 준 브라이턴 원정에서 0-3 대패"
-        },
-        {
-          "title": "유영우",
-          "traffic": "100+",
-          "context": "유영우, 19만원 옷 사고 교통카드 잔액 부족…\"3만원도 못 받아\" (전참시)"
-        },
-        {
-          "title": "재벌형사",
-          "traffic": "100+",
-          "context": "유승호 단죄한 안보현…'재벌X형사2' 11.8% 자체 최고 종영"
-        },
-        {
-          "title": "pl",
-          "traffic": "100+",
-          "context": "Pokonali Polaków, a teraz katastrofa. Blisko awantury pod siatką, hala w Sofii uciszona"
-        },
-        {
-          "title": "로또번호",
-          "traffic": "2000+",
-          "context": "로또 제1242회 당첨번호 ‘2·4·10·16·31·41’…보너스 ‘9’"
+          "context": "최예나, 이준에 '캐치 캐치' 뺏길 뻔?...\"위기감 들어\" - 머니투데이"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-20T02:11:18.019Z",
+      "fetched": "2026-09-20T10:14:32.281Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -88,12 +88,12 @@
           "artist": "리센느"
         },
         {
-          "title": "GRLS",
-          "artist": "튜이드"
-        },
-        {
           "title": "Dear my crazy soulmate",
           "artist": "아이유"
+        },
+        {
+          "title": "GRLS",
+          "artist": "튜이드"
         },
         {
           "title": "Lemon Tang",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-20T02:11:18.019Z",
+      "fetched": "2026-09-20T10:14:32.281Z",
       "items": [
         {
           "title": "문화방송",
