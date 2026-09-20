@@ -1,25 +1,40 @@
 {
-  "updated": "2026-09-20T15:02:39.641Z",
+  "updated": "2026-09-20T19:55:31.430Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-20T15:02:39.641Z",
+      "fetched": "2026-09-20T19:55:31.430Z",
       "items": [
         {
-          "title": "리버풀",
+          "title": "instagram",
           "traffic": "100+",
-          "context": "옵타 슈퍼컴퓨터 예측에 따른 본머스 대 리버풀 승리 배당률."
+          "context": "Kate Beckinsale Shares Bleak Messages on Instagram"
+        },
+        {
+          "title": "레알마드리드",
+          "traffic": "1000+",
+          "context": "'무려' 레알 마드리드 무너뜨린 이강인 황금 왼발, 스페인 현지 극찬 \"LEE 발끝에서 결승골 시작\""
+        },
+        {
+          "title": "축구중계",
+          "traffic": "500+",
+          "context": null
+        },
+        {
+          "title": "리버풀",
+          "traffic": "200+",
+          "context": "[pl.review] ‘2400억 사나이’ 이삭 결승골! 리버풀, 본머스에 1-0 승...5G 무패"
         },
         {
           "title": "맨시티",
           "traffic": "200+",
-          "context": "실시간 축구 경기: 맨체스터 시티 vs 선덜랜드: 프리미어 리그 5라운드"
+          "context": "'8골 터진 난타전' 맨시티, 선덜랜드에 5-3 승리...리그 5승 전승으로 선두 '질주' - 머니투데이"
         },
         {
           "title": "google",
           "traffic": "100+",
-          "context": "Gemini hacked three companies in first known breakout by Google’s AI"
+          "context": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI"
         },
         {
           "title": "sxmb",
@@ -29,39 +44,24 @@
         {
           "title": "kbs",
           "traffic": "100+",
-          "context": null
+          "context": "PPP Media Committee: 'Alleged Protest Call to KBS by DP Aide Constitutes External Pressure if True'"
         },
         {
           "title": "이현중",
           "traffic": "5000+",
-          "context": "남자농구, 일본 꺾고 정상‥12년 만의 금메달 쾌거"
+          "context": "“일본이 언제부터 다국적 국가였나” 농구 결승에 귀화 선수까지 총출동…'외국계 부모 4명+귀화 1명'에도 한국 못 넘었다"
         },
         {
           "title": "김영범",
           "traffic": "100+",
           "context": "[아시안게임] 수영 김영범, 판잔러에 0.04초 뒤진 은메달‥황선우는 3위"
-        },
-        {
-          "title": "백억커피",
-          "traffic": "500+",
-          "context": "베트남 선수 부정행위에 PUBG 대회 파행…한국팀 전원 보이콧"
-        },
-        {
-          "title": "lafc",
-          "traffic": "100+",
-          "context": "Son Heung-min Shines, LAFC Draws 2-2 with San Jose"
-        },
-        {
-          "title": "하피냐",
-          "traffic": "100+",
-          "context": "'강인아 큰일 났다, 우승 못 하겠다' '미친' 하피냐 또 해트트릭 대폭발! 바르셀로나 7전 전승 행진, 세비야 원정 3-1 역전승..'벌써 개인 리그 12골, 팀 전 경기 멀티골 행진'"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-20T15:02:39.641Z",
+      "fetched": "2026-09-20T19:55:31.430Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -100,15 +100,15 @@
           "artist": "Hearts2Hearts"
         },
         {
-          "title": "LEMONADE",
-          "artist": "aespa"
+          "title": "퇴사할게여 (Narr. 기안84)",
+          "artist": "소연"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-20T15:02:39.641Z",
+      "fetched": "2026-09-20T19:55:31.430Z",
       "items": [
         {
           "title": "문화방송",
