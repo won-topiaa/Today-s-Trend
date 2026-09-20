@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-19T19:43:57.089Z",
+  "updated": "2026-09-20T02:11:18.019Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-19T19:43:57.089Z",
+      "fetched": "2026-09-20T02:11:18.019Z",
       "items": [
+        {
+          "title": "하피냐",
+          "traffic": "100+",
+          "context": "'강인아 큰일 났다, 우승 못 하겠다' '미친' 하피냐 또 해트트릭 대폭발! 바르셀로나 7전 전승 행진, 세비야 원정 3-1 역전승..'벌써 개인 리그 12골, 팀 전 경기 멀티골 행진'"
+        },
+        {
+          "title": "최두호",
+          "traffic": "500+",
+          "context": "천당과 지옥 오간 '코리안 슈퍼보이' 최두호, 레전드 핏불 꺾고 UFC 챔피언 꿈 이어갈까"
+        },
+        {
+          "title": "ufc",
+          "traffic": "2000+",
+          "context": "The press conference for 'UFC 331' was held at CryptoCom Arena on the 18th (Korea Standard Time).Lig.."
+        },
+        {
+          "title": "유주상",
+          "traffic": "500+",
+          "context": "3라운드 추격 아쉽다...'좀비 주니어' 유주상, UFC 복귀전서 판정패→애스웰 주니어에게 당하며 2연패 늪"
+        },
         {
           "title": "최예나",
           "traffic": "100+",
-          "context": "‘워터밤’ 전신 수영복은 최예나 아이디어, ‘전참시’로 보이는 ‘프로 아이돌’의 진수"
+          "context": null
         },
         {
           "title": "아스날",
           "traffic": "500+",
-          "context": "[pl.review] ‘브라이튼의 미친 압박에 완전히 무너졌다!’ 아스널, 원정서 충격의 0-3 완패...결국 시즌 첫 패배"
+          "context": "'이럴 수가' 디펜딩 챔피언 아스널 완전 박살났다!…맨체스터 유나이티드에 굴욕 준 브라이턴 원정에서 0-3 대패"
         },
         {
           "title": "유영우",
           "traffic": "100+",
-          "context": "'전참시' 유영우, 리센느 시상식 무대 보고 '울컥'…훈훈한 응원"
+          "context": "유영우, 19만원 옷 사고 교통카드 잔액 부족…\"3만원도 못 받아\" (전참시)"
         },
         {
           "title": "재벌형사",
           "traffic": "100+",
-          "context": "“당신도 꼭 모델로 쓰고 싶었거든” 유승호, 김혜은으로 위장한 정은채 향해 겨누는 총구"
+          "context": "유승호 단죄한 안보현…'재벌X형사2' 11.8% 자체 최고 종영"
         },
         {
           "title": "pl",
           "traffic": "100+",
-          "context": "Gorąco wokół kopalni \"Kłodawa\". Oświadczenie zarządu, list do załogi -"
-        },
-        {
-          "title": "라이엇게임즈",
-          "traffic": "100+",
-          "context": "“한국 게이머 위해 특별한 선물 준비” 라이엇 게임즈 ‘리프트바운드’ 국내 상륙"
+          "context": "Pokonali Polaków, a teraz katastrofa. Blisko awantury pod siatką, hala w Sofii uciszona"
         },
         {
           "title": "로또번호",
           "traffic": "2000+",
-          "context": "“9명에게 32억8천만원씩”…이번주 로또 명당은 어디?"
-        },
-        {
-          "title": "토트넘",
-          "traffic": "1000+",
-          "context": "\"손흥민이 결국 다 해줬던 거였다\" 국내 팬들 비판 계속...최악의 토트넘, 아스톤 빌라에 2-3 패배→또 강등 위기"
-        },
-        {
-          "title": "sxmb",
-          "traffic": "200+",
-          "context": "Kết quả xổ số miền Bắc hôm nay ngày 19/9/2026"
-        },
-        {
-          "title": "프로야구 순위",
-          "traffic": "200+",
-          "context": "KIA 초대형 트레이드 주인공, '80억 유격수' 대체자 가능할까…'희생번트 더블아웃→수어사이드 스퀴즈 대실패' 울고 싶네 [광주 현장]"
+          "context": "로또 제1242회 당첨번호 ‘2·4·10·16·31·41’…보너스 ‘9’"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-19T19:43:57.089Z",
+      "fetched": "2026-09-20T02:11:18.019Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-19T19:43:57.089Z",
+      "fetched": "2026-09-20T02:11:18.019Z",
       "items": [
         {
           "title": "문화방송",
