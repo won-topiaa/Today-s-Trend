@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-21T02:11:35.064Z",
+  "updated": "2026-09-21T11:21:02.930Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-21T02:11:35.064Z",
+      "fetched": "2026-09-21T11:21:02.930Z",
       "items": [
         {
-          "title": "게임",
+          "title": "치지직",
           "traffic": "500+",
-          "context": "주의하겠다더니…\"제정신인가\" 아시안게임 포토존 보니"
+          "context": "아시안게임 영상 클립, AI로 생성…‘스포터’로 생태계 확대하는 네이버 치지직"
         },
         {
-          "title": "기상청",
+          "title": "아시안게임",
+          "traffic": "500+",
+          "context": "김영범, 수영 자유형 50m에서 대회신으로 금"
+        },
+        {
+          "title": "dmz",
           "traffic": "200+",
-          "context": "[930 날씨] 하루에 두 계절…일교차 매우 커"
+          "context": "Yonhap News Summary"
         },
         {
-          "title": "크래프톤 주가",
+          "title": "발로란트 추석 이벤트",
+          "traffic": "1000+",
+          "context": "(9/21~10/5) 2026 발로란트 추석 맞이 이벤트 안내"
+        },
+        {
+          "title": "양승혜",
           "traffic": "200+",
-          "context": "크래프톤 주가 하락 중"
+          "context": "“AI가 만든 이미지인줄” 외신도 감탄한 韓펜싱 국대"
         },
         {
-          "title": "조선일보",
-          "traffic": "100+",
-          "context": "[천광암 칼럼]李 “저의 부족”에 지지율 반등할까"
+          "title": "최지만",
+          "traffic": "1000+",
+          "context": "1R 미지명→2R 호명… '뜨거운 감자' 최지만, kt wiz가 품었다[2027 신인드래프트]"
         },
         {
-          "title": "달력",
-          "traffic": "200+",
-          "context": "달력은 똑같이 빨간데…작은 회사 다니면 ‘유급휴일’도 남 얘기"
-        },
-        {
-          "title": "7",
-          "traffic": "100+",
-          "context": "ICE shooting rocks Austin as Democrat demands bodycam video, independent probe"
-        },
-        {
-          "title": "instagram",
-          "traffic": "200+",
-          "context": "Kate Beckinsale Shares Bleak Messages on Instagram"
-        },
-        {
-          "title": "레알마드리드",
+          "title": "드래프트",
           "traffic": "2000+",
-          "context": "“이건 명백한 퇴장”… 이강인 태클 장면 프린트 들고온 모리뉴"
+          "context": "양키스 거절 에이스·빅리거 거포…뜨거운 KBO 신인들"
         },
         {
-          "title": "축구중계",
-          "traffic": "500+",
-          "context": null
+          "title": "김다현",
+          "traffic": "1000+",
+          "context": "심수봉, 후배 가수에 \"노래 모르는 아가씨\" 직격…논란일자 사과"
         },
         {
-          "title": "리버풀",
-          "traffic": "200+",
-          "context": "SC제일은행, 리버풀FC 연계 '펀드셀렉트' 자산관리 캠페인 실시"
+          "title": "강훈식",
+          "traffic": "1000+",
+          "context": "강훈식 대통령 비서실장 사의…청와대 \"국정 전반 종합적 책임\""
+        },
+        {
+          "title": "부산국제영화제",
+          "traffic": "1000+",
+          "context": "'재혼황후', 제31회 BIFF 예매 오픈 후 전석 매진! 스틸 4종 공개 - 머니투데이"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-21T02:11:35.064Z",
+      "fetched": "2026-09-21T11:21:02.930Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -96,19 +96,19 @@
           "artist": "아이유"
         },
         {
-          "title": "Lemon Tang",
-          "artist": "Hearts2Hearts"
-        },
-        {
           "title": "퇴사할게여 (Narr. 기안84)",
           "artist": "소연"
+        },
+        {
+          "title": "Lemon Tang",
+          "artist": "Hearts2Hearts"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-21T02:11:35.064Z",
+      "fetched": "2026-09-21T11:21:02.930Z",
       "items": [
         {
           "title": "문화방송",
