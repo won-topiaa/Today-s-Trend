@@ -1,20 +1,50 @@
 {
-  "updated": "2026-09-20T19:55:31.430Z",
+  "updated": "2026-09-21T02:11:35.064Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-20T19:55:31.430Z",
+      "fetched": "2026-09-21T02:11:35.064Z",
       "items": [
         {
-          "title": "instagram",
+          "title": "게임",
+          "traffic": "500+",
+          "context": "주의하겠다더니…\"제정신인가\" 아시안게임 포토존 보니"
+        },
+        {
+          "title": "기상청",
+          "traffic": "200+",
+          "context": "[930 날씨] 하루에 두 계절…일교차 매우 커"
+        },
+        {
+          "title": "크래프톤 주가",
+          "traffic": "200+",
+          "context": "크래프톤 주가 하락 중"
+        },
+        {
+          "title": "조선일보",
           "traffic": "100+",
+          "context": "[천광암 칼럼]李 “저의 부족”에 지지율 반등할까"
+        },
+        {
+          "title": "달력",
+          "traffic": "200+",
+          "context": "달력은 똑같이 빨간데…작은 회사 다니면 ‘유급휴일’도 남 얘기"
+        },
+        {
+          "title": "7",
+          "traffic": "100+",
+          "context": "ICE shooting rocks Austin as Democrat demands bodycam video, independent probe"
+        },
+        {
+          "title": "instagram",
+          "traffic": "200+",
           "context": "Kate Beckinsale Shares Bleak Messages on Instagram"
         },
         {
           "title": "레알마드리드",
-          "traffic": "1000+",
-          "context": "'무려' 레알 마드리드 무너뜨린 이강인 황금 왼발, 스페인 현지 극찬 \"LEE 발끝에서 결승골 시작\""
+          "traffic": "2000+",
+          "context": "“이건 명백한 퇴장”… 이강인 태클 장면 프린트 들고온 모리뉴"
         },
         {
           "title": "축구중계",
@@ -24,44 +54,14 @@
         {
           "title": "리버풀",
           "traffic": "200+",
-          "context": "[pl.review] ‘2400억 사나이’ 이삭 결승골! 리버풀, 본머스에 1-0 승...5G 무패"
-        },
-        {
-          "title": "맨시티",
-          "traffic": "200+",
-          "context": "'8골 터진 난타전' 맨시티, 선덜랜드에 5-3 승리...리그 5승 전승으로 선두 '질주' - 머니투데이"
-        },
-        {
-          "title": "google",
-          "traffic": "100+",
-          "context": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI"
-        },
-        {
-          "title": "sxmb",
-          "traffic": "100+",
-          "context": "Xổ số miền Nam ngày 20 tháng 9: Người trúng 32 tờ nhận chuyển khoản ngay"
-        },
-        {
-          "title": "kbs",
-          "traffic": "100+",
-          "context": "PPP Media Committee: 'Alleged Protest Call to KBS by DP Aide Constitutes External Pressure if True'"
-        },
-        {
-          "title": "이현중",
-          "traffic": "5000+",
-          "context": "“일본이 언제부터 다국적 국가였나” 농구 결승에 귀화 선수까지 총출동…'외국계 부모 4명+귀화 1명'에도 한국 못 넘었다"
-        },
-        {
-          "title": "김영범",
-          "traffic": "100+",
-          "context": "[아시안게임] 수영 김영범, 판잔러에 0.04초 뒤진 은메달‥황선우는 3위"
+          "context": "SC제일은행, 리버풀FC 연계 '펀드셀렉트' 자산관리 캠페인 실시"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-20T19:55:31.430Z",
+      "fetched": "2026-09-21T02:11:35.064Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-20T19:55:31.430Z",
+      "fetched": "2026-09-21T02:11:35.064Z",
       "items": [
         {
           "title": "문화방송",
