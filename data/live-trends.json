@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-24T16:04:36.855Z",
+  "updated": "2026-09-24T20:54:01.109Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-24T16:04:36.855Z",
+      "fetched": "2026-09-24T20:54:01.109Z",
       "items": [
         {
-          "title": "이창섭",
+          "title": "성유리",
+          "traffic": "100+",
+          "context": "완전체 뭉친 핑클, 30주년까지 달린다…2년간 장기 프로젝트 돌입"
+        },
+        {
+          "title": "추신수",
+          "traffic": "100+",
+          "context": "\"성형 너무 해서 얼굴 이상해\"…추신수, 하원미 뒷담화에 발끈"
+        },
+        {
+          "title": "심수봉",
+          "traffic": "200+",
+          "context": "\"심수봉, 일반인도 비꼬고 훈계\" 녹화장 폭로글 등장 - 머니투데이"
+        },
+        {
+          "title": "portugal vs wales",
           "traffic": "500+",
-          "context": "이창섭, 과격 언행 반성…\"재밌으려고 적정선 넘은 듯\""
+          "context": "Uefa Nations League LIVE: Portugal vs Wales - watch, listen & follow live text updates"
+        },
+        {
+          "title": "네이션스리그",
+          "traffic": "200+",
+          "context": "호날두 국대 은퇴 미룬 이유는 \"1천골·네이션스리그 우승\""
+        },
+        {
+          "title": "중추절",
+          "traffic": "200+",
+          "context": "\"추석 훔쳤다\"는 中누리꾼에 서경덕 \"중추절과 전혀 달라\""
+        },
+        {
+          "title": "의료",
+          "traffic": "200+",
+          "context": "\"기초생활급여 처리기한 초과, 3년간 10개 지역서 2천500여건\""
+        },
+        {
+          "title": "이창섭",
+          "traffic": "1000+",
+          "context": "차 쓰레기 안 버려주는 여친에 \"개똥매너\"라던 이창섭…해명에도 비판 여론 여전"
         },
         {
           "title": "박찬호",
-          "traffic": "1000+",
+          "traffic": "2000+",
           "context": "\"박찬호 아니었으면 지금도 서산에…\" KIA 트레이드 보물도 인정, 80억 FA는 누군가의 야구인생을 바꿨다"
         },
         {
           "title": "심형래",
           "traffic": "200+",
           "context": "심형래 \"CF 1편에 8000만원, 100편 찍었다…강남 아파트 7800만원 시절\""
-        },
-        {
-          "title": "신뢰도",
-          "traffic": "200+",
-          "context": "‘가장 신뢰하는 프로그램 1위’ 뉴스공장은 이제 지상파?"
-        },
-        {
-          "title": "종합부동산세",
-          "traffic": "2000+",
-          "context": "같은 집에 서로 다른 보유세 '논란'…1주택자들 '불만 폭발'"
-        },
-        {
-          "title": "조인성",
-          "traffic": "2000+",
-          "context": "조인성, 베니스영화제 갔는데 짐 가방 실종..\"옷 돌려막기 하는 중\""
-        },
-        {
-          "title": "엘니뇨",
-          "traffic": "2000+",
-          "context": "\"내년 초까지 사망자 45만명 나올 것\"…세계가 '못 살겠다' 최악 엘니뇨 전망"
-        },
-        {
-          "title": "사고",
-          "traffic": "1000+",
-          "context": "남산도서관 앞 순환버스 사고…정류장 들이받아"
-        },
-        {
-          "title": "일본 대 우루과이",
-          "traffic": "2000+",
-          "context": "日 후반 집중력 미쳤다…모리야스 3기 일본, '韓 격돌 앞둔' 우루과이 3-1 격파"
-        },
-        {
-          "title": "암호화폐",
-          "traffic": "1000+",
-          "context": "비트코인 질주에 코인 시총 다시 3조 달러, ‘겨울 끝’ 기대감 ↑"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-24T10:41:59.597Z",
+      "fetched": "2026-09-24T20:54:01.109Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -80,12 +80,12 @@
           "artist": "코르티스"
         },
         {
-          "title": "Pop Off Pop Off",
-          "artist": "키키"
-        },
-        {
           "title": "Deja Vu",
           "artist": "리센느"
+        },
+        {
+          "title": "Pop Off Pop Off",
+          "artist": "키키"
         },
         {
           "title": "퇴사할게여 (Narr. 기안84)",
@@ -100,15 +100,15 @@
           "artist": "Hearts2Hearts"
         },
         {
-          "title": "LEMONADE",
-          "artist": "aespa"
+          "title": "Love Options",
+          "artist": "베스티"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-24T16:04:36.855Z",
+      "fetched": "2026-09-24T20:54:01.109Z",
       "items": [
         {
           "title": "문화방송",
