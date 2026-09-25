@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-25T10:45:33.553Z",
+  "updated": "2026-09-25T16:05:08.269Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-25T10:45:33.553Z",
+      "fetched": "2026-09-25T16:05:08.269Z",
       "items": [
         {
-          "title": "소형준",
-          "traffic": "5000+",
-          "context": "[포토]'1회말 노시환 땅볼에 병살당하는' 대한민국 - 머니투데이"
-        },
-        {
-          "title": "노시환",
-          "traffic": "1000+",
-          "context": "'0.083 충격' 휴식 반납! 한화 유일 3할 타자 이토록 간절하다, \"한일전, 무조건 이겨야죠\""
-        },
-        {
-          "title": "호주 대 브라질",
-          "traffic": "5000+",
-          "context": "호주 대 브라질 경기 예측: 다득점 경기가 예상됩니다."
-        },
-        {
-          "title": "주상욱",
-          "traffic": "2000+",
-          "context": "딸 얼굴공개 계획었었네,,주상욱 \"아이돌 연습생부터 시킬 것\" 눈길"
-        },
-        {
-          "title": "australia vs brazil",
-          "traffic": "1000+",
-          "context": "Socceroos vs. Brazil live: Australia hosts Raphinha and Co. in Townsville"
-        },
-        {
-          "title": "e스포츠",
+          "title": "이승철",
           "traffic": "500+",
-          "context": "11세가 아시안게임 ‘뿌요뿌요’ 출전…“금 딸래요”"
+          "context": "박보검 뜨자 “내 이럴 줄 알았다”…1.2만명 빵 터진 이승철 발언"
         },
         {
-          "title": "아시안게임 축구",
-          "traffic": "5000+",
-          "context": "[아시안게임] '가시밭길' 피한 이민성호, 김상식 없는 베트남과 8강 격돌"
+          "title": "이은결",
+          "traffic": "1000+",
+          "context": "용인문화재단, 이은결 데뷔 30주년 기념 공연 10월 말 개최"
         },
         {
-          "title": "주영훈",
+          "title": "정은혜",
           "traffic": "2000+",
-          "context": "'부친상' 주영훈, 모친 치매→낙상 사고 고백…\"3교대로 간병, 기적적 회복\" [RE:뷰]"
+          "context": "다운증후군 작가 서은혜, 초음파 사진 확산 후 \"AI 이미지, 임신 아냐\" 해명"
         },
         {
-          "title": "증여세",
-          "traffic": "2000+",
-          "context": "“아빠랑 할머니가 각각 줬는데요?”…추석 용돈 ‘2000만원 공제’의 오해"
+          "title": "내일 날씨",
+          "traffic": "500000+",
+          "context": "[날씨/XR] '구름 뒤 보름달' 전국 비…내일까지 이어져"
         },
         {
-          "title": "주식",
+          "title": "금",
           "traffic": "5000+",
-          "context": "“삼전·SK하닉 예전만 못한 이유 있었다”…서학개미, 美주식 순매수로 태세 전환 [수민이가 궁금해요]"
+          "context": "추석에 '금테크' 해볼까…180억달러 몰린 금 ETF, 유의할 점은"
+        },
+        {
+          "title": "thời tiết ngày mai",
+          "traffic": "2000+",
+          "context": "Cảnh báo đợt mưa lớn cục bộ kèm lốc sét tại Trung Bộ và Nam Bộ từ chiều tối 25/09/2026"
+        },
+        {
+          "title": "weather tomorrow",
+          "traffic": "2000+",
+          "context": "UAE weather: it's officially autumn equinox today, so why still 45°C?"
+        },
+        {
+          "title": "기사",
+          "traffic": "200+",
+          "context": "이란, 막힌 하늘길에 맞불…\"역내 비행, 모두 열거나 모두 막거나\""
+        },
+        {
+          "title": "중산층",
+          "traffic": "5000+",
+          "context": "\"4억 자산 있어도 중산층 아닙니다\"…진짜 중산층의 6가지 조건 뭐길래[주末머니]"
+        },
+        {
+          "title": "박현호",
+          "traffic": "2000+",
+          "context": "[단독] 은가은♥박현호, 이혼 루머 물렀거라..\"재벌설? 헛웃음만\" [한복인터뷰③]"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-25T10:45:33.553Z",
+      "fetched": "2026-09-25T16:05:08.269Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-25T10:45:33.553Z",
+      "fetched": "2026-09-25T16:05:08.269Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 12986
+          "views": 13610
+        },
+        {
+          "title": "로베르트 모레노",
+          "views": 10434
         },
         {
           "title": "한국방송공사",
-          "views": 9195
+          "views": 8951
         },
         {
-          "title": "김건우 (쇼트트랙 선수)",
-          "views": 7005
+          "title": "나마디 조엘 진",
+          "views": 8636
+        },
+        {
+          "title": "옥사나 추소비티나",
+          "views": 7927
+        },
+        {
+          "title": "여서정",
+          "views": 5247
         },
         {
           "title": "한국교육방송공사",
-          "views": 4974
+          "views": 5165
         },
         {
-          "title": "조희대",
-          "views": 3500
-        },
-        {
-          "title": "김건우",
-          "views": 2684
-        },
-        {
-          "title": "한준호 (정치인)",
-          "views": 2510
+          "title": "이승철",
+          "views": 5122
         },
         {
           "title": "육영수 저격 사건",
-          "views": 2460
+          "views": 4132
         },
         {
-          "title": "신유빈",
-          "views": 2393
-        },
-        {
-          "title": "제25보병사단 (대한민국)",
-          "views": 2335
+          "title": "2026년 아시안 게임 메달 집계",
+          "views": 2687
         }
       ]
     }
