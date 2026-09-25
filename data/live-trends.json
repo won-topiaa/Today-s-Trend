@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-24T20:54:01.109Z",
+  "updated": "2026-09-25T02:20:28.372Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-24T20:54:01.109Z",
+      "fetched": "2026-09-25T02:20:28.372Z",
       "items": [
         {
-          "title": "성유리",
-          "traffic": "100+",
-          "context": "완전체 뭉친 핑클, 30주년까지 달린다…2년간 장기 프로젝트 돌입"
+          "title": "임종훈",
+          "traffic": "500+",
+          "context": "환상의 탁구 남매 신유빈-임종훈, 혼복 금 사냥 시동"
         },
         {
-          "title": "추신수",
+          "title": "hong kong vs oman",
           "traffic": "100+",
-          "context": "\"성형 너무 해서 얼굴 이상해\"…추신수, 하원미 뒷담화에 발끈"
+          "context": "Hong Kong, China vs Oman Live Cricket Score:: Match 3 Full Scorecard & Commentary"
         },
         {
-          "title": "심수봉",
-          "traffic": "200+",
+          "title": "신유빈",
+          "traffic": "2000+",
+          "context": "'신유빈 24분 만에 3-0 완파'…그 일본 선수, 中 간판 쑨잉사에 20전 20패라니→중국 여자탁구는 여전히 강하다"
+        },
+        {
+          "title": "한국대학신문",
+          "traffic": "1000+",
+          "context": "대학 통폐합에 정원·학생수 줄었지만…교원·학과는 다시 늘어"
+        },
+        {
+          "title": "추석 인사",
+          "traffic": "2000+",
+          "context": "李대통령 추석인사 \"대한국민과 함께해 영광...더욱 힘껏 뛰겠다\""
+        },
+        {
+          "title": "최화정",
+          "traffic": "500+",
+          "context": "'110억 아파트' 최화정, 출산 앞둔 PD에 '통 큰 금일봉'…봉투 열자 \"너무 많다\" 깜짝"
+        },
+        {
+          "title": "죽음",
+          "traffic": "1000+",
+          "context": "[오늘도 죽음을 공부합니다 - 홍지정의 죽음학 노트] 곁에 머무는 법을 잊은 사회"
+        },
+        {
+          "title": "배두나",
+          "traffic": "1000+",
+          "context": "배두나, '급속 노화' 외모 변화에 관심 집중…과거 \"노메이크업 선호\" 소신 재조명 [엑's 이슈]"
+        },
+        {
+          "title": "룰라",
+          "traffic": "1000+",
           "context": "\"심수봉, 일반인도 비꼬고 훈계\" 녹화장 폭로글 등장 - 머니투데이"
         },
         {
-          "title": "portugal vs wales",
-          "traffic": "500+",
-          "context": "Uefa Nations League LIVE: Portugal vs Wales - watch, listen & follow live text updates"
-        },
-        {
-          "title": "네이션스리그",
-          "traffic": "200+",
-          "context": "호날두 국대 은퇴 미룬 이유는 \"1천골·네이션스리그 우승\""
-        },
-        {
-          "title": "중추절",
-          "traffic": "200+",
-          "context": "\"추석 훔쳤다\"는 中누리꾼에 서경덕 \"중추절과 전혀 달라\""
-        },
-        {
-          "title": "의료",
-          "traffic": "200+",
-          "context": "\"기초생활급여 처리기한 초과, 3년간 10개 지역서 2천500여건\""
-        },
-        {
-          "title": "이창섭",
+          "title": "열차",
           "traffic": "1000+",
-          "context": "차 쓰레기 안 버려주는 여친에 \"개똥매너\"라던 이창섭…해명에도 비판 여론 여전"
-        },
-        {
-          "title": "박찬호",
-          "traffic": "2000+",
-          "context": "\"박찬호 아니었으면 지금도 서산에…\" KIA 트레이드 보물도 인정, 80억 FA는 누군가의 야구인생을 바꿨다"
-        },
-        {
-          "title": "심형래",
-          "traffic": "200+",
-          "context": "심형래 \"CF 1편에 8000만원, 100편 찍었다…강남 아파트 7800만원 시절\""
+          "context": "\"올해 설 연휴 열차, 매일 6만석이 비었다…부정 승차는 늘어\""
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-24T20:54:01.109Z",
+      "fetched": "2026-09-25T02:20:28.372Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -96,19 +96,19 @@
           "artist": "튜이드"
         },
         {
-          "title": "Lemon Tang",
-          "artist": "Hearts2Hearts"
-        },
-        {
           "title": "Love Options",
           "artist": "베스티"
+        },
+        {
+          "title": "Lemon Tang",
+          "artist": "Hearts2Hearts"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-24T20:54:01.109Z",
+      "fetched": "2026-09-25T02:20:28.372Z",
       "items": [
         {
           "title": "문화방송",
