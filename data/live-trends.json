@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-25T16:05:08.269Z",
+  "updated": "2026-09-25T20:50:36.604Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-25T16:05:08.269Z",
+      "fetched": "2026-09-25T20:50:36.604Z",
       "items": [
         {
-          "title": "이승철",
-          "traffic": "500+",
-          "context": "박보검 뜨자 “내 이럴 줄 알았다”…1.2만명 빵 터진 이승철 발언"
+          "title": "록히드 마틴 f-35 라이트닝 ii",
+          "traffic": "100+",
+          "context": "호주가 수리 위해 美 보낸 F-35기 부품... 중국 손에 들어갔다"
         },
         {
-          "title": "이은결",
+          "title": "보이스 피싱",
+          "traffic": "100+",
+          "context": "\"월 1000만원\" 제안에 태국行…123억대 보이스피싱 가담한 고3 징역형"
+        },
+        {
+          "title": "네이션스리그",
           "traffic": "1000+",
-          "context": "용인문화재단, 이은결 데뷔 30주년 기념 공연 10월 말 개최"
+          "context": "\"골문 앞에서 이걸 놓쳐\" 'NO 은퇴' 호날두, 홈런쇼 '굴욕'→VAR '노골'…포르투갈, 웨일스 1-0 신승"
         },
         {
-          "title": "정은혜",
-          "traffic": "2000+",
-          "context": "다운증후군 작가 서은혜, 초음파 사진 확산 후 \"AI 이미지, 임신 아냐\" 해명"
+          "title": "며느리",
+          "traffic": "500+",
+          "context": "\"매달 내려갔는데\"…결혼 후 첫 명절, 시어머니에게 혼난 며느리"
         },
         {
-          "title": "내일 날씨",
-          "traffic": "500000+",
-          "context": "[날씨/XR] '구름 뒤 보름달' 전국 비…내일까지 이어져"
+          "title": "이탈리아 대 벨기에",
+          "traffic": "100+",
+          "context": "이탈리아, 벨기에와 경기 예정…로베르토 만치니 감독, 중대한 발언 내놓아."
         },
         {
-          "title": "금",
-          "traffic": "5000+",
-          "context": "추석에 '금테크' 해볼까…180억달러 몰린 금 ETF, 유의할 점은"
+          "title": "상화로",
+          "traffic": "100+",
+          "context": "30분 길이 5분으로…대구 달서구 상화로 지하도로 사업 탄력"
         },
         {
-          "title": "thời tiết ngày mai",
-          "traffic": "2000+",
-          "context": "Cảnh báo đợt mưa lớn cục bộ kèm lốc sét tại Trung Bộ và Nam Bộ từ chiều tối 25/09/2026"
-        },
-        {
-          "title": "weather tomorrow",
-          "traffic": "2000+",
-          "context": "UAE weather: it's officially autumn equinox today, so why still 45°C?"
-        },
-        {
-          "title": "기사",
+          "title": "난폭운전",
           "traffic": "200+",
-          "context": "이란, 막힌 하늘길에 맞불…\"역내 비행, 모두 열거나 모두 막거나\""
+          "context": "\"딸 아파서\"…국도서 시속 157㎞, 10분간 22차례 법 어긴 50대 운전자"
         },
         {
-          "title": "중산층",
-          "traffic": "5000+",
-          "context": "\"4억 자산 있어도 중산층 아닙니다\"…진짜 중산층의 6가지 조건 뭐길래[주末머니]"
+          "title": "türkiye vs france",
+          "traffic": "200+",
+          "context": "Turkey vs France: UEFA Nations League stats & head-to-head"
         },
         {
-          "title": "박현호",
-          "traffic": "2000+",
-          "context": "[단독] 은가은♥박현호, 이혼 루머 물렀거라..\"재벌설? 헛웃음만\" [한복인터뷰③]"
+          "title": "사회적 고립",
+          "traffic": "200+",
+          "context": "“일주일 동안 전화 한통 안와”…쓸쓸히 죽음 맞는 노인들"
+        },
+        {
+          "title": "윌스미스",
+          "traffic": "100+",
+          "context": "Rob Lowe awkwardly admits he was ‘the only person happy’ when Will Smith slapped Chris Rock at Oscars"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-25T16:05:08.269Z",
+      "fetched": "2026-09-25T20:50:36.604Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -92,12 +92,12 @@
           "artist": "소연"
         },
         {
-          "title": "Lemon Tang",
-          "artist": "Hearts2Hearts"
-        },
-        {
           "title": "Love Options",
           "artist": "베스티"
+        },
+        {
+          "title": "Lemon Tang",
+          "artist": "Hearts2Hearts"
         },
         {
           "title": "LEMONADE",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-25T16:05:08.269Z",
+      "fetched": "2026-09-25T20:50:36.604Z",
       "items": [
         {
           "title": "문화방송",
