@@ -1,11 +1,41 @@
 {
-  "updated": "2026-09-26T15:18:46.526Z",
+  "updated": "2026-09-26T20:19:07.762Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-26T15:18:46.526Z",
+      "fetched": "2026-09-26T20:19:07.762Z",
       "items": [
+        {
+          "title": "종이팩",
+          "traffic": "200+",
+          "context": null
+        },
+        {
+          "title": "한채아",
+          "traffic": "200+",
+          "context": "한채아 8살 딸, 벌써 이렇게 컸어? 폭풍성장..할아버지 차범근과 다정한 산책 [핫피플]"
+        },
+        {
+          "title": "england vs spain",
+          "traffic": "500+",
+          "context": "England vs Spain LIVE: UEFA Nations League score, commentary, updates & stats"
+        },
+        {
+          "title": "잉글랜드 대 스페인",
+          "traffic": "5000+",
+          "context": "감독 바꿔도 반복되는 잉글랜드의 실패…가디언 “진짜 문제는 무능력한 잉글랜드 출신 지도자들”"
+        },
+        {
+          "title": "이창섭",
+          "traffic": "1000+",
+          "context": "\"적정선 넘었다\" 이창섭 사과에도 '쓰레기 논쟁' 일파만파 [MD이슈]"
+        },
+        {
+          "title": "윤아",
+          "traffic": "500+",
+          "context": "임윤아, 이탈리아가 깜짝 놀란 미모…이날 얼마나 예뻤길래"
+        },
         {
           "title": "왕사남",
           "traffic": "1000+",
@@ -14,12 +44,7 @@
         {
           "title": "지선",
           "traffic": "200+",
-          "context": "600대 1 경쟁률 뚫었는데…러브홀릭 지선, 팀 탈퇴한 이유?(‘백투더뮤직2’) - 스타투데이"
-        },
-        {
-          "title": "오원석",
-          "traffic": "200+",
-          "context": "김도영도 노시환도 놀랐다! 일본서 뛰는데 한국 같은 이 느낌…K-응원과 함께 金 간다 [AG 현장]"
+          "context": "개혁신당 천하람, 순천 대신 ‘송도’ 출마설… 올초 이사후 보폭 넓혀 [인천 정가 레이더]"
         },
         {
           "title": "휴게소",
@@ -30,38 +55,13 @@
           "title": "조현아",
           "traffic": "2000+",
           "context": "'17㎏ 감량' 조현아, 몰라보게 늘씬해진 모습 '눈길'"
-        },
-        {
-          "title": "lotto result 6/45",
-          "traffic": "200+",
-          "context": null
-        },
-        {
-          "title": "sbs",
-          "traffic": "200+",
-          "context": "Elevator Breakdown at Daejeon Hypermarket Traps 5 People Before Rescue"
-        },
-        {
-          "title": "한소희",
-          "traffic": "2000+",
-          "context": "'인턴' 한소희가 선택한 구리 52억 펜트하우스는[누구집]"
-        },
-        {
-          "title": "정시아",
-          "traffic": "1000+",
-          "context": "정시아 \"VIP 조리원, 아이 딱 4명...양현석 아들도 있었다\" - 머니투데이"
-        },
-        {
-          "title": "로또",
-          "traffic": "20000+",
-          "context": "1243회 로또 1등 ‘9, 18, 24, 38, 43, 44’"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-26T15:18:46.526Z",
+      "fetched": "2026-09-26T20:19:07.762Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-26T15:18:46.526Z",
+      "fetched": "2026-09-26T20:19:07.762Z",
       "items": [
         {
           "title": "문화방송",
