@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-25T20:50:36.604Z",
+  "updated": "2026-09-26T02:25:16.513Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-25T20:50:36.604Z",
+      "fetched": "2026-09-26T02:25:16.513Z",
       "items": [
         {
-          "title": "록히드 마틴 f-35 라이트닝 ii",
-          "traffic": "100+",
-          "context": "호주가 수리 위해 美 보낸 F-35기 부품... 중국 손에 들어갔다"
+          "title": "2026년 아시안 게임",
+          "traffic": "20000+",
+          "context": "한국 야구 '실업팀' 일본에 0-5‥예상 밖 완패"
         },
         {
-          "title": "보이스 피싱",
-          "traffic": "100+",
-          "context": "\"월 1000만원\" 제안에 태국行…123억대 보이스피싱 가담한 고3 징역형"
+          "title": "nep vs jpn",
+          "traffic": "2000+",
+          "context": "JPN vs NEP Today’s Match Prediction & Cricket Betting Tips: Asian Games 2026, Match 5, September 26"
         },
         {
-          "title": "네이션스리그",
-          "traffic": "1000+",
-          "context": "\"골문 앞에서 이걸 놓쳐\" 'NO 은퇴' 호날두, 홈런쇼 '굴욕'→VAR '노골'…포르투갈, 웨일스 1-0 신승"
-        },
-        {
-          "title": "며느리",
+          "title": "페데리코 발베르데",
           "traffic": "500+",
-          "context": "\"매달 내려갔는데\"…결혼 후 첫 명절, 시어머니에게 혼난 며느리"
+          "context": "\"LEE 완전히 자리 잡았다\"...이강인의 '미친' 활약, 현지 매체도 벌써 반했다! \"포지션 상관없이 준수한 경기력 보장\""
         },
         {
-          "title": "이탈리아 대 벨기에",
-          "traffic": "100+",
-          "context": "이탈리아, 벨기에와 경기 예정…로베르토 만치니 감독, 중대한 발언 내놓아."
+          "title": "이자",
+          "traffic": "2000+",
+          "context": "\"이자 19% 적금, 안들면 바보 아니에요?\"…청년층, 76% 더 부었다"
         },
         {
-          "title": "상화로",
-          "traffic": "100+",
-          "context": "30분 길이 5분으로…대구 달서구 상화로 지하도로 사업 탄력"
+          "title": "시체",
+          "traffic": "2000+",
+          "context": null
         },
         {
-          "title": "난폭운전",
+          "title": "브레이브스 대 말린스",
+          "traffic": "500+",
+          "context": "애틀랜타, 마이애미 페레스에 완봉승 헌납…김하성은 이틀 연속 결장"
+        },
+        {
+          "title": "과일",
+          "traffic": "10000+",
+          "context": "“혼수 상태로 실려온다” 당뇨 의사가 질색하는 과일 2가지"
+        },
+        {
+          "title": "아시안 게임",
+          "traffic": "2000+",
+          "context": "[그래픽] 아시안게임 메달 현황…기계체조·3X3농구·카누 金 추가 (25일 기준)"
+        },
+        {
+          "title": "박명수",
           "traffic": "200+",
-          "context": "\"딸 아파서\"…국도서 시속 157㎞, 10분간 22차례 법 어긴 50대 운전자"
+          "context": "박명수 기도 통했네…'무용 엘리트' 딸 수시로 대학 합격"
         },
         {
-          "title": "türkiye vs france",
-          "traffic": "200+",
-          "context": "Turkey vs France: UEFA Nations League stats & head-to-head"
-        },
-        {
-          "title": "사회적 고립",
-          "traffic": "200+",
-          "context": "“일주일 동안 전화 한통 안와”…쓸쓸히 죽음 맞는 노인들"
-        },
-        {
-          "title": "윌스미스",
+          "title": "김가연",
           "traffic": "100+",
-          "context": "Rob Lowe awkwardly admits he was ‘the only person happy’ when Will Smith slapped Chris Rock at Oscars"
+          "context": "김가연 모친, 사위보다 6살 어린 손주사위에 대만족 \"마음에 쏙 들어\" (게임부부)"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-25T20:50:36.604Z",
+      "fetched": "2026-09-26T02:25:16.513Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-25T20:50:36.604Z",
+      "fetched": "2026-09-26T02:25:16.513Z",
       "items": [
         {
           "title": "문화방송",
