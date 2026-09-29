@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-29T11:45:01.727Z",
+  "updated": "2026-09-29T17:12:08.445Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-29T11:45:01.727Z",
+      "fetched": "2026-09-29T17:12:08.445Z",
       "items": [
         {
-          "title": "지소연",
-          "traffic": "500+",
-          "context": "‘첫 결승 도전’ 여자축구, 지소연·최유리·윤수정 한일전 출격"
-        },
-        {
-          "title": "산사태",
-          "traffic": "500+",
-          "context": "네팔 대홍수, 탄소 배출국 ‘책임액’ 미·중 압도적…국가간 소송은 미지수"
-        },
-        {
-          "title": "콜레스테롤",
-          "traffic": "1000+",
-          "context": "콩 한 줌의 힘, '대두'의 효능 5가지… \"콜레스테롤·혈압 낮추고 뼈 건강 지켜\""
-        },
-        {
-          "title": "공매도",
-          "traffic": "1000+",
-          "context": "200% 넘게 오르더니 \"떨어질 때 됐나\"…공매도 몰렸다"
-        },
-        {
-          "title": "항소",
-          "traffic": "1000+",
-          "context": "檢, \"이재명 아들 군 면제\" 허위글 이수정 항소 기각 요청"
-        },
-        {
-          "title": "북항친수공원",
-          "traffic": "1000+",
-          "context": "[포토타임] ‘부캉이’ 물대포에 유유히 역주행…구조 실패, 10월 2일 다시 시도"
-        },
-        {
-          "title": "강은탁",
+          "title": "이수현",
           "traffic": "200+",
-          "context": "강은탁, 결혼 3년 만에 2세 준비 \"아빠 되려니 父 故신우철 감독 그리워\""
+          "context": "악뮤 이수현, 30㎏ 감량 실감나는 근황‥턱선까지 날렵"
         },
         {
-          "title": "미스코리아",
+          "title": "클로드",
+          "traffic": "1000+",
+          "context": "[AI는 지금] 앤트로픽, 오픈AI '가성비 전략'에 맞불…소넷 5.5 공개"
+        },
+        {
+          "title": "정부24",
+          "traffic": "1000+",
+          "context": "(설명) 개인정보 털린 정부24, 늑장 통지까지... 뒷북 공지 행안부에 국민 분통(문화)"
+        },
+        {
+          "title": "천궁",
+          "traffic": "1000+",
+          "context": "한국에 천궁-Ⅱ 줄 돈 없다던 이라크, 튀르키예·프랑스 방공망 추가 도입"
+        },
+        {
+          "title": "단발",
+          "traffic": "1000+",
+          "context": "\"크~\" 송혜교, 안경 꼈을 뿐인데...감탄 부르는 '지성미 폭발' 비주얼"
+        },
+        {
+          "title": "도맑음",
+          "traffic": "200+",
+          "context": "[날씨] 충북 곳곳 아침 짙은 안개…낮 최고 24~27도"
+        },
+        {
+          "title": "wnba playoffs",
+          "traffic": "1000+",
+          "context": "A'ja Wilson and Breanna Stewart put Las Vegas Aces and New York Liberty on brink of series sweeps"
+        },
+        {
+          "title": "xrp",
+          "traffic": "1000+",
+          "context": "XRP Eyes $1.80 to $1.90 If It Clears 50-Week EMA: Analyst"
+        },
+        {
+          "title": "공군사관학교",
+          "traffic": "1000+",
+          "context": "공군사관학교 관사서 부사관 숨진 채 발견…군 당국 수사"
+        },
+        {
+          "title": "중증외상센터",
           "traffic": "2000+",
-          "context": "'미코 진' 우서윤, 야구장서 춤 실력 공개"
-        },
-        {
-          "title": "australia vs brazil",
-          "traffic": "2000+",
-          "context": "Australia v Brazil: men’s international football friendly – live"
-        },
-        {
-          "title": "호주 대 브라질",
-          "traffic": "10000+",
-          "context": "“비판은 제로 영향”…안첼로티, 혹평에도 브라질 세대교체 강행 “젊은 선수들과 새로운 선수들에게 출전 기회를 주..."
+          "context": "'증조부 논란' 하영 떠난 '중증외상센터', 러블리즈 정예인 합류"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-29T03:08:46.928Z",
+      "fetched": "2026-09-29T17:12:08.445Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -84,20 +84,20 @@
           "artist": "코르티스"
         },
         {
-          "title": "Love Options",
-          "artist": "베스티"
-        },
-        {
           "title": "Pop Off Pop Off",
           "artist": "키키"
         },
         {
-          "title": "퇴사할게여 (Narr. 기안84)",
-          "artist": "소연"
+          "title": "Love Options",
+          "artist": "베스티"
         },
         {
           "title": "GRLS",
           "artist": "튜이드"
+        },
+        {
+          "title": "퇴사할게여 (Narr. 기안84)",
+          "artist": "소연"
         },
         {
           "title": "Lemon Tang",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-29T11:45:01.727Z",
+      "fetched": "2026-09-29T17:12:08.445Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 15196
+          "views": 13855
         },
         {
           "title": "한국방송공사",
-          "views": 8242
+          "views": 7846
         },
         {
-          "title": "금성대군",
-          "views": 7040
+          "title": "오유경 (아나운서)",
+          "views": 6677
         },
         {
           "title": "육영수 저격 사건",
-          "views": 6846
+          "views": 5431
         },
         {
           "title": "한국교육방송공사",
-          "views": 6147
+          "views": 5353
         },
         {
-          "title": "단종 (조선)",
-          "views": 5971
+          "title": "비웨사 다니엘 가사마",
+          "views": 5092
         },
         {
-          "title": "엄흥도",
-          "views": 5551
+          "title": "우루과이 축구 국가대표팀",
+          "views": 4624
+        },
+        {
+          "title": "우루과이",
+          "views": 4561
+        },
+        {
+          "title": "김민수 (2006년)",
+          "views": 3458
         },
         {
           "title": "2026년 아시안 게임 메달 집계",
-          "views": 4172
-        },
-        {
-          "title": "한명회",
-          "views": 4095
-        },
-        {
-          "title": "진안 (농구 선수)",
-          "views": 3286
+          "views": 3456
         }
       ]
     }
