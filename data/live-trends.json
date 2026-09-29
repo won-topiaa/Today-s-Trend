@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-29T17:12:08.445Z",
+  "updated": "2026-09-29T21:37:06.761Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-29T17:12:08.445Z",
+      "fetched": "2026-09-29T21:37:06.761Z",
       "items": [
         {
-          "title": "이수현",
+          "title": "발롱도르",
+          "traffic": "100+",
+          "context": "발롱도르 투표 끝! ‘28%’→‘45%’ 배당률 급상승한 야말, 케인 제치고 발롱도르 거머쥘까?"
+        },
+        {
+          "title": "장한별",
           "traffic": "200+",
-          "context": "악뮤 이수현, 30㎏ 감량 실감나는 근황‥턱선까지 날렵"
+          "context": "장한별, 첫 단독콘서트 2분만에 전석 매진…막강한 팬덤 화력에 '흥행 보증수표' 입증"
         },
         {
-          "title": "클로드",
-          "traffic": "1000+",
-          "context": "[AI는 지금] 앤트로픽, 오픈AI '가성비 전략'에 맞불…소넷 5.5 공개"
+          "title": "통장",
+          "traffic": "100+",
+          "context": "“분양가가 수십억인데 무슨 소용”…수년간 부어온 청약통장 집어 던지는 2030"
         },
         {
-          "title": "정부24",
-          "traffic": "1000+",
-          "context": "(설명) 개인정보 털린 정부24, 늑장 통지까지... 뒷북 공지 행안부에 국민 분통(문화)"
+          "title": "czechia vs england",
+          "traffic": "100+",
+          "context": "Czech Republic vs England LIVE: Nations League score, lineups, commentary & updates"
         },
         {
-          "title": "천궁",
-          "traffic": "1000+",
-          "context": "한국에 천궁-Ⅱ 줄 돈 없다던 이라크, 튀르키예·프랑스 방공망 추가 도입"
+          "title": "이다해",
+          "traffic": "500+",
+          "context": "“누가 8개월 임산부로 봐?” 이다해, 얼마나 말랐길래..절친 심진화도 깜짝"
         },
         {
-          "title": "단발",
-          "traffic": "1000+",
-          "context": "\"크~\" 송혜교, 안경 꼈을 뿐인데...감탄 부르는 '지성미 폭발' 비주얼"
+          "title": "황보라",
+          "traffic": "500+",
+          "context": "'유튜브' 황보라 아들, 시장 갔다가 오열…단호한 훈육"
         },
         {
-          "title": "도맑음",
+          "title": "김병주",
           "traffic": "200+",
-          "context": "[날씨] 충북 곳곳 아침 짙은 안개…낮 최고 24~27도"
+          "context": "\"포병 출신이 뭘 아냐\" 고성에 '똥별' 공방까지…국방위, 北 지뢰 결의안 결국 불발"
         },
         {
-          "title": "wnba playoffs",
-          "traffic": "1000+",
-          "context": "A'ja Wilson and Breanna Stewart put Las Vegas Aces and New York Liberty on brink of series sweeps"
+          "title": "암살자(들)",
+          "traffic": "500+",
+          "context": "영화라는 이름 아래, 선 넘는 ‘역사 왜곡’"
         },
         {
-          "title": "xrp",
-          "traffic": "1000+",
-          "context": "XRP Eyes $1.80 to $1.90 If It Clears 50-Week EMA: Analyst"
+          "title": "한가인",
+          "traffic": "200+",
+          "context": "한가인, 먹는 알부민 추천 논란에 사과…\"내돈내산이지만 혼란 드려 진심 죄송\""
         },
         {
-          "title": "공군사관학교",
-          "traffic": "1000+",
-          "context": "공군사관학교 관사서 부사관 숨진 채 발견…군 당국 수사"
-        },
-        {
-          "title": "중증외상센터",
-          "traffic": "2000+",
-          "context": "'증조부 논란' 하영 떠난 '중증외상센터', 러블리즈 정예인 합류"
+          "title": "고소영",
+          "traffic": "500+",
+          "context": "고소영, 손 주름 기사에 심경 고백 \"나 상처받았어\"…반면 호평 댓글 이어져 [마데핫리뷰]"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-29T17:12:08.445Z",
+      "fetched": "2026-09-29T21:37:06.761Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -80,16 +80,16 @@
           "artist": "리센느"
         },
         {
+          "title": "Love Options",
+          "artist": "베스티"
+        },
+        {
           "title": "REDRED",
           "artist": "코르티스"
         },
         {
           "title": "Pop Off Pop Off",
           "artist": "키키"
-        },
-        {
-          "title": "Love Options",
-          "artist": "베스티"
         },
         {
           "title": "GRLS",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-29T17:12:08.445Z",
+      "fetched": "2026-09-29T21:37:06.761Z",
       "items": [
         {
           "title": "문화방송",
