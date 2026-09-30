@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-30T02:50:58.308Z",
+  "updated": "2026-09-30T11:31:24.147Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-30T02:50:58.308Z",
+      "fetched": "2026-09-30T11:31:24.147Z",
       "items": [
         {
-          "title": "성현주",
-          "traffic": "500+",
-          "context": "\"허경환과 자주 잤다\" 유부녀 개그우먼 '폭로' - 머니투데이"
-        },
-        {
-          "title": "유재명",
-          "traffic": "500+",
-          "context": "‘백발’ 유재명, 유재석보다 동생이었다..“이름 부르기 좀” 반전 나이에 폭소 [Oh!쎈 예고]"
-        },
-        {
-          "title": "경기도교육청",
+          "title": "이완섭",
           "traffic": "200+",
-          "context": "부산시교육청, 국·공·사립 중등학교 교사 471명 선발"
+          "context": "대통령은 또 “속도내라”지만…호남반도체 ‘실행 계획’이 없다"
         },
         {
-          "title": "멕시코 대 페루",
-          "traffic": "5000+",
-          "context": "Mexico vs Peru: Friendlies stats & head-to-head"
+          "title": "혼외자",
+          "traffic": "500+",
+          "context": "“해외서 딴남자 애까지 낳았는데 이혼안해줍니다”"
         },
         {
-          "title": "아시안게임 롤",
-          "traffic": "1000+",
-          "context": "[아시안게임] 제카 앞세운 한국 LoL, 대만 꺾고 첫 승"
+          "title": "west indies vs india",
+          "traffic": "200+",
+          "context": "IND vs WI 2nd ODI Live Streaming: When And Where To Watch, Pitch Report And Weather Update"
         },
         {
-          "title": "라민 야말",
-          "traffic": "1000+",
-          "context": "스페인, 크로아티아 4-1 격파하고 UNL 2연승…야말 멀티골 폭발"
+          "title": "남보라",
+          "traffic": "200+",
+          "context": "남보라, 아기 두고 남대문시장 갔다가…형님 \"아기 두고?\" 잡도리 (보라언니동생)"
         },
         {
-          "title": "다음",
+          "title": "이현중",
           "traffic": "2000+",
-          "context": "윤대진 前검사장 \"형에 내가 변호사 소개\"…尹에 유리한 증언"
+          "context": "허재 vs 이현중, 한국 농구 최고는?…전희철 \"조던-르브론 논쟁\""
         },
         {
-          "title": "김사랑",
-          "traffic": "10000+",
-          "context": "김사랑 파격 비주얼…“뉴욕 야장서 피자 먹는데 이렇게 입어?”"
+          "title": "티빙",
+          "traffic": "1000+",
+          "context": "[잇슈 컬처] JYP 박진영, 문체위 국정감사 증인 채택"
         },
         {
-          "title": "핵무기",
+          "title": "동메달",
           "traffic": "5000+",
-          "context": "[삶-특집] \"韓 현무 미사일 2000기로도 北 핵무기 1기 감당 못한다\""
+          "context": "나고야 찾은 정의선, 양궁팀에 선사한 ‘특식’ 무엇?"
         },
         {
-          "title": "빈곤",
-          "traffic": "2000+",
-          "context": "“국민연금 65세→68세로 늦추자?”…개혁 또 나오는 이유는? [잇슈 머니]"
+          "title": "코스모 로보틱스",
+          "traffic": "500+",
+          "context": "[단독]경찰, 코스모로보틱스 압수수색…로봇 35억 허위매출 혐의"
+        },
+        {
+          "title": "우크라이나 공군",
+          "traffic": "1000+",
+          "context": "러시아의 치밀한 연쇄 공격…싹 쓸려나간 우크라이나 [지금이뉴스]"
+        },
+        {
+          "title": "성영탁",
+          "traffic": "1000+",
+          "context": "10R 지명에서 韓 최초 퍼펙트게임+AG 금메달까지, 기적을 만든 성영탁 “자고 일어나면 꿈일까 걱정해”"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-30T02:50:58.308Z",
+      "fetched": "2026-09-30T11:31:24.147Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -84,12 +84,16 @@
           "artist": "베스티"
         },
         {
-          "title": "REDRED",
-          "artist": "코르티스"
-        },
-        {
           "title": "Pop Off Pop Off",
           "artist": "키키"
+        },
+        {
+          "title": "CRASH",
+          "artist": "ALLDAY PROJECT"
+        },
+        {
+          "title": "REDRED",
+          "artist": "코르티스"
         },
         {
           "title": "GRLS",
@@ -98,17 +102,13 @@
         {
           "title": "퇴사할게여 (Narr. 기안84)",
           "artist": "소연"
-        },
-        {
-          "title": "Lemon Tang",
-          "artist": "Hearts2Hearts"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-30T02:50:58.308Z",
+      "fetched": "2026-09-30T11:31:24.147Z",
       "items": [
         {
           "title": "문화방송",
