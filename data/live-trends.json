@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-30T11:31:24.147Z",
+  "updated": "2026-09-30T17:10:18.656Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-09-30T11:31:24.147Z",
+      "fetched": "2026-09-30T17:10:18.656Z",
       "items": [
         {
-          "title": "이완섭",
-          "traffic": "200+",
-          "context": "대통령은 또 “속도내라”지만…호남반도체 ‘실행 계획’이 없다"
-        },
-        {
-          "title": "혼외자",
+          "title": "김형은",
           "traffic": "500+",
-          "context": "“해외서 딴남자 애까지 낳았는데 이혼안해줍니다”"
+          "context": "심진화, 첫 월세방 떠올리며 먹먹…\"故 김형은 보낸 보험금으로\" - 머니투데이"
         },
         {
-          "title": "west indies vs india",
-          "traffic": "200+",
-          "context": "IND vs WI 2nd ODI Live Streaming: When And Where To Watch, Pitch Report And Weather Update"
+          "title": "wnba playoffs",
+          "traffic": "500+",
+          "context": "Breanna Stewart talks big win in Brooklyn"
         },
         {
-          "title": "남보라",
-          "traffic": "200+",
-          "context": "남보라, 아기 두고 남대문시장 갔다가…형님 \"아기 두고?\" 잡도리 (보라언니동생)"
+          "title": "방탄소년단",
+          "traffic": "500+",
+          "context": "직접 글 쓰고, 음악 골라… 큐레이터 된 RM “이번 전시는 아주 긴 내 소개”"
         },
         {
-          "title": "이현중",
+          "title": "비타민 c",
+          "traffic": "500+",
+          "context": "해썹인증원, 국제비교숙련도 평가 3년 연속 ‘만족’…영양성분 분석 신뢰도 입증"
+        },
+        {
+          "title": "봉누도",
+          "traffic": "500+",
+          "context": "봉누도2, 경찰은 왜 '대격변'이 일어나야 했을까"
+        },
+        {
+          "title": "서정희",
           "traffic": "2000+",
-          "context": "허재 vs 이현중, 한국 농구 최고는?…전희철 \"조던-르브론 논쟁\""
+          "context": "서정희, 65세에 시술 고백 \"이렇게 만족스러울 수가…\""
         },
         {
-          "title": "티빙",
-          "traffic": "1000+",
-          "context": "[잇슈 컬처] JYP 박진영, 문체위 국정감사 증인 채택"
+          "title": "고현정",
+          "traffic": "2000+",
+          "context": "고현정 맞아? 고윤정인 줄..50대 중반이라더니 여전한 미스코리아 '선'"
         },
         {
-          "title": "동메달",
-          "traffic": "5000+",
-          "context": "나고야 찾은 정의선, 양궁팀에 선사한 ‘특식’ 무엇?"
-        },
-        {
-          "title": "코스모 로보틱스",
+          "title": "2026년 아시안게임",
           "traffic": "500+",
-          "context": "[단독]경찰, 코스모로보틱스 압수수색…로봇 35억 허위매출 혐의"
+          "context": "천포젠, 2026 아시안게임 남자 110kg 역도 결승 나고야서 출전"
         },
         {
-          "title": "우크라이나 공군",
-          "traffic": "1000+",
-          "context": "러시아의 치밀한 연쇄 공격…싹 쓸려나간 우크라이나 [지금이뉴스]"
+          "title": "재건축",
+          "traffic": "2000+",
+          "context": "“갈라진 아파트 벽이 예뻐보여요”…분당 주민들, 2차 특별정비구역 지정에 ‘환호’"
         },
         {
-          "title": "성영탁",
+          "title": "가상자산",
           "traffic": "1000+",
-          "context": "10R 지명에서 韓 최초 퍼펙트게임+AG 금메달까지, 기적을 만든 성영탁 “자고 일어나면 꿈일까 걱정해”"
+          "context": "전 CFTC 위원 \"크래리티법이 유일한 방법은 아냐...명확한 규칙 나올것\""
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-09-30T11:31:24.147Z",
+      "fetched": "2026-09-30T17:10:18.656Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-09-30T11:31:24.147Z",
+      "fetched": "2026-09-30T17:10:18.656Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 13855
+          "views": 12424
         },
         {
           "title": "한국방송공사",
-          "views": 7846
-        },
-        {
-          "title": "오유경 (아나운서)",
-          "views": 6677
-        },
-        {
-          "title": "육영수 저격 사건",
-          "views": 5431
+          "views": 8224
         },
         {
           "title": "한국교육방송공사",
-          "views": 5353
+          "views": 5307
         },
         {
-          "title": "비웨사 다니엘 가사마",
-          "views": 5092
+          "title": "장미란",
+          "views": 5212
         },
         {
-          "title": "우루과이 축구 국가대표팀",
-          "views": 4624
+          "title": "육영수 저격 사건",
+          "views": 5157
         },
         {
-          "title": "우루과이",
-          "views": 4561
-        },
-        {
-          "title": "김민수 (2006년)",
-          "views": 3458
+          "title": "안세영",
+          "views": 4401
         },
         {
           "title": "2026년 아시안 게임 메달 집계",
-          "views": 3456
+          "views": 3472
+        },
+        {
+          "title": "허진호",
+          "views": 2753
+        },
+        {
+          "title": "노재원 (배우)",
+          "views": 2547
+        },
+        {
+          "title": "박혜정 (역도 선수)",
+          "views": 2356
         }
       ]
     }
