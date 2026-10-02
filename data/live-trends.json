@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-02T16:58:51.091Z",
+  "updated": "2026-10-02T21:33:18.099Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-02T16:58:51.091Z",
+      "fetched": "2026-10-02T21:33:18.099Z",
       "items": [
         {
-          "title": "야구",
-          "traffic": "2000+",
-          "context": "추신수가 본 AG 야구 금메달과 한국의 미래, “기대되지만… 리그가 명확한 플랜 가져야”"
+          "title": "에코프로",
+          "traffic": "100+",
+          "context": "에코프로, 사장단 인사 조기 단행…최상운·박종환 사장 승진"
         },
         {
-          "title": "김민",
-          "traffic": "2000+",
-          "context": "카메라 밖에선 합기도 사범…‘나 혼자 산다’ 김민, 무술 10단의 두 얼굴"
+          "title": "연기금",
+          "traffic": "100+",
+          "context": "이틀 연속 순매수 1위…연기금 콕 집은 종목"
         },
         {
-          "title": "최동원",
+          "title": "현대자동차그룹",
+          "traffic": "100+",
+          "context": "“새끼손가락 묶고 하루 일해봤더니”…휴머노이드 로봇 아틀라스의 ‘네 손가락’ 손기술은?"
+        },
+        {
+          "title": "경제",
           "traffic": "500+",
-          "context": null
+          "context": "엔화 개입, 무엇이 과장됐나…일본 경제 파멸론이 놓치고 있는 것들"
         },
         {
-          "title": "여행",
-          "traffic": "20000+",
-          "context": "“괌 비행기 누워서 갑니다”…한국인 떠나자 벌어진 충격 근황 [잇슈#태그]"
+          "title": "에릭",
+          "traffic": "200+",
+          "context": "‘에릭♥’ 나혜미, 두 아들 사진 공개...“중장비 러버들”"
         },
         {
-          "title": "진양곤",
-          "traffic": "1000+",
-          "context": "진양곤 HLB그룹 의장, 개인법인 '에포케' 통해 계열사 지분 확대"
+          "title": "분당 신도시",
+          "traffic": "200+",
+          "context": "한토신 \"성남시, 분당 한솔123 특별정비구역 지정 제안 수용\""
         },
         {
-          "title": "이상순",
-          "traffic": "2000+",
-          "context": "'복귀' 이상순 \"완전히 나은 건 아니다\"…아침 러닝까지 \"저도 살아보겠다고\" [엑's 이슈]"
-        },
-        {
-          "title": "신랑",
-          "traffic": "1000+",
-          "context": "'11만원 뷔페' 결혼식에 5만원 내고 식사한 커플…\"모르는 사람\" - 머니투데이"
-        },
-        {
-          "title": "사우디 아라비아",
-          "traffic": "2000+",
-          "context": "사우디 ·후티, 상호 수도 공습… 전선 무한 확대"
-        },
-        {
-          "title": "타잔",
+          "title": "연금",
           "traffic": "5000+",
-          "context": "\"관객 믿고 몸 던졌다 그대로 '쿵'\"…올데프 타잔, 축제서 추락"
+          "context": "기초연금 '소득 하위 70%' 기준 바꾼다…중위소득 연계 재추진"
         },
         {
-          "title": "south korea vs venezuela",
-          "traffic": "1000+",
-          "context": "[Photo] Manager Moreno pushes for more aggressive approach - CHOSUNBIZ"
+          "title": "중국 축구 국가대표팀",
+          "traffic": "500+",
+          "context": "'대충격, 아시안게임 폭망이 문제가 아니다' 중국 축구, 팔레스타인과의 안방 친선 A매치 0-5 역대급 참패..비난 대폭발 \"팀 전체가 몽유병 환자 같았다\""
+        },
+        {
+          "title": "김경문",
+          "traffic": "2000+",
+          "context": "15년간 포수 GG 독점한 ‘양(의지)·강(민호)’ 체제, 수비이닝 미달로 스스로 무너졌다...이를 대체할 건 ‘허’(인서)밖에 없다 [남정훈의 비욘드 더 그라운드]"
+        },
+        {
+          "title": "france vs italy",
+          "traffic": "500+",
+          "context": "France 1-1 Italy: Michael Olise scores before Alessandro Bastoni equalises in Nations League"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-02T16:58:51.091Z",
+      "fetched": "2026-10-02T21:33:18.099Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -84,12 +84,12 @@
           "artist": "리센느"
         },
         {
-          "title": "REDRED",
-          "artist": "코르티스"
-        },
-        {
           "title": "Love Options",
           "artist": "베스티"
+        },
+        {
+          "title": "REDRED",
+          "artist": "코르티스"
         },
         {
           "title": "Pop Off Pop Off",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-02T16:58:51.091Z",
+      "fetched": "2026-10-02T21:33:18.099Z",
       "items": [
         {
           "title": "문화방송",
