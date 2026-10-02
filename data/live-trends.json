@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-02T11:31:32.805Z",
+  "updated": "2026-10-02T16:58:51.091Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-02T11:31:32.805Z",
+      "fetched": "2026-10-02T16:58:51.091Z",
       "items": [
         {
-          "title": "무역수지",
-          "traffic": "1000+",
-          "context": "씨티 \"달러-원 1,300원 아래로 빠르게 내리면 당국 매수 가능\""
+          "title": "야구",
+          "traffic": "2000+",
+          "context": "추신수가 본 AG 야구 금메달과 한국의 미래, “기대되지만… 리그가 명확한 플랜 가져야”"
         },
         {
-          "title": "한국 대 베네수엘라",
-          "traffic": "100000+",
-          "context": "모레노호, 1대 4 참패 극복할까...잠시 뒤 베네수엘라전"
+          "title": "김민",
+          "traffic": "2000+",
+          "context": "카메라 밖에선 합기도 사범…‘나 혼자 산다’ 김민, 무술 10단의 두 얼굴"
         },
         {
-          "title": "채무",
+          "title": "최동원",
           "traffic": "500+",
-          "context": "[단독] “채무조정 못 해줍니다”…절반 넘게 이유 모호한 ‘퇴짜’"
+          "context": null
         },
         {
-          "title": "결승전",
-          "traffic": "2000+",
-          "context": "결승 못 뛴 페이커, 아쉬움은 전혀 없다…\"태극마크 사명감 느껴, 한국 금메달만 목표였다\" [AG 현장]"
+          "title": "여행",
+          "traffic": "20000+",
+          "context": "“괌 비행기 누워서 갑니다”…한국인 떠나자 벌어진 충격 근황 [잇슈#태그]"
         },
         {
-          "title": "외환시장",
-          "traffic": "2000+",
-          "context": "\"삼전닉스 458조 폭탄 터진다\"…환율 거꾸로 가는 '진짜 이유' [분석+]"
-        },
-        {
-          "title": "사우디아라비아",
+          "title": "진양곤",
           "traffic": "1000+",
-          "context": "\"美, 대이란 폭격재개 대비해 사우디·카타르에 패트리엇 증강\""
+          "context": "진양곤 HLB그룹 의장, 개인법인 '에포케' 통해 계열사 지분 확대"
         },
         {
-          "title": "반도체",
-          "traffic": "5000+",
-          "context": "코스피, 하락 출발해 보합권 등락…코스닥, 장중 900선 회복(종합)"
-        },
-        {
-          "title": "가을",
-          "traffic": "1000+",
-          "context": "개천절 연휴 돌풍-천둥 ‘요란한 비’…강원 산간엔 얼음도"
-        },
-        {
-          "title": "유승준",
-          "traffic": "5000+",
-          "context": "유승준, ‘비자 거부’ 또 이겼지만…한국 들어올 수 있을까? [이런뉴스]"
-        },
-        {
-          "title": "아버지",
+          "title": "이상순",
           "traffic": "2000+",
-          "context": "아버지가 아파트 남겨줬더니…새엄마, “내 아들 아냐” 소송"
+          "context": "'복귀' 이상순 \"완전히 나은 건 아니다\"…아침 러닝까지 \"저도 살아보겠다고\" [엑's 이슈]"
+        },
+        {
+          "title": "신랑",
+          "traffic": "1000+",
+          "context": "'11만원 뷔페' 결혼식에 5만원 내고 식사한 커플…\"모르는 사람\" - 머니투데이"
+        },
+        {
+          "title": "사우디 아라비아",
+          "traffic": "2000+",
+          "context": "사우디 ·후티, 상호 수도 공습… 전선 무한 확대"
+        },
+        {
+          "title": "타잔",
+          "traffic": "5000+",
+          "context": "\"관객 믿고 몸 던졌다 그대로 '쿵'\"…올데프 타잔, 축제서 추락"
+        },
+        {
+          "title": "south korea vs venezuela",
+          "traffic": "1000+",
+          "context": "[Photo] Manager Moreno pushes for more aggressive approach - CHOSUNBIZ"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-02T02:59:26.988Z",
+      "fetched": "2026-10-02T16:58:51.091Z",
       "items": [
         {
           "title": "SUN KISS",
@@ -72,24 +72,24 @@
           "artist": "ALLDAY PROJECT"
         },
         {
-          "title": "노스탈지아",
-          "artist": "BIG Naughty"
-        },
-        {
           "title": "LOVE ATTACK",
           "artist": "리센느"
+        },
+        {
+          "title": "노스탈지아",
+          "artist": "BIG Naughty"
         },
         {
           "title": "Deja Vu",
           "artist": "리센느"
         },
         {
-          "title": "Love Options",
-          "artist": "베스티"
-        },
-        {
           "title": "REDRED",
           "artist": "코르티스"
+        },
+        {
+          "title": "Love Options",
+          "artist": "베스티"
         },
         {
           "title": "Pop Off Pop Off",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-02T11:31:32.805Z",
+      "fetched": "2026-10-02T16:58:51.091Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 12944
-        },
-        {
-          "title": "한국방송공사",
-          "views": 8923
+          "views": 12592
         },
         {
           "title": "이홍구 (1934년)",
-          "views": 5493
+          "views": 12202
+        },
+        {
+          "title": "한국방송공사",
+          "views": 8963
+        },
+        {
+          "title": "허미미",
+          "views": 8071
         },
         {
           "title": "한국교육방송공사",
-          "views": 5338
+          "views": 5224
+        },
+        {
+          "title": "김예지 (사격 선수)",
+          "views": 4366
+        },
+        {
+          "title": "송기윤",
+          "views": 4193
         },
         {
           "title": "육영수 저격 사건",
-          "views": 4501
+          "views": 2903
         },
         {
-          "title": "허진호",
-          "views": 2086
+          "title": "주현미",
+          "views": 2814
         },
         {
           "title": "2026년 아시안 게임 메달 집계",
-          "views": 1966
-        },
-        {
-          "title": "한기호 (1952년)",
-          "views": 1899
-        },
-        {
-          "title": "박정희",
-          "views": 1779
-        },
-        {
-          "title": "지셀르 리본느",
-          "views": 1467
+          "views": 2794
         }
       ]
     }
