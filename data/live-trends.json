@@ -1,11 +1,41 @@
 {
-  "updated": "2026-10-03T15:22:26.834Z",
+  "updated": "2026-10-03T20:18:46.173Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-03T15:22:26.834Z",
+      "fetched": "2026-10-03T20:18:46.173Z",
       "items": [
+        {
+          "title": "장윤주",
+          "traffic": "200+",
+          "context": "장윤주, 3년 고민 끝 한국 떠났다…\"더 이상 꿈 안 꿔, 모델도 자신 없어\""
+        },
+        {
+          "title": "조세호",
+          "traffic": "200+",
+          "context": "'조폭 연루설 부인' 조세호, '투턱' 근황…살 붙었네"
+        },
+        {
+          "title": "spain vs czechia",
+          "traffic": "200+",
+          "context": "Czech Republic midfielder warns of Lamine Yamal danger ahead of Nations League showdown"
+        },
+        {
+          "title": "기안84",
+          "traffic": "200+",
+          "context": "기안84, 이번엔 톰 크루즈 만났다…이시언도 “형님 저녁 시간 되신대?”"
+        },
+        {
+          "title": "croatia vs england",
+          "traffic": "1000+",
+          "context": "Croatia vs England: UEFA Nations League stats & head-to-head"
+        },
+        {
+          "title": "크로아티아 대 잉글랜드",
+          "traffic": "5000+",
+          "context": "`쏘니 나 기록 도전해`…`골골골골골골골` 케인, 잉글랜드 역대 네 번째 원정 6경기 연속골 도전"
+        },
         {
           "title": "인도 대 브라질",
           "traffic": "5000+",
@@ -14,47 +44,17 @@
         {
           "title": "금융위기",
           "traffic": "200+",
-          "context": "미국 탄소배출량, 2008년 금융위기 후 GDP와 분리…\"성장해도 줄었다\""
-        },
-        {
-          "title": "jyp 엔터테인먼트",
-          "traffic": "2000+",
-          "context": "‘JYP신사옥 부지’ 논란에 유현준 공개 저격한 서울시···“어떻게 용산공원과 비교하나”"
+          "context": "\"집 보러 오는 사람 없다\"…美 주담대 7.28%, 세계 경제에도 부담"
         },
         {
           "title": "박서진",
           "traffic": "5000+",
-          "context": "'살림남' 박서진, 본선 직전 초비상...박효정에 \"너 필요없어\" 분노"
+          "context": "“응급 처치 해야 해”…박서진, ‘국중박 분장놀이’ 본선 당일 초비상 (살림남)"
         },
         {
           "title": "내일 날씨",
           "traffic": "200000+",
-          "context": "내일 밤부터 전국 곳곳에 비…연휴 마지막 날엔 강풍 분다"
-        },
-        {
-          "title": "weather tomorrow",
-          "traffic": "2000+",
-          "context": "Monsoon withdrawal advances Saturday: Rain expected in south, northeast"
-        },
-        {
-          "title": "이주승",
-          "traffic": "200+",
-          "context": "\"통장 텅장돼\" 이주승, 1억 기부하고 성수동 새 집 이사..천우희와 첫 집들이 [핫피플]"
-        },
-        {
-          "title": "mbc",
-          "traffic": "200+",
-          "context": "Swift Current, Sask., man charged with sexual assault as RCMP look for more victims"
-        },
-        {
-          "title": "유재석",
-          "traffic": "1000+",
-          "context": "김지원 “첫 단독 예능 너무 떨려 잠도 설쳐”…유재석 미담까지 공개"
-        },
-        {
-          "title": "미스터 서",
-          "traffic": "1000+",
-          "context": "14기 영자, 미스터 서와 파국 위기?…“실망했다” (나솔사계)"
+          "context": "[뉴스9 날씨] 선선한 가을 날씨…곳곳 가을비"
         }
       ]
     },
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-03T15:22:26.834Z",
+      "fetched": "2026-10-03T20:18:46.173Z",
       "items": [
         {
           "title": "문화방송",
