@@ -1,75 +1,75 @@
 {
-  "updated": "2026-10-03T02:45:54.482Z",
+  "updated": "2026-10-03T10:46:19.699Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-03T02:45:54.482Z",
+      "fetched": "2026-10-03T10:46:19.699Z",
       "items": [
         {
-          "title": "천위페이",
-          "traffic": "5000+",
-          "context": "中 왕즈이-천위페이 '한국 안 가요, 일본은 갑니다'…코리아오픈 불참→일본 마스터즈 출전 왜?"
+          "title": "아시안게임 축구",
+          "traffic": "10000+",
+          "context": "‘운명의 한일전’ 4연패 도전! 이민성 감독, 파격 결정 ‘양민혁 선발 출격’…이영준-엄지성과 공격 선봉→일본전 선발 공개"
         },
         {
-          "title": "sri lanka vs bangladesh",
-          "traffic": "500+",
-          "context": "3rd Place Play-off, Nisshin, October 03, 2026, Asian Games Men's Cricket Competition"
-        },
-        {
-          "title": "콜레스테롤",
+          "title": "송영길",
           "traffic": "1000+",
-          "context": "콜레스테롤, 우리 몸에 꼭 필요한 성분이다?!"
+          "context": "‘김지용 옹호 송영길’에 조국 “노무현·문재인 정신과 배치”"
         },
         {
-          "title": "개천절",
+          "title": "현대",
           "traffic": "2000+",
-          "context": "개천절 연휴도 '쌀쌀'…내일 밤부터 전국 비"
+          "context": "[자막뉴스] 동시다발 'AI 해킹 공포' 저축은행도 뚫렸다…예가람저축은행 4만명 정보 유출"
         },
         {
-          "title": "최준희",
+          "title": "전쟁",
+          "traffic": "500+",
+          "context": "이 대통령 \"예의 갖췄더니…전쟁 기도?\" 최후통첩 날렸다"
+        },
+        {
+          "title": "india vs west indies",
+          "traffic": "500+",
+          "context": "Can West Indies quell India's batting might in New Chandigarh's ODI debut?"
+        },
+        {
+          "title": "안성맞춤 남사당바우덕이 축제",
           "traffic": "2000+",
-          "context": "‘故최진실 딸’ 최준희, 안타까운 근황 “불안에 발발 떨고 속상해 눈물”"
+          "context": "줄꾼 2.5m 추락…안성 바우덕이축제, 사고 뒤에야 안전매트"
         },
         {
-          "title": "한화 이글스",
-          "traffic": "500+",
-          "context": "'1군 54경기' 포수 허관회 방출 칼날 못 피했다...한화, 6명에게 방출 통보 [공식발표] - 조선비즈"
+          "title": "최불암",
+          "traffic": "5000+",
+          "context": "'암살자(들)' 논란이 유난히 드센 이유… 보수 진영이 절대 못 참는 '성역' 건드렸다"
         },
         {
-          "title": "1박 2일",
-          "traffic": "500+",
-          "context": "문세윤, ‘먹튀’ 논란 사과…법률 상담까지 “죄송합니다”(‘1박2일’) - 조선비즈"
+          "title": "한국전쟁",
+          "traffic": "1000+",
+          "context": "[이인호 시론] 반도체 호황이 안긴 ‘뜻밖의 선물’…곳간부터 채워라"
         },
         {
-          "title": "김구라",
+          "title": "김혜성",
           "traffic": "2000+",
-          "context": "'김구라 아들' 그리 \"아파트 하나 사놨다\" 재산 공개 - 머니투데이"
+          "context": "하성-혜성 ML 가을야구에서 코리안더비 실화?…“누구보다 빨라” 김혜성 2년 연속 PS 엔트리 승선 전망 - 조선비즈"
         },
         {
-          "title": "문가영",
+          "title": "트레킹",
           "traffic": "500+",
-          "context": "레이스카부터 전기 SUV까지…서울에 포르셰 70대가 모인 이유는?"
-        },
-        {
-          "title": "보그",
-          "traffic": "200+",
-          "context": "가을 바지는 딱 다이애나 왕세자비처럼 입으면 됩니다"
+          "context": "\"군사들이 지키던 성벽 안쪽이 통째로 억새밭이라니\"... 황금빛 물드는 5만 6천 평 트레킹 코스"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-03T02:45:54.482Z",
+      "fetched": "2026-10-03T10:46:19.699Z",
       "items": [
-        {
-          "title": "SUN KISS",
-          "artist": "튜이드"
-        },
         {
           "title": "CRASH",
           "artist": "ALLDAY PROJECT"
+        },
+        {
+          "title": "SUN KISS",
+          "artist": "튜이드"
         },
         {
           "title": "LOVE ATTACK",
@@ -84,31 +84,31 @@
           "artist": "리센느"
         },
         {
-          "title": "Love Options",
-          "artist": "베스티"
-        },
-        {
           "title": "REDRED",
           "artist": "코르티스"
+        },
+        {
+          "title": "Love Options",
+          "artist": "베스티"
         },
         {
           "title": "Pop Off Pop Off",
           "artist": "키키"
         },
         {
-          "title": "GRLS",
-          "artist": "튜이드"
-        },
-        {
           "title": "퇴사할게여 (Narr. 기안84)",
           "artist": "소연"
+        },
+        {
+          "title": "GRLS",
+          "artist": "튜이드"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-03T02:45:54.482Z",
+      "fetched": "2026-10-03T10:46:19.699Z",
       "items": [
         {
           "title": "문화방송",
