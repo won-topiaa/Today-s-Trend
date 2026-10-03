@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-03T10:46:19.699Z",
+  "updated": "2026-10-03T15:22:26.834Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-03T10:46:19.699Z",
+      "fetched": "2026-10-03T15:22:26.834Z",
       "items": [
         {
-          "title": "아시안게임 축구",
-          "traffic": "10000+",
-          "context": "‘운명의 한일전’ 4연패 도전! 이민성 감독, 파격 결정 ‘양민혁 선발 출격’…이영준-엄지성과 공격 선봉→일본전 선발 공개"
-        },
-        {
-          "title": "송영길",
-          "traffic": "1000+",
-          "context": "‘김지용 옹호 송영길’에 조국 “노무현·문재인 정신과 배치”"
-        },
-        {
-          "title": "현대",
-          "traffic": "2000+",
-          "context": "[자막뉴스] 동시다발 'AI 해킹 공포' 저축은행도 뚫렸다…예가람저축은행 4만명 정보 유출"
-        },
-        {
-          "title": "전쟁",
-          "traffic": "500+",
-          "context": "이 대통령 \"예의 갖췄더니…전쟁 기도?\" 최후통첩 날렸다"
-        },
-        {
-          "title": "india vs west indies",
-          "traffic": "500+",
-          "context": "Can West Indies quell India's batting might in New Chandigarh's ODI debut?"
-        },
-        {
-          "title": "안성맞춤 남사당바우덕이 축제",
-          "traffic": "2000+",
-          "context": "줄꾼 2.5m 추락…안성 바우덕이축제, 사고 뒤에야 안전매트"
-        },
-        {
-          "title": "최불암",
+          "title": "인도 대 브라질",
           "traffic": "5000+",
-          "context": "'암살자(들)' 논란이 유난히 드센 이유… 보수 진영이 절대 못 참는 '성역' 건드렸다"
+          "context": "India vs Brazil: Friendlies stats & head-to-head"
         },
         {
-          "title": "한국전쟁",
-          "traffic": "1000+",
-          "context": "[이인호 시론] 반도체 호황이 안긴 ‘뜻밖의 선물’…곳간부터 채워라"
+          "title": "금융위기",
+          "traffic": "200+",
+          "context": "미국 탄소배출량, 2008년 금융위기 후 GDP와 분리…\"성장해도 줄었다\""
         },
         {
-          "title": "김혜성",
+          "title": "jyp 엔터테인먼트",
           "traffic": "2000+",
-          "context": "하성-혜성 ML 가을야구에서 코리안더비 실화?…“누구보다 빨라” 김혜성 2년 연속 PS 엔트리 승선 전망 - 조선비즈"
+          "context": "‘JYP신사옥 부지’ 논란에 유현준 공개 저격한 서울시···“어떻게 용산공원과 비교하나”"
         },
         {
-          "title": "트레킹",
-          "traffic": "500+",
-          "context": "\"군사들이 지키던 성벽 안쪽이 통째로 억새밭이라니\"... 황금빛 물드는 5만 6천 평 트레킹 코스"
+          "title": "박서진",
+          "traffic": "5000+",
+          "context": "'살림남' 박서진, 본선 직전 초비상...박효정에 \"너 필요없어\" 분노"
+        },
+        {
+          "title": "내일 날씨",
+          "traffic": "200000+",
+          "context": "내일 밤부터 전국 곳곳에 비…연휴 마지막 날엔 강풍 분다"
+        },
+        {
+          "title": "weather tomorrow",
+          "traffic": "2000+",
+          "context": "Monsoon withdrawal advances Saturday: Rain expected in south, northeast"
+        },
+        {
+          "title": "이주승",
+          "traffic": "200+",
+          "context": "\"통장 텅장돼\" 이주승, 1억 기부하고 성수동 새 집 이사..천우희와 첫 집들이 [핫피플]"
+        },
+        {
+          "title": "mbc",
+          "traffic": "200+",
+          "context": "Swift Current, Sask., man charged with sexual assault as RCMP look for more victims"
+        },
+        {
+          "title": "유재석",
+          "traffic": "1000+",
+          "context": "김지원 “첫 단독 예능 너무 떨려 잠도 설쳐”…유재석 미담까지 공개"
+        },
+        {
+          "title": "미스터 서",
+          "traffic": "1000+",
+          "context": "14기 영자, 미스터 서와 파국 위기?…“실망했다” (나솔사계)"
         }
       ]
     },
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-03T10:46:19.699Z",
+      "fetched": "2026-10-03T15:22:26.834Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 12592
-        },
-        {
-          "title": "이홍구 (1934년)",
-          "views": 12202
+          "views": 13736
         },
         {
           "title": "한국방송공사",
-          "views": 8963
+          "views": 9742
         },
         {
-          "title": "허미미",
-          "views": 8071
+          "title": "김민 (1999년)",
+          "views": 7929
+        },
+        {
+          "title": "개천절",
+          "views": 5918
         },
         {
           "title": "한국교육방송공사",
-          "views": 5224
+          "views": 5013
         },
         {
-          "title": "김예지 (사격 선수)",
-          "views": 4366
-        },
-        {
-          "title": "송기윤",
-          "views": 4193
-        },
-        {
-          "title": "육영수 저격 사건",
-          "views": 2903
+          "title": "김민 (1983년)",
+          "views": 3943
         },
         {
           "title": "주현미",
-          "views": 2814
+          "views": 3662
+        },
+        {
+          "title": "육영수 저격 사건",
+          "views": 3637
         },
         {
           "title": "2026년 아시안 게임 메달 집계",
-          "views": 2794
+          "views": 3155
+        },
+        {
+          "title": "박정희",
+          "views": 2392
         }
       ]
     }
