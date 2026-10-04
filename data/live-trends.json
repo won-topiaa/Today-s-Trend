@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-04T03:16:32.251Z",
+  "updated": "2026-10-04T11:28:28.920Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-04T03:16:32.251Z",
+      "fetched": "2026-10-04T11:28:28.920Z",
       "items": [
         {
-          "title": "조여정",
-          "traffic": "500+",
-          "context": "조여정, 뉴욕서 포착된 동안 비주얼…\"짜장면·라면은 1년에 두 번\""
-        },
-        {
-          "title": "띠별 운세",
+          "title": "f1",
           "traffic": "1000+",
-          "context": "[오늘의 운세] 2026년10월 3일 (음 8월 23일)"
+          "context": "F1 marshal goes viral in brilliant photo as Bahrain GP start delayed - and the memes write themselves"
         },
         {
-          "title": "argentina vs burkina faso",
-          "traffic": "2000+",
-          "context": "Argentina vs Burkina Faso: Friendlies stats & head-to-head"
+          "title": "이예원",
+          "traffic": "500+",
+          "context": "[mhn포토] 전예성, 온 힘을 다해 날린다"
         },
         {
-          "title": "아르헨티나 대 부르키나파소",
-          "traffic": "10000+",
-          "context": "아르헨티나 대 부르키나파소 축구 예측"
-        },
-        {
-          "title": "자전거",
-          "traffic": "2000+",
-          "context": "자전거 동호회 라이딩 도중 버스 충돌‥자전거 운전자 숨져"
-        },
-        {
-          "title": "오타니 쇼헤이",
+          "title": "정수진",
           "traffic": "200+",
-          "context": "“이 모든 일의 근본적인 원인을 제대로 파악하지 못했다” 오타니의 자책…핑계는 없다, 7억달러짜리 책임감"
+          "context": "‘랜덤 계체 실격’ 정수진 “대상 아니라는 지도자 말에 식사했다”"
         },
         {
-          "title": "보그",
-          "traffic": "200+",
-          "context": "케이티 홈즈와 남자 친구의 우아한 베이지 룩!"
+          "title": "카타르",
+          "traffic": "500+",
+          "context": "[아시안게임] 남자배구, 카타르에 3-0 승리…7위로 마무리"
         },
         {
-          "title": "현대 투싼",
-          "traffic": "200+",
-          "context": "[이자Car야] 시동 꺼도 에어컨 ‘쌩쌩’…6년 만에 바뀐 투싼, 뭐가 달라졌나"
+          "title": "팔레스타인 축구 국가대표팀",
+          "traffic": "500+",
+          "context": "'연쇄 충격, 결과도 기자회견도 놀라움 그 자체' 팔레스타인에 0-5 참패 中 감독 \"선수들, 딴 생각하고 있었다\""
         },
         {
-          "title": "퇴직",
+          "title": "플라이 두바이",
+          "traffic": "1000+",
+          "context": "하나씩 드러나는 플라이두바이 부기장 정체…네타냐후와 트럼프, 모두 안보 카드로"
+        },
+        {
+          "title": "홈플러스",
+          "traffic": "1000+",
+          "context": "홈플러스 떠난 자리, 49층 아파트 솟는다"
+        },
+        {
+          "title": "박스권",
+          "traffic": "500+",
+          "context": "삼성전자, 분기 영업이익 100조 시대 '예약'…이번 주 3Q 실적 발표"
+        },
+        {
+          "title": "당진시",
+          "traffic": "1000+",
+          "context": "충남 공주 신풍면서 또 산불…전날 화재 재발화 추정"
+        },
+        {
+          "title": "폭음",
           "traffic": "2000+",
-          "context": "퇴직연금도 ‘투자’ 시대…20대부터 50대까지 한투증권 찾은 까닭 [헤럴드머니페스타2026]"
-        },
-        {
-          "title": "테슬라",
-          "traffic": "2000+",
-          "context": "테슬라 3분기 판매 깜짝 성적표에 주가 급등…AI 사업 기대까지 겹쳤다."
+          "context": "사우디, 후티에 ‘대공세’ 임박? 10만 병력 동원해 원유 수송로 탈환노린다"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-04T03:16:32.251Z",
+      "fetched": "2026-10-04T11:28:28.920Z",
       "items": [
         {
           "title": "CRASH",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-04T03:16:32.251Z",
+      "fetched": "2026-10-04T11:28:28.920Z",
       "items": [
         {
           "title": "문화방송",
