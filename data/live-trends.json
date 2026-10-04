@@ -1,24 +1,34 @@
 {
-  "updated": "2026-10-04T16:06:47.187Z",
+  "updated": "2026-10-04T20:36:44.248Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-04T16:06:47.187Z",
+      "fetched": "2026-10-04T20:36:44.248Z",
       "items": [
+        {
+          "title": "portugal vs norway",
+          "traffic": "500+",
+          "context": "Licensable picture: UEFA Nations League 2026/27 League Phase Matchday 4 match between Portugal and Norway"
+        },
+        {
+          "title": "김혜자",
+          "traffic": "200+",
+          "context": "'김혜자의 안부' 김혜자 나이 85세 삶 조명…내레이션 이병헌"
+        },
         {
           "title": "이희진",
           "traffic": "200+",
-          "context": "“이희진과 100일” 임원희, 과감한 스킨십→마음 고백 (미우새)"
+          "context": "'미우새' 임원희, 이희진과 100일 기념 데이트…드디어 고백"
         },
         {
           "title": "김희애",
           "traffic": "2000+",
-          "context": "김희애는 얼굴, 고소영은 손…‘주름’까지 평가받는 여배우들 [SD이슈]"
+          "context": "‘물광 아이콘’ 김희애, 세월의 흔적에 누리꾼 “주름도 우아해”"
         },
         {
           "title": "넷플릭스",
-          "traffic": "20000+",
+          "traffic": "10000+",
           "context": "'화제성 88.3% 급상승→넷플릭스 1위'…글로벌 인기 쌍끌이 중인 韓 예능 ('기안장2')"
         },
         {
@@ -39,29 +49,19 @@
         {
           "title": "허미미",
           "traffic": "1000+",
-          "context": "유도 대표팀, 혼성단체전 준결승서 카자흐에 패배…결승 실패 [AG 영상]"
+          "context": "할머니가 이어준 태극마크…허미미 재일동포 할머니들과 “대한민국”"
         },
         {
           "title": "thời tiết ngày mai",
           "traffic": "1000+",
-          "context": "Không khí lạnh tràn về, đêm nay và ngày mai, Bắc Bộ trời chuyển lạnh, vùng núi cao có nơi trời rét"
-        },
-        {
-          "title": "내일 날씨",
-          "traffic": "100000+",
-          "context": "[날씨] 연휴 마지막 날 오전까지 전국 비…돌풍·우박 가능성"
-        },
-        {
-          "title": "머스캣",
-          "traffic": "2000+",
-          "context": "'싸서 자주 사 먹었는데'…5년새 71% 폭락하자 농가들 결국"
+          "context": "Dự báo thời tiết ngày 5/10/2026 | TP. Hồ Chí Minh có mây, có mưa rào và dông vài nơi"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-04T16:06:47.187Z",
+      "fetched": "2026-10-04T20:36:44.248Z",
       "items": [
         {
           "title": "CRASH",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-04T16:06:47.187Z",
+      "fetched": "2026-10-04T20:36:44.248Z",
       "items": [
         {
           "title": "문화방송",
