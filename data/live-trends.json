@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-05T23:26:39.227Z",
+  "updated": "2026-10-06T03:42:27.415Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-05T23:26:39.227Z",
+      "fetched": "2026-10-06T03:42:27.415Z",
       "items": [
         {
-          "title": "백악관 대변인",
-          "traffic": "500+",
-          "context": "'기관총 입술' 레빗 前백악관 대변인, 폭스뉴스에 합류"
+          "title": "강신철",
+          "traffic": "5000+",
+          "context": "\"최소 4발 이상 의도적 매설\"…일대 폭파해 '북 지뢰' 제거"
         },
         {
-          "title": "tsla",
-          "traffic": "100+",
-          "context": "Tesla beats Q3 delivery expectations but falls further behind BYD in BEV sales"
-        },
-        {
-          "title": "중앙일보",
+          "title": "티빙",
           "traffic": "2000+",
-          "context": "[핀포인트] [오리온] 미디어 팔아 식품 키운 오리온…중앙일보 M&A전 참전 배경은"
+          "context": "‘미생’ 장그래는 버텼는데 ‘로또 1등’ 공은태는 할 말 다 한다···12년 새 달라진 직장 드라마"
         },
         {
-          "title": "은행",
-          "traffic": "200+",
-          "context": "[사설] AI 해킹 뚫린 은행과 막은 은행, ‘기본’이 차이 갈랐다"
-        },
-        {
-          "title": "남편",
+          "title": "김종민",
           "traffic": "1000+",
-          "context": "\"애 낳고도 혼인신고 거부한 남편…대출 해결되자 '다른 이유' 꺼내 황당\""
+          "context": "“평생소원이 애 아빠”…47살 김종민, 결혼 1년여 만에 2세 소식"
         },
         {
-          "title": "청라하늘대교",
+          "title": "성현주",
+          "traffic": "2000+",
+          "context": "성현주, 먼저 떠난 8살 아들…\"1000일 동안 의식 없었다\""
+        },
+        {
+          "title": "우리은행",
+          "traffic": "2000+",
+          "context": "LG유플러스, 우리은행과 손잡고 통화 기반 금융사기 막는다"
+        },
+        {
+          "title": "김희정",
           "traffic": "200+",
-          "context": "청라하늘대교 통행량 1천만대 돌파…손실보상금 '눈덩이' 우려"
+          "context": "'엄마가 미쳤어요' 김희정·강경헌, 아들 문제로 속앓이..극과 극 모자 이야기"
         },
         {
-          "title": "nvda",
-          "traffic": "200+",
-          "context": "[New York Stock Exchange] Nvidia Hits Record High for Second Day... Indices Close Higher Despite Rate Concerns (Comprehensive)"
+          "title": "네이버",
+          "traffic": "50000+",
+          "context": "서울 달빛야장 소상공인에 687억 특별보증"
         },
         {
-          "title": "강명구",
-          "traffic": "100+",
-          "context": "강명구 의원, 경찰 과태료 절반 가까이 못 걷어…미수납 1조 원"
+          "title": "클로드",
+          "traffic": "10000+",
+          "context": "클로드 이어 챗GPT도 텍스트 워터마크 적용…EU지역 우선 적용"
         },
         {
-          "title": "mu",
-          "traffic": "100+",
-          "context": "SA analyst upgrades/downgrades: MU, NOW, SNDK, ACN"
-        },
-        {
-          "title": "금연",
-          "traffic": "100+",
+          "title": "조세",
+          "traffic": "2000+",
           "context": null
+        },
+        {
+          "title": "엔화",
+          "traffic": "1000+",
+          "context": "토스뱅크 엔화 환전 사고, '오류냐 아니냐'…금융당국 법리 검토 - 머니투데이"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-05T23:26:39.227Z",
+      "fetched": "2026-10-06T03:42:27.415Z",
       "items": [
         {
           "title": "CRASH",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-05T23:26:39.227Z",
+      "fetched": "2026-10-06T03:42:27.415Z",
       "items": [
         {
           "title": "문화방송",
