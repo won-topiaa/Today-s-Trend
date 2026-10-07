@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-06T21:58:49.695Z",
+  "updated": "2026-10-07T03:09:41.661Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-06T21:58:49.695Z",
+      "fetched": "2026-10-07T03:09:41.661Z",
       "items": [
         {
-          "title": "창신 메모리 테크놀로지",
+          "title": "인구감소지역",
+          "traffic": "100+",
+          "context": "‘소멸위기’ 지역 5년 만에 3곳 늘었다···부산 금정·경기 동두천·경남 통영 등 추가"
+        },
+        {
+          "title": "오타니 쇼헤이",
+          "traffic": "200+",
+          "context": "천하의 오타니도 조급한걸까, 애틀랜타 작전 통했다…로버츠 감독 “오타니라도 장타 욕심 버려야 한다”"
+        },
+        {
+          "title": "신협",
+          "traffic": "100+",
+          "context": "신협 부실채권 관리체계 강화…“건전성 관리 기대”"
+        },
+        {
+          "title": "수학",
+          "traffic": "200+",
+          "context": "Sharing AI progress in mathematics"
+        },
+        {
+          "title": "병역",
+          "traffic": "500+",
+          "context": "메달 따면 '로또 청약' 기회까지…\"군인으로 바친 청춘 조롱당해\" 국민청원 하루만에 100명 동의 채워"
+        },
+        {
+          "title": "ins",
+          "traffic": "100+",
+          "context": "‘Head on a guillotine’: ABC says Trump’s threats are already swaying coverage"
+        },
+        {
+          "title": "사과",
+          "traffic": "5000+",
+          "context": "\"金사과 옛말\" 가격 뚝 떨어졌는데…나홀로 급등한 '이 과일' [박상경의 영수증 리뷰]"
+        },
+        {
+          "title": "전국체육대회",
+          "traffic": "200+",
+          "context": "충남선수단, 제107회 전국체전 종합 3위 도전"
+        },
+        {
+          "title": "브루노 페르난데스",
           "traffic": "2000+",
-          "context": "중국行 삼전닉스 핵심 27명…노하우 털린 뒤 3년 안돼 ‘팽’"
+          "context": "‘반전!’ 이강인, 맨체스터 유나이티드 캡틴과 함께 중원을 지배할 수 있을까 “AT·마드리드, 2027년 여름 영입 고려”"
         },
         {
-          "title": "west indies vs india",
-          "traffic": "200+",
-          "context": "No guarantees for Sooryavanshi as India look to build on Asian Games success"
-        },
-        {
-          "title": "해리 케인",
+          "title": "이휘향",
           "traffic": "500+",
-          "context": "98경기 100골 넣은 '괴물'을 어떻게 놓치나…獨 1티어 단독 보도 \"뮌헨, 케인과 2029년까지 재계약 원칙적 합의\"→사실상 '종신 계약' 임박"
-        },
-        {
-          "title": "하이록스",
-          "traffic": "200+",
-          "context": "길거리에 우르르 뛰던 ‘러닝크루’ 안 보여…사라진 2030 다 어디로 갔나 봤더니"
-        },
-        {
-          "title": "배구",
-          "traffic": "200+",
-          "context": "'이름값보다 현재 퍼포먼스' 라미레스가 내세운 KB 첫 원칙... 선수 믿고 무한경쟁 \"우리 OH 경쟁력 상당하다\""
-        },
-        {
-          "title": "크리스 페덱",
-          "traffic": "200+",
-          "context": "1위 무산되자 페덱 아낀다? 아니면 ‘담 증세’ 아직인가…삼성, 6일 KIA전 장찬희 선발 출격 왜?"
-        },
-        {
-          "title": "이휘재",
-          "traffic": "500+",
-          "context": "이휘재, 부친상 비보…‘슈돌’ 함께한 父, 향년 87세로 별세"
-        },
-        {
-          "title": "경비원",
-          "traffic": "200+",
-          "context": "“외모 마음에 안든다” 민원에 경비원 잘려…주민도 발끈"
-        },
-        {
-          "title": "sk그룹",
-          "traffic": "200+",
-          "context": "최태원 회장 SK㈜ 지분 2.26% 매각…재산분할 소송 대응 9440억 마련"
-        },
-        {
-          "title": "김가영",
-          "traffic": "200+",
-          "context": "‘우승후보’ 마르티네스 승부치기 끝에 64강 진출…김가영 강지은 김진아 LPBA 16강 선착[크라운해태PBA-LPBA]"
+          "context": "\"글쓰기 재능\" 이휘향, '조폭 출신 남편'과 닮은 외아들 - 머니투데이"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-06T21:58:49.695Z",
+      "fetched": "2026-10-07T03:09:41.661Z",
       "items": [
         {
           "title": "CRASH",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-06T21:58:49.695Z",
+      "fetched": "2026-10-07T03:09:41.661Z",
       "items": [
         {
           "title": "문화방송",
