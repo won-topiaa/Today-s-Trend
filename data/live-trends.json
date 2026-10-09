@@ -1,75 +1,75 @@
 {
-  "updated": "2026-10-09T03:31:02.154Z",
+  "updated": "2026-10-09T12:14:13.636Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-09T03:31:02.154Z",
+      "fetched": "2026-10-09T12:14:13.636Z",
       "items": [
         {
-          "title": "김연아",
-          "traffic": "200+",
-          "context": "김연아와 동갑내기 라이벌이었는데…美서 전한 깜짝 근황"
+          "title": "성과급",
+          "traffic": "1000+",
+          "context": "삼성전자 성과급 7억5000만원이라더니…세금 떼면 얼마 남을까?"
         },
         {
-          "title": "이다해",
+          "title": "김상식",
           "traffic": "500+",
-          "context": null
+          "context": "검은 셔츠 입으면 이긴다…1억 베트남을 홀린 한국인 감독"
         },
         {
-          "title": "웨이브",
+          "title": "트로트",
+          "traffic": "100+",
+          "context": "‘트로트 프린스’ 김용빈, 소속사 직원 폭로에 당황…“까칠하고 고집 쎄” (사당귀)"
+        },
+        {
+          "title": "민형배",
           "traffic": "500+",
-          "context": "AI‧오디오 기능 '착착'···편의성 극대화 나선 웨이브"
+          "context": "최태원, 호남 반도체부지 첫 방문‥\"가장 빠른 속도로 짓겠다\""
         },
         {
-          "title": "wavve",
+          "title": "전라남도",
           "traffic": "100+",
           "context": null
         },
         {
-          "title": "구해줘! 홈즈",
-          "traffic": "5000+",
-          "context": "故 이주일 제주 별장 12억원에 매물로 나왔다"
+          "title": "로봇",
+          "traffic": "2000+",
+          "context": "[영상] 인간 때려눕힌 183㎝ 로봇 ‘발차기’ 퍽…격투기 중단 명령"
         },
         {
-          "title": "강릉시장",
-          "traffic": "100+",
-          "context": "\"시민과 함께 뿌리내릴 강릉\"…김중남 시장, 취임 100일 기념식수"
+          "title": "노바크 조코비치",
+          "traffic": "2000+",
+          "context": "조코비치, 11년 만에 출전한 차이나오픈서 올해 첫 우승"
         },
         {
-          "title": "nba",
+          "title": "손솔",
+          "traffic": "500+",
+          "context": "진보당 손솔, '부엉이바위' 김태규 발언에 \"의원 자격 없어\""
+        },
+        {
+          "title": "jtbc",
           "traffic": "200+",
-          "context": "Wizards Back AJ Dybantsa as Rebuild Shifts Toward Competition"
+          "context": null
         },
         {
-          "title": "안젤라 박",
-          "traffic": "500+",
-          "context": "\"가족·지인도 몰랐다\"…김인석, 이혼 2년 만에 고백 - 머니투데이"
-        },
-        {
-          "title": "네이마르",
-          "traffic": "500+",
-          "context": "[현장영상] “고마워요, 메시!”…눈물로 보낸 영웅의 마지막 경기"
-        },
-        {
-          "title": "관광",
-          "traffic": "10000+",
-          "context": "[신성욱 교수 칼럼] 가을 단풍 관광(3)~오를레앙과 퀘벡시티 : 칼럼 : 미주 종교신문1위"
+          "title": "매일노동뉴스",
+          "traffic": "100+",
+          "context": "“택시 공짜노동 철폐” 고공농성 194일 만에 땅으로"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-09T03:31:02.154Z",
+      "fetched": "2026-10-09T12:14:13.636Z",
       "items": [
-        {
-          "title": "SUN KISS",
-          "artist": "튜이드"
-        },
         {
           "title": "CRASH",
           "artist": "ALLDAY PROJECT"
+        },
+        {
+          "title": "SUN KISS",
+          "artist": "튜이드"
         },
         {
           "title": "LOVE ATTACK",
@@ -96,59 +96,59 @@
           "artist": "키키"
         },
         {
-          "title": "Pinball",
-          "artist": "리센느"
-        },
-        {
           "title": "퇴사할게여 (Narr. 기안84)",
           "artist": "소연"
+        },
+        {
+          "title": "Pinball",
+          "artist": "리센느"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-09T03:31:02.154Z",
+      "fetched": "2026-10-09T12:14:13.636Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 15457
+          "views": 13893
         },
         {
           "title": "한국방송공사",
-          "views": 12460
+          "views": 11597
+        },
+        {
+          "title": "세계 우주 주간",
+          "views": 9425
+        },
+        {
+          "title": "임종득",
+          "views": 4824
         },
         {
           "title": "한국교육방송공사",
-          "views": 4259
+          "views": 4250
         },
         {
-          "title": "패노메논 페스티벌",
-          "views": 4211
-        },
-        {
-          "title": "권혁 (기업인)",
-          "views": 3602
-        },
-        {
-          "title": "페노메논",
-          "views": 3397
-        },
-        {
-          "title": "흑상어",
-          "views": 3125
-        },
-        {
-          "title": "페스트균",
-          "views": 3001
+          "title": "임세주",
+          "views": 3075
         },
         {
           "title": "5·18 광주 민주화 운동",
-          "views": 2817
+          "views": 3044
         },
         {
           "title": "서영교",
-          "views": 2406
+          "views": 2351
+        },
+        {
+          "title": "앤 카슨",
+          "views": 2299
+        },
+        {
+          "title": "윤소희",
+          "views": 2250
         }
       ]
     }
