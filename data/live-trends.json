@@ -1,75 +1,75 @@
 {
-  "updated": "2026-10-08T22:37:15.083Z",
+  "updated": "2026-10-09T03:31:02.154Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-08T22:37:15.083Z",
+      "fetched": "2026-10-09T03:31:02.154Z",
       "items": [
         {
-          "title": "정청래",
+          "title": "김연아",
           "traffic": "200+",
-          "context": "‘미국서 국감’ 사흘 앞인데... 정청래만 비자 못 받았다"
+          "context": "김연아와 동갑내기 라이벌이었는데…美서 전한 깜짝 근황"
         },
         {
-          "title": "에이치엘비",
-          "traffic": "200+",
-          "context": "HLB 담관암 신약 ‘리라푸그라티닙’ 유럽 허가 본심사 착수"
-        },
-        {
-          "title": "김숙",
-          "traffic": "1000+",
-          "context": "\"이 집 갖고 싶어\" 김숙, '12억원' 故 이주일 별장에 반했다 ('구해줘 홈즈')"
-        },
-        {
-          "title": "조선",
+          "title": "이다해",
           "traffic": "500+",
           "context": null
         },
         {
-          "title": "탁구",
+          "title": "웨이브",
           "traffic": "500+",
-          "context": "7년 만에 열린 보람상조배 생활 탁구대회에 700명 참가"
+          "context": "AI‧오디오 기능 '착착'···편의성 극대화 나선 웨이브"
         },
         {
-          "title": "대구광역시",
+          "title": "wavve",
           "traffic": "100+",
           "context": null
         },
         {
-          "title": "예금",
+          "title": "구해줘! 홈즈",
+          "traffic": "5000+",
+          "context": "故 이주일 제주 별장 12억원에 매물로 나왔다"
+        },
+        {
+          "title": "강릉시장",
+          "traffic": "100+",
+          "context": "\"시민과 함께 뿌리내릴 강릉\"…김중남 시장, 취임 100일 기념식수"
+        },
+        {
+          "title": "nba",
+          "traffic": "200+",
+          "context": "Wizards Back AJ Dybantsa as Rebuild Shifts Toward Competition"
+        },
+        {
+          "title": "안젤라 박",
+          "traffic": "500+",
+          "context": "\"가족·지인도 몰랐다\"…김인석, 이혼 2년 만에 고백 - 머니투데이"
+        },
+        {
+          "title": "네이마르",
+          "traffic": "500+",
+          "context": "[현장영상] “고마워요, 메시!”…눈물로 보낸 영웅의 마지막 경기"
+        },
+        {
+          "title": "관광",
           "traffic": "10000+",
-          "context": "피싱에 속은 모친에게 은행원이 실수로 아들 예금을 깨줬다면?"
-        },
-        {
-          "title": "당구",
-          "traffic": "500+",
-          "context": "학교도 그만둔 16살 당구소녀 이승희, 백민주 꺾고 16강 진출 돌풍"
-        },
-        {
-          "title": "두산에너 빌리티",
-          "traffic": "500+",
-          "context": "대형원전·SMR·가스터빈 총출동…두산에너빌, 압도적 기술 선보여 - 머니투데이"
-        },
-        {
-          "title": "상어",
-          "traffic": "500+",
-          "context": "“플래시 끄라 안 합니까!”…부캉이 지키려 야간 순찰 [잇슈#태그]"
+          "context": "[신성욱 교수 칼럼] 가을 단풍 관광(3)~오를레앙과 퀘벡시티 : 칼럼 : 미주 종교신문1위"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-08T22:37:15.083Z",
+      "fetched": "2026-10-09T03:31:02.154Z",
       "items": [
-        {
-          "title": "CRASH",
-          "artist": "ALLDAY PROJECT"
-        },
         {
           "title": "SUN KISS",
           "artist": "튜이드"
+        },
+        {
+          "title": "CRASH",
+          "artist": "ALLDAY PROJECT"
         },
         {
           "title": "LOVE ATTACK",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-08T22:37:15.083Z",
+      "fetched": "2026-10-09T03:31:02.154Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 15692
-        },
-        {
-          "title": "흑상어",
-          "views": 11883
+          "views": 15457
         },
         {
           "title": "한국방송공사",
-          "views": 9029
-        },
-        {
-          "title": "조희대",
-          "views": 5045
+          "views": 12460
         },
         {
           "title": "한국교육방송공사",
-          "views": 4892
+          "views": 4259
         },
         {
-          "title": "서영교",
-          "views": 3949
+          "title": "패노메논 페스티벌",
+          "views": 4211
+        },
+        {
+          "title": "권혁 (기업인)",
+          "views": 3602
+        },
+        {
+          "title": "페노메논",
+          "views": 3397
+        },
+        {
+          "title": "흑상어",
+          "views": 3125
         },
         {
           "title": "페스트균",
-          "views": 3763
+          "views": 3001
         },
         {
-          "title": "강경헌",
-          "views": 3313
+          "title": "5·18 광주 민주화 운동",
+          "views": 2817
         },
         {
-          "title": "휘성",
-          "views": 3115
-        },
-        {
-          "title": "육영수 저격 사건",
-          "views": 2725
+          "title": "서영교",
+          "views": 2406
         }
       ]
     }
