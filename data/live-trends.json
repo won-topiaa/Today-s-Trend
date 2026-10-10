@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-10T11:31:56.015Z",
+  "updated": "2026-10-10T16:32:11.399Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-10T11:31:56.015Z",
+      "fetched": "2026-10-10T16:32:11.399Z",
       "items": [
         {
-          "title": "로이킴",
+          "title": "aston villa vs brentford",
           "traffic": "100+",
-          "context": "로이킴, 무대선 감성 장인·예능선 웃음 폭격기…반전 매력 통했다"
+          "context": "A Villa - Brentford LIVE. Premier League latest updates"
         },
         {
-          "title": "주우재",
-          "traffic": "100+",
-          "context": "\"이 집 갖고 싶어\" 김숙, '12억원' 故 이주일 별장에 반했다 ('구해줘 홈즈') - 조선비즈"
-        },
-        {
-          "title": "김지민",
-          "traffic": "2000+",
-          "context": "김지민, 임신 중에도 ♥김준호 위해 진수성찬 “임금님 밥상 부럽지 않아” - 조선비즈"
-        },
-        {
-          "title": "psim vs persija jakarta",
+          "title": "상장지수펀드",
           "traffic": "200+",
-          "context": null
+          "context": "\"제2의 엔비디아 놓칠라\"…상장 전인데 개미들 벌써 '들썩' [이수의 ETF줌인]"
         },
         {
-          "title": "동구동락",
-          "traffic": "200+",
-          "context": "리센느 보려고 300명 넘게 밤샘?…대전 동구동락축제 현장 보니"
-        },
-        {
-          "title": "페이커 우표",
-          "traffic": "200+",
-          "context": "'전설' 페이커 이상혁 기념우표 기획전시관 개관"
-        },
-        {
-          "title": "south korea",
-          "traffic": "100+",
-          "context": "US Issues Stance: \"Expects South Korea to Uphold Alliance Standards in Intelligence and Counterintelligence\""
-        },
-        {
-          "title": "국가유공자",
+          "title": "bundesliga",
           "traffic": "500+",
-          "context": "\"유공자 예우 강화\"…보은군, 보훈수당 '월 5만원씩' 인상"
+          "context": "Liveticker | FC Augsburg - Bayern München 2:2 | 5. Spieltag | Bundesliga 2026/27"
         },
         {
-          "title": "천안시티 대 경남",
+          "title": "토트넘 맨유",
+          "traffic": "200+",
+          "context": "A매치 끝나고 꼭 봐야할 유럽 축구 경기 3선"
+        },
+        {
+          "title": "그것이 알고싶다",
           "traffic": "100+",
-          "context": "'드디어 끝났다'…천안시티FC 경남에 신승, 무승행진 14경기서 종지부"
+          "context": "'그것이 알고싶다', 60대女 냉동창고 가둬 죽인 충격 범행의 전말 - 머니투데이"
         },
         {
-          "title": "이창용",
+          "title": "alavés vs atlético",
           "traffic": "500+",
-          "context": "[허원순의 경제로 세상보기] 주52시간 8년, ‘근로 방식과 규제’ 바꿀 때"
+          "context": "Descubre las alineaciones titulares del Alavés-Atlético de Madrid"
+        },
+        {
+          "title": "fotmob",
+          "traffic": "200+",
+          "context": "Michael Olise reaches final decision on Liverpool, Real Madrid, Barcelona moves as Bayern talks begin - Exclusive"
+        },
+        {
+          "title": "당구장",
+          "traffic": "200+",
+          "context": "AI 당구를 아십니까 [스페셜 리포트]"
+        },
+        {
+          "title": "chelsea vs bournemouth",
+          "traffic": "1000+",
+          "context": "Ipswich Town vs Fulham: Premier League preview, team news, stats & head-to-head"
+        },
+        {
+          "title": "ngoại hạng anh",
+          "traffic": "200+",
+          "context": "Trực tiếp bóng đá Chelsea - Bournemouth: Thắng lợi hoàn hảo (Ngoại hạng Anh) (Hết giờ)"
         }
       ]
     },
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-10T11:31:56.015Z",
+      "fetched": "2026-10-10T16:32:11.399Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 13893
+          "views": 13812
+        },
+        {
+          "title": "조수미",
+          "views": 11596
         },
         {
           "title": "한국방송공사",
-          "views": 11597
+          "views": 10759
         },
         {
           "title": "세계 우주 주간",
-          "views": 9425
+          "views": 7913
         },
         {
-          "title": "임종득",
-          "views": 4824
+          "title": "안젤라 박 (방송인)",
+          "views": 6128
         },
         {
           "title": "한국교육방송공사",
-          "views": 4250
+          "views": 4963
         },
         {
-          "title": "임세주",
-          "views": 3075
+          "title": "닥터X: 하얀 마피아의 시대",
+          "views": 3680
         },
         {
-          "title": "5·18 광주 민주화 운동",
-          "views": 3044
-        },
-        {
-          "title": "서영교",
-          "views": 2351
-        },
-        {
-          "title": "앤 카슨",
-          "views": 2299
+          "title": "휘성",
+          "views": 3326
         },
         {
           "title": "윤소희",
-          "views": 2250
+          "views": 2348
+        },
+        {
+          "title": "5·18 광주 민주화 운동",
+          "views": 2254
         }
       ]
     }
