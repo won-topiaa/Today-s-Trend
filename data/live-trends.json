@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-10T16:32:11.399Z",
+  "updated": "2026-10-10T20:50:03.093Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-10T16:32:11.399Z",
+      "fetched": "2026-10-10T20:50:03.093Z",
       "items": [
         {
-          "title": "aston villa vs brentford",
+          "title": "민도희",
+          "traffic": "200+",
+          "context": "'응사' 민도희, 결국 한국 떠난다"
+        },
+        {
+          "title": "real madrid vs villarreal",
+          "traffic": "200+",
+          "context": "Real Madrid vs Villarreal 2026 live stream: Time, TV channels and how to watch La Liga online"
+        },
+        {
+          "title": "레알 마드리드 대 비야레알",
+          "traffic": "2000+",
+          "context": "[오피셜]\"충격!\" 韓 에이스 '이강인 때리기' 논란→'가장 놀라운 회복세'…'세 달 OUT 예상' 페데리코 발베르데, 복귀 뒤 출전 준비"
+        },
+        {
+          "title": "laliga",
           "traffic": "100+",
-          "context": "A Villa - Brentford LIVE. Premier League latest updates"
+          "context": "Barça-Getafe, on which channel and at what time to watch the match?"
         },
         {
-          "title": "상장지수펀드",
+          "title": "스포츠 중계",
           "traffic": "200+",
-          "context": "\"제2의 엔비디아 놓칠라\"…상장 전인데 개미들 벌써 '들썩' [이수의 ETF줌인]"
+          "context": null
         },
         {
-          "title": "bundesliga",
+          "title": "แมนยู พบ สเปอร์ส",
           "traffic": "500+",
-          "context": "Liveticker | FC Augsburg - Bayern München 2:2 | 5. Spieltag | Bundesliga 2026/27"
+          "context": "เดอ แซร์บี และ \"เกมสุดท้าย\" ของเขา ขณะที่ท็อตแนมพบกับแมนเชสเตอร์ ยูไนเต็ด"
         },
         {
-          "title": "토트넘 맨유",
-          "traffic": "200+",
-          "context": "A매치 끝나고 꼭 봐야할 유럽 축구 경기 3선"
+          "title": "man utd đấu với tottenham",
+          "traffic": "500+",
+          "context": "Video bóng đá MU - Tottenham: \"Quỷ đỏ\" đánh rơi lợi thế vàng (Ngoại hạng Anh)"
         },
         {
-          "title": "그것이 알고싶다",
+          "title": "논술",
           "traffic": "100+",
-          "context": "'그것이 알고싶다', 60대女 냉동창고 가둬 죽인 충격 범행의 전말 - 머니투데이"
+          "context": "논술 시험 마치고 대학교 나서는 수험생들"
         },
         {
-          "title": "alavés vs atlético",
-          "traffic": "500+",
-          "context": "Descubre las alineaciones titulares del Alavés-Atlético de Madrid"
+          "title": "la liga",
+          "traffic": "100+",
+          "context": "La Liga Match Suspended Due to Fan Protests"
         },
         {
-          "title": "fotmob",
-          "traffic": "200+",
-          "context": "Michael Olise reaches final decision on Liverpool, Real Madrid, Barcelona moves as Bayern talks begin - Exclusive"
-        },
-        {
-          "title": "당구장",
-          "traffic": "200+",
-          "context": "AI 당구를 아십니까 [스페셜 리포트]"
-        },
-        {
-          "title": "chelsea vs bournemouth",
-          "traffic": "1000+",
-          "context": "Ipswich Town vs Fulham: Premier League preview, team news, stats & head-to-head"
-        },
-        {
-          "title": "ngoại hạng anh",
-          "traffic": "200+",
-          "context": "Trực tiếp bóng đá Chelsea - Bournemouth: Thắng lợi hoàn hảo (Ngoại hạng Anh) (Hết giờ)"
+          "title": "man utd vs spurs",
+          "traffic": "2000+",
+          "context": "Manchester United vs Tottenham Hotspur: Premier League preview, team news, stats & head-to-head"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-10T11:31:56.015Z",
+      "fetched": "2026-10-10T20:50:03.093Z",
       "items": [
         {
           "title": "CRASH",
@@ -88,6 +88,10 @@
           "artist": "코르티스"
         },
         {
+          "title": "Die For You",
+          "artist": "The Weeknd"
+        },
+        {
           "title": "Love Options",
           "artist": "베스티"
         },
@@ -98,17 +102,13 @@
         {
           "title": "퇴사할게여 (Narr. 기안84)",
           "artist": "소연"
-        },
-        {
-          "title": "Pinball",
-          "artist": "리센느"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-10T16:32:11.399Z",
+      "fetched": "2026-10-10T20:50:03.093Z",
       "items": [
         {
           "title": "문화방송",
