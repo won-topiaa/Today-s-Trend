@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-11T16:57:01.921Z",
+  "updated": "2026-10-11T21:11:04.937Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-11T16:57:01.921Z",
+      "fetched": "2026-10-11T21:11:04.937Z",
       "items": [
+        {
+          "title": "공무원",
+          "traffic": "500+",
+          "context": "\"일하면 손해\" 젊은 공무원들 짐 싸고…의사는 분만실 떠났다"
+        },
+        {
+          "title": "칼리아리 대 유벤투스",
+          "traffic": "100+",
+          "context": "칼리아리 vs 유벤투스 예측: 우승 경쟁의 뜨거운 승부"
+        },
+        {
+          "title": "혈당",
+          "traffic": "1000+",
+          "context": "밥 먹고 10분 서 있기… ‘혈당 브레이크’ 밟기 쉽죠?"
+        },
+        {
+          "title": "김지원",
+          "traffic": "2000+",
+          "context": "닥터X : 하얀 마피아의 시대 : [1회 선공개 2] “너도 의사야?” 김지원, ‘인턴’ 김우석 얼어붙게 만든 압도적인 등장!"
+        },
+        {
+          "title": "황희찬",
+          "traffic": "1000+",
+          "context": "‘96 라인’ 3인방, 진짜 원하는 게 무엇인가? 대표팀 은퇴로 원하는 바를 흥정했다면 큰 오산이다…‘태극마크’는 결코 흥정, 거래의 대상이 될 수 없다"
+        },
         {
           "title": "ลิเวอร์พูล พบ แมนซิตี",
           "traffic": "200+",
-          "context": "ลิเวอร์พูล ปะทะ แมนเชสเตอร์ ซิตี้: สนามแอนฟิลด์ที่แข็งแกร่งรอต้อนรับทีมเรือใบสีฟ้าอยู่"
-        },
-        {
-          "title": "liverpool đấu với man city",
-          "traffic": "200+",
-          "context": "Liverpool 0-0 Man City: Haaland bị phong tỏa"
+          "context": "ถ่ายทอดสดฟุตบอล: ลิเวอร์พูล พบ แมนฯ ซิตี้: พรีเมียร์ลีก รอบที่ 6"
         },
         {
           "title": "fotmob",
-          "traffic": "100+",
-          "context": "'USA is not a football country', says Giroud"
+          "traffic": "200+",
+          "context": "'Not a football country!' - Olivier Giroud slams MLS after abrupt LAFC exit"
         },
         {
           "title": "맨시티",
-          "traffic": "2000+",
-          "context": "이사크·각포 맨시티전 결장 확정…홀란 막을 리버풀의 선택은?"
+          "traffic": "5000+",
+          "context": "유죄 판정 직후 안필드서 3-0…맨시티, 리버풀 완파하고 선두 질주"
+        },
+        {
+          "title": "ngoại hạng anh",
+          "traffic": "200+",
+          "context": "Man City voitti Liverpoolin pelatessaan miesedulla."
         },
         {
           "title": "김성한",
-          "traffic": "200+",
-          "context": "차에서 내린 취객이 ‘빠직’···또 파손된 김성한 전 해태 타이거즈 선수 조형물, 이번엔 발목만 남았다"
-        },
-        {
-          "title": "liverpool vs man city",
           "traffic": "1000+",
-          "context": "Premier League: Gravenberch sent off as Liverpool and Man City still goalless"
-        },
-        {
-          "title": "청년",
-          "traffic": "5000+",
-          "context": "정부는 안정적인 계란 공급을 위해 신선란 수입선을 다변화해 왔습니다."
-        },
-        {
-          "title": "레알 소시에다드 대 데포르티보",
-          "traffic": "500+",
-          "context": "레알 소시에다드 대 데포르티보 라 코루나 예측: 방문객들은 하락세를 멈추기로 결정했습니다."
-        },
-        {
-          "title": "india vs west indies",
-          "traffic": "500+",
-          "context": "India and West Indies head to Indore for potential run-fest with series level"
-        },
-        {
-          "title": "f1",
-          "traffic": "1000+",
-          "context": "Antonelli reacts as Singapore P3 puts him on brink of title"
+          "context": "김성한 전 해태 타이거즈 선수 조형물 또 파손돼…경찰 수사"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-11T16:57:01.921Z",
+      "fetched": "2026-10-11T21:11:04.937Z",
       "items": [
         {
           "title": "CRASH",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-11T16:57:01.921Z",
+      "fetched": "2026-10-11T21:11:04.937Z",
       "items": [
         {
           "title": "문화방송",
