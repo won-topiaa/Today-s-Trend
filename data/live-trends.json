@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-11T02:43:35.773Z",
+  "updated": "2026-10-11T11:45:22.615Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-11T02:43:35.773Z",
+      "fetched": "2026-10-11T11:45:22.615Z",
       "items": [
         {
-          "title": "하리수",
-          "traffic": "10000+",
-          "context": "하리수 \"결혼 발표 때 기자가 남편과 성생활 어떻게 하냐고 물어…무례\""
-        },
-        {
-          "title": "고소",
+          "title": "싱가포르 그랑프리",
           "traffic": "200+",
-          "context": "나흘 만에 퇴사하더니 \"고소할게요\"…꼼짝없이 당한 사장님 [사장님 고충백서]"
+          "context": "역시 코르티스! F1 싱가포르 그랑프리 '압도'"
         },
         {
-          "title": "사랑 이 온다",
-          "traffic": "1000+",
-          "context": "‘사랑이 온다’ 하석진, 얼어붙은 한가네 녹이는 ‘인간 난로'..안방극장이 훈훈해져 - 머니투데이"
-        },
-        {
-          "title": "일용직",
-          "traffic": "500+",
-          "context": "찬바람 부는 건설업…`비자발적 이직` 35개월來 30만명 돌파"
-        },
-        {
-          "title": "화이트삭스 대 가디언즈",
-          "traffic": "500+",
-          "context": "‘투수 8명 총동원’ 클리블랜드, 시카고 W 격파→ALDS 최종 5차전으로"
-        },
-        {
-          "title": "뭔데뭔데! 이게 무슨 난리고",
-          "traffic": "500+",
-          "context": "★뭔데뭔데! 이게 무슨 난리고"
-        },
-        {
-          "title": "강선우",
+          "title": "유현조",
           "traffic": "2000+",
-          "context": "국힘 397억원 걸린 尹 선거법사건 2심 마무리…강선우 1심 선고도"
+          "context": "유현조, 여자골프 HJ중공업·동부건설 챔피언십 우승…시즌 2승"
         },
         {
-          "title": "inter miami vs d.c. united",
-          "traffic": "500+",
-          "context": "Messi hits brace vs DC United, Sofascore Rating 10"
-        },
-        {
-          "title": "2026",
+          "title": "대공황",
           "traffic": "200+",
-          "context": "NASCAR Whelen Modified Tour season finale at Thompson moved to Saturday due to forecasted rain"
+          "context": "고려아연 언급한 트럼프 “민주당 이기면 1929년식 대공황 올 것”"
         },
         {
-          "title": "신진서",
+          "title": "디시인사이드",
           "traffic": "200+",
-          "context": "한국 4강 싹쓸이 ‘신진서·신민준·변상일·이지현’"
+          "context": "인기 1위에 매출 톱10 진입…카카오게임즈 '도깨비의세계', 초반 흥행 청신호"
+        },
+        {
+          "title": "적금",
+          "traffic": "2000+",
+          "context": "'청년미래적금' 2차 가입 신청 16일까지…희망사다리 함께 올라요"
+        },
+        {
+          "title": "경마",
+          "traffic": "200+",
+          "context": "[르포] 경마 보고 말에게 먹이 주고…영천 렛츠런파크 한달새 4만명"
+        },
+        {
+          "title": "단풍",
+          "traffic": "2000+",
+          "context": "경남도, `걸으면서 느끼는 단풍 여행지` 4곳 소개"
+        },
+        {
+          "title": "주식",
+          "traffic": "10000+",
+          "context": "개미들, 3분기 코스피 5.6조 팔고 美주식 10.2조 샀다"
+        },
+        {
+          "title": "소방관",
+          "traffic": "1000+",
+          "context": "“아저씨 덕분에”…12년 전 불길서 구조된 소녀, 결혼 소식 들고 소방관 찾아"
+        },
+        {
+          "title": "뉴스1",
+          "traffic": "2000+",
+          "context": "서울공소청, '이화영 연어·술 파티' 의혹 보고서 유출 고발건 불기소"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-11T02:43:35.773Z",
+      "fetched": "2026-10-11T11:45:22.615Z",
       "items": [
         {
           "title": "CRASH",
@@ -88,27 +88,27 @@
           "artist": "코르티스"
         },
         {
-          "title": "Die For You",
-          "artist": "The Weeknd"
-        },
-        {
-          "title": "Love Options",
-          "artist": "베스티"
-        },
-        {
           "title": "Pop Off Pop Off",
           "artist": "키키"
         },
         {
+          "title": "Die For You",
+          "artist": "The Weeknd"
+        },
+        {
           "title": "퇴사할게여 (Narr. 기안84)",
           "artist": "소연"
+        },
+        {
+          "title": "Love Options",
+          "artist": "베스티"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-11T02:43:35.773Z",
+      "fetched": "2026-10-11T11:45:22.615Z",
       "items": [
         {
           "title": "문화방송",
