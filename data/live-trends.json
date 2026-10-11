@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-10T20:50:03.093Z",
+  "updated": "2026-10-11T02:43:35.773Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-10T20:50:03.093Z",
+      "fetched": "2026-10-11T02:43:35.773Z",
       "items": [
         {
-          "title": "민도희",
+          "title": "하리수",
+          "traffic": "10000+",
+          "context": "하리수 \"결혼 발표 때 기자가 남편과 성생활 어떻게 하냐고 물어…무례\""
+        },
+        {
+          "title": "고소",
           "traffic": "200+",
-          "context": "'응사' 민도희, 결국 한국 떠난다"
+          "context": "나흘 만에 퇴사하더니 \"고소할게요\"…꼼짝없이 당한 사장님 [사장님 고충백서]"
         },
         {
-          "title": "real madrid vs villarreal",
-          "traffic": "200+",
-          "context": "Real Madrid vs Villarreal 2026 live stream: Time, TV channels and how to watch La Liga online"
+          "title": "사랑 이 온다",
+          "traffic": "1000+",
+          "context": "‘사랑이 온다’ 하석진, 얼어붙은 한가네 녹이는 ‘인간 난로'..안방극장이 훈훈해져 - 머니투데이"
         },
         {
-          "title": "레알 마드리드 대 비야레알",
-          "traffic": "2000+",
-          "context": "[오피셜]\"충격!\" 韓 에이스 '이강인 때리기' 논란→'가장 놀라운 회복세'…'세 달 OUT 예상' 페데리코 발베르데, 복귀 뒤 출전 준비"
-        },
-        {
-          "title": "laliga",
-          "traffic": "100+",
-          "context": "Barça-Getafe, on which channel and at what time to watch the match?"
-        },
-        {
-          "title": "스포츠 중계",
-          "traffic": "200+",
-          "context": null
-        },
-        {
-          "title": "แมนยู พบ สเปอร์ส",
+          "title": "일용직",
           "traffic": "500+",
-          "context": "เดอ แซร์บี และ \"เกมสุดท้าย\" ของเขา ขณะที่ท็อตแนมพบกับแมนเชสเตอร์ ยูไนเต็ด"
+          "context": "찬바람 부는 건설업…`비자발적 이직` 35개월來 30만명 돌파"
         },
         {
-          "title": "man utd đấu với tottenham",
+          "title": "화이트삭스 대 가디언즈",
           "traffic": "500+",
-          "context": "Video bóng đá MU - Tottenham: \"Quỷ đỏ\" đánh rơi lợi thế vàng (Ngoại hạng Anh)"
+          "context": "‘투수 8명 총동원’ 클리블랜드, 시카고 W 격파→ALDS 최종 5차전으로"
         },
         {
-          "title": "논술",
-          "traffic": "100+",
-          "context": "논술 시험 마치고 대학교 나서는 수험생들"
+          "title": "뭔데뭔데! 이게 무슨 난리고",
+          "traffic": "500+",
+          "context": "★뭔데뭔데! 이게 무슨 난리고"
         },
         {
-          "title": "la liga",
-          "traffic": "100+",
-          "context": "La Liga Match Suspended Due to Fan Protests"
-        },
-        {
-          "title": "man utd vs spurs",
+          "title": "강선우",
           "traffic": "2000+",
-          "context": "Manchester United vs Tottenham Hotspur: Premier League preview, team news, stats & head-to-head"
+          "context": "국힘 397억원 걸린 尹 선거법사건 2심 마무리…강선우 1심 선고도"
+        },
+        {
+          "title": "inter miami vs d.c. united",
+          "traffic": "500+",
+          "context": "Messi hits brace vs DC United, Sofascore Rating 10"
+        },
+        {
+          "title": "2026",
+          "traffic": "200+",
+          "context": "NASCAR Whelen Modified Tour season finale at Thompson moved to Saturday due to forecasted rain"
+        },
+        {
+          "title": "신진서",
+          "traffic": "200+",
+          "context": "한국 4강 싹쓸이 ‘신진서·신민준·변상일·이지현’"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-10T20:50:03.093Z",
+      "fetched": "2026-10-11T02:43:35.773Z",
       "items": [
         {
           "title": "CRASH",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-10T20:50:03.093Z",
+      "fetched": "2026-10-11T02:43:35.773Z",
       "items": [
         {
           "title": "문화방송",
