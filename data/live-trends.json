@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-12T23:55:28.565Z",
+  "updated": "2026-10-13T04:29:23.717Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-12T23:55:28.565Z",
+      "fetched": "2026-10-13T04:29:23.717Z",
       "items": [
         {
-          "title": "메타",
-          "traffic": "2000+",
-          "context": "“쿠팡이 쌀까, 무신사가 쌀까”…'AI 멀티 쇼핑' 뜬다"
+          "title": "파주시",
+          "traffic": "100+",
+          "context": "파주시, 해오름마을~운정역 마을버스 079번 신설"
         },
         {
-          "title": "다저스",
-          "traffic": "200+",
-          "context": "밀워키 브루어스, 불펜 힘 앞세워 ‘수퍼팀’ 다저스 잡고 NLCS 선취승"
-        },
-        {
-          "title": "주영훈",
-          "traffic": "2000+",
-          "context": "청담동 150평 집 팔고 떠났다…작곡가 주영훈, 미국 화장실 청소부 된 어머니"
-        },
-        {
-          "title": "장항준",
-          "traffic": "500+",
-          "context": "서울예대 동기 정웅인 \"장항준 꼬라지 아주 기고만장해\""
-        },
-        {
-          "title": "통영대전 고속도로",
-          "traffic": "500+",
-          "context": "통영대전고속도로에서 4중 추돌 사고…2명 사망·11명 중경상"
-        },
-        {
-          "title": "cxmt",
-          "traffic": "200+",
-          "context": "China's CXMT: \"4F² Cell Structure Technology Advances ... New DDR5 Memory to Be Unveiled This Year\""
-        },
-        {
-          "title": "대장 암",
-          "traffic": "2000+",
-          "context": "‘환자 유래 오가노이드’로 전이성 대장암 암세포 진화 과정 밝혀…"
-        },
-        {
-          "title": "새만금",
-          "traffic": "200+",
-          "context": "韓中, 공급망 핫라인 가동…새만금 투자 협력 확대 논의"
-        },
-        {
-          "title": "백지영",
+          "title": "농협",
           "traffic": "1000+",
-          "context": "백지영, 9세 딸 샤넬백 관심에 난감 …\"내 옷도 자꾸 입어\""
+          "context": "임실군·농협, 기본소득 상생 맞손…하나로마트서 사용 가능"
         },
         {
-          "title": "schd",
+          "title": "헌법재판소",
           "traffic": "200+",
-          "context": "SCHD Is Down 6% From Its Peak. Here's Why History Says It's Still a Buy."
+          "context": "업무보고 하는 김인숙 헌법재판연구원장"
+        },
+        {
+          "title": "건설업",
+          "traffic": "200+",
+          "context": "30만명 건설 현장서 밀려나... 98%는 임시·일용직"
+        },
+        {
+          "title": "펄어비스",
+          "traffic": "100+",
+          "context": "AMD 경영진, 펄어비스 방문... '붉은사막' 기술 협력 확대 논의"
+        },
+        {
+          "title": "심정지",
+          "traffic": "5000+",
+          "context": "뷰노, 유럽중환자의학회 참가…DeepCARS 유럽 레퍼런스 확보 총력"
+        },
+        {
+          "title": "손아섭",
+          "traffic": "500+",
+          "context": "[포토] '1회말 안타출루' 손아섭 - 머니투데이"
+        },
+        {
+          "title": "agf",
+          "traffic": "200+",
+          "context": "Danish champions AGF cruise past Sonderjyske to get first win of the season"
+        },
+        {
+          "title": "수술",
+          "traffic": "200+",
+          "context": "제대병원, 다빈치 3기종 완성…암 수술·지역완결형 의료 선도"
+        },
+        {
+          "title": "석장현",
+          "traffic": "2000+",
+          "context": "프로야구 한화, 15대 신임 사령탑에 류지현 국가대표 감독 선임"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-12T23:55:28.565Z",
+      "fetched": "2026-10-13T04:29:23.717Z",
       "items": [
         {
           "title": "CRASH",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-12T23:55:28.565Z",
+      "fetched": "2026-10-13T04:29:23.717Z",
       "items": [
         {
           "title": "문화방송",
