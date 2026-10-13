@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-13T04:29:23.717Z",
+  "updated": "2026-10-13T13:06:50.084Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-13T04:29:23.717Z",
+      "fetched": "2026-10-13T13:06:50.084Z",
       "items": [
         {
-          "title": "파주시",
-          "traffic": "100+",
-          "context": "파주시, 해오름마을~운정역 마을버스 079번 신설"
-        },
-        {
-          "title": "농협",
-          "traffic": "1000+",
-          "context": "임실군·농협, 기본소득 상생 맞손…하나로마트서 사용 가능"
-        },
-        {
-          "title": "헌법재판소",
-          "traffic": "200+",
-          "context": "업무보고 하는 김인숙 헌법재판연구원장"
-        },
-        {
-          "title": "건설업",
-          "traffic": "200+",
-          "context": "30만명 건설 현장서 밀려나... 98%는 임시·일용직"
-        },
-        {
-          "title": "펄어비스",
-          "traffic": "100+",
-          "context": "AMD 경영진, 펄어비스 방문... '붉은사막' 기술 협력 확대 논의"
-        },
-        {
-          "title": "심정지",
-          "traffic": "5000+",
-          "context": "뷰노, 유럽중환자의학회 참가…DeepCARS 유럽 레퍼런스 확보 총력"
-        },
-        {
-          "title": "손아섭",
-          "traffic": "500+",
-          "context": "[포토] '1회말 안타출루' 손아섭 - 머니투데이"
-        },
-        {
-          "title": "agf",
-          "traffic": "200+",
-          "context": "Danish champions AGF cruise past Sonderjyske to get first win of the season"
-        },
-        {
-          "title": "수술",
-          "traffic": "200+",
-          "context": "제대병원, 다빈치 3기종 완성…암 수술·지역완결형 의료 선도"
-        },
-        {
-          "title": "석장현",
+          "title": "상속",
           "traffic": "2000+",
-          "context": "프로야구 한화, 15대 신임 사령탑에 류지현 국가대표 감독 선임"
+          "context": "30년 상속세 공제 기준 그대로, 현실화 필요…임광현 청장 \"재경부 협의할 것\" - 머니투데이"
+        },
+        {
+          "title": "대한민국 축구 국가대표팀",
+          "traffic": "2000+",
+          "context": "“손흥민 질투하냐” 빗발치는 비난에…축구협회 “도 넘었다” [지금뉴스]"
+        },
+        {
+          "title": "캐시워크 정답",
+          "traffic": "200+",
+          "context": "[단독] 캐시워크 돈버는퀴즈 정답 10월 13일"
+        },
+        {
+          "title": "xsmb",
+          "traffic": "500+",
+          "context": "Phân tích thống kê XSMB Thứ 4 Ngày 14/10/2026 - Chốt Số Vàng May Mắn"
+        },
+        {
+          "title": "australia vs south africa",
+          "traffic": "100+",
+          "context": "Australia beat South Africa by 214 runs: first men’s cricket Test, day five – live"
+        },
+        {
+          "title": "대한민국 우주항공청",
+          "traffic": "200+",
+          "context": null
+        },
+        {
+          "title": "보험계약",
+          "traffic": "2000+",
+          "context": "신한금융, 롯데손보 품고 ‘비은행’ 강화"
+        },
+        {
+          "title": "광주송정역",
+          "traffic": "100+",
+          "context": "광주 송정역 일대가 하루 동안 축제장으로…남도 먹거리·공연 한자리에"
+        },
+        {
+          "title": "호박",
+          "traffic": "2000+",
+          "context": "'호박 한 개 무게가 1.4t'…기네스 세계기록 등재 전망"
+        },
+        {
+          "title": "스마트안경",
+          "traffic": "100+",
+          "context": "대입 논술시험서 AI안경 쓴 수험생들 적발…시립대 \"응시 3년 금지\""
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-13T04:29:23.717Z",
+      "fetched": "2026-10-13T13:06:50.084Z",
       "items": [
         {
           "title": "CRASH",
@@ -80,24 +80,24 @@
           "artist": "리센느"
         },
         {
-          "title": "노스탈지아",
-          "artist": "BIG Naughty"
+          "title": "I SPY",
+          "artist": "NCT WISH"
         },
         {
-          "title": "Die For You",
-          "artist": "The Weeknd"
+          "title": "노스탈지아",
+          "artist": "BIG Naughty"
         },
         {
           "title": "REDRED",
           "artist": "코르티스"
         },
         {
-          "title": "Pop Off Pop Off",
-          "artist": "키키"
+          "title": "Die For You",
+          "artist": "The Weeknd"
         },
         {
-          "title": "Love Options",
-          "artist": "베스티"
+          "title": "Pop Off Pop Off",
+          "artist": "키키"
         },
         {
           "title": "Pinball",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-13T04:29:23.717Z",
+      "fetched": "2026-10-13T13:06:50.084Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 15565
+          "views": 17351
         },
         {
           "title": "한국방송공사",
-          "views": 12014
-        },
-        {
-          "title": "닥터X: 하얀 마피아의 시대",
-          "views": 6276
-        },
-        {
-          "title": "한국교육방송공사",
-          "views": 5947
-        },
-        {
-          "title": "송종호 (배우)",
-          "views": 5014
-        },
-        {
-          "title": "김지원 (배우)",
-          "views": 4006
-        },
-        {
-          "title": "리센느",
-          "views": 3521
-        },
-        {
-          "title": "파미르고원",
-          "views": 3334
-        },
-        {
-          "title": "100일의 거짓말",
-          "views": 2992
+          "views": 11020
         },
         {
           "title": "임은정 (법조인)",
-          "views": 2907
+          "views": 5467
+        },
+        {
+          "title": "한국교육방송공사",
+          "views": 5284
+        },
+        {
+          "title": "DN오토모티브",
+          "views": 4142
+        },
+        {
+          "title": "제척",
+          "views": 3448
+        },
+        {
+          "title": "미스 월드 코리아",
+          "views": 2845
+        },
+        {
+          "title": "김세인 (1983년)",
+          "views": 2474
+        },
+        {
+          "title": "박진영 (1994년)",
+          "views": 2195
+        },
+        {
+          "title": "김지원 (배우)",
+          "views": 2115
         }
       ]
     }
