@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-13T22:03:15.388Z",
+  "updated": "2026-10-14T02:33:37.222Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-13T22:03:15.388Z",
+      "fetched": "2026-10-14T02:33:37.222Z",
       "items": [
         {
-          "title": "아파트",
-          "traffic": "1000+",
-          "context": "볕 드는 수도권, 그늘 짙어진 지방… 분양시장 온도차 - 머니투데이"
-        },
-        {
-          "title": "전북경찰청",
-          "traffic": "500+",
-          "context": "전국 경찰서장 절반 교체…주요 보직에 향피제 전면 적용(종합2보)"
-        },
-        {
-          "title": "schd",
-          "traffic": "100+",
-          "context": "SCHD’s Overlooked Schwab Sibling Turned $90,000 of Monthly Deposits Into $390,000"
-        },
-        {
-          "title": "viking vs bayern",
-          "traffic": "100+",
-          "context": "Kane-Doppelpack wendet Bayerns Kunstrasen-Katastrophe ab"
-        },
-        {
-          "title": "신랑",
-          "traffic": "500+",
-          "context": "'서준맘' 박세미 결혼 발표, 예비 신랑은 아이돌 오디션 출신?"
-        },
-        {
-          "title": "과태료",
-          "traffic": "500+",
-          "context": "김지용 중수청장 후보자, 5년간 교통법규 위반 7건"
-        },
-        {
-          "title": "최민희",
+          "title": "그랜드 테 프트 오토 vi",
           "traffic": "200+",
-          "context": "이재명 대통령 지지율 35.2%…대구·경북은 26.8%"
+          "context": "GTA6, 'NPC 대사를 위한 작가 팀'이 별도 존재한다"
         },
         {
-          "title": "과속 단속",
+          "title": "파라타항공",
+          "traffic": "200+",
+          "context": "파라타항공, 6호기 A320-200 도입 계약 체결 - 조선비즈"
+        },
+        {
+          "title": "agf 2026",
+          "traffic": "200+",
+          "context": "This Week in Mobile Games - Battle of the Blue Archives"
+        },
+        {
+          "title": "며느리",
+          "traffic": "500+",
+          "context": "\"잠자리 따로 마련해 줬는데\"…며느리 침대에 누운 시아버지 뭐죠?"
+        },
+        {
+          "title": "h&m",
           "traffic": "100+",
-          "context": "LA 과속카메라 설치 시작"
+          "context": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim"
         },
         {
-          "title": "박지원",
+          "title": "카드뉴스",
           "traffic": "100+",
-          "context": "野 탄압하는 與, 의원 자격 정지도 검토"
+          "context": "하루 늦게 태어났는데 3400만원 차이…양육지원급여 소급 검토"
         },
         {
-          "title": "새만금",
+          "title": "모두의 ai",
+          "traffic": "200+",
+          "context": "\"상상이 현실로…모두를 위한 AI\" 코엑스에서 만난 'AI FESTA 26'"
+        },
+        {
+          "title": "gemini 4",
+          "traffic": "100+",
+          "context": "Gemini 4 Argon: Built to solve your hardest problems"
+        },
+        {
+          "title": "민희진",
           "traffic": "1000+",
-          "context": "새만금 수변도시 단독주택용지 1차 공급률 48.8%…점포겸용 80% 낙찰"
+          "context": "\"아일릿이 뉴진스 표절\" 민희진, 명예훼손·업무방해 혐의로 송치"
+        },
+        {
+          "title": "농민",
+          "traffic": "1000+",
+          "context": "농협 부실채권 증가는 농지전수조사의 영향으로 보기 어렵습니다."
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-13T22:03:15.388Z",
+      "fetched": "2026-10-14T02:33:37.222Z",
       "items": [
         {
           "title": "CRASH",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-13T22:03:15.388Z",
+      "fetched": "2026-10-14T02:33:37.222Z",
       "items": [
         {
           "title": "문화방송",
