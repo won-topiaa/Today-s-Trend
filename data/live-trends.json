@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-15T15:54:51.088Z",
+  "updated": "2026-10-15T20:39:51.663Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-15T15:54:51.088Z",
+      "fetched": "2026-10-15T20:39:51.663Z",
       "items": [
         {
-          "title": "김귀정",
-          "traffic": "200+",
-          "context": "[다시보기] 꼬리에 꼬리를 무는 그날 이야기 244회"
-        },
-        {
-          "title": "정원오",
+          "title": "유럽",
           "traffic": "100+",
-          "context": "오세훈, 정원오 ‘칸쿤 출장’ 감사 중단 요구에 “시장 권한 아니다” - 조선비즈"
+          "context": "“젤렌스키의 트럼프 날선 비판에 유럽 지도자들 ‘수위조절’ 요구”"
         },
         {
-          "title": "콜레스테롤",
+          "title": "호펜하임 대 베식타시",
           "traffic": "200+",
-          "context": "'혈관 막히기 전에 꼭'…전문가 매일 먹으라는 '이 음식' 정체 [건강!톡]"
+          "context": "Licensable picture: Berlin-Brandenburg State Laboratory Presents Annual Report"
         },
         {
-          "title": "최혜진",
+          "title": "자동차 산업",
           "traffic": "100+",
-          "context": "최혜진, 124번째 대회서 우승하나… 뷰익 상하이 첫날 3타 차 단독 선두"
+          "context": "현대차 푸네 공장, 로봇 204대가 조립 척척… AI로 미세결함 잡아"
         },
         {
-          "title": "수출",
-          "traffic": "1000+",
-          "context": "9월 수출 1천2백억 달러·무역수지 5백억 달러 첫 돌파‥반도체 호조 영향"
-        },
-        {
-          "title": "김혜자",
-          "traffic": "1000+",
-          "context": "‘85세’ 김혜자, “단순 감기” 해명 일주일만 무대인사 취소..건강이상설 재점화 [Oh!쎈 이슈]"
-        },
-        {
-          "title": "자동차산업",
+          "title": "진양곤",
           "traffic": "200+",
-          "context": "동명대 미래자동차학과, ‘AI가 바꾸는 자동차산업의 미래’ 특강 개최"
+          "context": "진양곤 HLB 의장 “리픽투 美 시장 빅파마 협력도 열어둬”"
         },
         {
-          "title": "롤드컵",
+          "title": "로키",
+          "traffic": "100+",
+          "context": "Tom Hiddleston on Tenzing, Avengers: Doomsday's Loki and Why Fatherhood Is His \"Most Important Role\""
+        },
+        {
+          "title": "롤",
+          "traffic": "100+",
+          "context": "[개발 인사이드] LoL 클래식"
+        },
+        {
+          "title": "레이스 대 가디언즈",
           "traffic": "1000+",
-          "context": "칸나·예후 vs 타나토스·로키…'롤드컵' 개막전서 한국인 탑·미드 격돌"
+          "context": "MLB 탬파베이, ALCS 2차전 잡고 1승 1패…페랄타 6이닝 무실점"
         },
         {
-          "title": "해고",
-          "traffic": "500+",
-          "context": "\"1분도 일 안 시켰는데 1년치 연봉 줘야할 판\"…무슨 일이?"
+          "title": "에그나티아 대 미트윌란",
+          "traffic": "200+",
+          "context": "Egnatia vs Midtjylland match lineup | UEFA Europa Conference League · 15 Oct 2026"
         },
         {
-          "title": "이재명 지지율",
-          "traffic": "500+",
-          "context": "“색깔도, 존재감도, 성과도 없다”… 취임 60일 맞은 김민석 리더십, 여당 내부 비판 본격화"
+          "title": "유로파리그",
+          "traffic": "200+",
+          "context": "유로파 리그 벤피카 대 셀틱 경기 전망"
+        },
+        {
+          "title": "a20 soul",
+          "traffic": "100+",
+          "context": "Has Lee Soo-man’s cutting-edge tech unlocked a new worry?"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-15T15:54:51.088Z",
+      "fetched": "2026-10-15T20:39:51.663Z",
       "items": [
         {
           "title": "NEON",
@@ -72,12 +72,12 @@
           "artist": "튜이드"
         },
         {
-          "title": "CRASH",
-          "artist": "ALLDAY PROJECT"
-        },
-        {
           "title": "I SPY",
           "artist": "NCT WISH"
+        },
+        {
+          "title": "CRASH",
+          "artist": "ALLDAY PROJECT"
         },
         {
           "title": "LOVE ATTACK",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-15T15:54:51.088Z",
+      "fetched": "2026-10-15T20:39:51.663Z",
       "items": [
         {
           "title": "문화방송",
