@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-15T02:14:05.451Z",
+  "updated": "2026-10-15T10:30:45.479Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-15T02:14:05.451Z",
+      "fetched": "2026-10-15T10:30:45.479Z",
       "items": [
         {
-          "title": "구름",
-          "traffic": "200+",
-          "context": "태양계 밖 천체 ‘구름층 두께 변화’ 첫 확인"
-        },
-        {
-          "title": "국정감사",
-          "traffic": "100+",
-          "context": "서울시·서울경찰청 등 국감…명태균 여론조사·부동산 정책·검찰 폐지 등 쟁점"
-        },
-        {
-          "title": "다저스",
-          "traffic": "200+",
-          "context": "'홈런 실종' 오타니, 6번 타순으로…로버츠 감독 \"본인도 동의\""
-        },
-        {
-          "title": "보증금",
+          "title": "강원 대 프놈펜 크라운 fc",
           "traffic": "2000+",
-          "context": "“집주인에 카톡 한줄 깜빡해 사달 났다”…전세보증보험도 ‘무쓸모’ 된다는데"
+          "context": "캄보디아 프놈펜전 출격 유력 홍철 “적잖은 경험 쌓았지만 낯선 팀인 건 사실”···“프로는 결과로 증명해야 한다” [이근승의 믹스트존]"
         },
         {
-          "title": "순항 미사일",
-          "traffic": "1000+",
-          "context": "북한 \"어제 동해서 2종 잠수함발사 전략순항미사일 시험발사\""
+          "title": "기온",
+          "traffic": "100000+",
+          "context": "주말 전국 거센 가을비…다음주 낮기온 4도 더 떨어져 쌀쌀"
         },
         {
-          "title": "카드뉴스",
-          "traffic": "1000+",
-          "context": "7억 부동산 있어도 빚 탕감?…105억 감면받으려던 16명"
-        },
-        {
-          "title": "어디가",
-          "traffic": "1000+",
-          "context": "김민석 “강훈식 서울시장 후보? 가능성·미래 열려 있다…역량 검증된 전국적 인물”"
-        },
-        {
-          "title": "kospi",
+          "title": "홍창기",
           "traffic": "200+",
-          "context": "US inflation and AI doubts slam Korea stocks as KOSPI, KOSDAQ trigger sell-sidecars - CHOSUNBIZ"
+          "context": "득점하는 세베리노"
         },
         {
-          "title": "토스증권",
-          "traffic": "1000+",
-          "context": "[게시판] 토스증권, 앱에 '시장' 탭 신설…AI시황 요약 제공"
+          "title": "호프",
+          "traffic": "500+",
+          "context": "‘호프’, 21일부터 안방서 본다"
         },
         {
-          "title": "독도",
+          "title": "송이",
           "traffic": "200+",
-          "context": "[게시판] iM뱅크, '독도의 날' 기념 굿즈 증정 이벤트"
+          "context": "봉화송이축제 개막…1000원 송이 경매부터 12% 할인까지"
+        },
+        {
+          "title": "건설업",
+          "traffic": "200+",
+          "context": "[흔들리는 현장 인력] 건설 ‘인력절벽’… 숙련공 1년새 5만명 이탈"
+        },
+        {
+          "title": "nba",
+          "traffic": "500+",
+          "context": "Anthony Edwards sends NSFW warning to the rest of NBA"
+        },
+        {
+          "title": "강훈식",
+          "traffic": "2000+",
+          "context": "[속보]한동훈 “임광현, 尹정부서 국세청장 희망했던 사람인데 괜찮나?”"
+        },
+        {
+          "title": "딩크족",
+          "traffic": "5000+",
+          "context": "\"재산은 많은데 물려줄 자식도 조카도 없어\"…40대 딩크족 고민 '시끌'"
+        },
+        {
+          "title": "프로당구 협회",
+          "traffic": "1000+",
+          "context": "“5대회 연속 새 주인공 나오나” 프로당구 5차투어 NH농협카드배 18일부터 시작"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-15T02:14:05.451Z",
+      "fetched": "2026-10-15T10:30:45.479Z",
       "items": [
         {
           "title": "NEON",
@@ -92,63 +92,63 @@
           "artist": "BIG Naughty"
         },
         {
-          "title": "REDRED",
-          "artist": "코르티스"
-        },
-        {
           "title": "Pop Off Pop Off",
           "artist": "키키"
         },
         {
-          "title": "Die For You",
-          "artist": "The Weeknd"
+          "title": "REDRED",
+          "artist": "코르티스"
+        },
+        {
+          "title": "Pinball",
+          "artist": "리센느"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-15T02:14:05.451Z",
+      "fetched": "2026-10-15T10:30:45.479Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 16243
+          "views": 17351
         },
         {
           "title": "한국방송공사",
-          "views": 12949
+          "views": 11020
+        },
+        {
+          "title": "임은정 (법조인)",
+          "views": 5467
         },
         {
           "title": "한국교육방송공사",
-          "views": 5076
+          "views": 5284
         },
         {
-          "title": "김지원 (배우)",
-          "views": 3017
-        },
-        {
-          "title": "바다 (가수)",
-          "views": 2538
+          "title": "DN오토모티브",
+          "views": 4142
         },
         {
           "title": "제척",
-          "views": 2309
+          "views": 3448
         },
         {
-          "title": "추미애",
-          "views": 2158
+          "title": "미스 월드 코리아",
+          "views": 2845
         },
         {
-          "title": "필립 K. 딕",
-          "views": 2077
+          "title": "김세인 (1983년)",
+          "views": 2474
         },
         {
-          "title": "닥터X: 하얀 마피아의 시대",
-          "views": 2033
+          "title": "박진영 (1994년)",
+          "views": 2195
         },
         {
-          "title": "코리아세일페스타",
-          "views": 1807
+          "title": "김지원 (배우)",
+          "views": 2115
         }
       ]
     }
