@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-17T14:35:15.523Z",
+  "updated": "2026-10-17T19:48:06.352Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-17T14:35:15.523Z",
+      "fetched": "2026-10-17T19:48:06.352Z",
       "items": [
         {
-          "title": "북한",
-          "traffic": "500+",
-          "context": "벨라루스, 주북한대사관 개설…\"호혜적 관계 발전 주력\""
-        },
-        {
-          "title": "스완지 시티 대 웨스트 햄",
-          "traffic": "200+",
-          "context": "Swansea City v West Ham United: Championship stats & head-to-head"
-        },
-        {
-          "title": "김지현",
-          "traffic": "200+",
-          "context": "\"20년간 엄마 한 번도 못 봐\" 김지현 가족사 고백 - 머니투데이"
-        },
-        {
-          "title": "brentford vs liverpool",
-          "traffic": "200+",
-          "context": "Brentford vs Liverpool: Premier League preview, team news, stats & head-to-head"
-        },
-        {
-          "title": "운전",
+          "title": "라민 야말",
           "traffic": "100+",
-          "context": "'음주운전' 자숙 언급? 노홍철, \"큰 악재 앞에 주저앉아\" ..의미심장 눈길 - 조선비즈"
+          "context": "한시 플릭 감독은 바르셀로나가 단 한 번도 승리를 놓치는 것을 원하지 않는다."
         },
         {
-          "title": "ngoại hạng anh",
+          "title": "김정은",
           "traffic": "200+",
-          "context": "Trực tiếp bóng đá Everton - Chelsea: Pedro Neto tỉ số (Ngoại hạng Anh)"
+          "context": "[클로즈업 북한] 살 쪄도 빠져도 관심…‘김정은 체중’에 담긴 의미는"
         },
         {
-          "title": "明天的天氣",
+          "title": "la liga",
+          "traffic": "200+",
+          "context": "Barcelona XI includes Joan García, Koundé and Lamine Yamal before Real Betis Vs Fc Barcelona"
+        },
+        {
+          "title": "바이에른 뮌헨",
           "traffic": "100+",
-          "context": "未來一週僅小幅變化西晴東偶雨"
+          "context": "축구 국가대표 수비수 김민재, 'EPL 챔피언' 아스널 이적설"
         },
         {
-          "title": "채무",
-          "traffic": "500+",
-          "context": "“아내만 믿고 통장 맡겼는데”…남편 월급으로 ‘1억 빚’ 몰래 갚고 있었다"
-        },
-        {
-          "title": "안치환",
+          "title": "분데스리가",
           "traffic": "200+",
-          "context": "안치환, 故김광석 사망 전날 만나기로 약속했는데..“영안실서 보게 돼”(데이앤나잇) - 조선비즈"
+          "context": "분데스리가 2위 에네르기, 코트부스서 뉘른베르크와 맞대결"
         },
         {
-          "title": "india vs west indies",
+          "title": "psg",
+          "traffic": "200+",
+          "context": "Le résumé : City 2-4 PSG"
+        },
+        {
+          "title": "맨시티",
           "traffic": "500+",
-          "context": "IND vs WI 2026/27, IND vs WI 5th T20I Match Preview - High-scoring series reaches tense decider in rainy Bengaluru"
+          "context": "마레스카, 기록적인 출발에 기쁨 드러내"
+        },
+        {
+          "title": "betis vs barcelona",
+          "traffic": "1000+",
+          "context": "¿Cómo ver el partido Betis vs Barcelona en TV y streaming?"
+        },
+        {
+          "title": "이재성",
+          "traffic": "200+",
+          "context": "이재성-황희찬, 대표팀 은퇴 소동 이후 첫 맞대결…'이재성 선발 출전' 마인츠, '황희찬 교체 투입' 샬케에 승리"
+        },
+        {
+          "title": "레알 베티스 대 바르셀로나",
+          "traffic": "5000+",
+          "context": "[바르셀로나 베티스] 멋쩍은 미소 야말"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-17T14:35:15.523Z",
+      "fetched": "2026-10-17T19:48:06.352Z",
       "items": [
         {
           "title": "NEON",
