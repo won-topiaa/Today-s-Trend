@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-17T09:51:30.144Z",
+  "updated": "2026-10-17T14:35:15.523Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-17T09:51:30.144Z",
+      "fetched": "2026-10-17T14:35:15.523Z",
       "items": [
         {
-          "title": "군위군",
+          "title": "북한",
+          "traffic": "500+",
+          "context": "벨라루스, 주북한대사관 개설…\"호혜적 관계 발전 주력\""
+        },
+        {
+          "title": "스완지 시티 대 웨스트 햄",
           "traffic": "200+",
-          "context": "81홀 문 열고 99홀 더…군위, 180홀 파크골프장 조성"
+          "context": "Swansea City v West Ham United: Championship stats & head-to-head"
         },
         {
-          "title": "치지직",
-          "traffic": "2000+",
-          "context": "치지직·SOOP 아우른다…넥슨, 'N커넥트' 통합 페이지 오픈"
+          "title": "김지현",
+          "traffic": "200+",
+          "context": "\"20년간 엄마 한 번도 못 봐\" 김지현 가족사 고백 - 머니투데이"
         },
         {
-          "title": "주우재",
+          "title": "brentford vs liverpool",
+          "traffic": "200+",
+          "context": "Brentford vs Liverpool: Premier League preview, team news, stats & head-to-head"
+        },
+        {
+          "title": "운전",
           "traffic": "100+",
-          "context": "주우재, 미모의 모친 공개…음성 편지에 오열"
+          "context": "'음주운전' 자숙 언급? 노홍철, \"큰 악재 앞에 주저앉아\" ..의미심장 눈길 - 조선비즈"
         },
         {
-          "title": "손나은",
-          "traffic": "1000+",
-          "context": "손나은, 17일 모친상 비보…프로골퍼 동생 손새은과 슬픔 속 빈소 지켜"
-        },
-        {
-          "title": "배드민턴",
-          "traffic": "1000+",
-          "context": "'미쳤다' 59승1패, 승률 98.33%…안세영, '9점 연속 득점' 인도 유망주 2-0 꺾고 4강 진출→덴마크 오픈 2연패 '파란불'"
-        },
-        {
-          "title": "준플레이오프 일정",
+          "title": "ngoại hạng anh",
           "traffic": "200+",
-          "context": "‘트중박’ 박해민, 호수비 현미경 분석"
+          "context": "Trực tiếp bóng đá Everton - Chelsea: Pedro Neto tỉ số (Ngoại hạng Anh)"
         },
         {
-          "title": "헤지펀드",
+          "title": "明天的天氣",
+          "traffic": "100+",
+          "context": "未來一週僅小幅變化西晴東偶雨"
+        },
+        {
+          "title": "채무",
+          "traffic": "500+",
+          "context": "“아내만 믿고 통장 맡겼는데”…남편 월급으로 ‘1억 빚’ 몰래 갚고 있었다"
+        },
+        {
+          "title": "안치환",
           "traffic": "200+",
-          "context": "\"설마 또 강제청산 터졌나\"…월가서 다시 떠오른 7월의 악몽 [빈난새의 빈틈없이마켓]"
+          "context": "안치환, 故김광석 사망 전날 만나기로 약속했는데..“영안실서 보게 돼”(데이앤나잇) - 조선비즈"
         },
         {
-          "title": "치이카와",
-          "traffic": "1000+",
-          "context": "'치이카와' 인기 속 K-애니 승부수...\"우리만의 서사\""
-        },
-        {
-          "title": "채권",
-          "traffic": "200+",
-          "context": "미 채권시장이 보내는 신호, 어떻게 읽어야 할까"
-        },
-        {
-          "title": "대구 한국가스공사 대 창원 lg",
-          "traffic": "1000+",
-          "context": null
+          "title": "india vs west indies",
+          "traffic": "500+",
+          "context": "IND vs WI 2026/27, IND vs WI 5th T20I Match Preview - High-scoring series reaches tense decider in rainy Bengaluru"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-17T09:51:30.144Z",
+      "fetched": "2026-10-17T14:35:15.523Z",
       "items": [
         {
           "title": "NEON",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-17T09:51:30.144Z",
+      "fetched": "2026-10-17T14:35:15.523Z",
       "items": [
         {
           "title": "문화방송",
