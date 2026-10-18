@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-18T10:03:13.043Z",
+  "updated": "2026-10-18T15:03:04.723Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-18T10:03:13.043Z",
+      "fetched": "2026-10-18T15:03:04.723Z",
       "items": [
         {
-          "title": "전국체육대회",
+          "title": "박위",
+          "traffic": "2000+",
+          "context": "최강희까지...\"박위 부친, 여배우들과 부녀처럼\" 재조명 - 머니투데이"
+        },
+        {
+          "title": "붕 은 우",
           "traffic": "500+",
-          "context": "체전 사흘째 제주 ‘메달 행진’…금 6개 쏟아져"
+          "context": "‘붕어빵 파는 차은우’?…“광명 ‘붕은우’ 만나러 2시간 줄 서”"
         },
         {
-          "title": "국무회의",
-          "traffic": "200+",
-          "context": "이 대통령 “거짓말까지 해가며 국무회의 비공개 압박, 이해 어려워”···날선 반박"
+          "title": "최준용",
+          "traffic": "2000+",
+          "context": "문유현 '역전 3점포'‥'AG 금메달' 주역들 앞에서 '펄펄'"
         },
         {
-          "title": "롯데그룹",
+          "title": "fotmob",
           "traffic": "100+",
-          "context": "서울·부산 롯데월드 통째로 빌렸다…롯데 '1.7만명 패밀리 축제' 성료 - 머니투데이"
+          "context": "Real Madrid: Mourinho says Vinicius Junior should have joined Arsenal in the summer"
         },
         {
-          "title": "다니일 메드베데프",
+          "title": "브라이튼",
           "traffic": "200+",
-          "context": "메드베데프, 토미 폴 꺾고 상하이 마스터스 4강 막차"
+          "context": "브라이튼 대 크리스탈 팰리스 경기 예측: 홈팀이 연승 행진을 이어갈 수 있을까요?"
         },
         {
-          "title": "맨체스터 시티 fc",
+          "title": "catl",
           "traffic": "500+",
-          "context": "'홀란 멀티골' 맨시티, 입스위치에 3-2 승리…개막 7연승 질주"
+          "context": "How China is building its global EV battery empire"
         },
         {
-          "title": "리플",
-          "traffic": "1000+",
-          "context": "\"XRP 팔 생각이라면\"...리플 CEO가 던진 새 비전부터 보라"
-        },
-        {
-          "title": "충돌",
-          "traffic": "200+",
-          "context": "인천 원인재역 삼거리서 택시·승합차 충돌…5명 병원 이송"
-        },
-        {
-          "title": "김원훈",
-          "traffic": "100+",
-          "context": "‘직장인들3’ 김원훈, 끝내 회사 박차고 나갔다…백현진 “후회할 짓 하지 마”"
-        },
-        {
-          "title": "엘리자베스 홈즈",
-          "traffic": "200+",
-          "context": "The Reporter Who Exposed Elizabeth Holmes on Nathan Fielder’s Documentary"
-        },
-        {
-          "title": "놀면뭐하니 서울가요제",
+          "title": "ลีดส์ พบ แมนยู",
           "traffic": "500+",
-          "context": "벌써 유재석에 충성 맹세..가요제 참가자 \"바짝 엎드리겠다\"(놀뭐) - 조선비즈"
+          "context": "LIVE ดูบอลสด ลีดส์ พบ แมนยู บอลวันนี้ (18 ต.ค. 69) 20.00 น. พรีเมียร์ลีก 2026-27"
+        },
+        {
+          "title": "leeds đấu với man utd",
+          "traffic": "500+",
+          "context": "Trực tiếp Leeds vs Manchester United: Leeds gỡ hòa 1-1"
+        },
+        {
+          "title": "나마디 조엘 진",
+          "traffic": "500+",
+          "context": "[전국체전] 김영범, 수영 첫날 2관왕‥남자 50m·계영 800m 금메달"
+        },
+        {
+          "title": "신인감독 김연경 시즌2",
+          "traffic": "200+",
+          "context": "'신인감독 김연경2', 지난해 패배 안긴 일 명문 여고팀 잡을 수 있을까? - 머니투데이"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-18T10:03:13.043Z",
+      "fetched": "2026-10-18T15:03:04.723Z",
       "items": [
         {
           "title": "NEON",
