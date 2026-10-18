@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-18T01:58:27.918Z",
+  "updated": "2026-10-18T10:03:13.043Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-18T01:58:27.918Z",
+      "fetched": "2026-10-18T10:03:13.043Z",
       "items": [
         {
-          "title": "반도체 메모리",
-          "traffic": "100+",
-          "context": "\"중국이 D램 쏟아낼 것\"…머스크는 왜 2028년을 콕 집었나"
+          "title": "전국체육대회",
+          "traffic": "500+",
+          "context": "체전 사흘째 제주 ‘메달 행진’…금 6개 쏟아져"
         },
         {
-          "title": "양치승",
-          "traffic": "100+",
-          "context": "\"피해액 20억 넘어\" 양치승, 차 팔아 회원 환불…\"아직도 갚는 중\" - 머니투데이"
-        },
-        {
-          "title": "정기예금",
+          "title": "국무회의",
           "traffic": "200+",
-          "context": "예금 금리 드디어 4%대…“대출자는 웁니다”"
+          "context": "이 대통령 “거짓말까지 해가며 국무회의 비공개 압박, 이해 어려워”···날선 반박"
         },
         {
-          "title": "atlanta united vs inter miami",
-          "traffic": "500+",
-          "context": "MATCH PREVIEW: Inter Miami CF Visits Atlanta United in Pursuit of Third Consecutive Win"
-        },
-        {
-          "title": "투자",
-          "traffic": "1000+",
-          "context": "인간보다 잘 할까? AI 투자 결과 살펴보니 [AI너머]"
-        },
-        {
-          "title": "lafc",
-          "traffic": "500+",
-          "context": "Cruel Goalpost Denies Son as LAFC Draw 1-1 with New York City FC"
-        },
-        {
-          "title": "왕즈이",
-          "traffic": "2000+",
-          "context": "‘승률 98.4％’ 안세영, 덴마크오픈 결승행…야마구치와 맞대결"
-        },
-        {
-          "title": "김천시",
+          "title": "롯데그룹",
           "traffic": "100+",
-          "context": "2만 시민의 함성, 김천의 가을을 뜨겁게 달구다 김천시민체육대회, 22개 읍면동 하나 된 화합의 대축제"
+          "context": "서울·부산 롯데월드 통째로 빌렸다…롯데 '1.7만명 패밀리 축제' 성료 - 머니투데이"
         },
         {
-          "title": "고독 사",
-          "traffic": "5000+",
-          "context": "무전동, 고독사 위험가구에 ‘천사꾸러미’ 전달"
+          "title": "다니일 메드베데프",
+          "traffic": "200+",
+          "context": "메드베데프, 토미 폴 꺾고 상하이 마스터스 4강 막차"
         },
         {
-          "title": "mls",
+          "title": "맨체스터 시티 fc",
+          "traffic": "500+",
+          "context": "'홀란 멀티골' 맨시티, 입스위치에 3-2 승리…개막 7연승 질주"
+        },
+        {
+          "title": "리플",
           "traffic": "1000+",
-          "context": "Columbus Crew vs Toronto FC: Predictions, Picks, Odds & Lineups"
+          "context": "\"XRP 팔 생각이라면\"...리플 CEO가 던진 새 비전부터 보라"
+        },
+        {
+          "title": "충돌",
+          "traffic": "200+",
+          "context": "인천 원인재역 삼거리서 택시·승합차 충돌…5명 병원 이송"
+        },
+        {
+          "title": "김원훈",
+          "traffic": "100+",
+          "context": "‘직장인들3’ 김원훈, 끝내 회사 박차고 나갔다…백현진 “후회할 짓 하지 마”"
+        },
+        {
+          "title": "엘리자베스 홈즈",
+          "traffic": "200+",
+          "context": "The Reporter Who Exposed Elizabeth Holmes on Nathan Fielder’s Documentary"
+        },
+        {
+          "title": "놀면뭐하니 서울가요제",
+          "traffic": "500+",
+          "context": "벌써 유재석에 충성 맹세..가요제 참가자 \"바짝 엎드리겠다\"(놀뭐) - 조선비즈"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-18T01:58:27.918Z",
+      "fetched": "2026-10-18T10:03:13.043Z",
       "items": [
         {
           "title": "NEON",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-18T01:58:27.918Z",
+      "fetched": "2026-10-18T10:03:13.043Z",
       "items": [
         {
           "title": "문화방송",
