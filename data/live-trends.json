@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-17T19:48:06.352Z",
+  "updated": "2026-10-18T01:58:27.918Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-17T19:48:06.352Z",
+      "fetched": "2026-10-18T01:58:27.918Z",
       "items": [
         {
-          "title": "라민 야말",
+          "title": "반도체 메모리",
           "traffic": "100+",
-          "context": "한시 플릭 감독은 바르셀로나가 단 한 번도 승리를 놓치는 것을 원하지 않는다."
+          "context": "\"중국이 D램 쏟아낼 것\"…머스크는 왜 2028년을 콕 집었나"
         },
         {
-          "title": "김정은",
-          "traffic": "200+",
-          "context": "[클로즈업 북한] 살 쪄도 빠져도 관심…‘김정은 체중’에 담긴 의미는"
-        },
-        {
-          "title": "la liga",
-          "traffic": "200+",
-          "context": "Barcelona XI includes Joan García, Koundé and Lamine Yamal before Real Betis Vs Fc Barcelona"
-        },
-        {
-          "title": "바이에른 뮌헨",
+          "title": "양치승",
           "traffic": "100+",
-          "context": "축구 국가대표 수비수 김민재, 'EPL 챔피언' 아스널 이적설"
+          "context": "\"피해액 20억 넘어\" 양치승, 차 팔아 회원 환불…\"아직도 갚는 중\" - 머니투데이"
         },
         {
-          "title": "분데스리가",
+          "title": "정기예금",
           "traffic": "200+",
-          "context": "분데스리가 2위 에네르기, 코트부스서 뉘른베르크와 맞대결"
+          "context": "예금 금리 드디어 4%대…“대출자는 웁니다”"
         },
         {
-          "title": "psg",
-          "traffic": "200+",
-          "context": "Le résumé : City 2-4 PSG"
-        },
-        {
-          "title": "맨시티",
+          "title": "atlanta united vs inter miami",
           "traffic": "500+",
-          "context": "마레스카, 기록적인 출발에 기쁨 드러내"
+          "context": "MATCH PREVIEW: Inter Miami CF Visits Atlanta United in Pursuit of Third Consecutive Win"
         },
         {
-          "title": "betis vs barcelona",
+          "title": "투자",
           "traffic": "1000+",
-          "context": "¿Cómo ver el partido Betis vs Barcelona en TV y streaming?"
+          "context": "인간보다 잘 할까? AI 투자 결과 살펴보니 [AI너머]"
         },
         {
-          "title": "이재성",
-          "traffic": "200+",
-          "context": "이재성-황희찬, 대표팀 은퇴 소동 이후 첫 맞대결…'이재성 선발 출전' 마인츠, '황희찬 교체 투입' 샬케에 승리"
+          "title": "lafc",
+          "traffic": "500+",
+          "context": "Cruel Goalpost Denies Son as LAFC Draw 1-1 with New York City FC"
         },
         {
-          "title": "레알 베티스 대 바르셀로나",
+          "title": "왕즈이",
+          "traffic": "2000+",
+          "context": "‘승률 98.4％’ 안세영, 덴마크오픈 결승행…야마구치와 맞대결"
+        },
+        {
+          "title": "김천시",
+          "traffic": "100+",
+          "context": "2만 시민의 함성, 김천의 가을을 뜨겁게 달구다 김천시민체육대회, 22개 읍면동 하나 된 화합의 대축제"
+        },
+        {
+          "title": "고독 사",
           "traffic": "5000+",
-          "context": "[바르셀로나 베티스] 멋쩍은 미소 야말"
+          "context": "무전동, 고독사 위험가구에 ‘천사꾸러미’ 전달"
+        },
+        {
+          "title": "mls",
+          "traffic": "1000+",
+          "context": "Columbus Crew vs Toronto FC: Predictions, Picks, Odds & Lineups"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-17T19:48:06.352Z",
+      "fetched": "2026-10-18T01:58:27.918Z",
       "items": [
         {
           "title": "NEON",
@@ -72,24 +72,24 @@
           "artist": "튜이드"
         },
         {
-          "title": "CRASH",
-          "artist": "ALLDAY PROJECT"
-        },
-        {
           "title": "I SPY",
           "artist": "NCT WISH"
+        },
+        {
+          "title": "CRASH",
+          "artist": "ALLDAY PROJECT"
         },
         {
           "title": "LOVE ATTACK",
           "artist": "리센느"
         },
         {
-          "title": "Deja Vu",
-          "artist": "리센느"
-        },
-        {
           "title": "노스탈지아",
           "artist": "BIG Naughty"
+        },
+        {
+          "title": "Deja Vu",
+          "artist": "리센느"
         },
         {
           "title": "Pop Off Pop Off",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-17T14:35:15.523Z",
+      "fetched": "2026-10-18T01:58:27.918Z",
       "items": [
         {
           "title": "문화방송",
