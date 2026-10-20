@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-20T15:58:26.218Z",
+  "updated": "2026-10-20T20:58:36.093Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-20T15:58:26.218Z",
+      "fetched": "2026-10-20T20:58:36.093Z",
       "items": [
         {
-          "title": "트럼프",
-          "traffic": "100+",
-          "context": "트럼프 지지율 31%로 더 추락…거센 심판론에 상·하원 판세 요동"
-        },
-        {
-          "title": "레이더",
+          "title": "나폴리 대 보되/글림트",
           "traffic": "200+",
-          "context": "우크라 쓰는 위성에 슬금슬금… 러, 우주서 무언의 위협 압박?"
+          "context": "Roma vs Slovan Bratislava: UEFA Champions League stats & head-to-head"
         },
         {
-          "title": "south africa vs australia",
-          "traffic": "100+",
-          "context": "Ball by Ball Commentary & Live Score - SA vs AUS, 2nd Test"
-        },
-        {
-          "title": "ai 버블",
-          "traffic": "100+",
-          "context": "What if an AI bubble bursts — and that accelerates AI job losses? : Planet Money"
-        },
-        {
-          "title": "김천상무프로축구단",
-          "traffic": "100+",
-          "context": "K리그, 24일 운명의 33라운드...우승·꼴찌 확정되나?"
-        },
-        {
-          "title": "아나운서",
-          "traffic": "500+",
-          "context": "KBS 아나운서 그만뒀다가 빚 1억…새벽 배송까지 뛰었다"
-        },
-        {
-          "title": "선박",
+          "title": "liverpool vs villarreal",
           "traffic": "200+",
-          "context": "\"美-이란, 이번 주 내 합의 돌파구 발표 예상\""
+          "context": "Liverpool vs Villarreal: UEFA Champions League stats & head-to-head"
         },
         {
-          "title": "전지현",
-          "traffic": "1000+",
-          "context": "가장 클래식하고 현대적인, 전지현"
+          "title": "uefa champions league",
+          "traffic": "200+",
+          "context": "Liverpool set Champions League record with first-half display at LASK"
         },
         {
-          "title": "погода завтра",
-          "traffic": "1000+",
-          "context": "Приятная осень: какая погода ждет казанцев до конца октября"
-        },
-        {
-          "title": "남현종",
+          "title": "알나스르 대 네옴 sc",
           "traffic": "100+",
-          "context": "남현종 KBS 아나운서, 11월 결혼한다"
+          "context": "Full-length Replay: Al-Nassr vs Neom"
+        },
+        {
+          "title": "ucl",
+          "traffic": "100+",
+          "context": "Champions League starting and predicted line-ups: Matchday 3 team news, injuries, suspensions"
+        },
+        {
+          "title": "barcelona",
+          "traffic": "100+",
+          "context": "PSG - Barcelona en directo: ¡gol de Doué! | Última hora de Champions League en vivo hoy"
+        },
+        {
+          "title": "psg",
+          "traffic": "200+",
+          "context": "La composition OFFICIELLE du PSG contre le Barça, avec les choix forts de Luis Enrique !"
+        },
+        {
+          "title": "nba",
+          "traffic": "200+",
+          "context": "Philadelphia adds LeBron to face champion New York in NBA season opener - CHOSUNBIZ"
+        },
+        {
+          "title": "리버풀",
+          "traffic": "200+",
+          "context": "\"그가 리버풀에서 성공할 것으로 보지 않는다\"…'이럴 수가' 리버풀 레전드, 2050억 미드필더 향한 혹평"
+        },
+        {
+          "title": "슈투트가르트 대 아틀레티코",
+          "traffic": "10000+",
+          "context": "\"알바레스 최전방 짝꿍은 이강인\" 西 매체 전망, 또 \"UCL 선발 유력\"... 슈투트가르트 '폭격 준비' 완료 - 머니투데이"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-20T10:34:43.231Z",
+      "fetched": "2026-10-20T20:58:36.093Z",
       "items": [
         {
           "title": "NEON",
@@ -72,12 +72,12 @@
           "artist": "튜이드"
         },
         {
-          "title": "I SPY",
-          "artist": "NCT WISH"
-        },
-        {
           "title": "CRASH",
           "artist": "ALLDAY PROJECT"
+        },
+        {
+          "title": "I SPY",
+          "artist": "NCT WISH"
         },
         {
           "title": "노스탈지아",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-20T15:58:26.218Z",
+      "fetched": "2026-10-20T20:58:36.093Z",
       "items": [
         {
           "title": "문화방송",
