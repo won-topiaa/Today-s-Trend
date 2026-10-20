@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-20T10:34:43.231Z",
+  "updated": "2026-10-20T15:58:26.218Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-20T10:34:43.231Z",
+      "fetched": "2026-10-20T15:58:26.218Z",
       "items": [
         {
-          "title": "동전주",
+          "title": "트럼프",
+          "traffic": "100+",
+          "context": "트럼프 지지율 31%로 더 추락…거센 심판론에 상·하원 판세 요동"
+        },
+        {
+          "title": "레이더",
+          "traffic": "200+",
+          "context": "우크라 쓰는 위성에 슬금슬금… 러, 우주서 무언의 위협 압박?"
+        },
+        {
+          "title": "south africa vs australia",
+          "traffic": "100+",
+          "context": "Ball by Ball Commentary & Live Score - SA vs AUS, 2nd Test"
+        },
+        {
+          "title": "ai 버블",
+          "traffic": "100+",
+          "context": "What if an AI bubble bursts — and that accelerates AI job losses? : Planet Money"
+        },
+        {
+          "title": "김천상무프로축구단",
+          "traffic": "100+",
+          "context": "K리그, 24일 운명의 33라운드...우승·꼴찌 확정되나?"
+        },
+        {
+          "title": "아나운서",
           "traffic": "500+",
-          "context": "3S, 주식 5대 1 병합 추진…동전주 규제 대응 '포석'"
+          "context": "KBS 아나운서 그만뒀다가 빚 1억…새벽 배송까지 뛰었다"
         },
         {
-          "title": "대한전선",
-          "traffic": "100+",
-          "context": "AI 데이터센터 늘자 전력망도 바빠졌다···대한전선, 美 턴키 수주 확대"
-        },
-        {
-          "title": "탄핵",
-          "traffic": "2000+",
-          "context": "혁신당, 조희대 탄핵추진 공동TF 제안‥\"김건희 석방 전 탄핵해야\""
-        },
-        {
-          "title": "메가",
+          "title": "선박",
           "traffic": "200+",
-          "context": "[사설] ‘노동 규제 완화 특구’ 만들 여당의 초광역특구법, 숙의로 바로 잡아야"
+          "context": "\"美-이란, 이번 주 내 합의 돌파구 발표 예상\""
         },
         {
-          "title": "카를로스 벨라",
+          "title": "전지현",
           "traffic": "1000+",
-          "context": "[동포의 창] 한인청소년합창단, 손흥민 출전 경기서 美 국가 제창·K팝 공연"
+          "context": "가장 클래식하고 현대적인, 전지현"
         },
         {
-          "title": "등급컷",
+          "title": "погода завтра",
           "traffic": "1000+",
-          "context": "충북교육청, 10월 전국연합학력평가에 충북 고등학생 3만 1,474명 응시해 : 네이버 블로그"
+          "context": "Приятная осень: какая погода ждет казанцев до конца октября"
         },
         {
-          "title": "딜라이브",
+          "title": "남현종",
           "traffic": "100+",
-          "context": null
-        },
-        {
-          "title": "ive looks can kill",
-          "traffic": "200+",
-          "context": "IVE premieres new album Lux Can Kill at Spotify DIVE Academy in Seoul - CHOSUNBIZ"
-        },
-        {
-          "title": "엘리나 스비톨리나",
-          "traffic": "200+",
-          "context": "'테니스계 잉꼬부부' 스비톨리나-몽피스 '전쟁의 상처'에 결별"
-        },
-        {
-          "title": "금양",
-          "traffic": "100+",
-          "context": "금양 부활할까…AI 데이터센터 진출 임시주총서 가결"
+          "context": "남현종 KBS 아나운서, 11월 결혼한다"
         }
       ]
     },
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-20T10:34:43.231Z",
+      "fetched": "2026-10-20T15:58:26.218Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 15414
+          "views": 14937
         },
         {
           "title": "한국방송공사",
-          "views": 9408
-        },
-        {
-          "title": "임찬규",
-          "views": 8073
+          "views": 9483
         },
         {
           "title": "한국교육방송공사",
-          "views": 6556
-        },
-        {
-          "title": "5·18 광주 민주화 운동",
-          "views": 3052
-        },
-        {
-          "title": "김지원 (배우)",
-          "views": 2981
-        },
-        {
-          "title": "닥터X: 하얀 마피아의 시대",
-          "views": 2681
-        },
-        {
-          "title": "연합뉴스",
-          "views": 2571
+          "views": 5357
         },
         {
           "title": "추미애",
-          "views": 2452
+          "views": 3045
         },
         {
-          "title": "황연주",
-          "views": 2380
+          "title": "정명석",
+          "views": 2230
+        },
+        {
+          "title": "5·18 광주 민주화 운동",
+          "views": 1982
+        },
+        {
+          "title": "로이킴",
+          "views": 1901
+        },
+        {
+          "title": "박진영 (1994년)",
+          "views": 1801
+        },
+        {
+          "title": "부승찬",
+          "views": 1786
+        },
+        {
+          "title": "미국의 중간선거",
+          "views": 1717
         }
       ]
     }
