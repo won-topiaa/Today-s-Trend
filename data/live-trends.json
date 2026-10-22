@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-22T02:19:12.164Z",
+  "updated": "2026-10-22T10:47:54.197Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-22T02:19:12.164Z",
+      "fetched": "2026-10-22T10:47:54.197Z",
       "items": [
         {
-          "title": "la 레이커스 대 골든 스테이트",
-          "traffic": "1000+",
-          "context": "Lakers announce starting lineup for first game in post-LeBron era"
-        },
-        {
-          "title": "반도체산업",
-          "traffic": "200+",
-          "context": "어플라이드 머티어리얼즈 코리아, 반도체의 날 산업포장 수훈"
-        },
-        {
-          "title": "금리",
-          "traffic": "200+",
-          "context": "한은, 기준금리 연 3.0% 동결‥긴축 속도 조절"
-        },
-        {
-          "title": "초코파이",
+          "title": "울산 현대모비스 대 창원 lg",
           "traffic": "500+",
-          "context": "오리온, '카스타드' 해외 인기에 생산라인 증설…연3천억원 규모"
+          "context": null
         },
         {
-          "title": "claude duet",
+          "title": "hd현대",
           "traffic": "200+",
-          "context": "Anthropic unveils Claude Duet AI agent app"
+          "context": "HD현대중공업, 세계 최대 암모니아 추진선 건조…11월 인도"
         },
         {
-          "title": "독도",
-          "traffic": "1000+",
-          "context": "'독도 영토주권 되새긴다'…경북도 독도의 달 기념행사"
+          "title": "저작권",
+          "traffic": "100+",
+          "context": "함께하는음악저작권협회, '매장 음악 이용내역 확인 서비스' 정식 개시"
         },
         {
-          "title": "레이 아미",
+          "title": "대형주",
           "traffic": "200+",
-          "context": "무명 가수서 ‘케데헌’ 조이로… “예은이란 이름 자랑스러워”"
+          "context": "\"내년은 삼전닉스보다 소부장…'대형주 7·소부장 3' 담아라\""
         },
         {
-          "title": "탑승",
-          "traffic": "200+",
-          "context": "“버스 무임승차 외국인 잇따라…해외서 ‘한국여행 팁’ 공유”"
+          "title": "안성훈",
+          "traffic": "10000+",
+          "context": "안성훈, ‘미스터트롯2’ 상금 5억으로 부모님 집 마련…“카드도 못 써”"
         },
         {
-          "title": "국가보훈부",
-          "traffic": "200+",
-          "context": "보훈부, 신임 공직자 '독립·호국·민주' 현장체험 확대 추진"
+          "title": "빈곤",
+          "traffic": "100+",
+          "context": "LF 킨, '옥스팜 트레일워커' 동참…임직원 320㎞ 걷고 기부"
         },
         {
-          "title": "프랑스 오픈",
-          "traffic": "200+",
-          "context": "부상 우려 지운 안세영, 25분 만에 프랑스오픈 16강 진출…시즌 10승 시동"
+          "title": "철도",
+          "traffic": "100+",
+          "context": "김태호 부산교통공사 사장 취임…파업 대응·교섭 타결에 집중"
+        },
+        {
+          "title": "kt wiz",
+          "traffic": "500+",
+          "context": "Veteran pitcher Choi Dong-hwan released by KT after failed comeback attempt - CHOSUNBIZ"
+        },
+        {
+          "title": "삼전닉스",
+          "traffic": "2000+",
+          "context": "삼전닉스, 여기가 바닥인가···증권가 “코스피 W자 바닥 확인, 삼전닉스 11월 반등” 전망"
+        },
+        {
+          "title": "김한솔",
+          "traffic": "100+",
+          "context": "북한 매체 홈페이지 '먹통'...'김정은 사망설'과 관계 있나? [앵커리포트]"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-22T02:19:12.164Z",
+      "fetched": "2026-10-22T10:47:54.197Z",
       "items": [
         {
           "title": "NEON",
@@ -88,12 +88,12 @@
           "artist": "리센느"
         },
         {
-          "title": "Deja Vu",
-          "artist": "리센느"
-        },
-        {
           "title": "Looks Can Kill",
           "artist": "아이브"
+        },
+        {
+          "title": "Deja Vu",
+          "artist": "리센느"
         },
         {
           "title": "꿈꾸던 어른이 되었나요?",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-22T02:19:12.164Z",
+      "fetched": "2026-10-22T10:47:54.197Z",
       "items": [
         {
           "title": "문화방송",
