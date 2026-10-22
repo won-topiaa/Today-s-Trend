@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-21T20:59:22.209Z",
+  "updated": "2026-10-22T02:19:12.164Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-21T20:59:22.209Z",
+      "fetched": "2026-10-22T02:19:12.164Z",
       "items": [
         {
-          "title": "챔스",
+          "title": "la 레이커스 대 골든 스테이트",
           "traffic": "1000+",
-          "context": "황인범 32분 포르투, 에인트호번에 0-1 패배"
+          "context": "Lakers announce starting lineup for first game in post-LeBron era"
         },
         {
-          "title": "황희찬",
+          "title": "반도체산업",
+          "traffic": "200+",
+          "context": "어플라이드 머티어리얼즈 코리아, 반도체의 날 산업포장 수훈"
+        },
+        {
+          "title": "금리",
+          "traffic": "200+",
+          "context": "한은, 기준금리 연 3.0% 동결‥긴축 속도 조절"
+        },
+        {
+          "title": "초코파이",
           "traffic": "500+",
-          "context": "\"황희찬 슈퍼카 42대 요구하곤 홍보 불이행\" 사기 혐의 피소"
+          "context": "오리온, '카스타드' 해외 인기에 생산라인 증설…연3천억원 규모"
         },
         {
-          "title": "real madrid",
-          "traffic": "100+",
-          "context": "¿Cómo ver el partido Real Madrid vs Leipzig en TV y streaming?"
-        },
-        {
-          "title": "자녀",
-          "traffic": "500+",
-          "context": "늦은 취업 반영…자녀공제 기준 26세로 늘린다"
-        },
-        {
-          "title": "bayern vs arsenal",
+          "title": "claude duet",
           "traffic": "200+",
-          "context": "Bayern Munich vs Arsenal: UEFA Champions League stats & head-to-head"
+          "context": "Anthropic unveils Claude Duet AI agent app"
         },
         {
-          "title": "real madrid vs rb leipzig",
-          "traffic": "200+",
-          "context": "Between Mbappé and Güler: who scored Real Madrid's second goal against Leipzig?"
-        },
-        {
-          "title": "현대 아이오닉",
-          "traffic": "100+",
-          "context": "현대차 中 전략형 전기차 아이오닉 V '초라한' 성적…첫달 판매 '28대'"
-        },
-        {
-          "title": "엔화 환율",
-          "traffic": "200+",
-          "context": "떨어지는 원/달러 환율, 환전소 앞 북적북적"
-        },
-        {
-          "title": "삼성",
+          "title": "독도",
           "traffic": "1000+",
-          "context": "‘이게 소리다’… 오디오의 명가 대표작들 한자리에"
+          "context": "'독도 영토주권 되새긴다'…경북도 독도의 달 기념행사"
         },
         {
-          "title": "바이에른 대 아스널",
-          "traffic": "10000+",
-          "context": "감독이 부상으로 결장한다고? 뮌헨 콩파니 감독, 아스널전 결장 유력"
+          "title": "레이 아미",
+          "traffic": "200+",
+          "context": "무명 가수서 ‘케데헌’ 조이로… “예은이란 이름 자랑스러워”"
+        },
+        {
+          "title": "탑승",
+          "traffic": "200+",
+          "context": "“버스 무임승차 외국인 잇따라…해외서 ‘한국여행 팁’ 공유”"
+        },
+        {
+          "title": "국가보훈부",
+          "traffic": "200+",
+          "context": "보훈부, 신임 공직자 '독립·호국·민주' 현장체험 확대 추진"
+        },
+        {
+          "title": "프랑스 오픈",
+          "traffic": "200+",
+          "context": "부상 우려 지운 안세영, 25분 만에 프랑스오픈 16강 진출…시즌 10승 시동"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-21T20:59:22.209Z",
+      "fetched": "2026-10-22T02:19:12.164Z",
       "items": [
         {
           "title": "NEON",
@@ -100,15 +100,15 @@
           "artist": "머무르"
         },
         {
-          "title": "Pop Off Pop Off",
-          "artist": "키키"
+          "title": "Rose (feat. Skinny Brown & Homeboy)",
+          "artist": "양홍원"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-21T20:59:22.209Z",
+      "fetched": "2026-10-22T02:19:12.164Z",
       "items": [
         {
           "title": "문화방송",
