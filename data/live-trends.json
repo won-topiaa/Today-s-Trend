@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-22T20:57:13.339Z",
+  "updated": "2026-10-23T02:24:32.203Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-22T20:57:13.339Z",
+      "fetched": "2026-10-23T02:24:32.203Z",
       "items": [
         {
-          "title": "손주",
-          "traffic": "200+",
-          "context": "‘손주 돌봄’ 수당에… 할머니는 돈벌고, 엄마는 걱정 덜고[온나라 다함께 아이키우기 프로젝트]"
+          "title": "제민일보",
+          "traffic": "2000+",
+          "context": "초강력 태풍 ‘참피’ 진로 틀었다…한반도 영향은?"
         },
         {
-          "title": "환율",
-          "traffic": "1000+",
-          "context": "기준금리 올리던 한은, 이번엔 3.00% 동결…그 배경은?"
-        },
-        {
-          "title": "피싱",
-          "traffic": "500+",
-          "context": "보이스피싱 피해금 10월부터 코인으로 돌려받을 수도…요청하면 거래소가 팔아 현금 지급 가능"
-        },
-        {
-          "title": "암",
-          "traffic": "500+",
-          "context": "“얼굴 보니 90일 내 사망 가능성”…암 환자 생존 예측 AI 나왔다"
-        },
-        {
-          "title": "제16전투비행단",
+          "title": "국회",
           "traffic": "100+",
-          "context": "예천군, 공군 제16전투비행단 장병 대상 마약류 예방 교육 실시"
+          "context": "[오늘의 국회일정](23일·금)"
         },
         {
-          "title": "젠슨 황",
+          "title": "김세영",
+          "traffic": "200+",
+          "context": "유해란, LPGA 3승 정조준…BMW 대회 첫날 공동 3위"
+        },
+        {
+          "title": "신지애",
+          "traffic": "200+",
+          "context": "Golf Legend Shin Ji-ai Advises Rookie Kim Min-sol: 'Keep Pushing'"
+        },
+        {
+          "title": "기업은행",
           "traffic": "500+",
-          "context": "중국발 메모리공포에 젠슨황 한마디…\"2029년까지 공급과잉 없다\""
+          "context": "[게시판] IBK기업은행 'I-포켓몬 신용카드' 출시"
         },
         {
-          "title": "유로파리그",
-          "traffic": "200+",
-          "context": "유로파 리그 셀틱 대 셀타 비고 경기 예측"
+          "title": "네이버",
+          "traffic": "20000+",
+          "context": "네이버, 대학·입시 검색 강화…모집요강·경쟁률 한눈에"
         },
         {
-          "title": "베식타시 대 크리스털 팰리스",
-          "traffic": "2000+",
-          "context": "Licensable picture: UEFA Europa League - Besiktas v Crystal Palace"
+          "title": "독도",
+          "traffic": "1000+",
+          "context": "울릉도에 '독도교육원' 짓는다…현장 체험형 독도교육 거점 조성"
         },
         {
-          "title": "england cricket team vs sri lanka national cricket team standings",
-          "traffic": "2000+",
-          "context": "Harry Brook underlines status as world's best all-format batter in Rawalpindi run-fest"
+          "title": "하나은행",
+          "traffic": "500+",
+          "context": "하나은행·하나카드, 동국제강과 손잡고 스틸샵 구매기업 공급망 금융 지원 나선다"
         },
         {
-          "title": "솔리다임",
-          "traffic": "200+",
-          "context": "솔리다임 '중복 상장' 판단에도...규제 방안은?"
+          "title": "국민은행",
+          "traffic": "1000+",
+          "context": "KB국민은행, 중국서도 'KB스타뱅킹'으로 QR 결제"
+        },
+        {
+          "title": "카드뉴스",
+          "traffic": "100+",
+          "context": "인구전략위원회, 국민으로부터 인구관련 정책 아이디어를 직접 듣는 첫 토론회 개최"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-22T20:57:13.339Z",
+      "fetched": "2026-10-23T02:24:32.203Z",
       "items": [
         {
           "title": "NEON",
@@ -72,12 +72,12 @@
           "artist": "튜이드"
         },
         {
-          "title": "CRASH",
-          "artist": "ALLDAY PROJECT"
-        },
-        {
           "title": "I SPY",
           "artist": "NCT WISH"
+        },
+        {
+          "title": "CRASH",
+          "artist": "ALLDAY PROJECT"
         },
         {
           "title": "Looks Can Kill",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-22T20:57:13.339Z",
+      "fetched": "2026-10-23T02:24:32.203Z",
       "items": [
         {
           "title": "문화방송",
