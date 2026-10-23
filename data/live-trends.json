@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-23T16:03:58.327Z",
+  "updated": "2026-10-23T20:45:21.298Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-23T16:03:58.327Z",
+      "fetched": "2026-10-23T20:45:21.298Z",
       "items": [
         {
-          "title": "함소원",
-          "traffic": "1000+",
-          "context": "함소원, 5년 만에 ♥전남편 진화와 재혼? “서로 진지하게 바라보는 중”"
+          "title": "승리",
+          "traffic": "100+",
+          "context": "'소주병 위협 피소' 빅뱅 출신 승리 \"허위 사실로 합의 못 해\""
         },
         {
-          "title": "교통량",
+          "title": "슈투트가르트 대 묀헨글라트바흐",
+          "traffic": "200+",
+          "context": "German Bundesliga LIVE: Stuttgart v Borussia M'gladbach - watch, text coverage, scores, stats & head-to-head"
+        },
+        {
+          "title": "입스위치 대 노팅엄 포레스트",
+          "traffic": "1000+",
+          "context": "Ipswich vs. Nottm Forest (Oct 23, 2026) Team Stats"
+        },
+        {
+          "title": "al",
+          "traffic": "100+",
+          "context": "Tuberville boots reporter from Mobile campaign event"
+        },
+        {
+          "title": "월즈 2026",
           "traffic": "100+",
           "context": null
         },
         {
-          "title": "롤드컵",
-          "traffic": "1000+",
-          "context": "[롤드컵] '버서커' 김민철, \"한화생명 상대 복수 원한다\""
+          "title": "tes",
+          "traffic": "200+",
+          "context": "\"Business as usual\": The mindset of Hanwha Life Esports' 'Gumayusi' Lee Min-hyeong"
         },
         {
-          "title": "하주석",
-          "traffic": "100+",
-          "context": "[PO 포커스] '이적생' KIA 하주석, 2년 연속 KS 밟을까"
-        },
-        {
-          "title": "커피",
+          "title": "페이커",
           "traffic": "2000+",
-          "context": "서울우유, 고품질 원유 앞세운 ‘강릉커피’로 RTD 커피 시장 공략"
+          "context": "'페이커' 기념우표 구매 기다리는 시민들"
         },
         {
-          "title": "손석구",
-          "traffic": "500+",
-          "context": "“너한테 하고 싶었던 이야기야” 손석구, ‘은인’ 최희서에 전하는 고마운 진심"
+          "title": "로보택시",
+          "traffic": "200+",
+          "context": "2028년 광주서 로보택시 상용화…자율주행 서비스 사업자 도입"
         },
         {
-          "title": "이현중",
+          "title": "t1",
           "traffic": "100+",
-          "context": "[포토] 이현중 '전국 유람 직관' - 머니투데이"
+          "context": null
         },
         {
-          "title": "明天的天氣",
-          "traffic": "100+",
-          "context": "颱風薔琵持續往西 預計凌晨後北轉 北部山區嚴防大豪雨｜不斷更新"
-        },
-        {
-          "title": "닥터x",
-          "traffic": "1000+",
-          "context": "[다시보기] 닥터X : 하얀 마피아의 시대 5회"
-        },
-        {
-          "title": "al-faisaly vs al-nassr",
-          "traffic": "1000+",
-          "context": "Al Faisaly vs Al Nassr: Saudi Pro League stats & head-to-head"
+          "title": "2026 월즈",
+          "traffic": "200+",
+          "context": "카카오프렌즈 X 라이엇 게임즈, 월즈 시즌을 함께 즐기는 특별한 콜라보 진행"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-23T16:03:58.327Z",
+      "fetched": "2026-10-23T20:45:21.298Z",
       "items": [
         {
           "title": "NEON",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-23T16:03:58.327Z",
+      "fetched": "2026-10-23T20:45:21.298Z",
       "items": [
         {
           "title": "문화방송",
