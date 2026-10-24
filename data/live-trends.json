@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-23T20:45:21.298Z",
+  "updated": "2026-10-24T02:22:11.844Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-23T20:45:21.298Z",
+      "fetched": "2026-10-24T02:22:11.844Z",
       "items": [
         {
-          "title": "승리",
-          "traffic": "100+",
-          "context": "'소주병 위협 피소' 빅뱅 출신 승리 \"허위 사실로 합의 못 해\""
-        },
-        {
-          "title": "슈투트가르트 대 묀헨글라트바흐",
-          "traffic": "200+",
-          "context": "German Bundesliga LIVE: Stuttgart v Borussia M'gladbach - watch, text coverage, scores, stats & head-to-head"
-        },
-        {
-          "title": "입스위치 대 노팅엄 포레스트",
+          "title": "미사일",
           "traffic": "1000+",
-          "context": "Ipswich vs. Nottm Forest (Oct 23, 2026) Team Stats"
+          "context": "사우디, 미사일 생산시설 확장…중국 기술 가능성"
         },
         {
-          "title": "al",
+          "title": "서울 날씨",
+          "traffic": "100000+",
+          "context": "태풍 참피 북상…제주·남부 강한 비[내일 날씨]"
+        },
+        {
+          "title": "연합인포맥스",
+          "traffic": "500+",
+          "context": "금감원, '해외주식 현금성 마케팅' 원천 금지 추진"
+        },
+        {
+          "title": "김수미",
+          "traffic": "1000+",
+          "context": "“인생 한 번뿐이야” 故 김수미가 세상에 남긴 마지막 독설"
+        },
+        {
+          "title": "lcs",
           "traffic": "100+",
-          "context": "Tuberville boots reporter from Mobile campaign event"
+          "context": "L.C.S. Hosts 3rd Annual Anti-Bullying Color Run"
         },
         {
-          "title": "월즈 2026",
-          "traffic": "100+",
-          "context": null
-        },
-        {
-          "title": "tes",
+          "title": "삼성 갤럭시 s26",
           "traffic": "200+",
-          "context": "\"Business as usual\": The mindset of Hanwha Life Esports' 'Gumayusi' Lee Min-hyeong"
+          "context": "삼성 '갤럭시 M47·A26·A17' One UI 9 업데이트 배포…안드로이드 17 적용"
         },
         {
-          "title": "페이커",
+          "title": "운전",
+          "traffic": "500+",
+          "context": "운전대 놨더니 슥~ 얌체운전…테슬라X FSD 타보니[시승기] - 머니투데이"
+        },
+        {
+          "title": "lcp",
+          "traffic": "100+",
+          "context": "TSW Eddie: \"Vietnamese teams are not just trying to win the LCP anymore\""
+        },
+        {
+          "title": "김밥축제",
+          "traffic": "100+",
+          "context": "김밥대장 정다현 : “김밥도 직업이 된다” 전국 800곳 누빈 덕후의 실행력"
+        },
+        {
+          "title": "매일경제신문",
           "traffic": "2000+",
-          "context": "'페이커' 기념우표 구매 기다리는 시민들"
-        },
-        {
-          "title": "로보택시",
-          "traffic": "200+",
-          "context": "2028년 광주서 로보택시 상용화…자율주행 서비스 사업자 도입"
-        },
-        {
-          "title": "t1",
-          "traffic": "100+",
-          "context": null
-        },
-        {
-          "title": "2026 월즈",
-          "traffic": "200+",
-          "context": "카카오프렌즈 X 라이엇 게임즈, 월즈 시즌을 함께 즐기는 특별한 콜라보 진행"
+          "context": "[매경춘추] 네 번째 엑스"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-23T20:45:21.298Z",
+      "fetched": "2026-10-24T02:22:11.844Z",
       "items": [
         {
           "title": "NEON",
@@ -80,24 +80,24 @@
           "artist": "ALLDAY PROJECT"
         },
         {
-          "title": "I SPY",
-          "artist": "NCT WISH"
-        },
-        {
           "title": "노스탈지아",
           "artist": "BIG Naughty"
+        },
+        {
+          "title": "I SPY",
+          "artist": "NCT WISH"
         },
         {
           "title": "LOVE ATTACK",
           "artist": "리센느"
         },
         {
-          "title": "Deja Vu",
-          "artist": "리센느"
-        },
-        {
           "title": "꿈꾸던 어른이 되었나요?",
           "artist": "머무르"
+        },
+        {
+          "title": "Deja Vu",
+          "artist": "리센느"
         },
         {
           "title": "Rose (feat. Skinny Brown & Homeboy)",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-23T20:45:21.298Z",
+      "fetched": "2026-10-24T02:22:11.844Z",
       "items": [
         {
           "title": "문화방송",
