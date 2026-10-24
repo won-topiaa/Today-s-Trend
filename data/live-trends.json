@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-24T09:57:02.550Z",
+  "updated": "2026-10-24T15:01:03.555Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-24T09:57:02.550Z",
+      "fetched": "2026-10-24T15:01:03.555Z",
       "items": [
         {
-          "title": "메이저 리그 베이스볼",
+          "title": "전두환",
           "traffic": "200+",
-          "context": "'날벼락' 김혜성에게 불똥 뛰었다…日 3관왕 영입 반대 이유? \"과거 실수 되풀이 말아야\""
+          "context": "3일 기다려 만난 전두환 실세... \"정의가 있나 싶어\""
         },
         {
-          "title": "kia 타이거즈",
-          "traffic": "2000+",
-          "context": "프로야구 플레이오프 1차전 페덱 vs 네일 선발 투수 빅뱅"
+          "title": "본드걸",
+          "traffic": "200+",
+          "context": "“차기 제임스 본드·본드걸, 이 중에 나오나”…최종 카메라 테스트 오른 후보 누구"
         },
         {
-          "title": "성희롱",
+          "title": "첼시 토트넘",
           "traffic": "100+",
-          "context": "어기구 \"직장 내 성희롱 관련 신고 4년 사이 44% 증가\""
+          "context": "첼시-토트넘 경기에서 실시간 얼굴인식 시스템 가동…범죄 예방인가, 관중 감시인가"
         },
         {
-          "title": "소득세",
-          "traffic": "100+",
-          "context": "60대 투자자 \"고배당주 분리과세 배당, 건보료도 제외되나요\"[세무 재테크 Q&A]"
-        },
-        {
-          "title": "안전",
+          "title": "스토크 시티 대 브리스틀 시티",
           "traffic": "200+",
-          "context": "예산 삭감에 쪼그라든 순직 소방관 추모식···‘소방 빨대’ 사과한 추미애 “처우 개선 약속”"
+          "context": "Stoke City v Bristol City: Championship stats & head-to-head"
         },
         {
-          "title": "박지환",
-          "traffic": "200+",
-          "context": "김대명·박지환, 동해안에 식당 개업… 파리만 날림 (맛길대)"
+          "title": "arsenal vs everton",
+          "traffic": "1000+",
+          "context": "Arsenal vs Everton: Premier League preview, team news, stats & head-to-head"
         },
         {
-          "title": "사건반장",
-          "traffic": "200+",
-          "context": "‘장모 살해·아내 납치’ 김성우 송치… 접근금지 중에도 스토킹"
-        },
-        {
-          "title": "나이",
-          "traffic": "200+",
-          "context": "끝나지 않는 ‘중수청장 국무회의 배석’ 논란…법조계 “위법 아니지만 독립성 고려해야”"
-        },
-        {
-          "title": "관광객",
-          "traffic": "5000+",
-          "context": "“K드라마 보고 한국 왔는데, 일본 여행보다 불편”···외국인 관광객 발목 잡은 ‘번호 인증·앱 차단’"
-        },
-        {
-          "title": "울산 현대모비스 대 썬더스",
+          "title": "아우크스부르크 대 우니온 베를린",
           "traffic": "500+",
-          "context": null
+          "context": "Confirmed lineups: FC Augsburg vs. 1.FC Union Berlin"
+        },
+        {
+          "title": "연휴",
+          "traffic": "2000+",
+          "context": "\"하루 연차로 12일 쉰다\"… 2027년 황금연휴 달력 총정리"
+        },
+        {
+          "title": "마인츠 05 대 베르더",
+          "traffic": "1000+",
+          "context": "Confirmed lineups: Mainz 05 vs. Werder Bremen"
+        },
+        {
+          "title": "라이프치히 대 엘버스베르크",
+          "traffic": "200+",
+          "context": "RB Leipzig - SV 07 Elversberg LIVE. Bundesliga latest updates"
+        },
+        {
+          "title": "안효섭",
+          "traffic": "200+",
+          "context": "안효섭 \"부모님께 SUV를 선물…내가 잘 사는 게 효도\""
         }
       ]
     },
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-24T09:57:02.550Z",
+      "fetched": "2026-10-24T15:01:03.555Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 14091
+          "views": 13244
         },
         {
           "title": "한국방송공사",
-          "views": 9578
+          "views": 10494
         },
         {
           "title": "한국교육방송공사",
-          "views": 5270
+          "views": 5300
         },
         {
-          "title": "이윤형 (1979년)",
-          "views": 3799
+          "title": "오세훈",
+          "views": 4865
         },
         {
-          "title": "김여정",
-          "views": 2145
+          "title": "명태균",
+          "views": 2304
         },
         {
-          "title": "5·18 광주 민주화 운동",
-          "views": 1889
+          "title": "박지환",
+          "views": 1800
         },
         {
-          "title": "서현진 (배우)",
-          "views": 1882
+          "title": "김지원 (배우)",
+          "views": 1747
+        },
+        {
+          "title": "이세돌",
+          "views": 1734
         },
         {
           "title": "김정은",
-          "views": 1879
+          "views": 1731
         },
         {
-          "title": "강신일",
-          "views": 1517
-        },
-        {
-          "title": "코리아세일페스타",
-          "views": 1331
+          "title": "이혜영 (1971년)",
+          "views": 1669
         }
       ]
     }
