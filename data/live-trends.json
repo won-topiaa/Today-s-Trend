@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-24T15:01:03.555Z",
+  "updated": "2026-10-24T19:56:51.872Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-24T15:01:03.555Z",
+      "fetched": "2026-10-24T19:56:51.872Z",
       "items": [
         {
-          "title": "전두환",
-          "traffic": "200+",
-          "context": "3일 기다려 만난 전두환 실세... \"정의가 있나 싶어\""
-        },
-        {
-          "title": "본드걸",
-          "traffic": "200+",
-          "context": "“차기 제임스 본드·본드걸, 이 중에 나오나”…최종 카메라 테스트 오른 후보 누구"
-        },
-        {
-          "title": "첼시 토트넘",
+          "title": "아틀레티코",
           "traffic": "100+",
-          "context": "첼시-토트넘 경기에서 실시간 얼굴인식 시스템 가동…범죄 예방인가, 관중 감시인가"
+          "context": "이강인, 챔피언스리그 결장 후 라리가 선발 복귀…아틀레티코는 선두 추격 도전"
         },
         {
-          "title": "스토크 시티 대 브리스틀 시티",
-          "traffic": "200+",
-          "context": "Stoke City v Bristol City: Championship stats & head-to-head"
+          "title": "losene keita",
+          "traffic": "100+",
+          "context": "« Personne ne croyait en moi » : de « petit ami de Miss Belgique » en prison à star du MMA, le destin fabuleux de Losene Keita"
         },
         {
-          "title": "arsenal vs everton",
+          "title": "프리미어리그",
           "traffic": "1000+",
-          "context": "Arsenal vs Everton: Premier League preview, team news, stats & head-to-head"
+          "context": "프리미어 리그 리버풀 대 브라이튼 점수 예측"
         },
         {
-          "title": "아우크스부르크 대 우니온 베를린",
-          "traffic": "500+",
-          "context": "Confirmed lineups: FC Augsburg vs. 1.FC Union Berlin"
-        },
-        {
-          "title": "연휴",
-          "traffic": "2000+",
-          "context": "\"하루 연차로 12일 쉰다\"… 2027년 황금연휴 달력 총정리"
-        },
-        {
-          "title": "마인츠 05 대 베르더",
-          "traffic": "1000+",
-          "context": "Confirmed lineups: Mainz 05 vs. Werder Bremen"
-        },
-        {
-          "title": "라이프치히 대 엘버스베르크",
+          "title": "lcp",
           "traffic": "200+",
-          "context": "RB Leipzig - SV 07 Elversberg LIVE. Bundesliga latest updates"
+          "context": "Worlds 2026: LYON Overcome Early Chaos to Stomp Team Secret Whales into 1-0 Bracket"
         },
         {
-          "title": "안효섭",
+          "title": "pl",
+          "traffic": "100+",
+          "context": "Bogdan Borusewicz w Kijowie: jestem dziś tutaj, żeby ci ludzie nie czuli się osamotnieni"
+        },
+        {
+          "title": "เชลซี พบ สเปอร์ส",
+          "traffic": "100+",
+          "context": "การคาดการณ์ผลการแข่งขันระหว่างเชลซีกับท็อตแนม: สถิติการพบกันเป็นข้อได้เปรียบที่สำคัญ"
+        },
+        {
+          "title": "cfo",
           "traffic": "200+",
-          "context": "안효섭 \"부모님께 SUV를 선물…내가 잘 사는 게 효도\""
+          "context": "Forgent Power Solutions Shares Plunge as CFO Exits Less Than a Year After IPO"
+        },
+        {
+          "title": "도르트문트 대 아인트라흐트",
+          "traffic": "100+",
+          "context": "분데스리가 도르트문트 대 프랑크푸르트 경기 예측"
+        },
+        {
+          "title": "2026 롤드컵",
+          "traffic": "200+",
+          "context": "LCK 4전 전승 속 2R 내전 성사…LPL은 1패조 벼랑 끝 승부"
+        },
+        {
+          "title": "tes",
+          "traffic": "100+",
+          "context": "NFL Fantasy 2026 Start 'Em, Sit 'Em: Tight ends for Week 7"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-24T09:57:02.550Z",
+      "fetched": "2026-10-24T19:56:51.872Z",
       "items": [
         {
           "title": "NEON",
@@ -80,35 +80,35 @@
           "artist": "ALLDAY PROJECT"
         },
         {
-          "title": "노스탈지아",
-          "artist": "BIG Naughty"
-        },
-        {
           "title": "LOVE ATTACK",
           "artist": "리센느"
         },
         {
-          "title": "I SPY",
-          "artist": "NCT WISH"
+          "title": "노스탈지아",
+          "artist": "BIG Naughty"
         },
         {
           "title": "꿈꾸던 어른이 되었나요?",
           "artist": "머무르"
         },
         {
-          "title": "Deja Vu",
-          "artist": "리센느"
+          "title": "I SPY",
+          "artist": "NCT WISH"
         },
         {
           "title": "Rose (feat. Skinny Brown & Homeboy)",
           "artist": "양홍원"
+        },
+        {
+          "title": "Deja Vu",
+          "artist": "리센느"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-24T15:01:03.555Z",
+      "fetched": "2026-10-24T19:56:51.872Z",
       "items": [
         {
           "title": "문화방송",
