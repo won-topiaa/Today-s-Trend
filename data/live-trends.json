@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-25T15:12:16.857Z",
+  "updated": "2026-10-25T20:06:40.470Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-25T15:12:16.857Z",
+      "fetched": "2026-10-25T20:06:40.470Z",
       "items": [
         {
-          "title": "liverpool vs brighton",
+          "title": "thứ hạng của man utd gặp bournemouth",
           "traffic": "500+",
-          "context": "Liverpool vs. Brighton GAME ON – 2pm kickoff at Anfield as planned"
+          "context": "Trực tiếp bóng đá MU - Bournemouth: Mount cứa lòng (Ngoại hạng Anh) (Hết giờ)"
         },
         {
-          "title": "김민수",
+          "title": "전국노래자랑",
+          "traffic": "100+",
+          "context": "장한별, ‘전국노래자랑’ 첫 출연부터 엔딩 장식…‘그대는 나의 별이오’ 열창"
+        },
+        {
+          "title": "tes",
+          "traffic": "100+",
+          "context": "TES 369: \"I will get to experience if Zeus or that Emerald player gives me more pressure\""
+        },
+        {
+          "title": "롤드컵 2026",
           "traffic": "200+",
-          "context": "'韓 국가대표 유망주' 김민수 날벼락, 이적 첫 시즌 만에 \"英 최고 재능\" 대형 경쟁자 합류 예고...충격 경고까지 \"마무리 능력 키워야\""
+          "context": "[롤드컵 톡톡] '정규리그 아픈 기억이 보약'… '스매시', \"역전하는 법을 몸으로 배웠죠\""
         },
         {
-          "title": "세리에 a",
+          "title": "2026 월즈",
           "traffic": "100+",
-          "context": "세리에 A 우디네세 대 AC 밀란 경기 예측"
+          "context": null
         },
         {
-          "title": "man utd đấu với bournemouth",
+          "title": "루키",
           "traffic": "500+",
-          "context": "Trực tiếp bóng đá MU - Bournemouth: Fernandes ngồi dự bị (Ngoại hạng Anh)"
+          "context": null
         },
         {
-          "title": "미국",
-          "traffic": "100+",
-          "context": "미국의 ‘AI 교육 포비아’…한국엔 기회[윤경환 특파원의 브레이킹 뉴욕]"
-        },
-        {
-          "title": "man utd vs bournemouth",
+          "title": "앙투안 그리즈만",
           "traffic": "1000+",
-          "context": "Man Utd vs Bournemouth LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream"
+          "context": "손흥민도 뛰어넘다니...\"유럽 최고 팀 갈 선수\" 그리즈만마저 푹 빠졌다, MLS에 나타난 19세 드리블 천재"
         },
         {
-          "title": "헐 시티 대 브렌트퍼드",
+          "title": "england cricket team vs pakistan national cricket team standings",
           "traffic": "500+",
-          "context": "Hull City vs Brentford LIVE! Premier League score updates, news, prediction, lineups and how to watch or stream"
+          "context": "Pakistan vs England: Shadab Khan condemns Harry Brook's side to another improbable loss"
         },
         {
-          "title": "맨유 대 본머스",
-          "traffic": "10000+",
-          "context": "맨유 대 본머스 축구 생중계 링크"
-        },
-        {
-          "title": "감우성",
+          "title": "레알 바르샤",
           "traffic": "200+",
-          "context": "[정수윤의 길을 걸으며] [51] ’100일의 거짓말’을 보는 마음"
+          "context": "레알 '비상'···비니시우스에 이어 '쿠르투아' 엘 클라시코 결장"
         },
         {
-          "title": "벙커버스터",
-          "traffic": "500+",
-          "context": "“미 항공모함, 벙커버스터 보충”…이란 재타격 ‘카운트다운?’ [이런뉴스]"
+          "title": "sc 프라이부르크 대 바이에른",
+          "traffic": "5000+",
+          "context": "부상 김민재, 프라이부르크전 못 뛴다…뮌헨 \"큰 문제 아니지만\""
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-25T15:12:16.857Z",
+      "fetched": "2026-10-25T20:06:40.470Z",
       "items": [
         {
           "title": "NEON",
@@ -76,20 +76,20 @@
           "artist": "튜이드"
         },
         {
-          "title": "CRASH",
-          "artist": "ALLDAY PROJECT"
-        },
-        {
           "title": "Rose (feat. Skinny Brown & Homeboy)",
           "artist": "양홍원"
         },
         {
-          "title": "LOVE ATTACK",
-          "artist": "리센느"
+          "title": "CRASH",
+          "artist": "ALLDAY PROJECT"
         },
         {
           "title": "노스탈지아",
           "artist": "BIG Naughty"
+        },
+        {
+          "title": "LOVE ATTACK",
+          "artist": "리센느"
         },
         {
           "title": "꿈꾸던 어른이 되었나요?",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-25T15:12:16.857Z",
+      "fetched": "2026-10-25T20:06:40.470Z",
       "items": [
         {
           "title": "문화방송",
