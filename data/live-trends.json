@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-25T10:19:49.639Z",
+  "updated": "2026-10-25T15:12:16.857Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-25T10:19:49.639Z",
+      "fetched": "2026-10-25T15:12:16.857Z",
       "items": [
         {
-          "title": "택시",
-          "traffic": "1000+",
-          "context": "12시간 운전해도 월 200만원…대구 택시업계 짓누르는 ‘빈차’ 공포"
-        },
-        {
-          "title": "전현무",
+          "title": "liverpool vs brighton",
           "traffic": "500+",
-          "context": "\"유두에 점퍼 걸겠다\" 조롱에…전현무, 수술까지 고민 '고백' - 머니투데이"
+          "context": "Liverpool vs. Brighton GAME ON – 2pm kickoff at Anfield as planned"
         },
         {
-          "title": "채무",
-          "traffic": "2000+",
-          "context": "\"대신 갚아\" 조카 돈 안갚는 채무자 모친 위협…40대 벌금형"
-        },
-        {
-          "title": "록히드 마틴 f-35 라이트닝 ii",
-          "traffic": "2000+",
-          "context": "록히드마틴, 美 국방부와 F-35 850대 10년 공급 기본합의"
-        },
-        {
-          "title": "셰프",
+          "title": "김민수",
           "traffic": "200+",
-          "context": "익숙한 재료도 낯설게… 셰프들이 그린 식탁 위 철학 [김동기 셰프의 한그릇]"
+          "context": "'韓 국가대표 유망주' 김민수 날벼락, 이적 첫 시즌 만에 \"英 최고 재능\" 대형 경쟁자 합류 예고...충격 경고까지 \"마무리 능력 키워야\""
         },
         {
-          "title": "지진",
+          "title": "세리에 a",
+          "traffic": "100+",
+          "context": "세리에 A 우디네세 대 AC 밀란 경기 예측"
+        },
+        {
+          "title": "man utd đấu với bournemouth",
+          "traffic": "500+",
+          "context": "Trực tiếp bóng đá MU - Bournemouth: Fernandes ngồi dự bị (Ngoại hạng Anh)"
+        },
+        {
+          "title": "미국",
+          "traffic": "100+",
+          "context": "미국의 ‘AI 교육 포비아’…한국엔 기회[윤경환 특파원의 브레이킹 뉴욕]"
+        },
+        {
+          "title": "man utd vs bournemouth",
           "traffic": "1000+",
-          "context": "'경주 강진' 10년...지진 원리부터 대처법까지 '한눈에'"
+          "context": "Man Utd vs Bournemouth LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream"
         },
         {
-          "title": "투자",
+          "title": "헐 시티 대 브렌트퍼드",
+          "traffic": "500+",
+          "context": "Hull City vs Brentford LIVE! Premier League score updates, news, prediction, lineups and how to watch or stream"
+        },
+        {
+          "title": "맨유 대 본머스",
           "traffic": "10000+",
-          "context": "솔리다임 IPO 중단 파장...주주 보호 VS 투자 딜레마 - 머니투데이"
+          "context": "맨유 대 본머스 축구 생중계 링크"
         },
         {
-          "title": "훈련기",
+          "title": "감우성",
           "traffic": "200+",
-          "context": "공중서 ‘쾅’…군용기 2대 충돌, 조종사 4명 전원 사망[아하필리핀]"
+          "context": "[정수윤의 길을 걸으며] [51] ’100일의 거짓말’을 보는 마음"
         },
         {
-          "title": "sk하이닉스",
-          "traffic": "5000+",
-          "context": "180조원대 이익도 ‘예고된 호실적’…삼전·닉스, 시장에 ‘감동’ 줄까"
-        },
-        {
-          "title": "성남 fc 대 수원 삼성 블루윙즈 순위",
-          "traffic": "5000+",
-          "context": "K리그2 수원, 성남 꺾고 구단 신기록 7연승…1부 복귀 성큼"
+          "title": "벙커버스터",
+          "traffic": "500+",
+          "context": "“미 항공모함, 벙커버스터 보충”…이란 재타격 ‘카운트다운?’ [이런뉴스]"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-25T10:19:49.639Z",
+      "fetched": "2026-10-25T15:12:16.857Z",
       "items": [
         {
           "title": "NEON",
@@ -80,16 +80,16 @@
           "artist": "ALLDAY PROJECT"
         },
         {
-          "title": "노스탈지아",
-          "artist": "BIG Naughty"
+          "title": "Rose (feat. Skinny Brown & Homeboy)",
+          "artist": "양홍원"
         },
         {
           "title": "LOVE ATTACK",
           "artist": "리센느"
         },
         {
-          "title": "Rose (feat. Skinny Brown & Homeboy)",
-          "artist": "양홍원"
+          "title": "노스탈지아",
+          "artist": "BIG Naughty"
         },
         {
           "title": "꿈꾸던 어른이 되었나요?",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-25T10:19:49.639Z",
+      "fetched": "2026-10-25T15:12:16.857Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 13244
+          "views": 10956
         },
         {
           "title": "한국방송공사",
-          "views": 10494
+          "views": 10049
         },
         {
           "title": "한국교육방송공사",
-          "views": 5300
+          "views": 6838
         },
         {
-          "title": "오세훈",
-          "views": 4865
-        },
-        {
-          "title": "명태균",
-          "views": 2304
-        },
-        {
-          "title": "박지환",
-          "views": 1800
+          "title": "이진희 (배우)",
+          "views": 5496
         },
         {
           "title": "김지원 (배우)",
-          "views": 1747
+          "views": 3701
         },
         {
-          "title": "이세돌",
-          "views": 1734
+          "title": "5·18 광주 민주화 운동",
+          "views": 2565
         },
         {
-          "title": "김정은",
-          "views": 1731
+          "title": "양홍원",
+          "views": 2557
         },
         {
-          "title": "이혜영 (1971년)",
-          "views": 1669
+          "title": "김영임 (국악인)",
+          "views": 2404
+        },
+        {
+          "title": "닥터X: 하얀 마피아의 시대",
+          "views": 2261
+        },
+        {
+          "title": "손석구",
+          "views": 2114
         }
       ]
     }
