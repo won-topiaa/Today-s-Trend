@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-24T19:56:51.872Z",
+  "updated": "2026-10-25T02:09:35.330Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-24T19:56:51.872Z",
+      "fetched": "2026-10-25T02:09:35.330Z",
       "items": [
         {
-          "title": "아틀레티코",
-          "traffic": "100+",
-          "context": "이강인, 챔피언스리그 결장 후 라리가 선발 복귀…아틀레티코는 선두 추격 도전"
-        },
-        {
-          "title": "losene keita",
-          "traffic": "100+",
-          "context": "« Personne ne croyait en moi » : de « petit ami de Miss Belgique » en prison à star du MMA, le destin fabuleux de Losene Keita"
-        },
-        {
-          "title": "프리미어리그",
+          "title": "투수 코치",
           "traffic": "1000+",
-          "context": "프리미어 리그 리버풀 대 브라이튼 점수 예측"
+          "context": "‘류지현 체제’ 프로야구 한화, 김광삼 투수코치 영입"
         },
         {
-          "title": "lcp",
+          "title": "마산가고파국화축제",
+          "traffic": "100+",
+          "context": "마산가고파국화축제 맞춰 창원시티투어버스 특별노선 운행"
+        },
+        {
+          "title": "올랜도 시티 대 뉴욕 시티",
+          "traffic": "100+",
+          "context": "Is Antoine Griezmann playing tonight for Orlando City against New York City FC?"
+        },
+        {
+          "title": "상장폐지",
+          "traffic": "100+",
+          "context": "주가 1000원 못 넘겨 ‘동전주 첫 상폐’ 수순"
+        },
+        {
+          "title": "로스앤젤레스 갤럭시",
+          "traffic": "2000+",
+          "context": "“제가 그 누구보다 가장 열렬한 팬” 떠난 지 1년 반 지났음에도… 여전한 ‘토트넘 사랑’ 손흥민 ‘오피셜’ 공식입장 “아직도 그립습니다”"
+        },
+        {
+          "title": "솔트레이크 대 세인트루이스 시티 sc",
+          "traffic": "2000+",
+          "context": "Five things to know about City SC's game with Real Salt Lake, as it looks to start a new streak"
+        },
+        {
+          "title": "월드시리즈",
+          "traffic": "500+",
+          "context": "MLB 밀워키, 탬파베이 3-2로 제압하고 월드시리즈 기선 제압"
+        },
+        {
+          "title": "황영조",
+          "traffic": "100+",
+          "context": "박서진, 발목 부상 숨기고 21km 마라톤 뛰었다..황영조도 감동한 '완주' ('살림남') - 조선비즈"
+        },
+        {
+          "title": "t1 dk",
           "traffic": "200+",
-          "context": "Worlds 2026: LYON Overcome Early Chaos to Stomp Team Secret Whales into 1-0 Bracket"
+          "context": "Worlds 2026: Swiss Stage Round 1 Draw"
         },
         {
-          "title": "pl",
-          "traffic": "100+",
-          "context": "Bogdan Borusewicz w Kijowie: jestem dziś tutaj, żeby ci ludzie nie czuli się osamotnieni"
-        },
-        {
-          "title": "เชลซี พบ สเปอร์ส",
-          "traffic": "100+",
-          "context": "การคาดการณ์ผลการแข่งขันระหว่างเชลซีกับท็อตแนม: สถิติการพบกันเป็นข้อได้เปรียบที่สำคัญ"
-        },
-        {
-          "title": "cfo",
-          "traffic": "200+",
-          "context": "Forgent Power Solutions Shares Plunge as CFO Exits Less Than a Year After IPO"
-        },
-        {
-          "title": "도르트문트 대 아인트라흐트",
-          "traffic": "100+",
-          "context": "분데스리가 도르트문트 대 프랑크푸르트 경기 예측"
-        },
-        {
-          "title": "2026 롤드컵",
-          "traffic": "200+",
-          "context": "LCK 4전 전승 속 2R 내전 성사…LPL은 1패조 벼랑 끝 승부"
-        },
-        {
-          "title": "tes",
-          "traffic": "100+",
-          "context": "NFL Fantasy 2026 Start 'Em, Sit 'Em: Tight ends for Week 7"
+          "title": "t1",
+          "traffic": "500+",
+          "context": "[롤드컵] 'LCK 최강' 젠지, 내전서 29분만에 한화생명 압도… 파죽의 2연승 질주"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-24T19:56:51.872Z",
+      "fetched": "2026-10-25T02:09:35.330Z",
       "items": [
         {
           "title": "NEON",
@@ -80,12 +80,16 @@
           "artist": "ALLDAY PROJECT"
         },
         {
+          "title": "노스탈지아",
+          "artist": "BIG Naughty"
+        },
+        {
           "title": "LOVE ATTACK",
           "artist": "리센느"
         },
         {
-          "title": "노스탈지아",
-          "artist": "BIG Naughty"
+          "title": "Rose (feat. Skinny Brown & Homeboy)",
+          "artist": "양홍원"
         },
         {
           "title": "꿈꾸던 어른이 되었나요?",
@@ -96,10 +100,6 @@
           "artist": "NCT WISH"
         },
         {
-          "title": "Rose (feat. Skinny Brown & Homeboy)",
-          "artist": "양홍원"
-        },
-        {
           "title": "Deja Vu",
           "artist": "리센느"
         }
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-24T19:56:51.872Z",
+      "fetched": "2026-10-25T02:09:35.330Z",
       "items": [
         {
           "title": "문화방송",
