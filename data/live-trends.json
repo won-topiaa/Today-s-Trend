@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-26T17:49:41.550Z",
+  "updated": "2026-10-26T22:02:20.645Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-26T17:49:41.550Z",
+      "fetched": "2026-10-26T22:02:20.645Z",
       "items": [
         {
-          "title": "cfo",
-          "traffic": "1000+",
-          "context": "FedEx appoints Jamere Jackson as chief financial officer By Reuters"
+          "title": "미스터트롯4",
+          "traffic": "500+",
+          "context": "[공식] 안정환·황신혜, ‘미스터트롯4’ 마스터 합류…12월 방송"
         },
         {
-          "title": "학습",
+          "title": "이다해",
+          "traffic": "1000+",
+          "context": "이다해, '중국풍' 외모 지적에 \"조금씩 달라지는 내 모습 즐겨\""
+        },
+        {
+          "title": "지연수",
+          "traffic": "200+",
+          "context": "\"오빠 저 기억하세요?\"…지연수, 서태지와 인연 공개 - 머니투데이"
+        },
+        {
+          "title": "원자력 잠수함",
           "traffic": "100+",
-          "context": "남양주시 유튜브 학습동아리 ‘N크레인’, 전국 평생학습 경연 최우수상"
+          "context": "中-日 갈등 고조와 中 해군력 강화 대응?…日 핵잠수함 보유 논란"
         },
         {
-          "title": "블리치",
+          "title": "수출",
           "traffic": "200+",
-          "context": "Bleach: Popular anime series officially ends as fans say goodbye"
+          "context": "\"EU 포장규제, 수출기업 83％ '잘 몰라'…맞춤형 지원 필요\""
         },
         {
-          "title": "베식타시 대 이스탄불 바샥셰히르",
+          "title": "지뢰",
+          "traffic": "200+",
+          "context": "北 '지뢰폭발' 맞대응 안보리 의장 서한…이사국들 회람"
+        },
+        {
+          "title": "추미애",
+          "traffic": "500+",
+          "context": "서미화 지적에… 추미애 “장애인 예산 세심히 살필 것”"
+        },
+        {
+          "title": "배구",
+          "traffic": "200+",
+          "context": "'V-리그가 일상 속으로' 한국배구연맹, 페스티버와 손잡고 모바일 액세서리 컬렉션 출시"
+        },
+        {
+          "title": "이차 전지",
+          "traffic": "200+",
+          "context": "지아이텍, KCC글라스와 32억 규모 공급 계약 체결"
+        },
+        {
+          "title": "주가",
           "traffic": "2000+",
-          "context": "Israeli forces kill at least five people in Gaza, including 7-year-old girl"
-        },
-        {
-          "title": "범죄",
-          "traffic": "1000+",
-          "context": "\"살인범죄 5건 중 1건, 교제폭력·스토킹 등 관계성 범죄 선행\""
-        },
-        {
-          "title": "손아섭",
-          "traffic": "2000+",
-          "context": "NC 우승 이끈 이동욱, 친정 롯데 사령탑으로… 단장엔 이택근"
-        },
-        {
-          "title": "마린 칠리치",
-          "traffic": "200+",
-          "context": "2014년 US오픈 우승자 마린 칠리치, ATP 125 서울오픈 1회전 탈락"
-        },
-        {
-          "title": "apple",
-          "traffic": "200+",
-          "context": "Apple gives iPad mini its biggest update ever"
-        },
-        {
-          "title": "시효",
-          "traffic": "200+",
-          "context": "응우옌 두이 응옥 씨는 행정 위반 사항을 처리하는 데 과학 기술을 적용하는 것에 대해 이야기했습니다."
-        },
-        {
-          "title": "냉장고를 부탁해",
-          "traffic": "200+",
-          "context": "‘냉부’, 팬 초대한다면서 사진·방송 경력 내라니...난데없는 자격 논란"
+          "context": "10월 소비심리 1.2p↓…“증시 조정·중동 불안 영향”"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-26T11:48:26.879Z",
+      "fetched": "2026-10-26T22:02:20.645Z",
       "items": [
         {
           "title": "NEON",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-26T17:49:41.550Z",
+      "fetched": "2026-10-26T22:02:20.645Z",
       "items": [
         {
           "title": "문화방송",
