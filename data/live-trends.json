@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-25T20:06:40.470Z",
+  "updated": "2026-10-26T02:10:05.245Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-25T20:06:40.470Z",
+      "fetched": "2026-10-26T02:10:05.245Z",
       "items": [
         {
-          "title": "thứ hạng của man utd gặp bournemouth",
-          "traffic": "500+",
-          "context": "Trực tiếp bóng đá MU - Bournemouth: Mount cứa lòng (Ngoại hạng Anh) (Hết giờ)"
-        },
-        {
-          "title": "전국노래자랑",
-          "traffic": "100+",
-          "context": "장한별, ‘전국노래자랑’ 첫 출연부터 엔딩 장식…‘그대는 나의 별이오’ 열창"
-        },
-        {
-          "title": "tes",
-          "traffic": "100+",
-          "context": "TES 369: \"I will get to experience if Zeus or that Emerald player gives me more pressure\""
-        },
-        {
-          "title": "롤드컵 2026",
+          "title": "인플루언서",
           "traffic": "200+",
-          "context": "[롤드컵 톡톡] '정규리그 아픈 기억이 보약'… '스매시', \"역전하는 법을 몸으로 배웠죠\""
+          "context": "[리얼]“35층서 추락했는데 살았어” 미녀 인플루언서, 17개월 만에 복귀"
         },
         {
-          "title": "2026 월즈",
+          "title": "넾다세일",
           "traffic": "100+",
-          "context": null
+          "context": "네이버, 하반기 ‘넾다세일’ 2주간 연다…약 1000만 개 상품 할인"
         },
         {
-          "title": "루키",
+          "title": "카드뉴스",
+          "traffic": "200+",
+          "context": "\"AI가 엘비스 프레슬리 노래 무단 학습\"...앤트로픽 540억 원 피소"
+        },
+        {
+          "title": "빌 게이츠",
           "traffic": "500+",
-          "context": null
+          "context": "“코딩실력 쓸모없어, 향후 20년 인류 가장 혼란”…빌 게이츠, 경고"
         },
         {
-          "title": "앙투안 그리즈만",
+          "title": "시내버스",
+          "traffic": "100+",
+          "context": "75세 이상 시내버스 무료 지원 ‘i+실버패스’ 일단 멈춤"
+        },
+        {
+          "title": "탈세",
+          "traffic": "500+",
+          "context": "라이브방송으로 '18억 돈방석' 앉더니…유명 인플루언서의 최후 [차이나 워치]"
+        },
+        {
+          "title": "우리은행",
           "traffic": "1000+",
-          "context": "손흥민도 뛰어넘다니...\"유럽 최고 팀 갈 선수\" 그리즈만마저 푹 빠졌다, MLS에 나타난 19세 드리블 천재"
+          "context": "\"금리 낮춘다더니 할인은 더 줄였다?\"…국감서 뭇매 맞은 은행 '꼼수' 뭐길래[금알못]"
         },
         {
-          "title": "england cricket team vs pakistan national cricket team standings",
+          "title": "엘에이 fc 대 la 갤럭시",
+          "traffic": "50000+",
+          "context": "LAFC vs. LA Galaxy: Preview, How to Watch It on TV, & Predicted Lineups"
+        },
+        {
+          "title": "국민은행",
+          "traffic": "2000+",
+          "context": "KB국민은행, 40년 금융시스템 혁신 가속…가계대출 심사도 클라우드로 전환"
+        },
+        {
+          "title": "빅테크",
           "traffic": "500+",
-          "context": "Pakistan vs England: Shadab Khan condemns Harry Brook's side to another improbable loss"
-        },
-        {
-          "title": "레알 바르샤",
-          "traffic": "200+",
-          "context": "레알 '비상'···비니시우스에 이어 '쿠르투아' 엘 클라시코 결장"
-        },
-        {
-          "title": "sc 프라이부르크 대 바이에른",
-          "traffic": "5000+",
-          "context": "부상 김민재, 프라이부르크전 못 뛴다…뮌헨 \"큰 문제 아니지만\""
+          "context": "[FOMC 폴] 10월 '매파적 동결' 관측…12월 인상 가능성"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-25T20:06:40.470Z",
+      "fetched": "2026-10-26T02:10:05.245Z",
       "items": [
         {
           "title": "NEON",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-25T20:06:40.470Z",
+      "fetched": "2026-10-26T02:10:05.245Z",
       "items": [
         {
           "title": "문화방송",
