@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-26T02:10:05.245Z",
+  "updated": "2026-10-26T11:48:26.879Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-26T02:10:05.245Z",
+      "fetched": "2026-10-26T11:48:26.879Z",
       "items": [
         {
-          "title": "인플루언서",
+          "title": "한준수",
           "traffic": "200+",
-          "context": "[리얼]“35층서 추락했는데 살았어” 미녀 인플루언서, 17개월 만에 복귀"
+          "context": "'솔로포' 달려라! 한준수"
         },
         {
-          "title": "넾다세일",
-          "traffic": "100+",
-          "context": "네이버, 하반기 ‘넾다세일’ 2주간 연다…약 1000만 개 상품 할인"
+          "title": "야생 생물",
+          "traffic": "500+",
+          "context": "박해철 의원, 백색목록 전면 재선정 촉구"
         },
         {
-          "title": "카드뉴스",
+          "title": "카스트로",
+          "traffic": "10000+",
+          "context": "‘1회 선제 적시타→3회 투런홈런’ 카스트로, PS 2호 홈런 폭발…KIA, 3회 4:0 리드 [PO1] - 머니투데이"
+        },
+        {
+          "title": "jyp",
           "traffic": "200+",
-          "context": "\"AI가 엘비스 프레슬리 노래 무단 학습\"...앤트로픽 540억 원 피소"
+          "context": "Twice’s Jihyo officially leaves JYP Entertainment after 21 years"
         },
         {
-          "title": "빌 게이츠",
+          "title": "미래에셋 생명",
           "traffic": "500+",
-          "context": "“코딩실력 쓸모없어, 향후 20년 인류 가장 혼란”…빌 게이츠, 경고"
+          "context": "미래에셋생명, 사이버 침해사고로 개인정보 유출... “전사적 비상대응 가동”"
         },
         {
-          "title": "시내버스",
-          "traffic": "100+",
-          "context": "75세 이상 시내버스 무료 지원 ‘i+실버패스’ 일단 멈춤"
+          "title": "강남이별녀",
+          "traffic": "200+",
+          "context": "오전 8시 만취해 강남대로 한복판 활보 여성…경찰이 끌고나와"
         },
         {
-          "title": "탈세",
-          "traffic": "500+",
-          "context": "라이브방송으로 '18억 돈방석' 앉더니…유명 인플루언서의 최후 [차이나 워치]"
-        },
-        {
-          "title": "우리은행",
-          "traffic": "1000+",
-          "context": "\"금리 낮춘다더니 할인은 더 줄였다?\"…국감서 뭇매 맞은 은행 '꼼수' 뭐길래[금알못]"
-        },
-        {
-          "title": "엘에이 fc 대 la 갤럭시",
-          "traffic": "50000+",
-          "context": "LAFC vs. LA Galaxy: Preview, How to Watch It on TV, & Predicted Lineups"
-        },
-        {
-          "title": "국민은행",
+          "title": "kbo",
           "traffic": "2000+",
-          "context": "KB국민은행, 40년 금융시스템 혁신 가속…가계대출 심사도 클라우드로 전환"
+          "context": "[Photo] Lee Beom-ho conducts interview - CHOSUNBIZ"
         },
         {
-          "title": "빅테크",
+          "title": "샘 올 트먼",
+          "traffic": "200+",
+          "context": "오픈AI, 할인으로 앤트로픽 고객 공략…앤트로픽은 신모델로 사용량 선두 탈환"
+        },
+        {
+          "title": "강준혁",
+          "traffic": "200+",
+          "context": "제주SK, 포항 원정서 파이널B 생존 승부 돌입"
+        },
+        {
+          "title": "그랜드 테프트 오토 vi",
           "traffic": "500+",
-          "context": "[FOMC 폴] 10월 '매파적 동결' 관측…12월 인상 가능성"
+          "context": "'GTA 6' 출시에 앞서 현실로 다가온 '그랜드 테프트 오토' 맥주"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-26T02:10:05.245Z",
+      "fetched": "2026-10-26T11:48:26.879Z",
       "items": [
         {
           "title": "NEON",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-26T02:10:05.245Z",
+      "fetched": "2026-10-26T11:48:26.879Z",
       "items": [
         {
           "title": "문화방송",
