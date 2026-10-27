@@ -1,83 +1,87 @@
 {
-  "updated": "2026-10-27T02:47:10.064Z",
+  "updated": "2026-10-27T11:13:04.375Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-27T02:47:10.064Z",
+      "fetched": "2026-10-27T11:13:04.375Z",
       "items": [
         {
-          "title": "gpt-6.1",
-          "traffic": "100+",
-          "context": "GPT-6.1 Terra in GitHub Copilot"
+          "title": "긴급 체포",
+          "traffic": "2000+",
+          "context": "서울 구로구 주택가 쓰레기 더미서 미라화된 시신 발견"
         },
         {
-          "title": "급여",
+          "title": "삼성 기아",
+          "traffic": "2000+",
+          "context": "[영상] 천재성을 또 보여준 김도영…천재가 혼난 이유는?"
+        },
+        {
+          "title": "사미자",
+          "traffic": "5000+",
+          "context": "\"저렇게 싸가지 없나\"…사미자, 뇌경색 간병한 며느리에 독설 - 머니투데이"
+        },
+        {
+          "title": "트로트",
+          "traffic": "200+",
+          "context": "김의영, 1위 꽉 잡았다…K탑스타 5주 연속 ‘황금빛 질주’"
+        },
+        {
+          "title": "tving",
           "traffic": "500+",
-          "context": "강레오 셰프 “실업급여로 日 여행 온 청년들, 사진 거부”"
+          "context": "Watch: Bae Hyeon Seong, Cha Kang Yoon, And Park Yoon Ho Get Caught Up In A Dangerous Deal In “The Substitute” Teaser"
         },
         {
-          "title": "정가은",
+          "title": "김선빈",
           "traffic": "100+",
-          "context": "정가은, 결혼반지 팔러 갔다가 충격…\"가품 확률 90%\" 허탈"
+          "context": "\"니가 다 쳐야 한다\"… '타격 보조' 자처한 베테랑과 '강심장' 슈퍼스타의 절묘한 케미스트리, 77.1% 선사[PO1 현장]"
         },
         {
-          "title": "관광지",
-          "traffic": "100+",
-          "context": "경북문화관광공사, 계절에 상관없이 즐기는 관광지 소개"
-        },
-        {
-          "title": "로켓",
-          "traffic": "200+",
-          "context": "전투기로 12시간 걸리는 거리… 미군, 우주 거쳐 1시간 ‘로켓 배송’"
-        },
-        {
-          "title": "충청타임즈",
-          "traffic": "200+",
-          "context": "진천군청년센터, '나만의 이모티콘 만들기' 참여자 30일까지 모집"
-        },
-        {
-          "title": "node.js 취약점",
-          "traffic": "500+",
-          "context": "\"서버 생태계 전반 위협\"...PHP 이어 노드.js서도 보안 취약점 발견"
-        },
-        {
-          "title": "al 탈락",
-          "traffic": "200+",
-          "context": "[롤드컵] '369 특급 캐리' 中 TES, '유럽 맹주' G2 꺾고 2승 1패 조 합류"
-        },
-        {
-          "title": "특수부대",
-          "traffic": "200+",
-          "context": "레쑤언 티엔, 마란도, 꾸옥안은 모두 \"삭숲 특수부대\"에 출연했습니다."
-        },
-        {
-          "title": "삼성역",
+          "title": "서울 sk 대 부산 kcc",
           "traffic": "1000+",
-          "context": "GTX-A 운정중앙-서울, 평일 승객 6.4만명…예측 대비 128% [PICK]"
+          "context": "전희철 SK 감독 “KCC는 공격 고점 높은 팀…해법은 리바운드와 속도”"
+        },
+        {
+          "title": "야구중계",
+          "traffic": "1000+",
+          "context": "박진만 삼성 감독 \"공격력 극대화 위해 경험 많은 최형우 출장\""
+        },
+        {
+          "title": "야구 중계",
+          "traffic": "200+",
+          "context": null
+        },
+        {
+          "title": "김지찬",
+          "traffic": "200+",
+          "context": "'2사 후에 무슨 일이?' 박승규 동점타→구자욱 역전타→디아즈 투런 아치…삼성, 3회에만 4득점 대폭발 [PO2]"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-27T02:47:10.064Z",
+      "fetched": "2026-10-27T11:13:04.375Z",
       "items": [
         {
           "title": "NEON",
           "artist": "A2O & A2O LITE"
         },
         {
+          "title": "체포하겠어",
+          "artist": "아일릿"
+        },
+        {
           "title": "Looks Can Kill",
           "artist": "아이브"
         },
         {
-          "title": "Rose (feat. Skinny Brown & Homeboy)",
-          "artist": "양홍원"
-        },
-        {
           "title": "SUN KISS",
           "artist": "튜이드"
+        },
+        {
+          "title": "Rose (feat. Skinny Brown & Homeboy)",
+          "artist": "양홍원"
         },
         {
           "title": "CRASH",
@@ -98,17 +102,13 @@
         {
           "title": "I SPY",
           "artist": "NCT WISH"
-        },
-        {
-          "title": "Deja Vu",
-          "artist": "리센느"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-27T02:47:10.064Z",
+      "fetched": "2026-10-27T11:13:04.375Z",
       "items": [
         {
           "title": "문화방송",
