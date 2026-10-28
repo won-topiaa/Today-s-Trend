@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-28T17:34:41.566Z",
+  "updated": "2026-10-28T21:58:24.795Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-28T17:34:41.566Z",
+      "fetched": "2026-10-28T21:58:24.795Z",
       "items": [
         {
-          "title": "김소연",
+          "title": "김하성",
           "traffic": "200+",
-          "context": "46세 김소연, 결혼 9년 만에 다시 웨딩드레스 입었다"
+          "context": "김하성 한국 돌아와야 하나, 265억 먹튀 논란→美 역대급 혹평 떴다 “KIM 최악의 FA 영입 사례, 재계약 반대한다”"
         },
         {
-          "title": "은지원",
-          "traffic": "200+",
-          "context": "'집돌이' 은지원, 재혼 후 변했다..\"♥9살 연하 아내와 캠핑 즐겨\" 깜짝"
+          "title": "메이저 리그 베이스볼",
+          "traffic": "2000+",
+          "context": "Biggest questions for World Series Game 5: How will the Rays get enough innings to avoid elimination (again)?"
         },
         {
-          "title": "lg에너지솔루션",
-          "traffic": "200+",
-          "context": "LG화학, LG엔솔 지분 2.5조 추가 유동화…PRS 계약 체결"
+          "title": "자동차",
+          "traffic": "2000+",
+          "context": "삼성전자 브랜드 가치 7년 연속 세계 5위"
         },
         {
-          "title": "노바크 조코비치",
+          "title": "풀럼 대 크리스털 팰리스",
           "traffic": "500+",
+          "context": "카라바오컵 풀럼 대 크리스탈 팰리스 경기 예측"
+        },
+        {
+          "title": "경찰",
+          "traffic": "10000+",
+          "context": "응급실 압수수색 당한 아주대... 소아응급전문의 9명 중 7명 사의"
+        },
+        {
+          "title": "iphone",
+          "traffic": "200+",
+          "context": "‘I Felt Blind Panic.’ They Opened Their New $2,000 iPhone Duo—and It Broke."
+        },
+        {
+          "title": "새마을금고",
+          "traffic": "100+",
           "context": null
         },
         {
-          "title": "한겨레",
-          "traffic": "100+",
-          "context": "李 \"외국인 노동자, 경제에 크게 도움 안 돼\"… 진보진영 \"사과하라\""
-        },
-        {
-          "title": "크랙",
+          "title": "ลิเวอร์พูล พบ เชลซี",
           "traffic": "500+",
-          "context": "“혁신은 멈췄고 완성도는 깨졌다”…애플 ‘완벽주의’가 무너진다 [핫클립]"
+          "context": "ทำนายผลการแข่งขันลิเวอร์พูล vs เชลซี: ชนะเพื่อผ่านเข้ารอบ"
         },
         {
-          "title": "일본 지진",
-          "traffic": "200+",
-          "context": "일본 지바현 지바시 동쪽서 규모 5.4 지진 발생"
+          "title": "liverpool vs chelsea",
+          "traffic": "500+",
+          "context": "Liverpool vs Chelsea: League Cup stats & head-to-head"
         },
         {
-          "title": "서울반도체",
-          "traffic": "200+",
-          "context": "“희토류 필요없다”…서울반도체, LED 판도 바꿀 신기술 개발"
-        },
-        {
-          "title": "김민",
-          "traffic": "100+",
-          "context": "김민, ‘나혼산’ 출연 후 아찔한 사생활 고충...\"사람들이 집에 너무 찾아온다\" ('라스')"
-        },
-        {
-          "title": "메달",
-          "traffic": "100+",
-          "context": "‘은퇴 예고’ 쇼트트랙 최민정, 월드투어 첫 대회에서 금메달"
+          "title": "단풍",
+          "traffic": "1000+",
+          "context": "숲길 따라 꽃길 따라, 율곡수목원과 율곡습지공원에서 만나는 가을"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-28T17:34:41.566Z",
+      "fetched": "2026-10-28T21:58:24.795Z",
       "items": [
         {
           "title": "NEON",
@@ -76,12 +76,12 @@
           "artist": "아이브"
         },
         {
-          "title": "SUN KISS",
-          "artist": "튜이드"
-        },
-        {
           "title": "Rose (feat. Skinny Brown & Homeboy)",
           "artist": "양홍원"
+        },
+        {
+          "title": "SUN KISS",
+          "artist": "튜이드"
         },
         {
           "title": "CRASH",
@@ -100,15 +100,15 @@
           "artist": "BIG Naughty"
         },
         {
-          "title": "I SPY",
-          "artist": "NCT WISH"
+          "title": "Deja Vu",
+          "artist": "리센느"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-28T17:34:41.566Z",
+      "fetched": "2026-10-28T21:58:24.795Z",
       "items": [
         {
           "title": "문화방송",
