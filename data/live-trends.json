@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-28T02:55:06.231Z",
+  "updated": "2026-10-28T11:47:23.902Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-28T02:55:06.231Z",
+      "fetched": "2026-10-28T11:47:23.902Z",
       "items": [
         {
-          "title": "돈",
-          "traffic": "1000+",
-          "context": "10월27일 캐시워크 돈버는퀴즈 정답과 문제는?"
-        },
-        {
-          "title": "팔란티어 테크놀로지",
+          "title": "가스 폭발",
           "traffic": "200+",
-          "context": "엔비디아·팔란티어 다음으로 오를 AI 주식 10개"
+          "context": "가스 폭발 현장서 밸브 잠근 시민 영웅, 배우 윤대열이었다"
         },
         {
-          "title": "디에이치 반포124",
+          "title": "이용우",
           "traffic": "100+",
-          "context": "반포에서 검단까지… 지금 청약통장을 꺼내 볼 곳들"
+          "context": "기념품 50개 협찬에 선거법 위반 혐의···이용우 부여군수 송치"
         },
         {
-          "title": "골든 조이스틱 어워드",
+          "title": "대구 한국가스공사 대 원주 db",
+          "traffic": "500+",
+          "context": null
+        },
+        {
+          "title": "레인보우로보틱스",
           "traffic": "100+",
-          "context": "[공지사항] 붉은사막을 Golden Joystick Awards 2026의 Ultimate Game of the Year로 투표해 주세요! | 붉은사막"
+          "context": "아이엘, 피지컬AI 운영 데이터 플랫폼 '피데이텀' 공개"
         },
         {
-          "title": "그랜드 테프트 오토 vi",
-          "traffic": "500+",
-          "context": "“게임 하나 때문에 150만명 결근?”…1조원 손실 전망까지 나온 美, 무슨 일"
-        },
-        {
-          "title": "대신증권",
-          "traffic": "500+",
-          "context": "빗썸, 사내 모바일 그룹웨어 해킹으로 개인정보 유출‥\"범위 파악 중\""
-        },
-        {
-          "title": "도박",
+          "title": "이재성",
           "traffic": "200+",
-          "context": "4900억 불법도박사이트 운영진 단합대회 사진"
+          "context": "‘역시 믿고 보는 이재성’ 63분 활약 후 교체…마인츠, 보훔에 0-2 패배…포칼 탈락"
         },
         {
-          "title": "아주대 소아 응급실",
-          "traffic": "5000+",
-          "context": "\"손 떨려서 진료 못 해\"...압색 받은 소아응급 교수 7명 사직 결정"
+          "title": "고종현",
+          "traffic": "100+",
+          "context": "'수원 고종현 팔꿈치 가격, 퇴장감'…축구협회 오심 인정(종합)"
         },
         {
-          "title": "국민연금",
+          "title": "afc 아시안컵",
+          "traffic": "500+",
+          "context": "[그래픽] 사우디 AFC 아시안컵 개요"
+        },
+        {
+          "title": "간이식",
+          "traffic": "200+",
+          "context": "\"최고 의사는 한국에\"…美자선사업가, 한국서 '17시간 간이식' 성공"
+        },
+        {
+          "title": "천천히 강렬하게",
+          "traffic": "200+",
+          "context": "설현, '천천히 강렬하게'서 송혜교와 연기 호흡…성공 향해 돌진"
+        },
+        {
+          "title": "진성준",
           "traffic": "1000+",
-          "context": "복지장관, 10대 마약 병상 부족 문제에 \"치료 인프라 확충 추진\""
-        },
-        {
-          "title": "이스라엘 총선 결과",
-          "traffic": "1000+",
-          "context": "이스라엘 총선 출구조사서 야권 근소 우세"
+          "context": "[속보] 與 진성준 국방위원장도 美 비자발급 거부당해"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-28T02:55:06.231Z",
+      "fetched": "2026-10-28T11:47:23.902Z",
       "items": [
         {
           "title": "NEON",
@@ -76,12 +76,12 @@
           "artist": "아이브"
         },
         {
-          "title": "Rose (feat. Skinny Brown & Homeboy)",
-          "artist": "양홍원"
-        },
-        {
           "title": "SUN KISS",
           "artist": "튜이드"
+        },
+        {
+          "title": "Rose (feat. Skinny Brown & Homeboy)",
+          "artist": "양홍원"
         },
         {
           "title": "CRASH",
@@ -92,12 +92,12 @@
           "artist": "리센느"
         },
         {
-          "title": "노스탈지아",
-          "artist": "BIG Naughty"
-        },
-        {
           "title": "꿈꾸던 어른이 되었나요?",
           "artist": "머무르"
+        },
+        {
+          "title": "노스탈지아",
+          "artist": "BIG Naughty"
         },
         {
           "title": "I SPY",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-28T02:55:06.231Z",
+      "fetched": "2026-10-28T11:47:23.902Z",
       "items": [
         {
           "title": "5·18 광주 민주화 운동",
