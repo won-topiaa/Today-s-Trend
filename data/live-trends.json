@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-29T03:20:18.883Z",
+  "updated": "2026-10-29T11:55:33.877Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-29T03:20:18.883Z",
+      "fetched": "2026-10-29T11:55:33.877Z",
       "items": [
         {
-          "title": "la 클리퍼스 대 la 레이커스",
+          "title": "류지혁",
+          "traffic": "1000+",
+          "context": "'호수비에 도파민 샘솟은' 삼성 류지혁 \"기세는 우리에게 왔다\""
+        },
+        {
+          "title": "11월 a매치 명단",
+          "traffic": "10000+",
+          "context": "내분설 ‘96라인’ 전원 재발탁...모레노 감독 11월 A매치 대표팀 명단 발표"
+        },
+        {
+          "title": "김태군",
           "traffic": "500+",
-          "context": "Luka Dončić sitting out Lakers’ visit to Clippers with back tightness"
+          "context": "쫓아가자…김선빈 안타"
         },
         {
-          "title": "이지아",
-          "traffic": "200+",
-          "context": "이지아, 초미니 원피스에 슬리퍼만 신어도 화보..누가 48세로 보겠어[핫피플]"
-        },
-        {
-          "title": "화이트캡스 대 샌디에이고 fc",
-          "traffic": "1000+",
-          "context": "Spectator Information: 'Caps host San Diego FC | Match presented by MNP"
-        },
-        {
-          "title": "개발제한구역",
-          "traffic": "1000+",
-          "context": "김포·구리 등 수도권에 7만6천여 호 공급"
-        },
-        {
-          "title": "손혁",
-          "traffic": "200+",
-          "context": "팬들의 '최강한화' 떳떳하게 듣고 싶었다…한화 떠나는 손혁 단장 \"앞으로 더 강한 팀 될 거라 믿는다\""
-        },
-        {
-          "title": "만두",
-          "traffic": "1000+",
-          "context": "닭뼈 갈아 만든 만두 속…생산업체마저 “먹지 마라”[아하중국]"
-        },
-        {
-          "title": "커플",
+          "title": "kbo",
           "traffic": "2000+",
-          "context": "Couple to be charged after three children rescued from West Virginia ‘house of horrors’"
+          "context": "Long Beach, Ulsan, KIA and LG reach Ulsan Fall League semifinals"
         },
         {
-          "title": "삼전 실적발표",
+          "title": "v-리그",
+          "traffic": "500+",
+          "context": "도로공사, 개막 이틀 앞두고 김영래 대행 정식 감독으로 선임"
+        },
+        {
+          "title": "nepal premier league",
           "traffic": "100+",
-          "context": "하이닉스가 버티면 뭐하나…코스피, 하락 종목 7배 '와르르' - 머니투데이"
+          "context": "Match Predictions: Nepal Premier League 2026 - 5th & 6th Match - Bolts vs Gorkhas; Yaks vs Kings - 29th October"
         },
         {
-          "title": "삼성전자 컨퍼런스콜",
-          "traffic": "200+",
-          "context": "내일 삼성전자 컨퍼런스콜 '이것' 만큼은 꼭 주의하세요"
+          "title": "크보",
+          "traffic": "100+",
+          "context": "Diaz's Second Consecutive Homer in Game 3"
         },
         {
-          "title": "대우건설",
-          "traffic": "5000+",
-          "context": "[속보]한수원 '충격'...26조 체코 원전 시공협상 결렬"
+          "title": "발전소",
+          "traffic": "500+",
+          "context": "국민성장펀드, 국내 최대 태양광 발전소·반도체 밸류체인 투자"
+        },
+        {
+          "title": "프로야구",
+          "traffic": "1000+",
+          "context": "이범호 KIA 감독 \"시라카와 5이닝 3실점으로 버텨줘야\""
+        },
+        {
+          "title": "기아 타이거즈",
+          "traffic": "1000+",
+          "context": "'역시 슈퍼스타' KIA 김도영, 3회 역전포…올해 PS 4번째 아치"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-29T03:20:18.883Z",
+      "fetched": "2026-10-29T11:55:33.877Z",
       "items": [
         {
           "title": "NEON",
@@ -76,79 +76,79 @@
           "artist": "아이브"
         },
         {
-          "title": "Rose (feat. Skinny Brown & Homeboy)",
-          "artist": "양홍원"
-        },
-        {
           "title": "SUN KISS",
           "artist": "튜이드"
+        },
+        {
+          "title": "Rose (feat. Skinny Brown & Homeboy)",
+          "artist": "양홍원"
         },
         {
           "title": "CRASH",
           "artist": "ALLDAY PROJECT"
         },
         {
-          "title": "꿈꾸던 어른이 되었나요?",
-          "artist": "머무르"
-        },
-        {
           "title": "LOVE ATTACK",
           "artist": "리센느"
+        },
+        {
+          "title": "꿈꾸던 어른이 되었나요?",
+          "artist": "머무르"
         },
         {
           "title": "노스탈지아",
           "artist": "BIG Naughty"
         },
         {
-          "title": "Deja Vu",
-          "artist": "리센느"
+          "title": "I SPY",
+          "artist": "NCT WISH"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-29T03:20:18.883Z",
+      "fetched": "2026-10-29T11:55:33.877Z",
       "items": [
         {
-          "title": "5·18 광주 민주화 운동",
-          "views": 14440
-        },
-        {
           "title": "문화방송",
-          "views": 12914
+          "views": 14666
         },
         {
           "title": "한국방송공사",
-          "views": 8590
+          "views": 9595
         },
         {
           "title": "한국교육방송공사",
-          "views": 6412
+          "views": 6671
+        },
+        {
+          "title": "5·18 광주 민주화 운동",
+          "views": 4045
+        },
+        {
+          "title": "구룡마을",
+          "views": 3082
         },
         {
           "title": "박진영 (1994년)",
-          "views": 3517
+          "views": 2725
         },
         {
-          "title": "푸사를라 벵카타 신두",
-          "views": 2232
+          "title": "앤트로픽",
+          "views": 1967
         },
         {
-          "title": "이택근",
-          "views": 2116
+          "title": "서현진 (배우)",
+          "views": 1746
         },
         {
-          "title": "루이스 이나시우 룰라 다 시우바",
-          "views": 1660
+          "title": "최형우 (야구 선수)",
+          "views": 1743
         },
         {
-          "title": "욕망의 덫",
-          "views": 1572
-        },
-        {
-          "title": "이진희 (배우)",
-          "views": 1567
+          "title": "오경미",
+          "views": 1589
         }
       ]
     }
