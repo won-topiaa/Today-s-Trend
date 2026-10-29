@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-28T21:58:24.795Z",
+  "updated": "2026-10-29T03:20:18.883Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-28T21:58:24.795Z",
+      "fetched": "2026-10-29T03:20:18.883Z",
       "items": [
         {
-          "title": "김하성",
+          "title": "la 클리퍼스 대 la 레이커스",
+          "traffic": "500+",
+          "context": "Luka Dončić sitting out Lakers’ visit to Clippers with back tightness"
+        },
+        {
+          "title": "이지아",
           "traffic": "200+",
-          "context": "김하성 한국 돌아와야 하나, 265억 먹튀 논란→美 역대급 혹평 떴다 “KIM 최악의 FA 영입 사례, 재계약 반대한다”"
+          "context": "이지아, 초미니 원피스에 슬리퍼만 신어도 화보..누가 48세로 보겠어[핫피플]"
         },
         {
-          "title": "메이저 리그 베이스볼",
-          "traffic": "2000+",
-          "context": "Biggest questions for World Series Game 5: How will the Rays get enough innings to avoid elimination (again)?"
-        },
-        {
-          "title": "자동차",
-          "traffic": "2000+",
-          "context": "삼성전자 브랜드 가치 7년 연속 세계 5위"
-        },
-        {
-          "title": "풀럼 대 크리스털 팰리스",
-          "traffic": "500+",
-          "context": "카라바오컵 풀럼 대 크리스탈 팰리스 경기 예측"
-        },
-        {
-          "title": "경찰",
-          "traffic": "10000+",
-          "context": "응급실 압수수색 당한 아주대... 소아응급전문의 9명 중 7명 사의"
-        },
-        {
-          "title": "iphone",
-          "traffic": "200+",
-          "context": "‘I Felt Blind Panic.’ They Opened Their New $2,000 iPhone Duo—and It Broke."
-        },
-        {
-          "title": "새마을금고",
-          "traffic": "100+",
-          "context": null
-        },
-        {
-          "title": "ลิเวอร์พูล พบ เชลซี",
-          "traffic": "500+",
-          "context": "ทำนายผลการแข่งขันลิเวอร์พูล vs เชลซี: ชนะเพื่อผ่านเข้ารอบ"
-        },
-        {
-          "title": "liverpool vs chelsea",
-          "traffic": "500+",
-          "context": "Liverpool vs Chelsea: League Cup stats & head-to-head"
-        },
-        {
-          "title": "단풍",
+          "title": "화이트캡스 대 샌디에이고 fc",
           "traffic": "1000+",
-          "context": "숲길 따라 꽃길 따라, 율곡수목원과 율곡습지공원에서 만나는 가을"
+          "context": "Spectator Information: 'Caps host San Diego FC | Match presented by MNP"
+        },
+        {
+          "title": "개발제한구역",
+          "traffic": "1000+",
+          "context": "김포·구리 등 수도권에 7만6천여 호 공급"
+        },
+        {
+          "title": "손혁",
+          "traffic": "200+",
+          "context": "팬들의 '최강한화' 떳떳하게 듣고 싶었다…한화 떠나는 손혁 단장 \"앞으로 더 강한 팀 될 거라 믿는다\""
+        },
+        {
+          "title": "만두",
+          "traffic": "1000+",
+          "context": "닭뼈 갈아 만든 만두 속…생산업체마저 “먹지 마라”[아하중국]"
+        },
+        {
+          "title": "커플",
+          "traffic": "2000+",
+          "context": "Couple to be charged after three children rescued from West Virginia ‘house of horrors’"
+        },
+        {
+          "title": "삼전 실적발표",
+          "traffic": "100+",
+          "context": "하이닉스가 버티면 뭐하나…코스피, 하락 종목 7배 '와르르' - 머니투데이"
+        },
+        {
+          "title": "삼성전자 컨퍼런스콜",
+          "traffic": "200+",
+          "context": "내일 삼성전자 컨퍼런스콜 '이것' 만큼은 꼭 주의하세요"
+        },
+        {
+          "title": "대우건설",
+          "traffic": "5000+",
+          "context": "[속보]한수원 '충격'...26조 체코 원전 시공협상 결렬"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-28T21:58:24.795Z",
+      "fetched": "2026-10-29T03:20:18.883Z",
       "items": [
         {
           "title": "NEON",
@@ -88,12 +88,12 @@
           "artist": "ALLDAY PROJECT"
         },
         {
-          "title": "LOVE ATTACK",
-          "artist": "리센느"
-        },
-        {
           "title": "꿈꾸던 어른이 되었나요?",
           "artist": "머무르"
+        },
+        {
+          "title": "LOVE ATTACK",
+          "artist": "리센느"
         },
         {
           "title": "노스탈지아",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-28T21:58:24.795Z",
+      "fetched": "2026-10-29T03:20:18.883Z",
       "items": [
         {
+          "title": "5·18 광주 민주화 운동",
+          "views": 14440
+        },
+        {
           "title": "문화방송",
-          "views": 14666
+          "views": 12914
         },
         {
           "title": "한국방송공사",
-          "views": 9595
+          "views": 8590
         },
         {
           "title": "한국교육방송공사",
-          "views": 6671
-        },
-        {
-          "title": "5·18 광주 민주화 운동",
-          "views": 4045
-        },
-        {
-          "title": "구룡마을",
-          "views": 3082
+          "views": 6412
         },
         {
           "title": "박진영 (1994년)",
-          "views": 2725
+          "views": 3517
         },
         {
-          "title": "앤트로픽",
-          "views": 1967
+          "title": "푸사를라 벵카타 신두",
+          "views": 2232
         },
         {
-          "title": "서현진 (배우)",
-          "views": 1746
+          "title": "이택근",
+          "views": 2116
         },
         {
-          "title": "최형우 (야구 선수)",
-          "views": 1743
+          "title": "루이스 이나시우 룰라 다 시우바",
+          "views": 1660
         },
         {
-          "title": "오경미",
-          "views": 1589
+          "title": "욕망의 덫",
+          "views": 1572
+        },
+        {
+          "title": "이진희 (배우)",
+          "views": 1567
         }
       ]
     }
