@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-30T03:22:15.451Z",
+  "updated": "2026-10-30T11:49:17.460Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-30T03:22:15.451Z",
+      "fetched": "2026-10-30T11:49:17.460Z",
       "items": [
         {
-          "title": "k패스",
-          "traffic": "100+",
-          "context": "기후동행카드 종료, 기후동행패스 전환 방법은?"
-        },
-        {
-          "title": "강균성",
+          "title": "삼성 기아",
           "traffic": "2000+",
-          "context": "'혼전순결' 강균성, 오늘 14세 연하 유하진과 '속전속결' 결혼"
+          "context": "네일 vs 페덱 맞대결...플레이오프 4차전 승부는?"
         },
         {
-          "title": "한국장학재단",
+          "title": "프로야구",
           "traffic": "500+",
-          "context": "생활비가 돌려막기로…고금리·다중채무 악순환"
+          "context": "'헐크' 이만수·강성우·차일목·이성우 총출동! 미래 안방마님 40명 키운다... KBO 포수 특화 캠프 개최 - 머니투데이"
         },
         {
-          "title": "재판",
-          "traffic": "1000+",
-          "context": "與, ‘조희대 국조’에 李 파기환송 사건 포함 시사… 재판 개입 논란"
-        },
-        {
-          "title": "어쌔신 크리드",
-          "traffic": "200+",
-          "context": "[해외 캠페인] 유비소프트, ‘블랙 플래그 리싱크드’ 뉴 게임 플러스 추가"
-        },
-        {
-          "title": "중공업",
-          "traffic": "1000+",
-          "context": "삼성중공업, 3분기 영업이익 3천384억원…작년보다 42%↑(종합)"
-        },
-        {
-          "title": "비트코인 시세",
-          "traffic": "100+",
-          "context": "비트코인 3.7% 하락해 7만8000달러대…이더리움·리플도 급락"
-        },
-        {
-          "title": "삼성그룹",
+          "title": "김성근",
           "traffic": "2000+",
-          "context": "57주년 맞은 삼성전자, \"지금은 자축보다 경쟁력 냉정하게 돌아볼 때\""
+          "context": "김성근, '롯데 단장 부임' 이택근 긴급 호출..대책 본부 급조 ('불꽃야구2')"
         },
         {
-          "title": "네이버 주가",
-          "traffic": "100+",
-          "context": "‘90억 달러 동맹’ 완성한 네이버…AI 팩토리로 ‘빅점프’ 성공할까"
+          "title": "김선빈",
+          "traffic": "500+",
+          "context": "2년 연속 KS 진출 꿈꾸는 복덩이 이적생 “나는 정말 행복한 선수, 대구 가서 역전하겠다” [PO4]"
         },
         {
-          "title": "binance",
+          "title": "베어 트로피",
+          "traffic": "200+",
+          "context": "'부상' 유해란, LPGA 메이뱅크 기권…베어 트로피 수상 불발"
+        },
+        {
+          "title": "허미미",
           "traffic": "100+",
-          "context": "Crypto worth billions frozen after suspected Binance hack"
+          "context": "유도 허미미, 자비 들여 출전한 아부다비 그랜드슬램서 동메달"
+        },
+        {
+          "title": "서민금융진흥원",
+          "traffic": "200+",
+          "context": "하나은행, 서금원에 1천억원 출연…저소득직장인 신용대출 출시"
+        },
+        {
+          "title": "류지혁",
+          "traffic": "2000+",
+          "context": "[영상] 결승 2루타 박승규 혼난 이유는?…히트 포 더 세리머니"
+        },
+        {
+          "title": "탐나는전",
+          "traffic": "100+",
+          "context": "18일간 펼쳐지는 역대급 할인 혜택! - 카드/한컷 | 멀티미디어"
+        },
+        {
+          "title": "헐크",
+          "traffic": "100+",
+          "context": "마블의 울버린은 데드풀과 헐크를 통해 세계관을 확장할 수 있을 것이다."
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-30T03:22:15.451Z",
+      "fetched": "2026-10-30T11:49:17.460Z",
       "items": [
         {
           "title": "NEON",
@@ -76,20 +76,20 @@
           "artist": "아이브"
         },
         {
-          "title": "Rose (feat. Skinny Brown & Homeboy)",
-          "artist": "양홍원"
-        },
-        {
           "title": "SUN KISS",
           "artist": "튜이드"
         },
         {
-          "title": "꿈꾸던 어른이 되었나요?",
-          "artist": "머무르"
+          "title": "Rose (feat. Skinny Brown & Homeboy)",
+          "artist": "양홍원"
         },
         {
           "title": "CRASH",
           "artist": "ALLDAY PROJECT"
+        },
+        {
+          "title": "꿈꾸던 어른이 되었나요?",
+          "artist": "머무르"
         },
         {
           "title": "LOVE ATTACK",
@@ -100,15 +100,15 @@
           "artist": "BIG Naughty"
         },
         {
-          "title": "Deja Vu",
-          "artist": "리센느"
+          "title": "Insomnia",
+          "artist": "RIIZE"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-30T03:22:15.451Z",
+      "fetched": "2026-10-30T11:49:17.460Z",
       "items": [
         {
           "title": "문화방송",
