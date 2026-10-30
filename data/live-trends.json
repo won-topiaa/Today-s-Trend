@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-29T22:10:40.757Z",
+  "updated": "2026-10-30T03:22:15.451Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-29T22:10:40.757Z",
+      "fetched": "2026-10-30T03:22:15.451Z",
       "items": [
         {
-          "title": "이서진",
-          "traffic": "200+",
-          "context": "\"옛날엔 안 예뻤다\" 이서진, 23년만 재회한 하지원에 돌직구 - 머니투데이"
-        },
-        {
-          "title": "알렉산더 즈베레프",
+          "title": "k패스",
           "traffic": "100+",
-          "context": "즈베레프, 매치포인트 4개 막고 16강⋯1승 더하면 세계 1위"
+          "context": "기후동행카드 종료, 기후동행패스 전환 방법은?"
         },
         {
-          "title": "태풍",
-          "traffic": "5000+",
-          "context": "눈 부릅뜬 인파 '초강력 태풍'‥'뜨거운 바다' 인도도 '쑥대밭'"
+          "title": "강균성",
+          "traffic": "2000+",
+          "context": "'혼전순결' 강균성, 오늘 14세 연하 유하진과 '속전속결' 결혼"
         },
         {
-          "title": "중앙일보 오늘의 운세",
+          "title": "한국장학재단",
+          "traffic": "500+",
+          "context": "생활비가 돌려막기로…고금리·다중채무 악순환"
+        },
+        {
+          "title": "재판",
+          "traffic": "1000+",
+          "context": "與, ‘조희대 국조’에 李 파기환송 사건 포함 시사… 재판 개입 논란"
+        },
+        {
+          "title": "어쌔신 크리드",
           "traffic": "200+",
-          "context": "[속보] ‘내란 중요임무종사’ 김용현 2심에서 무기징역 구형"
+          "context": "[해외 캠페인] 유비소프트, ‘블랙 플래그 리싱크드’ 뉴 게임 플러스 추가"
         },
         {
-          "title": "범죄",
-          "traffic": "500+",
-          "context": "\"경찰 순찰해도 불안\"…범죄 피해자 안전조치 실효성 도마 - 머니투데이"
+          "title": "중공업",
+          "traffic": "1000+",
+          "context": "삼성중공업, 3분기 영업이익 3천384억원…작년보다 42%↑(종합)"
         },
         {
-          "title": "샌디스크 주가",
+          "title": "비트코인 시세",
           "traffic": "100+",
-          "context": "샌디스크, 메모리 수요증가에 호실적…시간외 '하락'"
+          "context": "비트코인 3.7% 하락해 7만8000달러대…이더리움·리플도 급락"
         },
         {
-          "title": "패트릭 스튜어트",
-          "traffic": "500+",
-          "context": "[속보]‘엑스맨’ 패트릭 스튜어트, 치매 투병 끝 86세로 별세… 마블 \"비통함 금할 수 없어\"[해외이슈]"
+          "title": "삼성그룹",
+          "traffic": "2000+",
+          "context": "57주년 맞은 삼성전자, \"지금은 자축보다 경쟁력 냉정하게 돌아볼 때\""
         },
         {
-          "title": "patrick stewart",
-          "traffic": "500+",
-          "context": "Patrick Stewart, ‘Star Trek’ Captain and ‘X-Men’ Superhero, Dies at 86"
-        },
-        {
-          "title": "자기주식",
-          "traffic": "200+",
-          "context": "아모레퍼시픽홀딩스, 직원 상여금 지급 위해 자사주 2093만원 처분 결정"
-        },
-        {
-          "title": "오산세교",
+          "title": "네이버 주가",
           "traffic": "100+",
-          "context": "덕절리 물류센터 공사안내표시판에서 ‘오산세교’ 빠졌다…논란 속 명칭 변경되나"
+          "context": "‘90억 달러 동맹’ 완성한 네이버…AI 팩토리로 ‘빅점프’ 성공할까"
+        },
+        {
+          "title": "binance",
+          "traffic": "100+",
+          "context": "Crypto worth billions frozen after suspected Binance hack"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-29T22:10:40.757Z",
+      "fetched": "2026-10-30T03:22:15.451Z",
       "items": [
         {
           "title": "NEON",
@@ -76,20 +76,20 @@
           "artist": "아이브"
         },
         {
-          "title": "SUN KISS",
-          "artist": "튜이드"
-        },
-        {
           "title": "Rose (feat. Skinny Brown & Homeboy)",
           "artist": "양홍원"
         },
         {
-          "title": "CRASH",
-          "artist": "ALLDAY PROJECT"
+          "title": "SUN KISS",
+          "artist": "튜이드"
         },
         {
           "title": "꿈꾸던 어른이 되었나요?",
           "artist": "머무르"
+        },
+        {
+          "title": "CRASH",
+          "artist": "ALLDAY PROJECT"
         },
         {
           "title": "LOVE ATTACK",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-29T22:10:40.757Z",
+      "fetched": "2026-10-30T03:22:15.451Z",
       "items": [
         {
           "title": "문화방송",
