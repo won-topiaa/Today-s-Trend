@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-31T11:23:05.985Z",
+  "updated": "2026-10-31T16:28:11.959Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-31T11:23:05.985Z",
+      "fetched": "2026-10-31T16:28:11.959Z",
       "items": [
         {
-          "title": "나는 solo",
+          "title": "맨시티",
           "traffic": "500+",
-          "context": "'나솔' 34기 공무원 영철, 뜬금 학력 논란…\"거짓말한 것도 아닌데\"[이슈S]"
+          "context": "마레스카, “우리는 올바른 방향으로 가고 있다”"
         },
         {
-          "title": "gs리테일",
-          "traffic": "100+",
-          "context": "GS리테일, 국가보훈부와 협약…유공자 지원 확대"
+          "title": "스완지 시티 대 블랙번",
+          "traffic": "200+",
+          "context": "Swansea City v Blackburn Rovers: Championship stats & head-to-head"
         },
         {
-          "title": "김광규",
+          "title": "한화 blg",
+          "traffic": "500+",
+          "context": "[롤드컵] 추첨 운도 지독하게 없다…한화생명, 빌리빌리와 8강행 결정짓는 '단두대 매치'"
+        },
+        {
+          "title": "man city vs brighton",
+          "traffic": "500+",
+          "context": "Premier League: Brighton lead Man City, Coventry 3-0 up, Hull level with Ipswich"
+        },
+        {
+          "title": "ali",
           "traffic": "100+",
+          "context": "‘Ali G: Who Iz I?’ Review: A Bit Too Tired for This Media Age"
+        },
+        {
+          "title": "카를로스 알카라스",
+          "traffic": "500+",
+          "context": "그랜드슬램 4강인가, ATP 500인가…비엔나의 승부수, 알카라스 영입 효과"
+        },
+        {
+          "title": "고소",
+          "traffic": "500+",
+          "context": "[영역:young域]미제 사건 18만건의 행방"
+        },
+        {
+          "title": "맨 시티 대 브라이턴",
+          "traffic": "5000+",
+          "context": "Man City vs Brighton LIVE! Premier League match updates, news and score"
+        },
+        {
+          "title": "묀헨글라트바흐 대 파더보른",
+          "traffic": "100+",
+          "context": "Chelsea 2-0 Man Utd (Oct 31, 2026) Player Stats"
+        },
+        {
+          "title": "광규",
+          "traffic": "1000+",
           "context": "김광규, 드디어 서울에 ‘내 집’ 마련…“28년 걸렸네” 뭉클"
-        },
-        {
-          "title": "이승기",
-          "traffic": "200+",
-          "context": "이승기 \"김종민 똥 싸느라 공연 5분 늦어\" 폭로"
-        },
-        {
-          "title": "블리치",
-          "traffic": "200+",
-          "context": "Bleach Anime Concludes After 22 Years with Special Ending Video"
-        },
-        {
-          "title": "기온",
-          "traffic": "200+",
-          "context": "일요일 전국에 가을비…다음주 아침 기온 0도까지 ‘뚝’"
-        },
-        {
-          "title": "첼시 맨유",
-          "traffic": "200+",
-          "context": "말 그대로 '초대형 호재'...맨유 '성골유스 MF' 부상 복귀→첼시전 출전 예정! 여전히 캐릭 신뢰, \"진심으로 싸우고 싶은 선수\""
-        },
-        {
-          "title": "온라인 산사",
-          "traffic": "100+",
-          "context": "\"방구석 누워 108배로 힐링\"…사흘간 60만명 다녀간 온라인 산사"
-        },
-        {
-          "title": "싱가포르",
-          "traffic": "100+",
-          "context": "안산 청년 창업기업 7곳, 싱가포르서 투자·구매 의향서 체결… 해외시장 진출 모색"
-        },
-        {
-          "title": "재건축",
-          "traffic": "2000+",
-          "context": "재건축 아파트값 '억' 소리나게 떨어져…몸테크 열풍 끝? [이슬기의 새집다오]"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-31T11:23:05.985Z",
+      "fetched": "2026-10-31T16:28:11.959Z",
       "items": [
         {
           "title": "NEON",
@@ -84,12 +84,12 @@
           "artist": "양홍원"
         },
         {
-          "title": "꿈꾸던 어른이 되었나요?",
-          "artist": "머무르"
-        },
-        {
           "title": "LOVE ATTACK",
           "artist": "리센느"
+        },
+        {
+          "title": "꿈꾸던 어른이 되었나요?",
+          "artist": "머무르"
         },
         {
           "title": "CRASH",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-31T11:23:05.985Z",
+      "fetched": "2026-10-31T16:28:11.959Z",
       "items": [
         {
-          "title": "문화방송",
-          "views": 13218
-        },
-        {
-          "title": "한국방송공사",
-          "views": 9261
-        },
-        {
           "title": "최불암",
-          "views": 7424
+          "views": 18477
         },
         {
-          "title": "한국교육방송공사",
-          "views": 6016
+          "title": "문화방송",
+          "views": 11602
         },
         {
           "title": "김민자",
-          "views": 4457
+          "views": 9996
         },
         {
-          "title": "이태원 참사",
-          "views": 3708
+          "title": "한국방송공사",
+          "views": 8618
         },
         {
-          "title": "장은숙 (가수)",
-          "views": 2760
+          "title": "차예련",
+          "views": 6239
         },
         {
-          "title": "진성준",
-          "views": 2213
+          "title": "한국교육방송공사",
+          "views": 5860
         },
         {
-          "title": "이상미 (배우)",
-          "views": 2140
+          "title": "김소원 (1935년)",
+          "views": 5254
         },
         {
-          "title": "연합뉴스",
-          "views": 2103
+          "title": "전두환",
+          "views": 4792
+        },
+        {
+          "title": "라이어 (2026년 드라마)",
+          "views": 4513
+        },
+        {
+          "title": "서승현 (1943년)",
+          "views": 4488
         }
       ]
     }
