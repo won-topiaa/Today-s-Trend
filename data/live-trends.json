@@ -1,67 +1,67 @@
 {
-  "updated": "2026-10-31T20:45:35.875Z",
+  "updated": "2026-11-01T03:01:25.900Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-10-31T20:45:35.875Z",
+      "fetched": "2026-11-01T03:01:25.900Z",
       "items": [
         {
-          "title": "바르셀로나 대 알라베스",
-          "traffic": "1000+",
-          "context": "바르셀로나 vs 알라베스 예측: 원정팀은 부진을 끝내기 위해 필사적으로 노력할 것이다."
-        },
-        {
-          "title": "레알 베티스 대 말라가",
-          "traffic": "100+",
-          "context": "Real Betis vs Málaga: Spanish La Liga stats & head-to-head"
-        },
-        {
-          "title": "spurs vs palace",
-          "traffic": "200+",
-          "context": "Tottenham 2-0 Crystal Palace: Spurs pile pressure on Sage as 10-man Palace are beaten"
-        },
-        {
-          "title": "토트넘",
-          "traffic": "1000+",
-          "context": "\"韓 스타 또 기회 살렸다!\" 오현규, 투톱서도 결승골 작렬...튀르키예 매체도 반했다 \"주전 블라호비치, 더 큰 압박 느낄 거야\" - 머니투데이"
-        },
-        {
-          "title": "트위치",
-          "traffic": "200+",
-          "context": "엔씨, 김택진 대표 중심 게임 경쟁력 강화… 글로벌 신작 확대"
-        },
-        {
-          "title": "twitch",
-          "traffic": "200+",
-          "context": "Twitch gains 4% to 4.51bn hours in Q3 as Kick grows 30.7%"
-        },
-        {
-          "title": "바이에른 대 도르트문트",
-          "traffic": "5000+",
-          "context": "'김민재 선발! 요나탄 타는 벤치' 콤파니의 선택은 韓 철기둥이었다...바이에른, 도르트문트와 분데스리가 1위 놓고 정면충돌 - 머니투데이"
-        },
-        {
-          "title": "헐 시티 대 입스위치",
-          "traffic": "100+",
-          "context": "Hull City 2-2 Ipswich Town: Julio Enciso stunner salvages point for visitors"
-        },
-        {
-          "title": "크리스타 파이크",
+          "title": "쇼트트랙",
           "traffic": "500+",
-          "context": "'독극물 사형' 생존 美죄수 \"육체와 마음에 통증\"…재집행 거부"
+          "context": "최민정, 쇼트트랙 2차 월드투어 1,000ｍ 우승…3명 뚫고 역전극"
         },
         {
-          "title": "npl",
+          "title": "bangladesh vs india",
+          "traffic": "500+",
+          "context": "BAN vs IND, 11th/12th Bowl, Play-off, Hong Kong Sixes 2026 - Commentary"
+        },
+        {
+          "title": "ban vs ind",
+          "traffic": "200+",
+          "context": "India face tricky WTC final road after South Africa's Cape Town Test win: Here's how"
+        },
+        {
+          "title": "골프존카운티",
           "traffic": "100+",
-          "context": "Waterlogged TU cricket ground (photos)"
+          "context": "더시에나그룹, 골프존카운티 인수…MBK와 SPA 체결"
+        },
+        {
+          "title": "이경실",
+          "traffic": "500+",
+          "context": "이경실, 아파트 경매 위기서 ‘1억’ 빌려준 김지선에 무한 감사..“1년 걸려 갚아”"
+        },
+        {
+          "title": "적금",
+          "traffic": "500+",
+          "context": "12개월 최고 연 7.00%…경남은행 '오면우대! 하면우대! 정기적금' [이주의 은행 적금금리-11월 1주]"
+        },
+        {
+          "title": "lyon",
+          "traffic": "100+",
+          "context": "\"On a le sentiment que nos leaders grandissent\", retient Dumortier"
+        },
+        {
+          "title": "한화생명 e스포츠",
+          "traffic": "1000+",
+          "context": "[롤드컵] '운명의 멸망전' 첫 세트부터 대접전… 한화생명, 中 BLG에 아쉬운 1세트 덜미"
+        },
+        {
+          "title": "골키퍼",
+          "traffic": "200+",
+          "context": "‘한국은 AG 금메달로 병역 혜택 받는데…’ 아시아 최고 GK는 군대 간다 ‘10경기 2실점’ 기록하던 중 이란군 입대"
+        },
+        {
+          "title": "화재",
+          "traffic": "1000+",
+          "context": "노후주택부터 물류창고까지···서울시, 겨울철 화재안전대책 마련"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-10-31T20:45:35.875Z",
+      "fetched": "2026-11-01T03:01:25.900Z",
       "items": [
         {
           "title": "NEON",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-10-31T20:45:35.875Z",
+      "fetched": "2026-11-01T03:01:25.900Z",
       "items": [
         {
           "title": "최불암",
