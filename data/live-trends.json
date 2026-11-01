@@ -1,75 +1,75 @@
 {
-  "updated": "2026-11-01T03:01:25.900Z",
+  "updated": "2026-11-01T12:14:29.325Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-01T03:01:25.900Z",
+      "fetched": "2026-11-01T12:14:29.325Z",
       "items": [
         {
-          "title": "쇼트트랙",
-          "traffic": "500+",
-          "context": "최민정, 쇼트트랙 2차 월드투어 1,000ｍ 우승…3명 뚫고 역전극"
-        },
-        {
-          "title": "bangladesh vs india",
-          "traffic": "500+",
-          "context": "BAN vs IND, 11th/12th Bowl, Play-off, Hong Kong Sixes 2026 - Commentary"
-        },
-        {
-          "title": "ban vs ind",
-          "traffic": "200+",
-          "context": "India face tricky WTC final road after South Africa's Cape Town Test win: Here's how"
-        },
-        {
-          "title": "골프존카운티",
+          "title": "송강",
           "traffic": "100+",
-          "context": "더시에나그룹, 골프존카운티 인수…MBK와 SPA 체결"
+          "context": "“성수 핫플이 집 앞에”…송강이 67억 주고 산 고급 아파트[누구집]"
         },
         {
-          "title": "이경실",
-          "traffic": "500+",
-          "context": "이경실, 아파트 경매 위기서 ‘1억’ 빌려준 김지선에 무한 감사..“1년 걸려 갚아”"
+          "title": "현대자동차그룹",
+          "traffic": "2000+",
+          "context": "새만금이 이렇게 달라진다고? - 카드/한컷 | 멀티미디어"
         },
         {
-          "title": "적금",
-          "traffic": "500+",
-          "context": "12개월 최고 연 7.00%…경남은행 '오면우대! 하면우대! 정기적금' [이주의 은행 적금금리-11월 1주]"
+          "title": "7 호선 고장",
+          "traffic": "1000+",
+          "context": "7호선 보라매역서 열차 고장으로 승객 전원 하차…상행선 운행 지장"
         },
         {
-          "title": "lyon",
+          "title": "강부자",
           "traffic": "100+",
-          "context": "\"On a le sentiment que nos leaders grandissent\", retient Dumortier"
+          "context": "경북도, ‘친정엄마와 2박 3일’ 동락관서 선보이다"
         },
         {
-          "title": "한화생명 e스포츠",
-          "traffic": "1000+",
-          "context": "[롤드컵] '운명의 멸망전' 첫 세트부터 대접전… 한화생명, 中 BLG에 아쉬운 1세트 덜미"
-        },
-        {
-          "title": "골키퍼",
+          "title": "고양시",
           "traffic": "200+",
-          "context": "‘한국은 AG 금메달로 병역 혜택 받는데…’ 아시아 최고 GK는 군대 간다 ‘10경기 2실점’ 기록하던 중 이란군 입대"
+          "context": "고양시, 주말 곳곳 축제 물결.. ‘주민자치부터 도시농업까지’ 풍성[포토]"
         },
         {
-          "title": "화재",
-          "traffic": "1000+",
-          "context": "노후주택부터 물류창고까지···서울시, 겨울철 화재안전대책 마련"
+          "title": "11 월 13 일",
+          "traffic": "500+",
+          "context": "“11월 13일 세계 종말, 비행기 타지 마라”…과학자들의 경고는 사실일까"
+        },
+        {
+          "title": "노벨상",
+          "traffic": "500+",
+          "context": "[단독] 노벨상 심사 수장 “한국 수상 가까워졌다”…콕 집은 두 분야는"
+        },
+        {
+          "title": "김승수",
+          "traffic": "500+",
+          "context": "김승수, 16세 연하 아나운서와 핑크빛 계속"
+        },
+        {
+          "title": "부평",
+          "traffic": "2000+",
+          "context": "'핼러윈' 16만 명 운집‥이태원역 무정차 통과"
+        },
+        {
+          "title": "악뮤",
+          "traffic": "500+",
+          "context": "\"월세 지원에 주 4일 근무까지\"…이찬혁이 만든 기획사 파격 복지"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-01T03:01:25.900Z",
+      "fetched": "2026-11-01T12:14:29.325Z",
       "items": [
-        {
-          "title": "NEON",
-          "artist": "A2O & A2O LITE"
-        },
         {
           "title": "체포하겠어",
           "artist": "아일릿"
+        },
+        {
+          "title": "NEON",
+          "artist": "A2O & A2O LITE"
         },
         {
           "title": "Looks Can Kill",
@@ -80,12 +80,12 @@
           "artist": "튜이드"
         },
         {
-          "title": "Rose (feat. Skinny Brown & Homeboy)",
-          "artist": "양홍원"
-        },
-        {
           "title": "꿈꾸던 어른이 되었나요?",
           "artist": "머무르"
+        },
+        {
+          "title": "Rose (feat. Skinny Brown & Homeboy)",
+          "artist": "양홍원"
         },
         {
           "title": "LOVE ATTACK",
@@ -96,59 +96,59 @@
           "artist": "ALLDAY PROJECT"
         },
         {
-          "title": "노스탈지아",
-          "artist": "BIG Naughty"
-        },
-        {
           "title": "Insomnia",
           "artist": "RIIZE"
+        },
+        {
+          "title": "노스탈지아",
+          "artist": "BIG Naughty"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-01T03:01:25.900Z",
+      "fetched": "2026-11-01T12:14:29.325Z",
       "items": [
         {
-          "title": "최불암",
-          "views": 18477
-        },
-        {
           "title": "문화방송",
-          "views": 11602
-        },
-        {
-          "title": "김민자",
-          "views": 9996
+          "views": 10425
         },
         {
           "title": "한국방송공사",
-          "views": 8618
+          "views": 9766
         },
         {
-          "title": "차예련",
-          "views": 6239
+          "title": "최불암",
+          "views": 9662
         },
         {
-          "title": "한국교육방송공사",
-          "views": 5860
-        },
-        {
-          "title": "김소원 (1935년)",
-          "views": 5254
-        },
-        {
-          "title": "전두환",
-          "views": 4792
+          "title": "김민자",
+          "views": 7722
         },
         {
           "title": "라이어 (2026년 드라마)",
-          "views": 4513
+          "views": 7261
+        },
+        {
+          "title": "한국교육방송공사",
+          "views": 6053
+        },
+        {
+          "title": "오지명",
+          "views": 5646
         },
         {
           "title": "서승현 (1943년)",
-          "views": 4488
+          "views": 3743
+        },
+        {
+          "title": "김소원 (1935년)",
+          "views": 3607
+        },
+        {
+          "title": "라이어 (TV 시리즈)",
+          "views": 3595
         }
       ]
     }
