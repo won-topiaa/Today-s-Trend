@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-01T21:27:37.263Z",
+  "updated": "2026-11-02T03:12:15.017Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-01T21:27:37.263Z",
+      "fetched": "2026-11-02T03:12:15.017Z",
       "items": [
         {
-          "title": "아틀레틱 대 레알 소시에다드",
-          "traffic": "200+",
-          "context": "라리가 아틀레틱 빌바오 대 레알 소시에다드 축구 예측"
+          "title": "리노베이션",
+          "traffic": "100+",
+          "context": "Provo Community Church gathering funds for renovation, restoration"
         },
         {
-          "title": "유벤투스 대 나폴리",
-          "traffic": "200+",
-          "context": "세리에 A 유벤투스 대 나폴리 경기 예측"
-        },
-        {
-          "title": "f1",
-          "traffic": "200+",
-          "context": "F1 LIVE: Mexico City Grand Prix 2026 UK time, start time, grid, radio & updates"
-        },
-        {
-          "title": "유조선",
-          "traffic": "200+",
-          "context": "올해 선박 발주, 2007년 맞먹는 호황…2028년엔 신조선가 하락"
-        },
-        {
-          "title": "현대",
-          "traffic": "1000+",
-          "context": "내 주식도 혹시?…수년째 '만년 저평가' 151곳에 저PBR 꼬리표"
-        },
-        {
-          "title": "뱀",
-          "traffic": "10000+",
-          "context": "\"사진만 봐도 아찔\"...고속도로 달리는데 핸들서 뱀 튀어나와"
-        },
-        {
-          "title": "창신메모리테크놀로지",
-          "traffic": "1000+",
-          "context": "中CXMT \"4F²기반 6세대 D램 시제품 검증 완료…점진적 양산\""
-        },
-        {
-          "title": "경상남도",
-          "traffic": "200+",
+          "title": "트리니티 항공",
+          "traffic": "100+",
           "context": null
         },
         {
-          "title": "프리미어리그 순위",
-          "traffic": "100+",
-          "context": "유럽 ​​축구 경기 일정: 리버풀 vs. 아스널, 유벤투스 vs. 나폴리"
+          "title": "계주",
+          "traffic": "500+",
+          "context": "\"계주 위험하다\" 학부모 민원에 운동회 경기 취소…아이들 울상"
         },
         {
-          "title": "킬리안 음바페",
+          "title": "lg화학",
+          "traffic": "100+",
+          "context": "LG화학, 엔솔 지분 유동화에도 순차입금 26조...신용도 개선 제한적"
+        },
+        {
+          "title": "정의선",
           "traffic": "200+",
-          "context": "[특파원 칼럼/김철중]음바페가 마주한 中 ‘소비자 민족주의’"
+          "context": "174만대 테슬라 잡는다…현대차·GM, '2028년 자율주행 대전'"
+        },
+        {
+          "title": "골든 스테이트 대 la 클리퍼스",
+          "traffic": "2000+",
+          "context": "Clippers vs. Warriors (Nov 1, 2026) Live Odds, Player Props, and more"
+        },
+        {
+          "title": "영광",
+          "traffic": "100+",
+          "context": "영광사랑카드 최대 22% 혜택…\"착한 소비 캐시백 5% 더\""
+        },
+        {
+          "title": "한남더힐 아파트",
+          "traffic": "1000+",
+          "context": "'190억' 한남더힐 산 옥주현, 빚은 300억?…변호사가 본 '경매' 이유 - 머니투데이"
+        },
+        {
+          "title": "t 멤버십",
+          "traffic": "200+",
+          "context": "늦가을의 특별한 즐거움, 11월 T 멤버십 혜택 총정리"
+        },
+        {
+          "title": "삼성증권",
+          "traffic": "100+",
+          "context": "삼성증권, 올해 IPO 주관 1위 노리나…3분기 누적 '선두' 올라"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-01T21:27:37.263Z",
+      "fetched": "2026-11-02T03:12:15.017Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-01T21:27:37.263Z",
+      "fetched": "2026-11-02T03:12:15.017Z",
       "items": [
         {
           "title": "문화방송",
