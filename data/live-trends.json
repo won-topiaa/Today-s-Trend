@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-02T14:05:12.123Z",
+  "updated": "2026-11-03T00:09:29.883Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-02T14:05:12.123Z",
+      "fetched": "2026-11-03T00:09:29.883Z",
       "items": [
         {
-          "title": "파흐타코르 대 알나스르",
-          "traffic": "500+",
-          "context": "Ronaldo off Al Nassr's ACL squad due to Saudi security concerns"
+          "title": "중앙일보",
+          "traffic": "5000+",
+          "context": "투자는 계속, 성과는 아직…중앙일보 베팅 CJ, 미디어 M&A 시험대"
         },
         {
-          "title": "윤영미",
-          "traffic": "500+",
-          "context": "윤영미, 아들 유학 26억 지원… \"뉴욕 500만원 월세방, 옷장서 자\" - 머니투데이"
-        },
-        {
-          "title": "안민석",
+          "title": "xrpn",
           "traffic": "100+",
-          "context": "안민석 경기교육감, 31개 시군 타운홀 마무리…교육격차 해소 나선다"
+          "context": "Key facts: Evernorth may sell XRP; Ripple releases 1B; Morgan's defense"
         },
         {
-          "title": "아이파크몰 용산점",
-          "traffic": "200+",
+          "title": "3기신도시 남양주 왕숙지구",
+          "traffic": "100+",
           "context": null
         },
         {
-          "title": "박하선",
-          "traffic": "200+",
-          "context": "박하선 “싫어져서 그만두는 거 아냐”…6년 지킨 라디오 하차 소감"
-        },
-        {
-          "title": "이국주",
+          "title": "백지영",
           "traffic": "100+",
-          "context": "\"9평 원룸 떠났다\"…이국주가 이사한 도쿄, 집값도 '껑충'"
+          "context": "백지영, '마약 파문' 정석원과 이혼 대신 함께한 이유…\"어떤 사람인지 아니까\""
         },
         {
-          "title": "브루넬로 쿠치넬리",
+          "title": "ionq",
           "traffic": "200+",
-          "context": "어딜 눌러? 명품 브랜드 창립자 ‘나쁜손’ 논란"
+          "context": "2 quantum computing stocks to turn $10 into $100 in a year"
         },
         {
-          "title": "포스코홀딩스",
-          "traffic": "200+",
-          "context": "포스코홀딩스, 3Q 영업익 9400억원…전년比 47.9%↑"
+          "title": "t 멤버십",
+          "traffic": "500+",
+          "context": "늦가을의 특별한 즐거움, 11월 T 멤버십 혜택 총정리"
         },
         {
-          "title": "잠실야구장",
-          "traffic": "200+",
-          "context": "'아직' 잠실야구장 사라지기 전... 특별한 추억 남길 수 있다, 두산 베어스 8일, 11일, 20일, 24일 팬 투어 프로그램 진행 - 머니투데이"
+          "title": "김제시",
+          "traffic": "100+",
+          "context": "이원택 전북지사 \"국가예산 확보 총력…일자리 창출 속도\" 주문"
         },
         {
-          "title": "한국여자프로골프협회",
+          "title": "필라델피아 반도체 지수",
+          "traffic": "2000+",
+          "context": "인텔 폭락에 미국 증시 급락, 이번 주는 애플·AMD 실적에 달렸다"
+        },
+        {
+          "title": "미사동",
+          "traffic": "100+",
+          "context": null
+        },
+        {
+          "title": "vix",
           "traffic": "200+",
-          "context": "시드전 준비했던 장하나, 내년 정규투어 뛴다…안송이·박결까지 특별시드"
+          "context": "Wall Street's Fear Index is doing something strange. Here's what it means for stocks"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-02T14:05:12.123Z",
+      "fetched": "2026-11-03T00:09:29.883Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -76,12 +76,12 @@
           "artist": "아이브"
         },
         {
-          "title": "SUN KISS",
-          "artist": "튜이드"
-        },
-        {
           "title": "꿈꾸던 어른이 되었나요?",
           "artist": "머무르"
+        },
+        {
+          "title": "SUN KISS",
+          "artist": "튜이드"
         },
         {
           "title": "Rose (feat. Skinny Brown & Homeboy)",
@@ -92,23 +92,23 @@
           "artist": "리센느"
         },
         {
-          "title": "CRASH",
-          "artist": "ALLDAY PROJECT"
-        },
-        {
           "title": "Insomnia",
           "artist": "RIIZE"
         },
         {
-          "title": "노스탈지아",
-          "artist": "BIG Naughty"
+          "title": "CRASH",
+          "artist": "ALLDAY PROJECT"
+        },
+        {
+          "title": "Love Options",
+          "artist": "베스티"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-02T14:05:12.123Z",
+      "fetched": "2026-11-03T00:09:29.883Z",
       "items": [
         {
           "title": "회음",
