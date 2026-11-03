@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-03T00:09:29.883Z",
+  "updated": "2026-11-03T13:12:11.983Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-03T00:09:29.883Z",
+      "fetched": "2026-11-03T13:12:11.983Z",
       "items": [
         {
-          "title": "중앙일보",
-          "traffic": "5000+",
-          "context": "투자는 계속, 성과는 아직…중앙일보 베팅 CJ, 미디어 M&A 시험대"
+          "title": "전북 현대 대 조호르 다룰 탁짐 fc 순위",
+          "traffic": "10000+",
+          "context": "모따·이탈로 꽝!꽝…전북, ACLE 4차전서 다룰 탁짐에 2-0 완승"
         },
         {
-          "title": "xrpn",
-          "traffic": "100+",
-          "context": "Key facts: Evernorth may sell XRP; Ripple releases 1B; Morgan's defense"
+          "title": "두산에너 빌리티",
+          "traffic": "1000+",
+          "context": "겹악재에 52주 최저가 찍은 두산에너빌리티…4분기가 분수령"
         },
         {
-          "title": "3기신도시 남양주 왕숙지구",
-          "traffic": "100+",
-          "context": null
-        },
-        {
-          "title": "백지영",
-          "traffic": "100+",
-          "context": "백지영, '마약 파문' 정석원과 이혼 대신 함께한 이유…\"어떤 사람인지 아니까\""
-        },
-        {
-          "title": "ionq",
+          "title": "kt wiz",
           "traffic": "200+",
-          "context": "2 quantum computing stocks to turn $10 into $100 in a year"
+          "context": "[Photo] Jang Chan-hee dominates on mound"
         },
         {
-          "title": "t 멤버십",
+          "title": "캐시워크 정답",
+          "traffic": "100+",
+          "context": "알리 캐시워크 돈 버는 퀴즈, 정답은?"
+        },
+        {
+          "title": "김광석",
+          "traffic": "200+",
+          "context": "'그대 그리고 나' 부른 포크 그룹 소리새 김광석 별세"
+        },
+        {
+          "title": "삼성 케이티",
+          "traffic": "200+",
+          "context": "Davis Daniel (KT Wiz) showed off the dignity of the wizard corps ace.Danyel took the mound as KT's s.."
+        },
+        {
+          "title": "잠실야구장",
+          "traffic": "100+",
+          "context": "'아직' 잠실야구장 사라지기 전... 특별한 추억 남길 수 있다, 두산 베어스 8일, 11일, 20일, 24일 팬 투어 프로그램 진행 - 머니투데이"
+        },
+        {
+          "title": "오스카",
+          "traffic": "200+",
+          "context": "설경구·전도연·조여정·조인성의 엇갈린 욕망…‘가능한 사랑’, 스토리 스틸 공개"
+        },
+        {
+          "title": "공룡",
+          "traffic": "200+",
+          "context": "울산서 ‘공룡 꼬리’ 흔적 발견…“국내 유일 보존”"
+        },
+        {
+          "title": "한승택",
           "traffic": "500+",
-          "context": "늦가을의 특별한 즐거움, 11월 T 멤버십 혜택 총정리"
-        },
-        {
-          "title": "김제시",
-          "traffic": "100+",
-          "context": "이원택 전북지사 \"국가예산 확보 총력…일자리 창출 속도\" 주문"
-        },
-        {
-          "title": "필라델피아 반도체 지수",
-          "traffic": "2000+",
-          "context": "인텔 폭락에 미국 증시 급락, 이번 주는 애플·AMD 실적에 달렸다"
-        },
-        {
-          "title": "미사동",
-          "traffic": "100+",
-          "context": null
-        },
-        {
-          "title": "vix",
-          "traffic": "200+",
-          "context": "Wall Street's Fear Index is doing something strange. Here's what it means for stocks"
+          "context": "만년 백업서 가을의 영웅으로…kt 한승택, 안방과 타석에서 펄펄"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-03T00:09:29.883Z",
+      "fetched": "2026-11-03T13:12:11.983Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -92,63 +92,63 @@
           "artist": "리센느"
         },
         {
-          "title": "Insomnia",
-          "artist": "RIIZE"
+          "title": "Love Options",
+          "artist": "베스티"
         },
         {
           "title": "CRASH",
           "artist": "ALLDAY PROJECT"
         },
         {
-          "title": "Love Options",
-          "artist": "베스티"
+          "title": "Insomnia",
+          "artist": "RIIZE"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-03T00:09:29.883Z",
+      "fetched": "2026-11-03T13:12:11.983Z",
       "items": [
         {
-          "title": "회음",
-          "views": 18539
-        },
-        {
           "title": "문화방송",
-          "views": 13112
-        },
-        {
-          "title": "대음순",
-          "views": 11377
-        },
-        {
-          "title": "여성 사정",
-          "views": 11274
+          "views": 14312
         },
         {
           "title": "한국방송공사",
-          "views": 10756
+          "views": 9657
         },
         {
           "title": "최불암",
-          "views": 7432
-        },
-        {
-          "title": "정애연",
-          "views": 7009
+          "views": 8478
         },
         {
           "title": "김민자",
-          "views": 6247
+          "views": 6931
+        },
+        {
+          "title": "서승현 (1943년)",
+          "views": 4520
         },
         {
           "title": "한국교육방송공사",
-          "views": 5865
+          "views": 4405
         },
         {
-          "title": "김진근",
-          "views": 4985
+          "title": "김소원 (1935년)",
+          "views": 3649
+        },
+        {
+          "title": "9·11 테러",
+          "views": 3351
+        },
+        {
+          "title": "차예련",
+          "views": 3155
+        },
+        {
+          "title": "박진영 (1994년)",
+          "views": 2914
         }
       ]
     }
