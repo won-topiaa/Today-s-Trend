@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-03T13:12:11.983Z",
+  "updated": "2026-11-03T22:39:58.444Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-03T13:12:11.983Z",
+      "fetched": "2026-11-03T22:39:58.444Z",
       "items": [
         {
-          "title": "전북 현대 대 조호르 다룰 탁짐 fc 순위",
-          "traffic": "10000+",
-          "context": "모따·이탈로 꽝!꽝…전북, ACLE 4차전서 다룰 탁짐에 2-0 완승"
+          "title": "벼",
+          "traffic": "200+",
+          "context": "벼 수확 및 쌀 수매현장 방문 - 사진 | 멀티미디어"
         },
         {
-          "title": "두산에너 빌리티",
+          "title": "atlético vs bayern",
+          "traffic": "200+",
+          "context": "Atletico Madrid 0-2 Bayern Munich: Karl Lennart and Konrad Laimer goals give visitors win"
+        },
+        {
+          "title": "말자쇼",
+          "traffic": "200+",
+          "context": "송준근, 아픈 가족사 공개 \"7살때 가족여행 중 세살 위 형 잃어…심장마비 사망\""
+        },
+        {
+          "title": "띠별 운세",
           "traffic": "1000+",
-          "context": "겹악재에 52주 최저가 찍은 두산에너빌리티…4분기가 분수령"
+          "context": "[오늘의 운세] 2026년 11월 04일 띠별 운세"
         },
         {
-          "title": "kt wiz",
-          "traffic": "200+",
-          "context": "[Photo] Jang Chan-hee dominates on mound"
-        },
-        {
-          "title": "캐시워크 정답",
+          "title": "보험",
           "traffic": "100+",
-          "context": "알리 캐시워크 돈 버는 퀴즈, 정답은?"
+          "context": "'고의 자해'로 보험금 타내…보험설계사 낀 일당 검거"
         },
         {
-          "title": "김광석",
+          "title": "노동조합",
           "traffic": "200+",
-          "context": "'그대 그리고 나' 부른 포크 그룹 소리새 김광석 별세"
+          "context": "효성중공업 사무직노조, 내일부터 파업…사측 \"공장 정상 가동\"(종합)"
         },
         {
-          "title": "삼성 케이티",
+          "title": "보안",
           "traffic": "200+",
-          "context": "Davis Daniel (KT Wiz) showed off the dignity of the wizard corps ace.Danyel took the mound as KT's s.."
+          "context": "한양증권에서도 해킹…고객정보 등 일부 정보 유출(종합)"
         },
         {
-          "title": "잠실야구장",
+          "title": "amd 주가",
           "traffic": "100+",
-          "context": "'아직' 잠실야구장 사라지기 전... 특별한 추억 남길 수 있다, 두산 베어스 8일, 11일, 20일, 24일 팬 투어 프로그램 진행 - 머니투데이"
+          "context": "AMD 주가, 분기 실적·매출 가이던스 예상치 상회로 시간외 급등"
         },
         {
-          "title": "오스카",
+          "title": "쌍둥이",
+          "traffic": "100+",
+          "context": "1년만에 또 쌍둥이, 아들 넷…‘10만분의 1 기적’ 30대부부 3억 받는다"
+        },
+        {
+          "title": "대구백화점 본점",
           "traffic": "200+",
-          "context": "설경구·전도연·조여정·조인성의 엇갈린 욕망…‘가능한 사랑’, 스토리 스틸 공개"
-        },
-        {
-          "title": "공룡",
-          "traffic": "200+",
-          "context": "울산서 ‘공룡 꼬리’ 흔적 발견…“국내 유일 보존”"
-        },
-        {
-          "title": "한승택",
-          "traffic": "500+",
-          "context": "만년 백업서 가을의 영웅으로…kt 한승택, 안방과 타석에서 펄펄"
+          "context": "[대백의 추락, 그리고 눈물] \"자산 매각에만 의존, 협상력 약화…재무구조 개선 활용 나서야\""
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-03T13:12:11.983Z",
+      "fetched": "2026-11-03T22:39:58.444Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -84,16 +84,16 @@
           "artist": "튜이드"
         },
         {
+          "title": "Love Options",
+          "artist": "베스티"
+        },
+        {
           "title": "Rose (feat. Skinny Brown & Homeboy)",
           "artist": "양홍원"
         },
         {
           "title": "LOVE ATTACK",
           "artist": "리센느"
-        },
-        {
-          "title": "Love Options",
-          "artist": "베스티"
         },
         {
           "title": "CRASH",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-03T13:12:11.983Z",
+      "fetched": "2026-11-03T22:39:58.444Z",
       "items": [
         {
           "title": "문화방송",
