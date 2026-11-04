@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-03T22:39:58.444Z",
+  "updated": "2026-11-04T03:46:22.587Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-03T22:39:58.444Z",
+      "fetched": "2026-11-04T03:46:22.587Z",
       "items": [
         {
-          "title": "벼",
+          "title": "김상욱",
           "traffic": "200+",
-          "context": "벼 수확 및 쌀 수매현장 방문 - 사진 | 멀티미디어"
+          "context": "김상욱 울산시장, HD현대중공업 노사 만나 산업전환·노동현안 협력 논의"
         },
         {
-          "title": "atlético vs bayern",
-          "traffic": "200+",
-          "context": "Atletico Madrid 0-2 Bayern Munich: Karl Lennart and Konrad Laimer goals give visitors win"
+          "title": "김연경",
+          "traffic": "5000+",
+          "context": "[엠빅뉴스] 김연경이 픽한 뉴페이스 츠바키!!! 슈지츠 3-0 제압한 우승 세터"
         },
         {
-          "title": "말자쇼",
-          "traffic": "200+",
-          "context": "송준근, 아픈 가족사 공개 \"7살때 가족여행 중 세살 위 형 잃어…심장마비 사망\""
+          "title": "midterms",
+          "traffic": "100+",
+          "context": "2026 Midterm Election Results Live: House and Senate Race Calls"
         },
         {
-          "title": "띠별 운세",
+          "title": "에이피알",
+          "traffic": "100+",
+          "context": "메디큐브, 캐나다 '샤퍼스' 입점…모공패드 등 13개 제품 판매"
+        },
+        {
+          "title": "토트넘 홋스퍼 fc",
+          "traffic": "2000+",
+          "context": "'초대박' 이영표·손흥민·양민혁 이어 토트넘서 뛰는 4번째 韓 선수 탄생하나…\"데 제르비 체제서 오현규 적극적으로 관찰해 와\""
+        },
+        {
+          "title": "nz vs ind",
+          "traffic": "200+",
+          "context": "India, New Zealand switch to World Cup prep at bouncy Eden Park"
+        },
+        {
+          "title": "james talarico",
+          "traffic": "200+",
+          "context": "Democrats Eye Breakthrough in Texas After 1988 Senate Drought"
+        },
+        {
+          "title": "경국대",
           "traffic": "1000+",
-          "context": "[오늘의 운세] 2026년 11월 04일 띠별 운세"
+          "context": "전남광주 순천대·경북 경국대에 의대 신설…2030년부터 60명·40명 선발"
         },
         {
-          "title": "보험",
-          "traffic": "100+",
-          "context": "'고의 자해'로 보험금 타내…보험설계사 낀 일당 검거"
-        },
-        {
-          "title": "노동조합",
+          "title": "미국 대선",
           "traffic": "200+",
-          "context": "효성중공업 사무직노조, 내일부터 파업…사측 \"공장 정상 가동\"(종합)"
+          "context": "미국 투표 현장에 주 방위군 배치...유권자 위축 논란"
         },
         {
-          "title": "보안",
+          "title": "us midterm elections",
           "traffic": "200+",
-          "context": "한양증권에서도 해킹…고객정보 등 일부 정보 유출(종합)"
-        },
-        {
-          "title": "amd 주가",
-          "traffic": "100+",
-          "context": "AMD 주가, 분기 실적·매출 가이던스 예상치 상회로 시간외 급등"
-        },
-        {
-          "title": "쌍둥이",
-          "traffic": "100+",
-          "context": "1년만에 또 쌍둥이, 아들 넷…‘10만분의 1 기적’ 30대부부 3억 받는다"
-        },
-        {
-          "title": "대구백화점 본점",
-          "traffic": "200+",
-          "context": "[대백의 추락, 그리고 눈물] \"자산 매각에만 의존, 협상력 약화…재무구조 개선 활용 나서야\""
+          "context": "U.S. Midterm Elections Push Treasury Yields Higher: 10-Year at 4.96%, 30-Year at 5.33%"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-03T22:39:58.444Z",
+      "fetched": "2026-11-04T03:46:22.587Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -96,19 +96,19 @@
           "artist": "리센느"
         },
         {
-          "title": "CRASH",
-          "artist": "ALLDAY PROJECT"
+          "title": "With",
+          "artist": "리센느"
         },
         {
-          "title": "Insomnia",
-          "artist": "RIIZE"
+          "title": "CRASH",
+          "artist": "ALLDAY PROJECT"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-03T22:39:58.444Z",
+      "fetched": "2026-11-04T03:46:22.587Z",
       "items": [
         {
           "title": "문화방송",
