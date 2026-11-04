@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-04T13:25:59.031Z",
+  "updated": "2026-11-04T22:58:20.196Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-04T13:25:59.031Z",
+      "fetched": "2026-11-04T22:58:20.196Z",
       "items": [
         {
-          "title": "무죄",
-          "traffic": "2000+",
-          "context": "‘당선무효형’ 대법 확정되면 윤석열이 ‘헌정 사상 첫 사례’"
-        },
-        {
-          "title": "이승민",
-          "traffic": "500+",
-          "context": "삼성 원태인 \"주자 남겨놓지 마\"…이승민 \"내로남불이 심하네\""
-        },
-        {
-          "title": "삼성갤",
+          "title": "코모",
           "traffic": "200+",
-          "context": "'갤럭시 버즈' 청력 기능 추가…식약처 허가 획득"
+          "context": "'대충격! 9골 미친 골폭풍, 레알-바르사도 못한 걸 해냈다' 파브레가스의 코모, UCL 랑스 원정 '역대급' 9-1 대승..'두비카스 해트트릭, 돌아서면 골이 터졌다'"
         },
         {
-          "title": "안현민",
+          "title": "leipzig đấu với man city",
           "traffic": "100+",
-          "context": "[사진]파울 라인 벗어나지 않는 안현민의 타구"
+          "context": "Haaland hóa người hùng, Man City thắng kịch tính Leipzig"
         },
         {
-          "title": "acl two",
-          "traffic": "200+",
-          "context": "Melbourne Victory vs Persib Bandung: Where to watch, TV channel, live stream & kick-off time"
+          "title": "날씨",
+          "traffic": "200000+",
+          "context": "[날씨] 오후까지 곳곳 가을비...이후 찬 바람 불며 기온 '뚝'"
         },
         {
-          "title": "다니엘기도회 2026",
-          "traffic": "100+",
-          "context": "2026 다니엘기도회 4일차 강사, 도박 걱정 성직자 모임 정석용 사무총장 : 목회/신학"
-        },
-        {
-          "title": "엘앤에프",
-          "traffic": "200+",
-          "context": "[단독] 배터리 3사 싹쓸이…엘앤에프, 6만t LFP 신공장 짓는다"
-        },
-        {
-          "title": "이강철",
-          "traffic": "200+",
-          "context": "[사진]노시환-강백호, 함께 한국시리즈 관전해요"
-        },
-        {
-          "title": "송혜교",
+          "title": "thời tiết",
           "traffic": "2000+",
-          "context": "송혜교, 또 헤어스타일리스트 이일중과 투샷 포착"
+          "context": "Thời tiết hôm nay 5-11: Nam Bộ có nơi 34 độ C, đêm nay Bắc Bộ đón không khí lạnh"
         },
         {
-          "title": "디아즈",
-          "traffic": "1000+",
-          "context": "2차전 살얼음판 승부…디아즈는 왜 뛰었을까?"
+          "title": "홍창기",
+          "traffic": "200+",
+          "context": "'다년 계약 거절→최악 부진→FA 취득' 홍창기·박동원, LG 분위기가 달라졌다…차명석 단장 \"시장은 움직이니까\""
+        },
+        {
+          "title": "weather",
+          "traffic": "5000+",
+          "context": "Sun to Clouds, Breezy & Warm"
+        },
+        {
+          "title": "สภาพอากาศ",
+          "traffic": "2000+",
+          "context": "สภาพอากาศวันนี้ กรมอุตุฯ เตือน ไทยมีฝนฟ้าคะนอง-ลมกระโชกแรง 39 จังหวัด"
+        },
+        {
+          "title": "lens vs como",
+          "traffic": "200+",
+          "context": "Show histórico de Cesc y Nico Paz"
+        },
+        {
+          "title": "서인영",
+          "traffic": "200+",
+          "context": "서인영, 12월 26일 재혼 깜짝 발표…신랑은 NP 최지훈 대표"
+        },
+        {
+          "title": "погода",
+          "traffic": "2000+",
+          "context": "Жителей Беларуси предупреждают о гололедице на дорогах 5 ноября"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-04T13:25:59.031Z",
+      "fetched": "2026-11-04T22:58:20.196Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -76,20 +76,16 @@
           "artist": "리센느"
         },
         {
-          "title": "Looks Can Kill",
-          "artist": "아이브"
-        },
-        {
           "title": "백화요란 (Inside Out)",
           "artist": "리센느"
         },
         {
-          "title": "꿈꾸던 어른이 되었나요?",
-          "artist": "머무르"
+          "title": "Looks Can Kill",
+          "artist": "아이브"
         },
         {
-          "title": "SUN KISS",
-          "artist": "튜이드"
+          "title": "꿈꾸던 어른이 되었나요?",
+          "artist": "머무르"
         },
         {
           "title": "Love Options",
@@ -100,6 +96,10 @@
           "artist": "리센느"
         },
         {
+          "title": "SUN KISS",
+          "artist": "튜이드"
+        },
+        {
           "title": "LOVE ATTACK",
           "artist": "리센느"
         }
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-04T13:25:59.031Z",
+      "fetched": "2026-11-04T22:58:20.196Z",
       "items": [
         {
           "title": "문화방송",
