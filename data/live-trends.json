@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-04T22:58:20.196Z",
+  "updated": "2026-11-05T04:04:14.925Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-04T22:58:20.196Z",
+      "fetched": "2026-11-05T04:04:14.925Z",
       "items": [
         {
-          "title": "코모",
-          "traffic": "200+",
-          "context": "'대충격! 9골 미친 골폭풍, 레알-바르사도 못한 걸 해냈다' 파브레가스의 코모, UCL 랑스 원정 '역대급' 9-1 대승..'두비카스 해트트릭, 돌아서면 골이 터졌다'"
+          "title": "주식",
+          "traffic": "10000+",
+          "context": "美 중간선거 후폭풍, AI 데이터센터 강타하나"
         },
         {
-          "title": "leipzig đấu với man city",
+          "title": "마라톤",
+          "traffic": "500+",
+          "context": "\"가슴 드러낸 채 42㎞ 마라톤 완주\"…'가슴 절제' 유방암 투병 여성의 용기"
+        },
+        {
+          "title": "이범호",
+          "traffic": "2000+",
+          "context": "이범호 쓸 대타도 없었다, 문제는 결국 ‘뎁스’였다… KIA 마지막 날의 분노, 대형 FA 영입으로 이어질까"
+        },
+        {
+          "title": "필리핀",
+          "traffic": "2000+",
+          "context": "美 F-16 추가 카드에 흔들리는 필리핀… KF-21 40대 도입설 기류 변화"
+        },
+        {
+          "title": "유치원",
+          "traffic": "1000+",
+          "context": "\"물리고 뇌진탕 진단에도 아동학대 피고소인\"…동료 유치원 교사들도 반발(종합)"
+        },
+        {
+          "title": "여객선",
+          "traffic": "200+",
+          "context": "내항여객선의 안전 제고를 위해 선사 경영층의 인식을 개선하고 역량을 강화한다"
+        },
+        {
+          "title": "t.o.p",
+          "traffic": "500+",
+          "context": "DeLauro makes official bid to return to the top job on the House Appropriations Committee"
+        },
+        {
+          "title": "이호선 상담소",
           "traffic": "100+",
-          "context": "Haaland hóa người hùng, Man City thắng kịch tính Leipzig"
+          "context": "남편이 던진 목베개에 기절까지 했는데…아내가 이혼 못 한 이유 - 머니투데이"
         },
         {
-          "title": "날씨",
-          "traffic": "200000+",
-          "context": "[날씨] 오후까지 곳곳 가을비...이후 찬 바람 불며 기온 '뚝'"
+          "title": "류현진",
+          "traffic": "1000+",
+          "context": "류현진은 생각보다 더 대단한 선수였다… FA 역사에 남을 희귀 사례, 1070억 계약 재조명"
         },
         {
-          "title": "thời tiết",
-          "traffic": "2000+",
-          "context": "Thời tiết hôm nay 5-11: Nam Bộ có nơi 34 độ C, đêm nay Bắc Bộ đón không khí lạnh"
-        },
-        {
-          "title": "홍창기",
-          "traffic": "200+",
-          "context": "'다년 계약 거절→최악 부진→FA 취득' 홍창기·박동원, LG 분위기가 달라졌다…차명석 단장 \"시장은 움직이니까\""
-        },
-        {
-          "title": "weather",
-          "traffic": "5000+",
-          "context": "Sun to Clouds, Breezy & Warm"
-        },
-        {
-          "title": "สภาพอากาศ",
-          "traffic": "2000+",
-          "context": "สภาพอากาศวันนี้ กรมอุตุฯ เตือน ไทยมีฝนฟ้าคะนอง-ลมกระโชกแรง 39 จังหวัด"
-        },
-        {
-          "title": "lens vs como",
-          "traffic": "200+",
-          "context": "Show histórico de Cesc y Nico Paz"
-        },
-        {
-          "title": "서인영",
-          "traffic": "200+",
-          "context": "서인영, 12월 26일 재혼 깜짝 발표…신랑은 NP 최지훈 대표"
-        },
-        {
-          "title": "погода",
-          "traffic": "2000+",
-          "context": "Жителей Беларуси предупреждают о гололедице на дорогах 5 ноября"
+          "title": "로보월드",
+          "traffic": "100+",
+          "context": "이노시뮬레이션, 엔비디아 기반 '피지컬 트윈' 공개… AI 검증 시장 공략 - 머니투데이"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-04T22:58:20.196Z",
+      "fetched": "2026-11-05T04:04:14.925Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-04T22:58:20.196Z",
+      "fetched": "2026-11-05T04:04:14.925Z",
       "items": [
         {
           "title": "문화방송",
