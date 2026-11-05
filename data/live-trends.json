@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-05T04:04:14.925Z",
+  "updated": "2026-11-05T13:40:09.440Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-05T04:04:14.925Z",
+      "fetched": "2026-11-05T13:40:09.440Z",
       "items": [
         {
-          "title": "주식",
-          "traffic": "10000+",
-          "context": "美 중간선거 후폭풍, AI 데이터센터 강타하나"
-        },
-        {
-          "title": "마라톤",
+          "title": "커버 드 콜",
           "traffic": "500+",
-          "context": "\"가슴 드러낸 채 42㎞ 마라톤 완주\"…'가슴 절제' 유방암 투병 여성의 용기"
+          "context": "[단독] \"원금 돌려받았는데 왜\"…서학개미, 美 커버드콜 '수천억 세금 환급' 집단 반발"
         },
         {
-          "title": "이범호",
-          "traffic": "2000+",
-          "context": "이범호 쓸 대타도 없었다, 문제는 결국 ‘뎁스’였다… KIA 마지막 날의 분노, 대형 FA 영입으로 이어질까"
-        },
-        {
-          "title": "필리핀",
-          "traffic": "2000+",
-          "context": "美 F-16 추가 카드에 흔들리는 필리핀… KF-21 40대 도입설 기류 변화"
-        },
-        {
-          "title": "유치원",
-          "traffic": "1000+",
-          "context": "\"물리고 뇌진탕 진단에도 아동학대 피고소인\"…동료 유치원 교사들도 반발(종합)"
-        },
-        {
-          "title": "여객선",
+          "title": "목동",
           "traffic": "200+",
-          "context": "내항여객선의 안전 제고를 위해 선사 경영층의 인식을 개선하고 역량을 강화한다"
+          "context": "비행기 소음 차단·41층 고층 조망 구현…IPARK현산, 목동 11단지 총력전 [르포]"
         },
         {
-          "title": "t.o.p",
+          "title": "다니엘기도회 2026",
+          "traffic": "100+",
+          "context": null
+        },
+        {
+          "title": "이세영",
+          "traffic": "200+",
+          "context": "“언니라고 불러도 될까요?”…‘재혼 황후’ 막장 판타지 통했다…12개국 1위·종합 7위"
+        },
+        {
+          "title": "표절",
           "traffic": "500+",
-          "context": "DeLauro makes official bid to return to the top job on the House Appropriations Committee"
+          "context": "방탄소년단 '스윔' 표절 주장 소송, 원고 측 자진 취하…美 저작권 시비 종결"
         },
         {
-          "title": "이호선 상담소",
-          "traffic": "100+",
-          "context": "남편이 던진 목베개에 기절까지 했는데…아내가 이혼 못 한 이유 - 머니투데이"
+          "title": "호날두",
+          "traffic": "2000+",
+          "context": "'대표팀 이탈' 파문 호날두, 결국 포르투갈 축구대표서 은퇴"
         },
         {
-          "title": "류현진",
+          "title": "사격",
+          "traffic": "200+",
+          "context": "사격 꿈나무 40명 나주 집결…국가대표 꿈 키운다"
+        },
+        {
+          "title": "nepal premier league",
+          "traffic": "200+",
+          "context": "Jintimani Kalita batting bowling stats, averages and cricket statistics, 2026"
+        },
+        {
+          "title": "울산 현대모비스 대 썬더스",
           "traffic": "1000+",
-          "context": "류현진은 생각보다 더 대단한 선수였다… FA 역사에 남을 희귀 사례, 1070억 계약 재조명"
+          "context": "[오늘의 영상] 다시 뛰는 삼성 시즌 10승 선착"
         },
         {
-          "title": "로보월드",
+          "title": "최종면접",
           "traffic": "100+",
-          "context": "이노시뮬레이션, 엔비디아 기반 '피지컬 트윈' 공개… AI 검증 시장 공략 - 머니투데이"
+          "context": "조이현·김재원 '최종면접' 개봉일 1위...한국 영화로 22일만에 탈환"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-05T04:04:14.925Z",
+      "fetched": "2026-11-05T13:40:09.440Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -84,16 +84,16 @@
           "artist": "아이브"
         },
         {
+          "title": "Finest Thing",
+          "artist": "리센느"
+        },
+        {
           "title": "꿈꾸던 어른이 되었나요?",
           "artist": "머무르"
         },
         {
           "title": "Love Options",
           "artist": "베스티"
-        },
-        {
-          "title": "Finest Thing",
-          "artist": "리센느"
         },
         {
           "title": "SUN KISS",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-05T04:04:14.925Z",
+      "fetched": "2026-11-05T13:40:09.440Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 14142
-        },
-        {
-          "title": "한국방송공사",
-          "views": 9672
+          "views": 17496
         },
         {
           "title": "미국의 중간선거",
-          "views": 6901
+          "views": 13082
         },
         {
-          "title": "한국교육방송공사",
-          "views": 4483
-        },
-        {
-          "title": "김민자",
-          "views": 3675
-        },
-        {
-          "title": "차예련",
-          "views": 3394
-        },
-        {
-          "title": "최불암",
-          "views": 3347
+          "title": "한국방송공사",
+          "views": 9383
         },
         {
           "title": "2026년 미국 선거",
-          "views": 2916
+          "views": 5497
         },
         {
-          "title": "9·11 테러",
-          "views": 2804
+          "title": "미국 상원",
+          "views": 4413
         },
         {
-          "title": "연합뉴스",
-          "views": 2568
+          "title": "한국교육방송공사",
+          "views": 4331
+        },
+        {
+          "title": "국립경국대학교",
+          "views": 3761
+        },
+        {
+          "title": "도널드 트럼프",
+          "views": 3439
+        },
+        {
+          "title": "미국 의회",
+          "views": 2556
+        },
+        {
+          "title": "차예련",
+          "views": 2415
         }
       ]
     }
