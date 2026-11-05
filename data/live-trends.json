@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-05T13:40:09.440Z",
+  "updated": "2026-11-05T22:59:55.651Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-05T13:40:09.440Z",
+      "fetched": "2026-11-05T22:59:55.651Z",
       "items": [
         {
-          "title": "커버 드 콜",
-          "traffic": "500+",
-          "context": "[단독] \"원금 돌려받았는데 왜\"…서학개미, 美 커버드콜 '수천억 세금 환급' 집단 반발"
-        },
-        {
-          "title": "목동",
-          "traffic": "200+",
-          "context": "비행기 소음 차단·41층 고층 조망 구현…IPARK현산, 목동 11단지 총력전 [르포]"
-        },
-        {
-          "title": "다니엘기도회 2026",
+          "title": "스톡 옵션",
           "traffic": "100+",
           "context": null
         },
         {
-          "title": "이세영",
+          "title": "성리",
           "traffic": "200+",
-          "context": "“언니라고 불러도 될까요?”…‘재혼 황후’ 막장 판타지 통했다…12개국 1위·종합 7위"
+          "context": "성리, ‘무명전설’ 우승 후 바쁜 행보…송가인·박서진과 한 무대"
         },
         {
-          "title": "표절",
-          "traffic": "500+",
-          "context": "방탄소년단 '스윔' 표절 주장 소송, 원고 측 자진 취하…美 저작권 시비 종결"
-        },
-        {
-          "title": "호날두",
-          "traffic": "2000+",
-          "context": "'대표팀 이탈' 파문 호날두, 결국 포르투갈 축구대표서 은퇴"
-        },
-        {
-          "title": "사격",
-          "traffic": "200+",
-          "context": "사격 꿈나무 40명 나주 집결…국가대표 꿈 키운다"
-        },
-        {
-          "title": "nepal premier league",
-          "traffic": "200+",
-          "context": "Jintimani Kalita batting bowling stats, averages and cricket statistics, 2026"
-        },
-        {
-          "title": "울산 현대모비스 대 썬더스",
+          "title": "아파트",
           "traffic": "1000+",
-          "context": "[오늘의 영상] 다시 뛰는 삼성 시즌 10승 선착"
+          "context": "[르포] 강남 은마아파트 가보니 “분담금에 세금 겹쳐 급락했지만… 매수는 현금부자만”"
         },
         {
-          "title": "최종면접",
+          "title": "김지민",
+          "traffic": "2000+",
+          "context": "김지민, 만삭 몸으로 나왔다가 30분만 털썩 “♥김준호에게 기대고 파” [IS하이컷]"
+        },
+        {
+          "title": "셀트리온",
           "traffic": "100+",
-          "context": "조이현·김재원 '최종면접' 개봉일 1위...한국 영화로 22일만에 탈환"
+          "context": "셀트리온, 브라질서 바이오시밀러 3종 신규 출시"
+        },
+        {
+          "title": "이승우",
+          "traffic": "100+",
+          "context": "'슈팅 22개 ⇒ 무실점 선방 미쳤다!' 역시 국대 GK 송범근 \"선수들이 몸 사리지 않고 잘 버텨줘\" [현장 인터뷰]"
+        },
+        {
+          "title": "살림하는 남자들",
+          "traffic": "500+",
+          "context": null
+        },
+        {
+          "title": "김예건",
+          "traffic": "200+",
+          "context": "2008년생 MF 김예건, 유럽 1군 무대서 첫 공격포인트"
+        },
+        {
+          "title": "저격수",
+          "traffic": "100+",
+          "context": "출동하는 해병대 대테러특수임무대원"
+        },
+        {
+          "title": "배구",
+          "traffic": "200+",
+          "context": "취임 4개월 이호진 KOVO 총재…‘재미·육성·교류’ 한국 배구 변화 어디까지 왔나"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-05T13:40:09.440Z",
+      "fetched": "2026-11-05T22:59:55.651Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -84,16 +84,16 @@
           "artist": "아이브"
         },
         {
+          "title": "Love Options",
+          "artist": "베스티"
+        },
+        {
           "title": "Finest Thing",
           "artist": "리센느"
         },
         {
           "title": "꿈꾸던 어른이 되었나요?",
           "artist": "머무르"
-        },
-        {
-          "title": "Love Options",
-          "artist": "베스티"
         },
         {
           "title": "SUN KISS",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-05T13:40:09.440Z",
+      "fetched": "2026-11-05T22:59:55.651Z",
       "items": [
         {
           "title": "문화방송",
