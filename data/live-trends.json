@@ -1,75 +1,75 @@
 {
-  "updated": "2026-11-06T13:24:14.975Z",
+  "updated": "2026-11-06T22:29:25.727Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-06T13:24:14.975Z",
+      "fetched": "2026-11-06T22:29:25.727Z",
       "items": [
         {
-          "title": "카광",
-          "traffic": "1000+",
-          "context": "‘여성 학대 의혹’ 유튜버 카광, 채널 삭제 이어 ‘출국금지’… 경찰 수사 본격화"
-        },
-        {
-          "title": "마이클세일러",
-          "traffic": "200+",
-          "context": "AI 해커가 암호화폐 거래소 노린다…바이낸스 63억 달러 해킹 이어 또 보안 위기?"
-        },
-        {
-          "title": "식이",
-          "traffic": "200+",
-          "context": "풀무원 올가홀푸드, 단백질 5g·식이섬유 3g 담은 '한봉견과'"
-        },
-        {
-          "title": "이승민",
-          "traffic": "200+",
-          "context": "역투하는 이승민"
-        },
-        {
-          "title": "최우식",
-          "traffic": "200+",
-          "context": "최우식 측, '승무원 갑질' 의혹에 법적 대응 예고…\"허위 사실, 선처 없다\""
-        },
-        {
-          "title": "김상수",
-          "traffic": "200+",
-          "context": "'우승 반지 4개인데 12년째 무관이라니...' KT로 라팍 돌아온 삼성 왕조 주역 뜻밖의 고백 \"그땐 우승이 당연한 줄 알았다\" [KS3 현장] - 머니투데이"
-        },
-        {
-          "title": "xsmb",
+          "title": "은마아파트",
           "traffic": "500+",
-          "context": "Güney Vietnam Piyango Sonuçları 6 Kasım: Tra Vinh'te birçok kişinin kazanmasına yardımcı olan kazanan numaralar."
+          "context": "주택공급 발목잡는 재초환… 가구당 은마 4억, 반포현대 2억 내야"
         },
         {
-          "title": "이승엽",
+          "title": "비트코인",
           "traffic": "200+",
-          "context": "'3차전 시구' 이승엽 \"일본서 코치 애환 배워…더 단단해져야\""
+          "context": "블랙록 IBIT, 5거래일 연속 10억 4,000만 달러 이탈…나스닥 5.5% 급락 여파"
         },
         {
-          "title": "안현민",
-          "traffic": "200+",
-          "context": "안현민의 투런 홈런으로 격차 벌리는 KT 위즈"
+          "title": "패션",
+          "traffic": "500+",
+          "context": "Fashion Doesn’t Need Kanye West’s Yeezy"
         },
         {
-          "title": "김현수",
+          "title": "임영웅",
+          "traffic": "100+",
+          "context": "임영웅, 공연 실황 영화 예고편 공개… “앞으로 10년도 함께”"
+        },
+        {
+          "title": "테일러 프리츠",
+          "traffic": "100+",
+          "context": "Alcaraz saves 2 MPs, sinks Fritz in Paris late-night thriller"
+        },
+        {
+          "title": "옥주현",
+          "traffic": "2000+",
+          "context": "190억에 산 한남더힐 경매로…\"옥주현 183억 빚\" 자금난 분석한 변호사"
+        },
+        {
+          "title": "빈곤",
           "traffic": "200+",
-          "context": "KT 김현수, PS 통산 109경기로 최다 타이기록…홍성흔과 동률[KS]"
+          "context": "하안구는 2026년 '빈곤층 지원 기금'에 2억 8900만 VND 이상의 기부금을 받았습니다."
+        },
+        {
+          "title": "투자",
+          "traffic": "1000+",
+          "context": "AI 규제 공포에 뉴욕 증시 폭락…트럼프 “멍청한 민주당 탓”"
+        },
+        {
+          "title": "두산에너빌리티",
+          "traffic": "1000+",
+          "context": "[리포트 브리핑]두산에너빌리티, '미국 신규 원전 건설 가속화 수혜주' 목표가 120,000원 - KB증권"
+        },
+        {
+          "title": "염경엽",
+          "traffic": "200+",
+          "context": "“감독 하면서 제일 좋은 투수\" 염경엽 극찬...12승 톨허스트 교체 승부수도 있다 - 머니투데이"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-06T13:24:14.975Z",
+      "fetched": "2026-11-06T22:29:25.727Z",
       "items": [
-        {
-          "title": "체포하겠어",
-          "artist": "아일릿"
-        },
         {
           "title": "NEON",
           "artist": "A2O & A2O LITE"
+        },
+        {
+          "title": "체포하겠어",
+          "artist": "아일릿"
         },
         {
           "title": "With",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-06T13:24:14.975Z",
+      "fetched": "2026-11-06T22:29:25.727Z",
       "items": [
         {
           "title": "문화방송",
