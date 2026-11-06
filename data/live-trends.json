@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-06T04:01:32.883Z",
+  "updated": "2026-11-06T13:24:14.975Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-06T04:01:32.883Z",
+      "fetched": "2026-11-06T13:24:14.975Z",
       "items": [
         {
-          "title": "박수홍",
-          "traffic": "2000+",
-          "context": "박수홍 딸 재이, 창경궁 바닥에 철퍼덕..전생에 공주였나? '볼콕'"
-        },
-        {
-          "title": "김영익",
+          "title": "카광",
           "traffic": "1000+",
-          "context": "석 달 전 '코스피 5000 붕괴' 경고 적중… 김영익 교수 재조명"
+          "context": "‘여성 학대 의혹’ 유튜버 카광, 채널 삭제 이어 ‘출국금지’… 경찰 수사 본격화"
         },
         {
-          "title": "기상",
-          "traffic": "2000+",
-          "context": "삼척흥전 AWS 본격 관측…위험 기상 감시망 촘촘해진다"
-        },
-        {
-          "title": "2026",
+          "title": "마이클세일러",
           "traffic": "200+",
-          "context": "Midterms 2026 election results and latest updates: Mississippi votes still being counted in Senate nail-biter after Democrats take control of Congress"
+          "context": "AI 해커가 암호화폐 거래소 노린다…바이낸스 63억 달러 해킹 이어 또 보안 위기?"
         },
         {
-          "title": "제주국제공항",
-          "traffic": "100+",
-          "context": "예약하려고 했더니 ‘매진’ ‘매진’ ‘매진’…안 가는 게 아니라 못 가는 ‘제주’"
+          "title": "식이",
+          "traffic": "200+",
+          "context": "풀무원 올가홀푸드, 단백질 5g·식이섬유 3g 담은 '한봉견과'"
         },
         {
-          "title": "돔 경기장",
-          "traffic": "100+",
-          "context": "광명시, 5만석 돔구장 유치 총력전…시민 공감대 넓힌다"
+          "title": "이승민",
+          "traffic": "200+",
+          "context": "역투하는 이승민"
         },
         {
-          "title": "토토 재팬 클래식",
+          "title": "최우식",
+          "traffic": "200+",
+          "context": "최우식 측, '승무원 갑질' 의혹에 법적 대응 예고…\"허위 사실, 선처 없다\""
+        },
+        {
+          "title": "김상수",
+          "traffic": "200+",
+          "context": "'우승 반지 4개인데 12년째 무관이라니...' KT로 라팍 돌아온 삼성 왕조 주역 뜻밖의 고백 \"그땐 우승이 당연한 줄 알았다\" [KS3 현장] - 머니투데이"
+        },
+        {
+          "title": "xsmb",
           "traffic": "500+",
-          "context": "황유민, LPGA 토토 저팬 클래식 첫날 공동 7위…선두와 2타 차"
+          "context": "Güney Vietnam Piyango Sonuçları 6 Kasım: Tra Vinh'te birçok kişinin kazanmasına yardımcı olan kazanan numaralar."
         },
         {
-          "title": "존리",
-          "traffic": "20000+",
-          "context": "또 삼전닉스 폭락…\"반도체株 팔아야 하나\" 존리의 대답은"
+          "title": "이승엽",
+          "traffic": "200+",
+          "context": "'3차전 시구' 이승엽 \"일본서 코치 애환 배워…더 단단해져야\""
         },
         {
-          "title": "소형모듈원자로",
-          "traffic": "1000+",
-          "context": "솔트포스, 미국 부유식 원전 인허가 추진…삼성중공업 참여"
+          "title": "안현민",
+          "traffic": "200+",
+          "context": "안현민의 투런 홈런으로 격차 벌리는 KT 위즈"
         },
         {
-          "title": "에너지",
-          "traffic": "2000+",
-          "context": "LG엔솔, 2조원 규모 정부 ESS 입찰에 불참"
+          "title": "김현수",
+          "traffic": "200+",
+          "context": "KT 김현수, PS 통산 109경기로 최다 타이기록…홍성흔과 동률[KS]"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-06T04:01:32.883Z",
+      "fetched": "2026-11-06T13:24:14.975Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-06T04:01:32.883Z",
+      "fetched": "2026-11-06T13:24:14.975Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 17496
-        },
-        {
-          "title": "미국의 중간선거",
-          "views": 13082
+          "views": 14453
         },
         {
           "title": "한국방송공사",
-          "views": 9383
-        },
-        {
-          "title": "2026년 미국 선거",
-          "views": 5497
-        },
-        {
-          "title": "미국 상원",
-          "views": 4413
+          "views": 7966
         },
         {
           "title": "한국교육방송공사",
-          "views": 4331
+          "views": 4624
         },
         {
-          "title": "국립경국대학교",
-          "views": 3761
+          "title": "미국의 중간선거",
+          "views": 4404
         },
         {
-          "title": "도널드 트럼프",
-          "views": 3439
+          "title": "김태연 (배우)",
+          "views": 2419
         },
         {
-          "title": "미국 의회",
-          "views": 2556
+          "title": "연합뉴스",
+          "views": 2206
         },
         {
           "title": "차예련",
-          "views": 2415
+          "views": 2184
+        },
+        {
+          "title": "2026년 미국 선거",
+          "views": 1958
+        },
+        {
+          "title": "9·11 테러",
+          "views": 1815
+        },
+        {
+          "title": "재혼 황후",
+          "views": 1690
         }
       ]
     }
