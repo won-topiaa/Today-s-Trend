@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-06T22:29:25.727Z",
+  "updated": "2026-11-07T03:37:53.517Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-06T22:29:25.727Z",
+      "fetched": "2026-11-07T03:37:53.517Z",
       "items": [
         {
-          "title": "은마아파트",
+          "title": "nz vs ind",
           "traffic": "500+",
-          "context": "주택공급 발목잡는 재초환… 가구당 은마 4억, 반포현대 2억 내야"
+          "context": "Hnry Stadium, Wellington pitch report, ODI records and average scores ahead of New Zealand vs. India 2nd match"
         },
         {
-          "title": "비트코인",
+          "title": "사건반장",
           "traffic": "200+",
-          "context": "블랙록 IBIT, 5거래일 연속 10억 4,000만 달러 이탈…나스닥 5.5% 급락 여파"
+          "context": "조개구이 리필까지 하고 먹튀…무단횡단도 했다"
         },
         {
-          "title": "패션",
-          "traffic": "500+",
-          "context": "Fashion Doesn’t Need Kanye West’s Yeezy"
+          "title": "유언",
+          "traffic": "1000+",
+          "context": "삼남매 두고 \"전재산은 사위에\" 유언장 남긴 父 속사정"
         },
         {
-          "title": "임영웅",
+          "title": "미래에셋",
+          "traffic": "200+",
+          "context": "미래에셋증권, 해킹으로 고객 3천여 명·임직원 3만여 명 정보 유출"
+        },
+        {
+          "title": "오일 머니",
           "traffic": "100+",
-          "context": "임영웅, 공연 실황 영화 예고편 공개… “앞으로 10년도 함께”"
+          "context": "새로운 골프? ‘오일 머니’ 끊기니 1년도 못 버텼다"
         },
         {
-          "title": "테일러 프리츠",
-          "traffic": "100+",
-          "context": "Alcaraz saves 2 MPs, sinks Fritz in Paris late-night thriller"
-        },
-        {
-          "title": "옥주현",
+          "title": "잠수함",
           "traffic": "2000+",
-          "context": "190억에 산 한남더힐 경매로…\"옥주현 183억 빚\" 자금난 분석한 변호사"
+          "context": "“한국 역대 최강 잠수함”…美 매체가 서희함에 주목한 이유 [밀리터리+]"
         },
         {
-          "title": "빈곤",
+          "title": "blg",
           "traffic": "200+",
-          "context": "하안구는 2026년 '빈곤층 지원 기금'에 2억 8900만 VND 이상의 기부금을 받았습니다."
+          "context": "Karmine Corp vs T1: Why T1 Will Crush KC at Worlds 2026"
         },
         {
-          "title": "투자",
-          "traffic": "1000+",
-          "context": "AI 규제 공포에 뉴욕 증시 폭락…트럼프 “멍청한 민주당 탓”"
+          "title": "기뢰",
+          "traffic": "500+",
+          "context": "“해저 케이블에 기뢰 심기?” 이란 선박들 ‘수상한 조짐’ 포착 [지금뉴스]"
         },
         {
-          "title": "두산에너빌리티",
-          "traffic": "1000+",
-          "context": "[리포트 브리핑]두산에너빌리티, '미국 신규 원전 건설 가속화 수혜주' 목표가 120,000원 - KB증권"
+          "title": "보험",
+          "traffic": "2000+",
+          "context": "“혼자 늙는 것도 서러운데, 다 가져가야만 했냐”…고령 1인가구 보험료 ‘쑥’"
         },
         {
-          "title": "염경엽",
-          "traffic": "200+",
-          "context": "“감독 하면서 제일 좋은 투수\" 염경엽 극찬...12승 톨허스트 교체 승부수도 있다 - 머니투데이"
+          "title": "지스타",
+          "traffic": "500+",
+          "context": "AGF 2026, 참가사 106곳 역대 최대…전년보다 49% 증가"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-06T22:29:25.727Z",
+      "fetched": "2026-11-07T03:37:53.517Z",
       "items": [
         {
           "title": "NEON",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-06T22:29:25.727Z",
+      "fetched": "2026-11-07T03:37:53.517Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 14453
-        },
-        {
-          "title": "한국방송공사",
-          "views": 7966
-        },
-        {
-          "title": "한국교육방송공사",
-          "views": 4624
+          "views": 17496
         },
         {
           "title": "미국의 중간선거",
-          "views": 4404
+          "views": 13082
         },
         {
-          "title": "김태연 (배우)",
-          "views": 2419
-        },
-        {
-          "title": "연합뉴스",
-          "views": 2206
-        },
-        {
-          "title": "차예련",
-          "views": 2184
+          "title": "한국방송공사",
+          "views": 9383
         },
         {
           "title": "2026년 미국 선거",
-          "views": 1958
+          "views": 5497
         },
         {
-          "title": "9·11 테러",
-          "views": 1815
+          "title": "미국 상원",
+          "views": 4413
         },
         {
-          "title": "재혼 황후",
-          "views": 1690
+          "title": "한국교육방송공사",
+          "views": 4331
+        },
+        {
+          "title": "국립경국대학교",
+          "views": 3761
+        },
+        {
+          "title": "도널드 트럼프",
+          "views": 3439
+        },
+        {
+          "title": "미국 의회",
+          "views": 2556
+        },
+        {
+          "title": "차예련",
+          "views": 2415
         }
       ]
     }
