@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-08T12:23:08.628Z",
+  "updated": "2026-11-08T21:27:03.530Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-08T12:23:08.628Z",
+      "fetched": "2026-11-08T21:27:03.530Z",
       "items": [
         {
-          "title": "최해천 교수",
-          "traffic": "500+",
-          "context": "차기 서울대 총장에 최해천 기계공학부 교수"
+          "title": "사관학교",
+          "traffic": "100+",
+          "context": "해사 이전 반대…“통합 철회·사업비 공개해야”"
         },
         {
-          "title": "김세레나",
-          "traffic": "200+",
-          "context": null
-        },
-        {
-          "title": "wec",
-          "traffic": "200+",
-          "context": "Fuoco puts Ferrari on pole at Monza"
-        },
-        {
-          "title": "생계",
-          "traffic": "2000+",
-          "context": "내년에 25조 쏟아붓는 기초연금…생계급여 깎여 노인빈곤 개선 '헛바퀴'"
-        },
-        {
-          "title": "광안리해수욕장",
-          "traffic": "200+",
-          "context": "광안리 해변에 돗자리 깔아두고 ‘10만 원’…중학생까지 자릿세 장사"
-        },
-        {
-          "title": "수능",
+          "title": "김도영",
           "traffic": "1000+",
-          "context": "\"수능 최대 변수는 국어\"...N수생 20만 명 역대 최다"
+          "context": "“김도영 파워, MLB에서도 통한다” MLB가 이렇게 낙관한 타자 있었나… 美에서도 커져가는 신드롬"
         },
         {
-          "title": "최태원",
-          "traffic": "5000+",
-          "context": "맏형 최태원의 28년 궤적… SK 행복 씨앗으로 ‘국가 AI’ 설계"
-        },
-        {
-          "title": "기아",
-          "traffic": "10000+",
-          "context": "현대차·기아, 루크 동커볼케 CCO 디자인 아카이브 전시 개최"
-        },
-        {
-          "title": "파주 대 충남 아산 fc",
-          "traffic": "200+",
-          "context": "충남아산FC, ‘준우승 주역’ 황기욱·박한근 전역 후 복귀"
-        },
-        {
-          "title": "천안 시티 fc 대 부산 아이파크 순위",
+          "title": "뉴진스",
           "traffic": "500+",
-          "context": "'이규민 데뷔골' 천안시티, 갈길 바쁜 부산 잡고 홈 3연승"
+          "context": "330억 소송에도 각별한 뉴진스…하니·다니엘 얼굴 맞댔다"
+        },
+        {
+          "title": "액화천연가스",
+          "traffic": "2000+",
+          "context": "K조선 독주하던 LNG 운반선마저…중국 10월 수주 한국 추월"
+        },
+        {
+          "title": "atlético vs barcelona",
+          "traffic": "500+",
+          "context": "Atlético de Madrid - Barcelona en directo, La Liga en vivo | Fermín empata el partido antes del descanso"
+        },
+        {
+          "title": "thứ hạng của man utd gặp aston villa",
+          "traffic": "500+",
+          "context": "'Lại là nhục nhã cho Man Utd' Kỳ tích hòa 4-4 nhưng vẫn ở vị trí xuống hạng 18... 'Mất 2 bàn trong 3 phút 42 giây' Kỷ lục buồn nhất lịch sử EPL của câu lạc bộ"
+        },
+        {
+          "title": "현금",
+          "traffic": "100+",
+          "context": "삼성전자 현금 보유액 200조원 돌파... 하루 2700억원씩 늘어"
+        },
+        {
+          "title": "잠수함",
+          "traffic": "1000+",
+          "context": "속도 내는 핵잠 사업…연료 확보 ‘한·미 원자력협정’은 제자리"
+        },
+        {
+          "title": "아틀레티코 대 바르셀로나",
+          "traffic": "10000+",
+          "context": "[엠빅뉴스] ‘이강인 질문’에 발끈한 시메오네 감독? 기자가 안절부절못하자.."
+        },
+        {
+          "title": "사랑이 온다",
+          "traffic": "1000+",
+          "context": "‘사랑이 온다’ 진경, 하석진 향한 광기 폭발… 류승수 위로에 결국 ‘눈물’ 쏟았다"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-08T12:23:08.628Z",
+      "fetched": "2026-11-08T21:27:03.530Z",
       "items": [
         {
           "title": "NEON",
@@ -100,15 +100,15 @@
           "artist": "튜이드"
         },
         {
-          "title": "Finest Thing",
-          "artist": "리센느"
+          "title": "REDRED",
+          "artist": "코르티스"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-08T12:23:08.628Z",
+      "fetched": "2026-11-08T21:27:03.530Z",
       "items": [
         {
           "title": "문화방송",
