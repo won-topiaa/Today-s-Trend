@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-08T21:27:03.530Z",
+  "updated": "2026-11-09T03:31:25.193Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-08T21:27:03.530Z",
+      "fetched": "2026-11-09T03:31:25.193Z",
       "items": [
         {
-          "title": "사관학교",
-          "traffic": "100+",
-          "context": "해사 이전 반대…“통합 철회·사업비 공개해야”"
-        },
-        {
-          "title": "김도영",
-          "traffic": "1000+",
-          "context": "“김도영 파워, MLB에서도 통한다” MLB가 이렇게 낙관한 타자 있었나… 美에서도 커져가는 신드롬"
-        },
-        {
-          "title": "뉴진스",
-          "traffic": "500+",
-          "context": "330억 소송에도 각별한 뉴진스…하니·다니엘 얼굴 맞댔다"
-        },
-        {
-          "title": "액화천연가스",
+          "title": "한남더힐 아파트",
           "traffic": "2000+",
-          "context": "K조선 독주하던 LNG 운반선마저…중국 10월 수주 한국 추월"
+          "context": "옥주현 한남더힐 경매 사태…\"50억으로 400억 당겼다가 청산된 것\""
         },
         {
-          "title": "atlético vs barcelona",
+          "title": "노점상",
+          "traffic": "1000+",
+          "context": "\"하루 3만원 버는데…\" 붕어빵 노점상 울린 판사의 한마디 [사장님 고충백서]"
+        },
+        {
+          "title": "파주시",
           "traffic": "500+",
-          "context": "Atlético de Madrid - Barcelona en directo, La Liga en vivo | Fermín empata el partido antes del descanso"
+          "context": "파주~김포 잇는 한강터널 두 번째 굴착 시작…수도권 서북부 교통망 구축 속도"
         },
         {
-          "title": "thứ hạng của man utd gặp aston villa",
-          "traffic": "500+",
-          "context": "'Lại là nhục nhã cho Man Utd' Kỳ tích hòa 4-4 nhưng vẫn ở vị trí xuống hạng 18... 'Mất 2 bàn trong 3 phút 42 giây' Kỷ lục buồn nhất lịch sử EPL của câu lạc bộ"
+          "title": "알 테오 젠",
+          "traffic": "200+",
+          "context": "[특징주] 알테오젠, 美 약가협상 규정 확정에 15% 급락…SC 전환 수익성 우려"
         },
         {
-          "title": "현금",
+          "title": "홍창기",
+          "traffic": "5000+",
+          "context": "롯데서 은퇴선언, FA 영입 1순위로 이 선수 지목했다…\"올해는 시행착오, 내년부터 괜찮아질 것\" 기대"
+        },
+        {
+          "title": "빈",
           "traffic": "100+",
-          "context": "삼성전자 현금 보유액 200조원 돌파... 하루 2700억원씩 늘어"
+          "context": "청와대 몰려간 국민의힘 \"죄수에게 탈옥 열쇠 쥐어준 꼴\""
         },
         {
-          "title": "잠수함",
-          "traffic": "1000+",
-          "context": "속도 내는 핵잠 사업…연료 확보 ‘한·미 원자력협정’은 제자리"
-        },
-        {
-          "title": "아틀레티코 대 바르셀로나",
+          "title": "중앙일보",
           "traffic": "10000+",
-          "context": "[엠빅뉴스] ‘이강인 질문’에 발끈한 시메오네 감독? 기자가 안절부절못하자.."
+          "context": "[부고] 김병수 씨(중앙일보 마케팅솔루션국 리더) 부친상"
         },
         {
-          "title": "사랑이 온다",
-          "traffic": "1000+",
-          "context": "‘사랑이 온다’ 진경, 하석진 향한 광기 폭발… 류승수 위로에 결국 ‘눈물’ 쏟았다"
+          "title": "항공 승무원",
+          "traffic": "200+",
+          "context": "비행기 텅 비었는데…\"자리 옮기면 안 된다\" 제지한 승무원 - 머니투데이"
+        },
+        {
+          "title": "pistons vs lakers",
+          "traffic": "100+",
+          "context": "Austin Reaves leads Luka-less Lakers to road win over Pistons"
+        },
+        {
+          "title": "젠슨 황 부인",
+          "traffic": "20000+",
+          "context": "젠슨황, 中스파이 의심 여성과 불륜 인정…이사회 독립조사 착수(종합)"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-08T21:27:03.530Z",
+      "fetched": "2026-11-09T03:31:25.193Z",
       "items": [
         {
           "title": "NEON",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-08T21:27:03.530Z",
+      "fetched": "2026-11-09T03:31:25.193Z",
       "items": [
         {
           "title": "문화방송",
