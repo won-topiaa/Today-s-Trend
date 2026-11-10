@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-10T00:57:07.529Z",
+  "updated": "2026-11-10T13:55:16.848Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-10T00:57:07.529Z",
+      "fetched": "2026-11-10T13:55:16.848Z",
       "items": [
         {
-          "title": "3기신도시 남양주 왕숙지구",
+          "title": "정승제",
           "traffic": "200+",
-          "context": "정부는 ‘앞당긴다’ 했는데… 3기 신도시 최대 사업지 또 입주 지연"
+          "context": "조회수 1,000만은 기본! 맛잘알 정승제와 찰떡 연애 비유로 유명한 유대종 | KBS 261110 방송"
         },
         {
-          "title": "삼성증권",
+          "title": "한수아",
           "traffic": "100+",
-          "context": "삼성증권, 신규고객에게 투자지원금 2만원 지원"
+          "context": "한수아, 카리나와 절친 된 사연 \"먼저 번호 물어보더라…거의 매일 집에서 만나\" (우사편)"
         },
         {
-          "title": "구자욱",
+          "title": "뉴데일리",
           "traffic": "2000+",
-          "context": "삼성 야구 12년 만의 우승... 이재용, 직관 왜 안 했을까"
+          "context": "[속보]‘돌아선 50대’ 대통령 부정 61.7%·긍정 37.8%-리서치뷰"
         },
         {
-          "title": "페이블 5.2",
+          "title": "jtbc",
+          "traffic": "1000+",
+          "context": "JTBC launches sale, to pick preferred buyer in January"
+        },
+        {
+          "title": "금융보안원",
+          "traffic": "500+",
+          "context": "'금융보안 문지기' 금융보안원마저 해킹으로 정보유출‥긴급 차단조치"
+        },
+        {
+          "title": "악뮤 콘서트",
           "traffic": "200+",
-          "context": "앤스로픽, AI 에이전트 1000개 지휘하는 신모델 공개"
+          "context": "“17만 원대 좌석인데 시야 가려”…악뮤 강릉 콘서트에 관객 불만"
         },
         {
-          "title": "로켓",
-          "traffic": "200+",
-          "context": "우주 다녀온 ‘2단 로켓’도 ‘젓가락 팔’ 회수 성공할까···스페이스X, 14일 스타십 15차 시험발사"
-        },
-        {
-          "title": "둠스데이",
-          "traffic": "200+",
-          "context": "KFC, 마블 영화 협업 메뉴 5종 운영"
-        },
-        {
-          "title": "송지효",
-          "traffic": "100+",
-          "context": "송지효, 속옷 모델까지 했는데 '적자'...유재석도 걱정 - 머니투데이"
-        },
-        {
-          "title": "버스",
-          "traffic": "200+",
-          "context": "초등생 태운 관광버스, 인도로 ‘쾅’…보행자 부상"
-        },
-        {
-          "title": "재혼 황후",
+          "title": "시가총액",
           "traffic": "5000+",
-          "context": "'재혼 황후', '100일의 거짓말'·'닥터X' 제쳤다...화제성 1위 등극 [iZE 포커스] - 머니투데이"
+          "context": "\"젠슨황 외도 상대, 홍콩 영주권 42세 中사업가\""
         },
         {
-          "title": "치어리더",
-          "traffic": "2000+",
-          "context": "‘삐끼삐끼’ 이주은 여전히 핫하네, 이번엔 대만 농구행"
+          "title": "cpi",
+          "traffic": "1000+",
+          "context": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect"
+        },
+        {
+          "title": "cpi 발표",
+          "traffic": "500+",
+          "context": "미국 소비자물가, 10월 전월 대비 0.4% 상승"
+        },
+        {
+          "title": "양홍원 오보",
+          "traffic": "200+",
+          "context": "여전히 밖에 있는 양홍원, 찜질방 흡연실서 포착"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-10T00:57:07.529Z",
+      "fetched": "2026-11-10T13:55:16.848Z",
       "items": [
         {
           "title": "NEON",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-10T00:57:07.529Z",
+      "fetched": "2026-11-10T13:55:16.848Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 13431
+          "views": 12809
+        },
+        {
+          "title": "젠슨 황",
+          "views": 12485
         },
         {
           "title": "한국방송공사",
-          "views": 7560
+          "views": 7601
         },
         {
           "title": "한국교육방송공사",
-          "views": 6855
-        },
-        {
-          "title": "삼성 라이온즈",
-          "views": 5219
+          "views": 5458
         },
         {
           "title": "이진희 (배우)",
-          "views": 4650
+          "views": 2832
         },
         {
-          "title": "김태연 (배우)",
-          "views": 4547
+          "title": "황우석",
+          "views": 2751
         },
         {
-          "title": "이소라 (가수)",
-          "views": 3949
+          "title": "엔비디아",
+          "views": 2538
         },
         {
-          "title": "김장훈",
-          "views": 3610
+          "title": "리라아트고등학교",
+          "views": 2413
         },
         {
-          "title": "박진만",
-          "views": 3539
+          "title": "박진영 (1994년)",
+          "views": 1801
         },
         {
-          "title": "강민호",
-          "views": 3375
+          "title": "지수 (가수)",
+          "views": 1702
         }
       ]
     }
