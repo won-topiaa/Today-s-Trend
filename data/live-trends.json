@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-10T13:55:16.848Z",
+  "updated": "2026-11-10T22:38:00.710Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-10T13:55:16.848Z",
+      "fetched": "2026-11-10T22:38:00.710Z",
       "items": [
         {
-          "title": "정승제",
+          "title": "엄정욱",
           "traffic": "200+",
-          "context": "조회수 1,000만은 기본! 맛잘알 정승제와 찰떡 연애 비유로 유명한 유대종 | KBS 261110 방송"
+          "context": "배우 지안, ‘158km 강속구 투수’ 엄정욱과 결혼…“웃음 끊이지 않게 살 것”"
         },
         {
-          "title": "한수아",
+          "title": "gs칼텍스",
           "traffic": "100+",
-          "context": "한수아, 카리나와 절친 된 사연 \"먼저 번호 물어보더라…거의 매일 집에서 만나\" (우사편)"
+          "context": "정유공장의 새로운 엔진 AI…허세홍號 GS칼텍스, 디지털 전환 '시너지'"
         },
         {
-          "title": "뉴데일리",
+          "title": "이소라",
           "traffic": "2000+",
-          "context": "[속보]‘돌아선 50대’ 대통령 부정 61.7%·긍정 37.8%-리서치뷰"
+          "context": "이소라, 바람이 분다 등 45곡 압류 신청…상대는 전 소속사 대표"
         },
         {
-          "title": "jtbc",
-          "traffic": "1000+",
-          "context": "JTBC launches sale, to pick preferred buyer in January"
-        },
-        {
-          "title": "금융보안원",
+          "title": "빅토르 안",
           "traffic": "500+",
-          "context": "'금융보안 문지기' 금융보안원마저 해킹으로 정보유출‥긴급 차단조치"
+          "context": "'러시아 귀화' 빅토르 안, '스피드퀸' 출연…7년만 국내 예능"
         },
         {
-          "title": "악뮤 콘서트",
-          "traffic": "200+",
-          "context": "“17만 원대 좌석인데 시야 가려”…악뮤 강릉 콘서트에 관객 불만"
+          "title": "의료",
+          "traffic": "100+",
+          "context": "지자체 요청 시 ‘의료취약지’ 즉시 지정… 법 개정 추진"
         },
         {
-          "title": "시가총액",
+          "title": "송지효",
+          "traffic": "500+",
+          "context": "송지효, 속옷 모델까지 했는데 '적자'...유재석도 걱정 - 머니투데이"
+        },
+        {
+          "title": "아들",
           "traffic": "5000+",
-          "context": "\"젠슨황 외도 상대, 홍콩 영주권 42세 中사업가\""
+          "context": "‘배우 부부’ 차경은×이유진, 긴장감 가득한 2세 여름이 성별 공개!"
         },
         {
-          "title": "cpi",
-          "traffic": "1000+",
-          "context": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect"
+          "title": "김구라",
+          "traffic": "2000+",
+          "context": "“올해 번 돈 다 까먹어” 김구라 경제연구소서 나온 말"
         },
         {
-          "title": "cpi 발표",
+          "title": "게임",
           "traffic": "500+",
-          "context": "미국 소비자물가, 10월 전월 대비 0.4% 상승"
+          "context": "엠게임 '귀혼키우기', 11월 24일 출시... 사전예약 100만명 돌파"
         },
         {
-          "title": "양홍원 오보",
-          "traffic": "200+",
-          "context": "여전히 밖에 있는 양홍원, 찜질방 흡연실서 포착"
+          "title": "김장",
+          "traffic": "100+",
+          "context": "“누가 갈아엎고 싶겠습니까”… 배추·쪽파값 폭락에 밭 갈아엎는 농가"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-10T13:55:16.848Z",
+      "fetched": "2026-11-10T22:38:00.710Z",
       "items": [
         {
           "title": "NEON",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-10T13:55:16.848Z",
+      "fetched": "2026-11-10T22:38:00.710Z",
       "items": [
         {
           "title": "문화방송",
