@@ -1,79 +1,79 @@
 {
-  "updated": "2026-11-12T22:56:55.010Z",
+  "updated": "2026-11-13T03:57:36.944Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-12T22:56:55.010Z",
+      "fetched": "2026-11-13T03:57:36.944Z",
       "items": [
         {
-          "title": "비핵화",
+          "title": "사우디아라비아 축구 국가대표팀",
           "traffic": "200+",
-          "context": "北 “핵보유국 지위, 서방 논의 대상 될수없어”"
+          "context": "주장 손흥민, ‘내분설’ 이후 첫 심경 고백…“팀이 건강해지는 과정이라 생각”"
         },
         {
-          "title": "박성현",
+          "title": "경매",
+          "traffic": "200+",
+          "context": "김혜수 레드카펫 의상·김연아 사인 스케이트화…유니세프 80주년 자선 경매"
+        },
+        {
+          "title": "피트 헤그세스",
           "traffic": "500+",
-          "context": "침묵 깬 박성현, 3R 2언더파 반등…KLPGA 복귀 ‘운명의 최종전’ 남았다"
+          "context": "헤그세스, 자기 꾸짖은 병사에 훈장 수여… \"잘했다, 상병\""
         },
         {
-          "title": "위례신도시",
-          "traffic": "100+",
-          "context": "검찰미래위, '위례 사건' 등 결론 또 불발‥\"보고 안 하겠다니 어떻게 하겠나\""
+          "title": "new zealand vs india",
+          "traffic": "500+",
+          "context": "NZ vs IND 2026/27, NZ vs IND 4th ODI Match Preview - NZ look to avoid series defeat with batters set to get a boost"
         },
         {
-          "title": "정성호",
+          "title": "김창평",
+          "traffic": "1000+",
+          "context": "SSG, 베테랑 포수 김민식과 결별…선수단 추가 정비"
+        },
+        {
+          "title": "최혜진",
           "traffic": "200+",
-          "context": "정성호 \"보완수사권 폐지, 급했다…피해자 보호장치 더 넣어야\""
+          "context": "최혜진, LPGA 투어 디안니카 1R 9언더파 선두…첫 우승 재도전"
         },
         {
-          "title": "thời tiết",
+          "title": "오스탈",
+          "traffic": "100+",
+          "context": "한화 '오스탈USA' 인수 급물살…\"협상 실질적 진전\""
+        },
+        {
+          "title": "종합격투기",
+          "traffic": "100+",
+          "context": "[공식발표] \"가까스로 목숨 건졌지만...\" 日 격투기 충격 사고, 뒤통수부터 떨어져 의식 불명 \"두 차례 수술에도 위중한 상태\""
+        },
+        {
+          "title": "도지코인",
+          "traffic": "200+",
+          "context": "도지코인 밈코인 꼬리표 뗀다…디파이·예측시장 영토 확장"
+        },
+        {
+          "title": "스마트 글래스",
           "traffic": "2000+",
-          "context": "Bắc Bộ mưa dông diện rộng, Nam Bộ có mưa rải rác"
-        },
-        {
-          "title": "dl이앤씨",
-          "traffic": "100+",
-          "context": "GTX-A, ITA 어워즈 대형 프로젝트 부문 금상…국내 첫 수상"
-        },
-        {
-          "title": "italia vs prancis",
-          "traffic": "100+",
-          "context": "Line Up Italia vs Prancis: Adu Kuat Trio Muda Potensial Gli Azzurri Lawan Kelas Dunia Milik Les Bleus"
-        },
-        {
-          "title": "nations league",
-          "traffic": "200+",
-          "context": "England 2-1 Croatia: Record-breaker Kane scores winner as Three Lions qualify for Nations League quarters"
-        },
-        {
-          "title": "박지현",
-          "traffic": "100+",
-          "context": "박지현, 돈 많이 벌어도 여전히 ‘모텔 사랑’... 침대서 벌떡 “가만히 있으면 안 바뀌어”"
-        },
-        {
-          "title": "england vs croatia",
-          "traffic": "200+",
-          "context": "England 2-1 Croatia: Nations League – live"
+          "context": "삼성전자, 구글·젠틀몬스터·워비파커와 협업한 인텔리전트 아이웨어 전격 공개 - 삼성전자 뉴스룸"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-12T22:56:55.010Z",
+      "fetched": "2026-11-13T03:57:36.944Z",
       "items": [
         {
           "title": "NEON",
           "artist": "A2O & A2O LITE"
         },
         {
-          "title": "체포하겠어",
-          "artist": "아일릿"
-        },
-        {
           "title": "With",
           "artist": "리센느"
+        },
+        {
+          "title": "체포하겠어",
+          "artist": "아일릿"
         },
         {
           "title": "백화요란 (Inside Out)",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-12T22:56:55.010Z",
+      "fetched": "2026-11-13T03:57:36.944Z",
       "items": [
         {
           "title": "문화방송",
