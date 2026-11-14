@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-14T12:40:11.025Z",
+  "updated": "2026-11-14T21:46:48.080Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-14T12:40:11.025Z",
+      "fetched": "2026-11-14T21:46:48.080Z",
       "items": [
         {
-          "title": "문무",
-          "traffic": "1000+",
-          "context": "[#문무] KBS 2TV 대하드라마 문무 제작발표회 | KBS 방송 [문무] | KBS 방송"
+          "title": "김하성",
+          "traffic": "500+",
+          "context": "\"2000만 달러 받고 타율 .116 충격\" 김하성, 몸값 폭락이 오히려 기회? 美 매체 \"최고의 알짜 영입 될 수도\""
         },
         {
-          "title": "아이오아이",
+          "title": "미라 안드레예바",
           "traffic": "200+",
-          "context": "[ET포토] 라이즈, '여심 헌터들'"
+          "context": "무려 '735억' 잭팟→\"돈 더 달라\"→'파격 시스루 논란' 세계 1위 허무한 굴욕... '또' 분노 조절 실패 '도대체 왜' - 머니투데이"
         },
         {
-          "title": "군산 불꽃 축제",
+          "title": "아버지",
           "traffic": "100+",
-          "context": "\"철새도래지서 폭죽이라니\"…군산 불꽃축제에 환경단체 반발"
+          "context": "치매 부모가 생전에 물려준 재산…되돌릴 수 있을까 - 머니투데이"
         },
         {
-          "title": "박근혜",
-          "traffic": "200+",
-          "context": "AI영상으로 되살아난 박정희…구미서 탄신 109돌 문화행사"
+          "title": "portugal vs denmark",
+          "traffic": "500+",
+          "context": "Portugal vs Denmark Confirmed Lineups"
         },
         {
-          "title": "미미미누",
+          "title": "이세계아이돌",
           "traffic": "200+",
-          "context": "'놀라운 토요일' 규현·궤도·미미미누 출격… 이과 vs 문과 자존심 건 암기력 대결"
+          "context": "이세계아이돌, 지상파 '음악중심' 출격…실제 몸 없는 6인조 걸그룹, 멜론 7위 이어 무대까지"
         },
         {
-          "title": "김휘집",
+          "title": "빈",
           "traffic": "200+",
-          "context": "'악!' 오른손 맞은 한동희, 결국 경기 빠졌다…\"뼈에는 이상 無, 송구 불편해 보호 차원 교체\" [오!쎈 도쿄]"
+          "context": "이준석 “내가 노무현 대통령 추천서 어떻게 받나”…전한길 추가 고소 예고"
         },
         {
-          "title": "jepang vs brasil",
-          "traffic": "200+",
-          "context": "Brasil Hadapi 2 Laga yang Tak Mudah di Singapura"
+          "title": "포르투갈 대 덴마크",
+          "traffic": "2000+",
+          "context": "네이션스 리그 포르투갈 대 덴마크 경기 예측"
         },
         {
-          "title": "오은영",
+          "title": "lol",
           "traffic": "200+",
-          "context": "오은영, 헤어스타일 바꿨다... \"10년 어려보여 소녀 같아\""
+          "context": "LoL Esports 2027 and Beyond"
         },
         {
-          "title": "홍라희",
-          "traffic": "200+",
-          "context": "홍라희에 '삼전 1115만주' 받은 이재용…증여세는 얼마?"
+          "title": "아프리카",
+          "traffic": "500+",
+          "context": "매출 1년 새 15배 성장… 스킨서울랩, 정주영 창업경진대회 글로벌 부문 최우수상"
         },
         {
-          "title": "강의",
+          "title": "twitch",
           "traffic": "200+",
-          "context": "\"아파서 수능 강의 쉰다\"더니…넷플 예능 간 강사의 결말"
+          "context": "Free copies of Grand Theft Auto VI for Californians? What to know about Kick sweepstakes"
         }
       ]
     },
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-14T12:40:11.025Z",
+      "fetched": "2026-11-14T21:46:48.080Z",
       "items": [
         {
           "title": "젠슨 황",
