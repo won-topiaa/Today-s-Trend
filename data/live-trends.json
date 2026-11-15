@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-15T03:39:53.658Z",
+  "updated": "2026-11-15T13:06:14.979Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-15T03:39:53.658Z",
+      "fetched": "2026-11-15T13:06:14.979Z",
       "items": [
         {
-          "title": "김지찬",
-          "traffic": "200+",
-          "context": "한일전 12연속 무승, 삼성 김지찬 우승 기운 전파하겠다!"
-        },
-        {
-          "title": "ufc 중계",
-          "traffic": "500+",
-          "context": "'첫 헤비급 방어전' 시릴 간, 호킷과 맞대결 \"마음가짐 늘 똑같아... 반드시 승리할 것\" - 머니투데이"
-        },
-        {
-          "title": "jamaica vs mexico",
-          "traffic": "100+",
-          "context": "¿Te acuerdas de la última vez que México perdió contra Jamaica?"
-        },
-        {
-          "title": "박지현",
-          "traffic": "200+",
-          "context": "나 혼자 산다"
-        },
-        {
-          "title": "india vs new zealand",
-          "traffic": "1000+",
-          "context": "Streak broken, New Zealand hope to prevent rare overseas ODI series win for India"
-        },
-        {
-          "title": "비트코인 시세",
-          "traffic": "100+",
-          "context": "비트코인 6만7033달러·8956만원, 하이퍼리퀴드 거래자 순롱 전환"
-        },
-        {
-          "title": "투자",
-          "traffic": "5000+",
-          "context": "美연준, AI발 금융위험 경고…자산가치 고평가·부채급증 우려"
-        },
-        {
-          "title": "골프",
-          "traffic": "5000+",
-          "context": "유메노 마사다, 이토엔 레이디스 2라운드 6번 홀 티샷"
-        },
-        {
-          "title": "임예진",
-          "traffic": "500+",
-          "context": "15년 전 5천만원 주고 산 제주땅이 고작 82만원…충격 받은 임예진, 무슨 사연"
-        },
-        {
-          "title": "항공모함",
+          "title": "샤인머스캣",
           "traffic": "2000+",
-          "context": "한국 해군, F-35B 항모 접고 무인기 20대 탑재 270m 대형 모함 택했다"
+          "context": "샤인머스캣 인기 시들하더니…새로 등장한 '귀족 과일'"
+        },
+        {
+          "title": "김유재",
+          "traffic": "100+",
+          "context": "피겨 김유재, 시니어 GP 4차 대회 쇼트 3위…트리플 악셀 성공"
+        },
+        {
+          "title": "화물기",
+          "traffic": "200+",
+          "context": "테러 아니었네…역대급 美 항공대란, 이것 교체하다 터졌다"
+        },
+        {
+          "title": "백신",
+          "traffic": "500+",
+          "context": "생후 6개월 영아에 하루 지난 백신 투여한 의사…대법 “면허정지는 과도해”"
+        },
+        {
+          "title": "문정빈",
+          "traffic": "200+",
+          "context": "잠실구장 2032년엔 꼭 만나자…백발 노장과 전설들, 빗속의 작별"
+        },
+        {
+          "title": "한국 일본 야구",
+          "traffic": "1000+",
+          "context": "김건우 vs 다카하시, APBC 결승 선발…김도영은 설욕 나선다"
+        },
+        {
+          "title": "김주원",
+          "traffic": "100+",
+          "context": "[사진]'맞을만 했다' 자책하는 김건우"
+        },
+        {
+          "title": "전국노래자랑",
+          "traffic": "1000+",
+          "context": "'전국노래자랑' 영광에 박서진·박군·김혜연 초대가수 총출동"
+        },
+        {
+          "title": "sk하이닉스 채용",
+          "traffic": "100+",
+          "context": "SK하이닉스, '파격적 성과급' 기대감 속 하반기 생산직 채용"
+        },
+        {
+          "title": "임창정",
+          "traffic": "500+",
+          "context": "'열린음악회' 초호화 라인업… 임창정·장기하·김나영·TWS(투어스)·잭킹콩 총출동"
         }
       ]
     },
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-15T03:39:53.658Z",
+      "fetched": "2026-11-15T13:06:14.979Z",
       "items": [
         {
-          "title": "젠슨 황",
-          "views": 15209
+          "title": "문화방송",
+          "views": 13194
         },
         {
-          "title": "문화방송",
-          "views": 12737
+          "title": "문무왕",
+          "views": 10579
         },
         {
           "title": "한국방송공사",
-          "views": 9385
-        },
-        {
-          "title": "한국교육방송공사",
-          "views": 6284
-        },
-        {
-          "title": "이혜훈",
-          "views": 3743
-        },
-        {
-          "title": "엔비디아",
-          "views": 3315
-        },
-        {
-          "title": "최민희 (1960년)",
-          "views": 2429
-        },
-        {
-          "title": "아시아 프로야구 챔피언십",
-          "views": 2393
-        },
-        {
-          "title": "연합뉴스",
-          "views": 2066
+          "views": 9288
         },
         {
           "title": "이진희 (배우)",
-          "views": 2003
+          "views": 7318
+        },
+        {
+          "title": "한국교육방송공사",
+          "views": 7252
+        },
+        {
+          "title": "엑스러브",
+          "views": 6946
+        },
+        {
+          "title": "태종무열왕",
+          "views": 5925
+        },
+        {
+          "title": "문무",
+          "views": 4884
+        },
+        {
+          "title": "젠슨 황",
+          "views": 4848
+        },
+        {
+          "title": "장한별",
+          "views": 4656
         }
       ]
     }
