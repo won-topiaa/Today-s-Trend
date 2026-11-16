@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-15T22:14:55.816Z",
+  "updated": "2026-11-16T14:13:16.178Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-15T22:14:55.816Z",
+      "fetched": "2026-11-16T14:13:16.178Z",
       "items": [
         {
-          "title": "김정은",
-          "traffic": "200+",
-          "context": "미 국무, 김정은 거론하며 \"정권 생존 원할 뿐 팽창주의자 아냐\""
-        },
-        {
-          "title": "tây ban nha đấu với anh",
-          "traffic": "200+",
-          "context": "Trực tiếp bóng đá Tây Ban Nha - Anh: Bàn thứ 3 rực rỡ (Nations League)"
-        },
-        {
-          "title": "운세",
-          "traffic": "2000+",
-          "context": "오늘의 운세 - 2026년 11월 16일 월요일(음력 10월 8일)"
-        },
-        {
-          "title": "nations league",
-          "traffic": "200+",
-          "context": "Spain vs England LIVE: Nations League score, commentary, updates & stats"
-        },
-        {
-          "title": "박철순",
-          "traffic": "200+",
-          "context": "“굿바이! 잠실야구장” 프로야구 전설들 작별인사"
-        },
-        {
-          "title": "패딩",
-          "traffic": "5000+",
-          "context": "한때 '등골 브레이커'였는데…5만원도 안 되는 패딩에 '열광' [장서우의 하입:hype]"
-        },
-        {
-          "title": "미라 안드레예바",
-          "traffic": "200+",
-          "context": "'러시아어로 욕설 내뱉더니 결국 사과' 세계 2위 사발렌카, 우크라이나 선수 모욕 논란 일파만파...\"상대에게 한 말 아니다\" 해명 - 머니투데이"
-        },
-        {
-          "title": "부산항",
-          "traffic": "200+",
-          "context": "[기고]북극항로의 성공, 부산해양경찰이 준비할 것은"
-        },
-        {
-          "title": "송지효",
+          "title": "코리아 패싱",
           "traffic": "100+",
-          "context": "송지효 '명예 해녀' 변신…'10㎞ 달리기' 관리 비결 눈길"
+          "context": "[이하경 칼럼] 한·미 동맹은 저주가 아니다"
         },
         {
-          "title": "한화에어로스페이스",
+          "title": "성장주",
+          "traffic": "500+",
+          "context": "외국인이 먼저 담았다…차세대 '성장·가치주'는?"
+        },
+        {
+          "title": "cuaca besok",
           "traffic": "200+",
-          "context": "[단독]시동걸자 600마력 엔진 ‘윙’, 시속 100km 바퀴 단 K9 ‘美상륙작전’"
+          "context": "BMKG Ungkap 34 Wilayah Berpotensi Diguyur Hujan Hari Ini"
+        },
+        {
+          "title": "김건희",
+          "traffic": "2000+",
+          "context": "한덕수 구속 만료 하루 앞둔 19일 선고‥김건희도 함께 판결"
+        },
+        {
+          "title": "간호",
+          "traffic": "2000+",
+          "context": "작은 산부인과에서 AI 첨단병원까지, 70년 역사의 병원이 미래 의료를 여는 법"
+        },
+        {
+          "title": "두두",
+          "traffic": "200+",
+          "context": "[오피셜] '두두' 이동주, DN 수퍼스와 28년까지 동행… \"보답하고 싶다\""
+        },
+        {
+          "title": "인사청문회",
+          "traffic": "200+",
+          "context": "이 대통령, 법무장관·국세청장 후보자 인사청문요청안 재가"
+        },
+        {
+          "title": "보안",
+          "traffic": "1000+",
+          "context": "금보원, 해킹 공격 246개 IP 주소 차단 완료... ‘유동 IP 접속 허용’ 원인 지목"
+        },
+        {
+          "title": "나솔",
+          "traffic": "500+",
+          "context": "'나솔' 31기 옥순 \"'취집' 오해 억울\"…영호와 재결합설 일축 - 머니투데이"
+        },
+        {
+          "title": "구글플레이",
+          "traffic": "100+",
+          "context": "지스타 2026, 제2전시장에 글로벌·인디 쇼케이스... 150대 시연대 운영"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-15T22:14:55.816Z",
+      "fetched": "2026-11-16T14:13:16.178Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-15T22:14:55.816Z",
+      "fetched": "2026-11-16T14:13:16.178Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 13194
-        },
-        {
-          "title": "문무왕",
-          "views": 10579
-        },
-        {
-          "title": "한국방송공사",
-          "views": 9288
-        },
-        {
-          "title": "이진희 (배우)",
-          "views": 7318
-        },
-        {
-          "title": "한국교육방송공사",
-          "views": 7252
-        },
-        {
-          "title": "엑스러브",
-          "views": 6946
+          "views": 14514
         },
         {
           "title": "태종무열왕",
-          "views": 5925
+          "views": 14076
+        },
+        {
+          "title": "문무왕",
+          "views": 9269
+        },
+        {
+          "title": "한국방송공사",
+          "views": 8981
+        },
+        {
+          "title": "영류왕",
+          "views": 8085
+        },
+        {
+          "title": "한국교육방송공사",
+          "views": 7094
+        },
+        {
+          "title": "이진희 (배우)",
+          "views": 6331
+        },
+        {
+          "title": "진형구",
+          "views": 6238
+        },
+        {
+          "title": "연개소문",
+          "views": 5872
         },
         {
           "title": "문무",
-          "views": 4884
-        },
-        {
-          "title": "젠슨 황",
-          "views": 4848
-        },
-        {
-          "title": "장한별",
-          "views": 4656
+          "views": 5060
         }
       ]
     }
