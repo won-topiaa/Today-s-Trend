@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-18T00:09:11.241Z",
+  "updated": "2026-11-18T14:44:30.107Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-18T00:09:11.241Z",
+      "fetched": "2026-11-18T14:44:30.107Z",
       "items": [
         {
-          "title": "우루과이 대 도미니카 공화국",
+          "title": "김소희",
+          "traffic": "200+",
+          "context": "[전문] 김소희 루머 가해자 징역형 “타인 삶 짓밟는 행위, 책임 뒤따라”"
+        },
+        {
+          "title": "김명민",
           "traffic": "500+",
-          "context": "우루과이 대 도미니카 공화국 경기 예측: 다득점 경기가 예상됩니다."
+          "context": "배우 김명민, 데뷔 첫 예능 출연 \"유퀴즈 관계자 여러분 감사\" 수상 소감 같은 인사('유퀴즈')"
         },
         {
-          "title": "앤트로픽 상장",
-          "traffic": "1000+",
-          "context": "\"앤트로픽 매출 2026년 71조원→2030년 676조원 예상\""
+          "title": "마린 르펜",
+          "traffic": "5000+",
+          "context": "나라 곳간 빨간불인데…\"60세부터 연금 수령\" 파격 승부수"
         },
         {
-          "title": "상속",
-          "traffic": "2000+",
-          "context": "10억원에 판 어머니 집, 취득가액은 세무서가 매긴 2억원일까[판례방]"
-        },
-        {
-          "title": "북한산",
-          "traffic": "2000+",
-          "context": "\"지리산 제치고 753만 명이 몰린 이유가 있네\"... 2시간 20분 사찰·기암괴석 능선 트레킹 코스"
-        },
-        {
-          "title": "argentina vs costa rica",
-          "traffic": "1000+",
-          "context": "¡Hace todo para merecer la 10! Golazo de Nico Paz para Argentina vs. Costa Rica"
-        },
-        {
-          "title": "무안군",
-          "traffic": "100+",
-          "context": "울릉군의회, 제297회 제2차 정례회 개회…33일간 의사일정 돌입"
-        },
-        {
-          "title": "schd",
+          "title": "누리호",
           "traffic": "200+",
-          "context": "The Winners Inside SCHD - November 2026"
+          "context": "누리호가 가리키는 7대 시드의 길[기고/배경훈]"
         },
         {
-          "title": "spcx",
-          "traffic": "100+",
-          "context": "Prediction: SpaceX Stock Could Go Parabolic After Anthropic's IPO. Here's Why."
+          "title": "kamil mishara",
+          "traffic": "500+",
+          "context": "Chitwan Rhinos set 205-run target for Kathmandu Gorkhas"
         },
         {
-          "title": "tqqq",
-          "traffic": "100+",
-          "context": "Poloniex launches trading of tokenized Tesla, N..."
-        },
-        {
-          "title": "ionq",
+          "title": "앙투안 그리즈만",
           "traffic": "200+",
-          "context": "Ionq stock hits 52-week low at 24.91 USD"
+          "context": "35세 그리에즈만, MLS 4월 뛰고 신인왕…14골 8도움 폭발"
+        },
+        {
+          "title": "교통 사고",
+          "traffic": "1000+",
+          "context": "김포 선진버스, ‘교통사고 50% 줄이기’ 과제 조기 달성"
+        },
+        {
+          "title": "시계",
+          "traffic": "200+",
+          "context": "전 세계 시계 전문가들이 선정한, 2026 올해의 스포츠 워치"
+        },
+        {
+          "title": "gta6 메타",
+          "traffic": "200+",
+          "context": "[공지사항] The Game Awards 2026 베스트 커뮤니티 서포트 부문 후보 선정 안내 | 붉은사막"
+        },
+        {
+          "title": "cuaca besok",
+          "traffic": "500+",
+          "context": "Enam Daerah di Sulsel Berstatus Awas Bencana, BPBD Beri Atensi Khusus"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-18T00:09:11.241Z",
+      "fetched": "2026-11-18T14:44:30.107Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -96,59 +96,59 @@
           "artist": "아이브"
         },
         {
-          "title": "LOVE ATTACK",
-          "artist": "리센느"
-        },
-        {
           "title": "REDRED",
           "artist": "코르티스"
+        },
+        {
+          "title": "LOVE ATTACK",
+          "artist": "리센느"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-18T00:09:11.241Z",
+      "fetched": "2026-11-18T14:44:30.107Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 13423
+          "views": 17026
         },
         {
           "title": "한국방송공사",
-          "views": 8551
-        },
-        {
-          "title": "김주혁",
-          "views": 7436
-        },
-        {
-          "title": "태종무열왕",
-          "views": 6680
+          "views": 10119
         },
         {
           "title": "한국교육방송공사",
-          "views": 5581
+          "views": 5141
         },
         {
-          "title": "김태연 (배우)",
-          "views": 5558
+          "title": "태종무열왕",
+          "views": 4670
         },
         {
-          "title": "문무왕",
-          "views": 4334
-        },
-        {
-          "title": "2005학년도 대학수학능력시험 부정행위 사건",
-          "views": 4279
+          "title": "김주혁",
+          "views": 3990
         },
         {
           "title": "연개소문",
-          "views": 4120
+          "views": 3350
         },
         {
-          "title": "영류왕",
-          "views": 3417
+          "title": "한성숙",
+          "views": 3006
+        },
+        {
+          "title": "문무왕",
+          "views": 2541
+        },
+        {
+          "title": "최교진",
+          "views": 1954
+        },
+        {
+          "title": "문무",
+          "views": 1916
         }
       ]
     }
