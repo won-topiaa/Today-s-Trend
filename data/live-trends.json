@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-18T14:44:30.107Z",
+  "updated": "2026-11-18T23:40:30.816Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-18T14:44:30.107Z",
+      "fetched": "2026-11-18T23:40:30.816Z",
       "items": [
         {
-          "title": "김소희",
-          "traffic": "200+",
-          "context": "[전문] 김소희 루머 가해자 징역형 “타인 삶 짓밟는 행위, 책임 뒤따라”"
+          "title": "weather",
+          "traffic": "2000+",
+          "context": "CNY weather: High temps will continue to climb this week"
         },
         {
-          "title": "김명민",
+          "title": "new zealand vs india",
           "traffic": "500+",
-          "context": "배우 김명민, 데뷔 첫 예능 출연 \"유퀴즈 관계자 여러분 감사\" 수상 소감 같은 인사('유퀴즈')"
+          "context": "In windy Wellington, India begin new era with history and form against them"
         },
         {
-          "title": "마린 르펜",
-          "traffic": "5000+",
-          "context": "나라 곳간 빨간불인데…\"60세부터 연금 수령\" 파격 승부수"
-        },
-        {
-          "title": "누리호",
+          "title": "겨울",
           "traffic": "200+",
-          "context": "누리호가 가리키는 7대 시드의 길[기고/배경훈]"
+          "context": "마포구, 겨울철 종합대책 가동…8천가구에 월동대책비"
         },
         {
-          "title": "kamil mishara",
-          "traffic": "500+",
-          "context": "Chitwan Rhinos set 205-run target for Kathmandu Gorkhas"
-        },
-        {
-          "title": "앙투안 그리즈만",
+          "title": "ionq",
           "traffic": "200+",
-          "context": "35세 그리에즈만, MLS 4월 뛰고 신인왕…14골 8도움 폭발"
+          "context": "Ionq stock hits 52-week low at 24.91 USD"
         },
         {
-          "title": "교통 사고",
-          "traffic": "1000+",
-          "context": "김포 선진버스, ‘교통사고 50% 줄이기’ 과제 조기 달성"
-        },
-        {
-          "title": "시계",
+          "title": "nvda",
           "traffic": "200+",
-          "context": "전 세계 시계 전문가들이 선정한, 2026 올해의 스포츠 워치"
+          "context": "CHART OF THE DAY: Nvidia, $NVDA, Needs To Be Up +26% Today Just To Recapture TRADE Support"
         },
         {
-          "title": "gta6 메타",
+          "title": "kb금융그룹",
+          "traffic": "100+",
+          "context": "KB금융 '생산적 금융' 김성현·AX 이창권 부문장 사의…거버넌스 재편"
+        },
+        {
+          "title": "미역국",
+          "traffic": "2000+",
+          "context": "수능 날 미역국 먹어도 된다면서…고3 딸 둔 의사가 말리는 이유 [29면]"
+        },
+        {
+          "title": "다우 존스 산업평균지수",
           "traffic": "200+",
-          "context": "[공지사항] The Game Awards 2026 베스트 커뮤니티 서포트 부문 후보 선정 안내 | 붉은사막"
+          "context": "엔비디아 실적보다 AI 투자 부담…힘 못 쓰는 뉴욕증시 [월가 업&다운]"
         },
         {
-          "title": "cuaca besok",
-          "traffic": "500+",
-          "context": "Enam Daerah di Sulsel Berstatus Awas Bencana, BPBD Beri Atensi Khusus"
+          "title": "lg그룹",
+          "traffic": "200+",
+          "context": "안정 택한 LG, 주요 CEO 대거 유임 전망"
+        },
+        {
+          "title": "새마을금고",
+          "traffic": "200+",
+          "context": "양주시, 지방보조금 전용 계좌 운영 업무 협약 체결"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-18T14:44:30.107Z",
+      "fetched": "2026-11-18T23:40:30.816Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-18T14:44:30.107Z",
+      "fetched": "2026-11-18T23:40:30.816Z",
       "items": [
         {
           "title": "문화방송",
