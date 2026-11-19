@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-19T04:54:59.012Z",
+  "updated": "2026-11-19T14:51:58.470Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-19T04:54:59.012Z",
+      "fetched": "2026-11-19T14:51:58.470Z",
       "items": [
         {
-          "title": "박찬종",
+          "title": "ant",
+          "traffic": "200+",
+          "context": "Nasdaq jumps nearly 2% as Anthropic indicated to surge in debut: Live updates"
+        },
+        {
+          "title": "lg화학",
+          "traffic": "500+",
+          "context": "LG그룹, AI 인프라·R&D 인재 임원 발탁"
+        },
+        {
+          "title": "변상일",
+          "traffic": "200+",
+          "context": "변상일, 삼성화재배 결승 2국 리친청에 불계승…승부 원점"
+        },
+        {
+          "title": "금오산",
+          "traffic": "200+",
+          "context": "구름에 달 가듯이… 전국 곳곳 ‘공중 산책로’ 뜬다"
+        },
+        {
+          "title": "하나로마트",
+          "traffic": "200+",
+          "context": "영주시, 부산 소비시장 진출로 농특산물 판로 확대"
+        },
+        {
+          "title": "김민지",
           "traffic": "1000+",
-          "context": "박찬종 전 의원 별세…34년 전 약속대로 주검 기증"
-        },
-        {
-          "title": "김민석",
-          "traffic": "200+",
-          "context": "'내란 중요임무' 한덕수 오늘 선고…'계엄=내란' 첫 대법 판단"
-        },
-        {
-          "title": "전국삼성전자노동조합",
-          "traffic": "200+",
-          "context": "삼성전자 제7노조 '광주노동조합' 공식 출범…교섭 참여 추진"
-        },
-        {
-          "title": "군산시의회",
-          "traffic": "200+",
-          "context": "군산시의회, 고독사 위험군 연중 관리 주문…사례관리 예산 배분도 지적"
-        },
-        {
-          "title": "크리스 페덱",
-          "traffic": "2000+",
-          "context": "샴페인 마르기도 전에 찾아온 'FA 3중고'… 왕조 재건 노리는 삼성, 외부 FA는 신경쓸 틈 조차 없다"
-        },
-        {
-          "title": "하남시",
-          "traffic": "1000+",
-          "context": "[수능] 신분증 놓고 온 수험생 제주경찰 8㎞ 달려 전달"
-        },
-        {
-          "title": "주식시장",
-          "traffic": "2000+",
-          "context": "수능일 증시 오전 10시 개장…정규장 4시반까지"
-        },
-        {
-          "title": "양민혁",
-          "traffic": "5000+",
-          "context": "손흥민 \"내 자리 그냥 물려줄 생각 없어\" 예언이었나...'벨기에에서도 벤치' 양민혁, 초대형 경쟁자 호평 등장 \"올 시즌 도약 가능성 크다\""
-        },
-        {
-          "title": "신용회복위원회",
-          "traffic": "200+",
           "context": null
         },
         {
-          "title": "남태현",
-          "traffic": "2000+",
-          "context": "'음주 상태로 시속 182㎞' 남태현, 2심서 법정구속"
+          "title": "thời tiết ngày mai",
+          "traffic": "5000+",
+          "context": "Mở lối kết nối đại ngàn"
+        },
+        {
+          "title": "cuaca besok",
+          "traffic": "500+",
+          "context": "BMKG Ungkap 37 Daerah di Indonesia Berpotensi Hujan Hari Ini"
+        },
+        {
+          "title": "정부24",
+          "traffic": "1000+",
+          "context": "보건소 직접 안 가도 된다…질병 관련 서류 '온라인'으로"
+        },
+        {
+          "title": "야구 경기장",
+          "traffic": "200+",
+          "context": "\"프로야구 못하는데 관람석 8천석\"…전주시 신축 야구장 '도마'"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-19T04:54:59.012Z",
+      "fetched": "2026-11-19T14:51:58.470Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-19T04:54:59.012Z",
+      "fetched": "2026-11-19T14:51:58.470Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 17026
+          "views": 19140
         },
         {
           "title": "한국방송공사",
-          "views": 10119
-        },
-        {
-          "title": "한국교육방송공사",
-          "views": 5141
+          "views": 10745
         },
         {
           "title": "태종무열왕",
-          "views": 4670
+          "views": 4712
         },
         {
-          "title": "김주혁",
-          "views": 3990
-        },
-        {
-          "title": "연개소문",
-          "views": 3350
-        },
-        {
-          "title": "한성숙",
-          "views": 3006
+          "title": "한국교육방송공사",
+          "views": 4414
         },
         {
           "title": "문무왕",
-          "views": 2541
+          "views": 2942
         },
         {
-          "title": "최교진",
-          "views": 1954
+          "title": "김종철 (경찰공무원)",
+          "views": 2524
+        },
+        {
+          "title": "김주혁",
+          "views": 2141
+        },
+        {
+          "title": "한한령",
+          "views": 2082
+        },
+        {
+          "title": "연개소문",
+          "views": 2040
         },
         {
           "title": "문무",
-          "views": 1916
+          "views": 1855
         }
       ]
     }
