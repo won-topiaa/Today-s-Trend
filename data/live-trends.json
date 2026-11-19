@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-18T23:40:30.816Z",
+  "updated": "2026-11-19T04:54:59.012Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-18T23:40:30.816Z",
+      "fetched": "2026-11-19T04:54:59.012Z",
       "items": [
         {
-          "title": "weather",
+          "title": "박찬종",
+          "traffic": "1000+",
+          "context": "박찬종 전 의원 별세…34년 전 약속대로 주검 기증"
+        },
+        {
+          "title": "김민석",
+          "traffic": "200+",
+          "context": "'내란 중요임무' 한덕수 오늘 선고…'계엄=내란' 첫 대법 판단"
+        },
+        {
+          "title": "전국삼성전자노동조합",
+          "traffic": "200+",
+          "context": "삼성전자 제7노조 '광주노동조합' 공식 출범…교섭 참여 추진"
+        },
+        {
+          "title": "군산시의회",
+          "traffic": "200+",
+          "context": "군산시의회, 고독사 위험군 연중 관리 주문…사례관리 예산 배분도 지적"
+        },
+        {
+          "title": "크리스 페덱",
           "traffic": "2000+",
-          "context": "CNY weather: High temps will continue to climb this week"
+          "context": "샴페인 마르기도 전에 찾아온 'FA 3중고'… 왕조 재건 노리는 삼성, 외부 FA는 신경쓸 틈 조차 없다"
         },
         {
-          "title": "new zealand vs india",
-          "traffic": "500+",
-          "context": "In windy Wellington, India begin new era with history and form against them"
+          "title": "하남시",
+          "traffic": "1000+",
+          "context": "[수능] 신분증 놓고 온 수험생 제주경찰 8㎞ 달려 전달"
         },
         {
-          "title": "겨울",
-          "traffic": "200+",
-          "context": "마포구, 겨울철 종합대책 가동…8천가구에 월동대책비"
-        },
-        {
-          "title": "ionq",
-          "traffic": "200+",
-          "context": "Ionq stock hits 52-week low at 24.91 USD"
-        },
-        {
-          "title": "nvda",
-          "traffic": "200+",
-          "context": "CHART OF THE DAY: Nvidia, $NVDA, Needs To Be Up +26% Today Just To Recapture TRADE Support"
-        },
-        {
-          "title": "kb금융그룹",
-          "traffic": "100+",
-          "context": "KB금융 '생산적 금융' 김성현·AX 이창권 부문장 사의…거버넌스 재편"
-        },
-        {
-          "title": "미역국",
+          "title": "주식시장",
           "traffic": "2000+",
-          "context": "수능 날 미역국 먹어도 된다면서…고3 딸 둔 의사가 말리는 이유 [29면]"
+          "context": "수능일 증시 오전 10시 개장…정규장 4시반까지"
         },
         {
-          "title": "다우 존스 산업평균지수",
-          "traffic": "200+",
-          "context": "엔비디아 실적보다 AI 투자 부담…힘 못 쓰는 뉴욕증시 [월가 업&다운]"
+          "title": "양민혁",
+          "traffic": "5000+",
+          "context": "손흥민 \"내 자리 그냥 물려줄 생각 없어\" 예언이었나...'벨기에에서도 벤치' 양민혁, 초대형 경쟁자 호평 등장 \"올 시즌 도약 가능성 크다\""
         },
         {
-          "title": "lg그룹",
+          "title": "신용회복위원회",
           "traffic": "200+",
-          "context": "안정 택한 LG, 주요 CEO 대거 유임 전망"
+          "context": null
         },
         {
-          "title": "새마을금고",
-          "traffic": "200+",
-          "context": "양주시, 지방보조금 전용 계좌 운영 업무 협약 체결"
+          "title": "남태현",
+          "traffic": "2000+",
+          "context": "'음주 상태로 시속 182㎞' 남태현, 2심서 법정구속"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-18T23:40:30.816Z",
+      "fetched": "2026-11-19T04:54:59.012Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-18T23:40:30.816Z",
+      "fetched": "2026-11-19T04:54:59.012Z",
       "items": [
         {
           "title": "문화방송",
