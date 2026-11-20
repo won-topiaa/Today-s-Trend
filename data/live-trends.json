@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-20T05:58:15.070Z",
+  "updated": "2026-11-20T14:52:47.387Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-20T05:58:15.070Z",
+      "fetched": "2026-11-20T14:52:47.387Z",
       "items": [
         {
-          "title": "빅뱅",
-          "traffic": "200+",
-          "context": "빅뱅 출신 승리, 만삭 아내와 동반 입국 포착…양손에 캐리어·명품백 직접 챙겨"
+          "title": "엔비디아",
+          "traffic": "2000+",
+          "context": "FT “TSMC, 中 첨단 칩 출하 중단 통보”…美 '우회 수출 원천 봉쇄' 여파"
         },
         {
-          "title": "빅뱅 신곡",
-          "traffic": "200+",
-          "context": "20주년 빅뱅, 오늘 신곡 깜짝 발표…제목도 비밀, 기습 발매"
-        },
-        {
-          "title": "대상 공원 빅 트리",
+          "title": "india a cricket team vs nepal national cricket team match scorecard",
           "traffic": "100+",
-          "context": "창원시, 흉물 논란 ‘빅트리’ 개선 추진…55억 투입"
+          "context": "IND-A skipper Tilak Varma hammers his 7th List A hundred"
         },
         {
-          "title": "하마",
-          "traffic": "200+",
-          "context": "세컨드레이디까지 추모 동참... 美 ‘국민 하마’ 피오나의 마지막 길"
-        },
-        {
-          "title": "안개",
-          "traffic": "200+",
-          "context": "안개 폭포 쏟아지는 아침…‘올해의 기상 사진’ 1위"
-        },
-        {
-          "title": "한화이글스",
-          "traffic": "200+",
-          "context": "초대박! 'WS 준우승팀 우완' 숄텐스, 전격 방출! 美 \"한화행 임박\"→탬파도 \"KBO 도전한다\" - 머니투데이"
-        },
-        {
-          "title": "발전",
-          "traffic": "100+",
-          "context": "서부발전, 재생에너지 전문가 20명 위촉…사업 개발 자문 확대"
-        },
-        {
-          "title": "웨이모",
-          "traffic": "200+",
-          "context": "“리콜 뒤 또 공사 차로 진입”…미 캘리포니아주, 웨이모 로보택시 고속도로 주행 일시 중단"
-        },
-        {
-          "title": "인공지능",
+          "title": "펍지",
           "traffic": "500+",
-          "context": "조민경 시의원, \"글로벌 AI 허브, 송도가 최적지\"…유치 촉구 결의안 발의"
+          "context": "PUBG x IVE 콜라보레이션 아이템 모델링 개선 안내 - 뉴스 - PUBG: 배틀그라운드"
         },
         {
-          "title": "대기업",
+          "title": "컴포즈",
+          "traffic": "2000+",
+          "context": "“부모님이라 생각하니 속상”…키오스크 앞 노인에게 무슨 일? [잇슈#태그]"
+        },
+        {
+          "title": "류효영",
           "traffic": "200+",
-          "context": "작년 대기업 본사가 받은 상표권 사용료 역대 ‘최대’···쿠팡, 내부거래 금액 ‘톱5’ 진입"
+          "context": "“오빠한테 관심 있어” 고백한 류효영, 이태성과 첫 키스 장소 방문 (신랑수업2)"
+        },
+        {
+          "title": "김대두",
+          "traffic": "100+",
+          "context": "[꼬꼬무 찐리뷰]\"갓난아기까지 죽였다\" 55일간 17명 살해…'대한민국 최초 연쇄살인마' 김대두의 소름 돋는 전말"
+        },
+        {
+          "title": "농구",
+          "traffic": "200+",
+          "context": "1R MVP 이해란 26점 폭발…여자농구 삼성생명, 4연승·단독 선두"
+        },
+        {
+          "title": "비정규직",
+          "traffic": "100+",
+          "context": null
+        },
+        {
+          "title": "대구 fc",
+          "traffic": "100+",
+          "context": "김해FC, 리그 4위 대구 원정서 설기현 감독 부임 첫 승 도전"
+        },
+        {
+          "title": "홍진경",
+          "traffic": "200+",
+          "context": "‘180cm·47kg’ 홍진경, 식단 관리 비법 공개..“과식 줄일 수 있어” (공부왕찐천재)"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-20T05:58:15.070Z",
+      "fetched": "2026-11-20T14:52:47.387Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -92,12 +92,12 @@
           "artist": "리센느"
         },
         {
-          "title": "Looks Can Kill",
-          "artist": "아이브"
-        },
-        {
           "title": "REDRED",
           "artist": "코르티스"
+        },
+        {
+          "title": "Looks Can Kill",
+          "artist": "아이브"
         },
         {
           "title": "LOVE ATTACK",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-20T05:58:15.070Z",
+      "fetched": "2026-11-20T14:52:47.387Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 19140
+          "views": 26201
+        },
+        {
+          "title": "리트 (인터넷)",
+          "views": 19212
         },
         {
           "title": "한국방송공사",
-          "views": 10745
+          "views": 13260
         },
         {
-          "title": "태종무열왕",
-          "views": 4712
+          "title": "오경미",
+          "views": 13153
+        },
+        {
+          "title": "파기환송",
+          "views": 8632
+        },
+        {
+          "title": "앤트로픽",
+          "views": 7859
         },
         {
           "title": "한국교육방송공사",
-          "views": 4414
+          "views": 4278
         },
         {
-          "title": "문무왕",
-          "views": 2942
+          "title": "박찬종",
+          "views": 4219
         },
         {
-          "title": "김종철 (경찰공무원)",
-          "views": 2524
+          "title": "이진우 (배우)",
+          "views": 3238
         },
         {
-          "title": "김주혁",
-          "views": 2141
-        },
-        {
-          "title": "한한령",
-          "views": 2082
-        },
-        {
-          "title": "연개소문",
-          "views": 2040
-        },
-        {
-          "title": "문무",
-          "views": 1855
+          "title": "법학적성시험",
+          "views": 3021
         }
       ]
     }
