@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-22T13:44:33.679Z",
+  "updated": "2026-11-22T22:55:42.618Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-22T13:44:33.679Z",
+      "fetched": "2026-11-22T22:55:42.618Z",
       "items": [
         {
-          "title": "탁재훈",
-          "traffic": "100+",
-          "context": "‘리치 언니’ 이혜영, 미국집 샀다..“폐암 투병? 이제 좀 살 것 같아” (‘미우새’)[순간포착]"
-        },
-        {
-          "title": "barcelona vs villarreal",
-          "traffic": "2000+",
-          "context": "Barcelona - Villarreal hoy, en directo: LaLiga EA Sports en vivo, última hora en el Spotify Camp Nou"
-        },
-        {
-          "title": "明天的天氣",
-          "traffic": "100+",
-          "context": "白天轉晴早晚冷下週二起另一波"
-        },
-        {
-          "title": "바르셀로나 대 비야레알",
-          "traffic": "10000+",
-          "context": "라리가 바르셀로나 대 비야레알 축구 예측"
-        },
-        {
-          "title": "코니아스포르 대 베식타시",
-          "traffic": "1000+",
-          "context": "Konyaspor v Besiktas Odds"
-        },
-        {
-          "title": "영체마을",
+          "title": "콜레트 크레스",
           "traffic": "200+",
-          "context": "[스트레이트 예고] 신이 된 여자 지리산 '영체님'의 실체"
+          "context": "\"젠슨 황 떠난 뒤\"…엔비디아 새 수장 말투가 화제 된 이유 [한명현의 오피스로그]"
         },
         {
-          "title": "내일 날씨",
-          "traffic": "200000+",
-          "context": "월요일 전국에 비·눈…영하권 출근길"
+          "title": "getafe vs atlético",
+          "traffic": "100+",
+          "context": "Yassir Zabiri pide paso y Baena rehace al Atlético"
         },
         {
-          "title": "погода завтра",
+          "title": "날씨",
+          "traffic": "500000+",
+          "context": "[날씨] 월요일 아침 영하권 추위…전국에 비·눈 소식"
+        },
+        {
+          "title": "치매",
           "traffic": "2000+",
+          "context": "Tallulah Willis apologizes for sharing ‘intimate’ photo with dad Bruce: ‘I can do better’"
+        },
+        {
+          "title": "레임덕",
+          "traffic": "200+",
+          "context": "시동 걸린 트럼프 레임덕…공화당發 국방부 고위직 인준 제동"
+        },
+        {
+          "title": "weather",
+          "traffic": "5000+",
+          "context": "Break out the winter coat: Highs only hitting the 30s much of this week"
+        },
+        {
+          "title": "погода",
+          "traffic": "2000+",
+          "context": "Прогноз погоды в Хабаровске и крае на субботу, 21 ноября"
+        },
+        {
+          "title": "天气",
+          "traffic": "1000+",
+          "context": "Charting the Global Economy: GDP Slips in Japan on Weak Consumer"
+        },
+        {
+          "title": "klasemen liverpool vs manchester united f.c.",
+          "traffic": "200+",
           "context": null
         },
         {
-          "title": "thời tiết ngày mai",
-          "traffic": "2000+",
-          "context": "Dự báo thời tiết đêm 22 và ngày 23/11"
-        },
-        {
-          "title": "cuaca besok",
+          "title": "สภาพอากาศ",
           "traffic": "1000+",
-          "context": "Akan Dilanda Hujan Petir Sepekan, Ini Prakiraan Cuaca Depok dan Bogor"
+          "context": "📌อัปเดตข้อมูล ณ วันที่ 22 พ.ย. 69 เวลา 06.00 น. 📌พื้นที่เสี่ยงฝนตกหนัก - หนักมาก ⛈️ ❄️ ไทยตอนบนมีอากาศเย็นในตอนเช้า แต่ภาคเหนือตอนบนยังมีฝนบางแห่ง 🌡️ 24–25 พ.ย. มวลอากาศเย็นระลอกใหม่จากจีนจะแผ่เสริมลงมา ทำให้ไทยตอนบนมีอากาศเย็นลงและมีลมแรง ⛈️ ภาคใต้เริ่ม"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-22T13:44:33.679Z",
+      "fetched": "2026-11-22T22:55:42.618Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -108,7 +108,7 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-22T13:44:33.679Z",
+      "fetched": "2026-11-22T22:55:42.618Z",
       "items": [
         {
           "title": "장미화 (가수)",
