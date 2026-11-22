@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-22T03:55:03.215Z",
+  "updated": "2026-11-22T13:44:33.679Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-22T03:55:03.215Z",
+      "fetched": "2026-11-22T13:44:33.679Z",
       "items": [
         {
-          "title": "휴머노이드",
+          "title": "탁재훈",
+          "traffic": "100+",
+          "context": "‘리치 언니’ 이혜영, 미국집 샀다..“폐암 투병? 이제 좀 살 것 같아” (‘미우새’)[순간포착]"
+        },
+        {
+          "title": "barcelona vs villarreal",
+          "traffic": "2000+",
+          "context": "Barcelona - Villarreal hoy, en directo: LaLiga EA Sports en vivo, última hora en el Spotify Camp Nou"
+        },
+        {
+          "title": "明天的天氣",
+          "traffic": "100+",
+          "context": "白天轉晴早晚冷下週二起另一波"
+        },
+        {
+          "title": "바르셀로나 대 비야레알",
+          "traffic": "10000+",
+          "context": "라리가 바르셀로나 대 비야레알 축구 예측"
+        },
+        {
+          "title": "코니아스포르 대 베식타시",
+          "traffic": "1000+",
+          "context": "Konyaspor v Besiktas Odds"
+        },
+        {
+          "title": "영체마을",
           "traffic": "200+",
-          "context": "中 휴머노이드 로봇 151대 '칼군무'…또 기네스 신기록"
+          "context": "[스트레이트 예고] 신이 된 여자 지리산 '영체님'의 실체"
         },
         {
-          "title": "대한민국 대법원",
-          "traffic": "1000+",
-          "context": "[속보] 민주 \"연내 조희대 탄핵 추진‥한덕수 판결 내용은 사유에 미포함\""
+          "title": "내일 날씨",
+          "traffic": "200000+",
+          "context": "월요일 전국에 비·눈…영하권 출근길"
         },
         {
-          "title": "입장권",
-          "traffic": "1000+",
-          "context": "BTS 부산 공연장서 입장권 팔찌 100개 ‘슬쩍’···“바닥에 떨어진 것 주웠을 뿐” 발뺌한 중국인 집행유예"
-        },
-        {
-          "title": "재산",
+          "title": "погода завтра",
           "traffic": "2000+",
           "context": null
         },
         {
-          "title": "플라이 투 더 스카이",
+          "title": "thời tiết ngày mai",
           "traffic": "2000+",
-          "context": "플라이 투 더 스카이, 오늘(21일) 오랜 공백 깨고 완전체 컴백"
+          "context": "Dự báo thời tiết đêm 22 và ngày 23/11"
         },
         {
-          "title": "이강인",
-          "traffic": "5000+",
-          "context": "이강인, AFC 사상 첫 올해의 국제선수 2년 연속 수상"
-        },
-        {
-          "title": "면세점",
-          "traffic": "200+",
-          "context": "면세점 4사, 3분기 흑자에도 수익성 온도 차… 생존 전략 제각각"
-        },
-        {
-          "title": "lpga",
+          "title": "cuaca besok",
           "traffic": "1000+",
-          "context": "Kim A-lim Maintains Sole Lead After Third Round of LPGA Tour Championship"
-        },
-        {
-          "title": "파주시",
-          "traffic": "200+",
-          "context": "파주시의회 옥승철 의원 5분 자유발언 \"교하동 신청사 건립, 더 이상 미뤄선 안돼\""
-        },
-        {
-          "title": "오현규",
-          "traffic": "1000+",
-          "context": "\"손흥민이 영입 과정에 힘 보탠다\" 오현규, 내년 1월 토트넘 이적→PL 무대 입성하나…베식타시는 '440억' 요구"
+          "context": "Akan Dilanda Hujan Petir Sepekan, Ini Prakiraan Cuaca Depok dan Bogor"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-22T03:55:03.215Z",
+      "fetched": "2026-11-22T13:44:33.679Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-22T03:55:03.215Z",
+      "fetched": "2026-11-22T13:44:33.679Z",
       "items": [
         {
+          "title": "장미화 (가수)",
+          "views": 13280
+        },
+        {
           "title": "문화방송",
-          "views": 14214
+          "views": 13269
         },
         {
           "title": "한국방송공사",
-          "views": 9408
+          "views": 9425
         },
         {
-          "title": "오경미",
-          "views": 7673
-        },
-        {
-          "title": "앤트로픽",
-          "views": 5993
-        },
-        {
-          "title": "한국교육방송공사",
-          "views": 4059
-        },
-        {
-          "title": "갤럭시코퍼레이션",
-          "views": 3559
-        },
-        {
-          "title": "박찬종",
-          "views": 3463
+          "title": "윤항기",
+          "views": 9101
         },
         {
           "title": "태종무열왕",
-          "views": 2951
+          "views": 6869
         },
         {
-          "title": "엑스러브",
-          "views": 2620
+          "title": "문무왕",
+          "views": 5623
         },
         {
-          "title": "한성숙",
-          "views": 2396
+          "title": "한국교육방송공사",
+          "views": 5388
+        },
+        {
+          "title": "나잠 수",
+          "views": 4034
+        },
+        {
+          "title": "임종환",
+          "views": 4018
+        },
+        {
+          "title": "연개소문",
+          "views": 3970
         }
       ]
     }
