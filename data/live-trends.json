@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-21T22:33:12.464Z",
+  "updated": "2026-11-22T03:55:03.215Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-21T22:33:12.464Z",
+      "fetched": "2026-11-22T03:55:03.215Z",
       "items": [
         {
-          "title": "젠슨 황",
-          "traffic": "2000+",
-          "context": "“불륜 아니다” “너의 뇌에 오줌 누겠다”···젠슨 황 퇴출 부른 건 거짓말과 상습 폭언"
+          "title": "휴머노이드",
+          "traffic": "200+",
+          "context": "中 휴머노이드 로봇 151대 '칼군무'…또 기네스 신기록"
         },
         {
-          "title": "kbs",
-          "traffic": "100+",
-          "context": "Heo Gak Reveals 24kg Weight Loss Journey on KBS Show"
-        },
-        {
-          "title": "최미나수",
-          "traffic": "100+",
-          "context": "드레스 입고 덜덜 떤 최미나수…김연경 \"괜찮으세요?\""
-        },
-        {
-          "title": "쇼트트랙",
-          "traffic": "100+",
-          "context": "최민정, 안방서 쇼트트랙 월드투어 여자 1,000ｍ 3연속 우승"
-        },
-        {
-          "title": "지수",
-          "traffic": "500+",
-          "context": "中 톱스타 들러리 만든 '디올 지수'…영하 3도 베이징 녹였다 [K컬처 인사이드]"
-        },
-        {
-          "title": "경제",
-          "traffic": "500+",
-          "context": "中 경제에 ‘장기불황의 그림자’ 짙어졌다"
-        },
-        {
-          "title": "강사",
+          "title": "대한민국 대법원",
           "traffic": "1000+",
-          "context": "AI 의혹 리트 만점자 5줄 유서서 “죽어도 가서 죽으려 했는데…”"
+          "context": "[속보] 민주 \"연내 조희대 탄핵 추진‥한덕수 판결 내용은 사유에 미포함\""
         },
         {
-          "title": "배추",
-          "traffic": "2000+",
-          "context": "새마을운동 남원시지회, 사랑의 김장나누기 봉사활동"
-        },
-        {
-          "title": "송미령",
-          "traffic": "100+",
-          "context": "농식품부 장관, 현장·전문가와 함께 농촌 사회연대경제 활성화를 위한 방안 논의"
-        },
-        {
-          "title": "real madrid vs celta",
+          "title": "입장권",
           "traffic": "1000+",
-          "context": "Pablo Durán adelanta al Celta en el Bernabéu a los seis minutos"
+          "context": "BTS 부산 공연장서 입장권 팔찌 100개 ‘슬쩍’···“바닥에 떨어진 것 주웠을 뿐” 발뺌한 중국인 집행유예"
+        },
+        {
+          "title": "재산",
+          "traffic": "2000+",
+          "context": null
+        },
+        {
+          "title": "플라이 투 더 스카이",
+          "traffic": "2000+",
+          "context": "플라이 투 더 스카이, 오늘(21일) 오랜 공백 깨고 완전체 컴백"
+        },
+        {
+          "title": "이강인",
+          "traffic": "5000+",
+          "context": "이강인, AFC 사상 첫 올해의 국제선수 2년 연속 수상"
+        },
+        {
+          "title": "면세점",
+          "traffic": "200+",
+          "context": "면세점 4사, 3분기 흑자에도 수익성 온도 차… 생존 전략 제각각"
+        },
+        {
+          "title": "lpga",
+          "traffic": "1000+",
+          "context": "Kim A-lim Maintains Sole Lead After Third Round of LPGA Tour Championship"
+        },
+        {
+          "title": "파주시",
+          "traffic": "200+",
+          "context": "파주시의회 옥승철 의원 5분 자유발언 \"교하동 신청사 건립, 더 이상 미뤄선 안돼\""
+        },
+        {
+          "title": "오현규",
+          "traffic": "1000+",
+          "context": "\"손흥민이 영입 과정에 힘 보탠다\" 오현규, 내년 1월 토트넘 이적→PL 무대 입성하나…베식타시는 '440억' 요구"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-21T22:33:12.464Z",
+      "fetched": "2026-11-22T03:55:03.215Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -96,19 +96,19 @@
           "artist": "코르티스"
         },
         {
-          "title": "LOVE ATTACK",
-          "artist": "리센느"
-        },
-        {
           "title": "Angel Bite",
           "artist": "투모로우바이투게더"
+        },
+        {
+          "title": "LOVE ATTACK",
+          "artist": "리센느"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-21T22:33:12.464Z",
+      "fetched": "2026-11-22T03:55:03.215Z",
       "items": [
         {
           "title": "문화방송",
