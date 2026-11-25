@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-25T01:43:17.567Z",
+  "updated": "2026-11-25T16:23:28.392Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-25T01:43:17.567Z",
+      "fetched": "2026-11-25T16:23:28.392Z",
       "items": [
         {
-          "title": "atp 월드 투어",
+          "title": "qqq",
           "traffic": "200+",
-          "context": "Jodar: From 'watching Alcaraz on TV' to becoming teammates & rivals"
+          "context": "QQQ traded across nearly $5. Why was Balance of Power near zero? for NASDAQ:QQQ by Investrade"
         },
         {
-          "title": "국민카드",
+          "title": "성시경",
           "traffic": "200+",
-          "context": "[게시판] 신한카드, 아디다스 첫 글로벌 제휴카드 출시"
+          "context": "‘40돌’ KBS 연예대상, 신동엽·성시경·나연 MC 발탁"
         },
         {
-          "title": "국민은행",
-          "traffic": "500+",
-          "context": "KB국민은행 \"서울시 11개 구금고 유치…점유율 1위\""
+          "title": "시그널",
+          "traffic": "1000+",
+          "context": "김은희 작가의 '시그널2', 조진웅 복귀 무대 되나"
         },
         {
-          "title": "부산은행",
+          "title": "성유리",
+          "traffic": "1000+",
+          "context": "성유리, 중학교 성적표 공개…전 과목 '수' 받은 모범생"
+        },
+        {
+          "title": "공포지수",
           "traffic": "100+",
-          "context": "부산은행, 25일 '부산 중진공 정책자금 전용통장' 출시"
+          "context": null
         },
         {
-          "title": "병무청",
-          "traffic": "500+",
-          "context": "병무청-군인공제회C&C, 병역의무자 전자도서관 자료 1.1억 기부 약정"
-        },
-        {
-          "title": "이한범",
+          "title": "공포탐욕지수",
           "traffic": "200+",
-          "context": "‘대한민국 국가대표’ 이한범, 초대형 시련 찾아왔다…최근 6경기 단 7분 출전→21세 유망주에게 주전 자리 빼앗겼다"
+          "context": "업비트 종합지수 전주 대비 6.04% 하락…\"새 상장종목 대응전략 공유 활발\""
         },
         {
-          "title": "고소영",
+          "title": "양준혁",
+          "traffic": "100+",
+          "context": "이벤트 원조 ‘자선야구대회’ 왜 멈춰섰나"
+        },
+        {
+          "title": "박보검",
+          "traffic": "100+",
+          "context": "사라진 고경표, 나타난 조진웅...연예인 직업의식은 어디에 [자막뉴스]"
+        },
+        {
+          "title": "금연",
           "traffic": "200+",
-          "context": "54세 고소영, 패딩 입더니 “어려 보이려고 너무 노력한 느낌”"
+          "context": "\"술은 관계와 관계없다\"…음주폐해 예방의 달 기념식"
         },
         {
-          "title": "우리카드",
+          "title": "유은성",
           "traffic": "200+",
-          "context": "‘롯데 턱밑까지 추격’…우리카드, 중위권 판도 흔든다"
-        },
-        {
-          "title": "삼성카드",
-          "traffic": "200+",
-          "context": "삼성카드 주가 상승 중"
-        },
-        {
-          "title": "안세영",
-          "traffic": "5000+",
-          "context": "'이긴 것도 아닌데' 안세영에게 한 게임 따낸 게 이 정도... '올림픽 메달 2개' 신두의 부활 징표로 꼽았다 - 머니투데이"
+          "context": "김정화·유은성, 부부싸움에 경찰까지 출동…뉴욕서 무슨 일 - 머니투데이"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-25T01:43:17.567Z",
+      "fetched": "2026-11-25T16:23:28.392Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -108,47 +108,47 @@
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-25T01:43:17.567Z",
+      "fetched": "2026-11-25T16:23:28.392Z",
       "items": [
         {
-          "title": "한준호 (정치인)",
-          "views": 17110
-        },
-        {
           "title": "문화방송",
-          "views": 14600
-        },
-        {
-          "title": "강금실",
-          "views": 14472
+          "views": 14138
         },
         {
           "title": "한국방송공사",
-          "views": 9863
+          "views": 9916
         },
         {
-          "title": "김혜자",
-          "views": 9381
+          "title": "강금실",
+          "views": 8533
         },
         {
           "title": "한국교육방송공사",
-          "views": 7026
+          "views": 6400
         },
         {
-          "title": "태종무열왕",
-          "views": 5654
+          "title": "한준호 (정치인)",
+          "views": 5870
         },
         {
-          "title": "임웅순",
-          "views": 5410
+          "title": "김혜자",
+          "views": 5601
         },
         {
-          "title": "강유정 (1975년)",
-          "views": 5192
+          "title": "젠슨 황",
+          "views": 2867
         },
         {
-          "title": "임우재",
-          "views": 3231
+          "title": "이찬오 (요리사)",
+          "views": 1915
+        },
+        {
+          "title": "우지원",
+          "views": 1811
+        },
+        {
+          "title": "이용철 (법조인)",
+          "views": 1810
         }
       ]
     }
