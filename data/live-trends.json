@@ -1,67 +1,67 @@
 {
-  "updated": "2026-11-28T00:47:52.310Z",
+  "updated": "2026-11-28T14:42:15.449Z",
   "sources": {
     "google_trends": {
       "label": "구글 급상승 검색어",
       "hint": "지금 한국에서 검색이 급증한 주제입니다.",
-      "fetched": "2026-11-28T00:47:52.310Z",
+      "fetched": "2026-11-28T14:42:15.449Z",
       "items": [
         {
-          "title": "소방관",
+          "title": "betis vs rayo",
           "traffic": "100+",
-          "context": "경기도 소방안전TF, 위험물 안전관리 법·제도 개선과제 선제 발굴 추미애 “위험물 안전관리 사각지대 해소, 끝까지 챙기겠다”"
+          "context": "Real Betis vs Rayo Vallecano Confirmed Lineups"
         },
         {
-          "title": "띠별 운세",
-          "traffic": "2000+",
-          "context": "[오늘의 운세] 2026년 11월 28일 띠별 운세"
-        },
-        {
-          "title": "국민연금공단",
+          "title": "증여",
           "traffic": "1000+",
-          "context": "국민연금 적립금 202조 하늘로...\"주식시장 활성화시키려 만든 게 아냐\" [자막뉴스]"
+          "context": "“집 줬더니 연락 끊겨”…증여한 집 다시 돌려받을 수 있나 [상속리포트]"
         },
         {
-          "title": "공무원 노동조합",
-          "traffic": "200+",
-          "context": "김천시공무원노동조합, 폭언·협박 사건 고발 엄정 수사 촉구"
-        },
-        {
-          "title": "허웅",
-          "traffic": "100+",
-          "context": "허웅의 마음과 기부, ‘노후된 한 재활원’으로 향하다"
-        },
-        {
-          "title": "송파구",
-          "traffic": "100+",
-          "context": "서울 아파트 언제쯤 하락 전환할까?"
-        },
-        {
-          "title": "삼성 라이온즈",
-          "traffic": "1000+",
-          "context": "최형우는 KIA에서 뛰고 삼성 소속으로 GG 받았다…FA 구자욱은? - 머니투데이"
-        },
-        {
-          "title": "선우용여",
-          "traffic": "200+",
-          "context": "젠슨 황도 피하지 못한 '용여의 일침' [나우쇼츠]"
-        },
-        {
-          "title": "오픈ai",
+          "title": "굿파트너2",
           "traffic": "500+",
-          "context": "오픈AI, 비밀 탈취 소송 제기한 애플 상대로 맞소송"
+          "context": "‘굿파트너2’ 차은경·박태수, 법정서 격돌…재산 노린 결혼에 분노 폭발"
         },
         {
-          "title": "과징금",
+          "title": "sbs",
+          "traffic": "100+",
+          "context": "Sushijaro Teams Flood Tsushima Over Drug Costs"
+        },
+        {
+          "title": "persija jakarta vs garudayaksa fc",
           "traffic": "200+",
-          "context": "75만명 개인정보 유출 '동행복권'…법원 \"5억원 과징금 적법\""
+          "context": null
+        },
+        {
+          "title": "원자력 잠수함",
+          "traffic": "500+",
+          "context": "美 \"韓핵잠 검증협상은 IAEA 권한\"…中 '회원국 합의' 주장 반박"
+        },
+        {
+          "title": "뉴이스트",
+          "traffic": "100+",
+          "context": "황민현, 4개 도시 팬미팅 성료 \"초심 그대로\""
+        },
+        {
+          "title": "로또 당첨번호",
+          "traffic": "1000+",
+          "context": "제1252회 로또 1등 16명…당첨금 각 17억5909만원"
+        },
+        {
+          "title": "알 하즘 대 알나스르",
+          "traffic": "2000+",
+          "context": "Historic record: Al-Nassr write their name in gold in the Saudi Pro League"
+        },
+        {
+          "title": "링컨 시티 대 울브스",
+          "traffic": "1000+",
+          "context": "Lincoln City 0-0 Wolves: Managerless Imp deny Wolves chance to go top of Championship"
         }
       ]
     },
     "apple_music": {
       "label": "애플뮤직 인기곡",
       "hint": "요즘 젊은 층이 실제로 많이 듣는 노래입니다.",
-      "fetched": "2026-11-28T00:47:52.310Z",
+      "fetched": "2026-11-28T14:42:15.449Z",
       "items": [
         {
           "title": "체포하겠어",
@@ -96,59 +96,59 @@
           "artist": "코르티스"
         },
         {
-          "title": "Angel Bite",
-          "artist": "투모로우바이투게더"
-        },
-        {
           "title": "LOVE ATTACK",
           "artist": "리센느"
+        },
+        {
+          "title": "Angel Bite",
+          "artist": "투모로우바이투게더"
         }
       ]
     },
     "wikipedia": {
       "label": "위키백과 많이 본 문서",
       "hint": "어제 하루 사람들이 많이 찾아본 인물·작품·사건입니다.",
-      "fetched": "2026-11-28T00:47:52.310Z",
+      "fetched": "2026-11-28T14:42:15.449Z",
       "items": [
         {
           "title": "문화방송",
-          "views": 14491
+          "views": 14143
         },
         {
           "title": "한국방송공사",
-          "views": 9222
+          "views": 8587
         },
         {
           "title": "한국교육방송공사",
-          "views": 5671
+          "views": 4857
         },
         {
-          "title": "한준호 (정치인)",
-          "views": 5282
+          "title": "남경필",
+          "views": 4325
         },
         {
           "title": "강금실",
-          "views": 4678
+          "views": 3487
         },
         {
-          "title": "욕망의 덫",
-          "views": 1583
+          "title": "박홍근 (정치인)",
+          "views": 2690
         },
         {
-          "title": "서영교",
-          "views": 1542
+          "title": "한준호 (정치인)",
+          "views": 2304
         },
         {
-          "title": "강유정 (1975년)",
-          "views": 1400
+          "title": "김혜자",
+          "views": 2226
         },
         {
-          "title": "이연향",
-          "views": 1371
+          "title": "지수 (가수)",
+          "views": 2060
         },
         {
-          "title": "신민아",
-          "views": 1351
+          "title": "최민희 (1960년)",
+          "views": 1875
         }
       ]
     }
